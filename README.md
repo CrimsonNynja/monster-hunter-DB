@@ -1,6 +1,6 @@
 ## Monster Hunter DB
 
-This repo contains a database of monsters from MH3U, MH4U, MHGU and MHW (plus Iceborne) Written in MongoDB and given in a json file. In its current state, it contains info on each monster from the games, with the following information (if it exists for the given monster)
+This repo contains a database of monsters from MH3U, MH4U, MHGU MHST and MHW (plus Iceborne) Written in MongoDB and given in a json file. In its current state, it contains info on each monster from the games, with the following information (if it exists for the given monster)
 
 * name (string) - the name of the monster
 * type (string) - the monsters class
