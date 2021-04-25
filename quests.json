@@ -45,6 +45,100 @@
       "game": "Monster Hunter Rise",
       "difficulty": "1",
       "objective": "Deliver 8 Firelanterns"
+    },
+    {
+      "name": "Grizzly Glutton",
+      "client": "Master Angler of Kamura",
+      "description": "This is terrible... If it goes on eating this much, there won't be a single fish left for us to catch! Hunt that thing before all the fish totally vanish from our rivers, will ya?",
+      "map": "Shrine Ruins",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter Rise",
+      "difficulty": "2",
+      "objective": "Hunt an Arzuros",
+      "targets": ["Arzuros"]
+    },
+    {
+      "name": "Plump and Juicy",
+      "client": "Crustacean Connoisseur",
+      "description": "Raftshells are just SO good. That gooeyness is to die for! And I almost did 'cause I couldn't stop stuffin' my face with 'em... Now my wife says I'm not allowed to have 'em anymore, but I can't take it!—I HAVE to have 'em! Think you can sneak me a few?",
+      "map": "Frost Islands",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter Rise",
+      "difficulty": "2",
+      "objective": "Deliver 10 Raftshells"
+    },
+    {
+      "name": "A Frosty Paradise",
+      "client": "Sleep-averse Peddler",
+      "description": "The darndest thing keeps happening. Every time I use this path, I fall asleep! When I wake up, my stuff is all chewed up! I know this place is infested with monsters...maybe they're behind this! You gotta do something or my biz is done for!",
+      "map": "Frost Islands",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter Rise",
+      "difficulty": "2",
+      "objective": "Slay 10 Baggi",
+      "targets": ["Baggi"]
+    },
+    {
+      "name": "Out Cold",
+      "client": "Sanctimonious Felyne",
+      "description": "A Great Baggi and its little fur-iends were being a nuisance in the Fur-ost Islands, so I went to teach 'em a lesson. But when I got there, I passed out. Was it the cold? Just thinking about it makes me...so...slee—ZZZzzz...",
+      "map": "Frost Islands",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter Rise",
+      "difficulty": "2",
+      "objective": "Hunt a Great Baggi",
+      "targets": ["Great Baggi"]
+    },
+    {
+      "name": "Rabid Rabbit",
+      "client": "Timid Rookie Hunter",
+      "description": "I went hunting for some food but came across a Lagombi. I am NOT trying to get eaten by that thing. Hunter do you think you can take care of it for me, please?",
+      "map": "Frost Islands",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter Rise",
+      "difficulty": "2",
+      "objective": "Hunt a Lagombi",
+      "targets": ["Lagombi"]
+    },
+    {
+      "name": "Great Izuchi, Great Pain",
+      "client": "Yomogi the Chef",
+      "description": "A stupid Great Izuchi's going crazy at the Shrine Ruins, meaning my ingredients supplier is seriously in danger! Can you deal with that dumb Great Izuchi so my supplier can deliver the ingredients?",
+      "map": "Shrine Ruins",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Rise",
+      "difficulty": "2",
+      "objective": "Hunt a Great Izuchi",
+      "targets": ["Great Izuchi"]
+    },
+    {
+      "name": "Case of the Creepy Crawlies",
+      "client": "Merchant's Wife",
+      "description": "Some kids were telling us about all the bugs at the Shrine Ruins. Creepy crawly bugs...bugs that fly—yuck! I am NOT going there with all those bugs! Can you go out and exterminate those pests!?",
+      "map": "Shrine Ruins",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Rise",
+      "difficulty": "2",
+      "objective": "Slay a total of 14 Altaroth or Bnahabra",
+      "targets": ["Altaroth", "Bnahabra"]
+    },
+    {
+      "name": "Hmm, Not So Tasty...",
+      "client": "Felyne Commis Chef",
+      "description": "Meow I'll never learn to cook meat! Too fast and it's raw, too slow and it's burnt... I need more purr-actice but I'm all out of Popo Tongues. Think you can get me some more?",
+      "map": "Frost Islands",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Rise",
+      "difficulty": "2",
+      "objective": "Deliver 3 Popo Tonguesa",
     }
   ]
 }
