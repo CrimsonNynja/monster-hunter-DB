@@ -449,6 +449,80 @@
     },
     {
       "_id": {
+        "$oid": "608413b741460e8216704352"
+      },
+      "name": "Apex Arzuros",
+      "type": "Fanged Beast",
+      "isLarge": true,
+      "weakness": [
+        "Fire",
+        "Ice"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRise-Apex_Arzuros_Icon.png",
+          "info": "An Arzuros so mighty, it was crowned an Apex. It is eternally possessed by wrath an terror, possibly due to the myriad wounds that cover its body. Its forelegs are massive, deft removers of any who'd stand in their way. The call of an Apex unleashes its tortured anger on nearby beasts, driving them into a frenzy.",
+          "danger": "8"
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "6084142841460e8216704353"
+      },
+      "name": "Apex Rathian",
+      "type": "Flying Wyvern",
+      "isLarge": true,
+      "elements": [
+        "Fire"
+      ],
+      "ailments": [
+        "Fireblight",
+        "Poison"
+      ],
+      "weakness": [
+        "Dragon",
+        "Thunder"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRise-Apex_Rathian_Icon.png",
+          "info": "A Rathian so mighty, it was crowned an Apex. It is eternally possessed by wrath and terror, possibly due to the myriad wounds that cover its body. Its tail oozes a venom far deadlier than any of a normal monster. The call of an Apex unleashes its tortured anger on nearby beasts, driving them into a frenzy.",
+          "danger": "8"
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "6084142841460e8216704354"
+      },
+      "name": "Apex Mizutsune",
+      "type": "Leviathan",
+      "isLarge": true,
+      "elements": [
+        "Water"
+      ],
+      "ailments": [
+        "Bubble",
+        "Waterblight"
+      ],
+      "weakness": [
+        "Thunder",
+        "Dragon"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRise-Apex_Mizutsune_Icon.png",
+          "info": "A Mizutsune so mighty, it was crowned an Apex. It is eternally possessed by wrath and terror, possibly due to the myriad wounds that cover its body. Its bubbles and huge tail have no trouble sending foes packing. The call of an Apex unleashes its tortured anger on nearby beasts, driving them into a frenzy.",
+          "danger": "9"
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5dfc9bde9dabf81e7717cea6"
       },
       "name": "Aptonoth",
@@ -499,7 +573,8 @@
       "type": "Fanged Beast",
       "isLarge": true,
       "subSpecies": [
-        "Redhelm Arzuros"
+        "Redhelm Arzuros",
+        "Apex Arzuros"
       ],
       "weakness": [
         "Fire",
@@ -4776,7 +4851,8 @@
       "type": "Leviathan",
       "isLarge": true,
       "subSpecies": [
-        "Soulseer Mizutsune"
+        "Soulseer Mizutsune",
+        "Apex Mizutsune"
       ],
       "elements": [
         "Water"
@@ -5796,7 +5872,8 @@
       "subSpecies": [
         "Pink Rathian",
         "Gold Rathian",
-        "Dreadqueen Rathian"
+        "Dreadqueen Rathian",
+        "Apex Rathian"
       ],
       "elements": [
         "Fire"
