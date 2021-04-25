@@ -1,0 +1,50 @@
+{
+  "quests": [
+    {
+      "name": "Unpious Peons",
+      "client": "Devout Felyne",
+      "description": "Those in-fur-nal Jagras keep messing with my visits to the Shrine Ruins. They're after the offur-ings I bring with me, those rude, blasphemous fiends! Send them running with their tails between their legs!",
+      "map": "Shrine Ruins",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter Rise",
+      "difficulty": "1",
+      "objective": "Slay 8 Jagras",
+      "targets": ["Jagras"]
+    },
+    {
+      "name": "Help With Maintenance",
+      "client": "Young Carpenter",
+      "description": "I'm fixin' up the ol' camp, but I'm out of raw materials. Can't go get more 'cause everywhere ya go, Izuchi are snappin' and slashin' at ya. Think you can get 'em to scram so I can go get what I need?",
+      "map": "Shrine Ruins",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Rise",
+      "difficulty": "1",
+      "objective": "Slay 8 Izuchi",
+      "targets": ["Izuchi"]
+    },
+    {
+      "name": "Fungal Frustrations",
+      "client": "Mushroom Restaurant Owner",
+      "description": "I've been dreaming of opening my own restaurant, but I spent so much time experimenting with the menu that I ran out of ingredients! I'll never be able to open if I don't get some more. Think you can help me out?",
+      "map": "Shrine Ruins",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter Rise",
+      "difficulty": "1",
+      "objective": "Deliver 8 Unique Mushrooms"
+    },
+    {
+      "name": "Roly-poly Lanterns",
+      "client": "Girly Village Maiden",
+      "description": "Firelanterns are, like, so pretty! So red. So round. Something about them is simply magical. I totally want see them all the time so maybe I should put 'em in my room? What do you say? Think you can get me some?",
+      "map": "Shrine Ruins",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter Rise",
+      "difficulty": "1",
+      "objective": "Deliver 8 Firelanterns"
+    }
+  ]
+}
