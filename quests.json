@@ -553,6 +553,90 @@
       "difficulty": "5",
       "objective": "Hunt a Tetranadon and a Volvidon",
       "targets": ["Tetranadon", "Volvidon"]
+    },
+    {
+      "name": "Hermit of the Swamp",
+      "client": "Fugen the Elder",
+      "description": "An Almudron is makin' a real mess of things in the Shrine Ruins. They usually just keep to themselves up in the mountains... Could just be another effect of the Rampage Either way, we can't let it get any closer to the village. Now get to it!",
+      "map": "Shrine Ruins",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Rise",
+      "difficulty": "6",
+      "objective": "Hunt an Almudron",
+      "targets": ["Almudron"]
+    },
+    {
+      "name": "Abominable Snow-beast",
+      "client": "Tundra-dwelling Mother",
+      "description": "A monster in the Frost Islands has been roaring after dark. The cries have terrified my child, who now refuses to go to the toilet alone at night! Please, help us if you can!",
+      "map": "Frost Islands",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Rise",
+      "difficulty": "6",
+      "objective": "Hunt an Goss Harag",
+      "targets": ["Goss Harag"]
+    },
+    {
+      "name": "Thundering Voice",
+      "client": "Frost Islands Fugitive",
+      "description": "I hear roars echoing all over, no idea where they come from. I fear it might be a Tigrex! Wherever I hide, the growling follows. Please, I beg of you... Hunt the source of that sound before it catches up with me!",
+      "map": "Frost Islands",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Rise",
+      "difficulty": "6",
+      "objective": "Hunt an Tigrex",
+      "targets": ["Tigrex"]
+    },
+    {
+      "name": "Twisted Desire",
+      "client": "Smith's Son",
+      "description": "Those horns are so cool! Fit for a name like \"Diablos\" for sure, with that twisted shape. I'd love to get my hands on one and craft my store sign from it. I bet it'd do wonders for business!",
+      "map": "Sandy Plains",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Rise",
+      "difficulty": "6",
+      "objective": "Hunt an Diablos",
+      "targets": ["Diablos"]
+    },
+    {
+      "name": "A Test of Courage",
+      "client": "Cowardly Felyne",
+      "description": "I'm no scaredy cat but the Shrine Ruins are haunted! HAUNTED, I tell ya! There was this big scary shadow with fireballs all around it and a ghost glowing in the distance surround by souls! Even meow I get chills just thinking about it! HELP!",
+      "map": "Shrine Ruins",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Rise",
+      "difficulty": "6",
+      "objective": "Hunt Magnamalo and a Zinogre",
+      "targets": ["Magnamalo", "Zinogre"]
+    },
+    {
+      "name": "Like a Flash of Lightning",
+      "client": "Talkative Senior Hunter",
+      "description": "Here's a favor for ya, rookie, from me. There's a Mizutsune and a Tobi-Kadachi dukin' it out in the Flooded Forest, and I'm lettin' YOU have at 'em! I'm feelin', uh...charitable today. Y-Yeah. Well, good luck!",
+      "map": "Flooded Forest",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Rise",
+      "difficulty": "6",
+      "objective": "Hunt a Tobi-Kadachi and a Mizutsune",
+      "targets": ["Tobi-Kadachi", "Mizutsune"]
+    },
+    {
+      "name": "King of the Sky, Bane of the Land",
+      "client": "Young General",
+      "description": "My subordinates had enough of their harsh missions and rebelled. I was forced to take responsibility and demoted to the Lava Caverns. I need to get better at my job, but to do so I need to survive first! Help!",
+      "map": "Lava Caverns",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Rise",
+      "difficulty": "6",
+      "objective": "Hunt a Rathalos and a Tigrex",
+      "targets": ["Rathalos", "Tigrex"]
     }
   ]
 }
