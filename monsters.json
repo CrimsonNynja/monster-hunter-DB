@@ -1697,6 +1697,12 @@
           "image": "MH4U-Chameleos_Icon.png",
           "info": "Precious few sightings of this elder dragon have been recorded, leading to claims it can vanish into its environment like a chameleon -- hence its name. Witnesses report that it can spew a fog-like breath, which seems to come out of nowhere.",
           "danger": "7"
+        },
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRise-Chameleos_Icon.png",
+          "info": "Precious few sightings of this elder dragon have been recorded, leading to claims it can vanish into its environment like a chameleon -- hence its name. Witnesses report that, when enraged, it can spew a fog-like breath, which seems to come out of nowhere, and enhance its strength by licking the pollen from Petalaces.",
+          "danger": "8"
         }
       ]
     },
