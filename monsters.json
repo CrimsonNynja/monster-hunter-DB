@@ -7070,6 +7070,12 @@
           "game": "Monster Hunter Stories",
           "image": "MH4U-Teostra_Icon.png",
           "info": "Wrеathеd in flamе and wiеlding blistеring brеath attacks, thе Guild monitors its movеmеnts and moods."
+        },
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRise-Teostra_icon.png",
+          "info": "Brutal elder dragons wreathed in flames that spew blazing fire. Teostra are of such a fierce and deadly nature that the Guild closely monitors their movements.",
+          "danger": "8"
         }
       ]
     },
