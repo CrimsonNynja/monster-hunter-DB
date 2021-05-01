@@ -433,6 +433,126 @@
       "difficulty": "4",
       "objective": "Hunt all target monsters",
       "targets": ["Arzuros", "Tetranadon"]
+    },
+    {
+      "name": "Wind Speed Wyvern",
+      "client": "Neighboring Hamlet's Envoy",
+      "description": "Nargacuga are so cool, right? And fast too! How is it that they are so light on their feet!? I MUST know! I bet if I made some Nargacuga shoes I could be just as fast as they are!",
+      "map": "Shrine Ruins",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter Rise",
+      "difficulty": "5",
+      "objective": "Hunt a Nargacuga",
+      "targets": ["Nargacuga"]
+    },
+    {
+      "name": "Electrifying Ephiphany",
+      "client": "Unflappable Biologist",
+      "description": "During a survey of the Shrine Ruins, I was struck by a bolt of lightning. At first, I thought perhaps some genius idea had come to fruition, but alas it was only a Zinogre...",
+      "map": "Shrine Ruins",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter Rise",
+      "difficulty": "5",
+      "objective": "Hunt a Zinogre",
+      "targets": ["Zinogre"]
+    },
+    {
+      "name": "Nocturnal Tracker",
+      "client": "Wandering Bard",
+      "description": "The Plains at night are quite elegant and inspiring... But someone or someTHING is following me. I feel so afraid that all my ideas and emotions are simply swept away! Please get rid of this stalker!",
+      "map": "Sandy Plains",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter Rise",
+      "difficulty": "5",
+      "objective": "Hunt a Anjanath",
+      "targets": ["Anjanath"]
+    },
+    {
+      "name": "Waltzing by Moonlight",
+      "client": "Traditional Dance Master",
+      "description": "O, how elegantly the Mizutsune steps, arcing through the air... It must be the fin! If I had one for my own, surely I could dance as it does too... I know! Hunter! Waltz with the wyvern, and I shall seize its fin!",
+      "map": "Flooded Forest",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter Rise",
+      "difficulty": "5",
+      "objective": "Hunt a Mizutsune",
+      "targets": ["Mizutsune"]
+    },
+    {
+      "name": "Rathalos Alert!",
+      "client": "Eagle-eyed Observer",
+      "description": "[REPORT BEGINS] Rathalos spotted in the Lava Caverns [STOP] Requesting support from all qualified hunters [STOP] Look out for the rain of fire from the sky [REPORT ENDS]",
+      "map": "Lava Caverns",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter Rise",
+      "difficulty": "5",
+      "objective": "Hunt a Rathalos",
+      "targets": ["Rathalos"]
+    },
+    {
+      "name": "Comeuppance",
+      "client": "Fugen the Elder",
+      "description": "Durin' the Rampage fifty years ago, Magnamalo showed up and caused an epic mess. We can't let that happen ever again. You gotta take down Magnamalo! Now go get to it!",
+      "map": "Shrine Ruins",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Rise",
+      "difficulty": "5",
+      "objective": "Hunt a Magnamalo",
+      "targets": ["Magnamalo"]
+    },
+    {
+      "name": "The Secret Ingredient",
+      "client": "Yomogi the Chef",
+      "description": "So my idea is to make these new Bunny Dango that'll refresh you just like a power nap would. But to do that, I need you to capture a Somnacanth so I can use its song to make a recipe! I love you and please!",
+      "map": "Frost Islands",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Rise",
+      "difficulty": "5",
+      "objective": "Hunt a Somnacanth",
+      "targets": ["Somnacanth"]
+    },
+    {
+      "name": "BZZZZZ or ZZZZzzzz",
+      "client": "Fussy Girlfriend",
+      "description": "My boyfriend is straight trippin'. He thinks that Somnacanth are cuter than Khezu. HELLO! Obviously Khezu are but he won't budge. Well, if he won't see it my way, then I guess we'll let you settle this!",
+      "map": "Frost Islands",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Rise",
+      "difficulty": "5",
+      "objective": "Hunt a Khezu and a Somnacanth",
+      "targets": ["Khezu", "Somnacanth"]
+    },
+    {
+      "name": "Nosey Nuisances",
+      "client": "Barrel Bomb Maker",
+      "description": "These monsters are so annoying! First it was that bird-brain trying to peck me to death, then it was that pink snozz-o-saurus trying to blow mucus all over me. Wish those two would keep their noses out of my business! ARGH!",
+      "map": "Sandy Plains",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Rise",
+      "difficulty": "5",
+      "objective": "Hunt a Kulu-Ya-Ku and an Anjanath",
+      "targets": ["Kulu-Ya-Ku", "Anjanath"]
+    },
+    {
+      "name": "The Hottest Around",
+      "client": "Curious Felyne",
+      "description": "A Volvidon rammed into a Tetranadon! I don't know what they were fighting over, but it was amazing! Until they came rolling my way and almost turned me into roadkill! Leave me outta this, will ya!",
+      "map": "Lava Caverns",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Rise",
+      "difficulty": "5",
+      "objective": "Hunt a Tetranadon and a Volvidon",
+      "targets": ["Tetranadon", "Volvidon"]
     }
   ]
 }
