@@ -637,6 +637,114 @@
       "difficulty": "6",
       "objective": "Hunt a Rathalos and a Tigrex",
       "targets": ["Rathalos", "Tigrex"]
+    },
+    {
+      "name": "Shady Monster",
+      "client": "Creepy Old Lady",
+      "description": "SAy tHeRe, hUNter~ eVEr sEeN A mOnSTeR tHAt hOPs oN One lEg? i hAvE...aND i'Ve nEveR bEen tHe sAMe sINcE—Hahaha! *hack* Those old ghost stories don't scare me none. HOW ABOUT YOU!?",
+      "map": "Shrine Ruins",
+      "isKey": true,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "1",
+      "objective": "Hunt an Aknosom",
+      "targets": ["Aknosom"]
+    },
+    {
+      "name": "Tired and Feathered",
+      "client": "Kamura's No.1 Egg Lover",
+      "description": "Thinks he's number one, does he? Just because he snatched my Gold Gargwa Egg? Well, you're gonna show him. You got that!? I'm number one around here. I'M NUMBER ONE!",
+      "map": "Shrine Ruins",
+      "isKey": true,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "1",
+      "objective": "Hunt a Kulu-Ya-Ku",
+      "targets": ["Kulu-Ya-Ku"]
+    },
+    {
+      "name": "Jumped in the Frost Islands",
+      "client": "Hunter Hiding Behind a Bush",
+      "description": "Psst! Hey, pal. I just got ruffed up by a gang of Izuchi and their \"great\" bozo leader. They took my pouch, my zenny—even my pants! Think ya could do me a solid and take care of 'em for me? And maybe, uh, get me some pants too, huh?",
+      "map": "Frost Islands",
+      "isKey": true,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "1",
+      "objective": "Hunt a Great Izuchi",
+      "targets": ["Great Izuchi"]
+    },
+    {
+      "name": "No Cure for the Common Baggi",
+      "client": "Sneezing Felyne",
+      "description": "YUCK! Fur-st a Great Baggi *sniff* spits all over me! *sniff* THEN I fall asleep out in the Frost Islands, and now *sniff* I think I'm coming down with something! Nya...Nya... *sniff* Nya...NYACHOO! *sniff*",
+      "map": "Frost Islands",
+      "isKey": true,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "1",
+      "objective": "Hunt a Great Baggi",
+      "targets": ["Great Baggi"]
+    },
+    {
+      "name": "A Snowball's Chance...",
+      "client": "Hapless Trader",
+      "description": "I absolutely cannot believe how awful my luck is. No way that thing could've hit me! There I was...bobbing...weaving. Zigging...zagging. Just when I thought I had gotten away from this Lagombi *BAM* me and all my goods crushed by a snowball. Unbelievable...",
+      "map": "Frost Islands",
+      "isKey": true,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "1",
+      "objective": "Hunt a Lagombi",
+      "targets": ["Lagombi"]
+    },
+    {
+      "name": "Wroggi Place, Wroggi Time",
+      "client": "Fleetfooted Courier",
+      "description": "I was out on my morning jog through the Ruins and out pops a Great Wroggi spittin' poison all over my new running shoes. What is wrong with these monsters!? Hunter, please avenge my shoes, would you?",
+      "map": "Shrine Ruins",
+      "isKey": true,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "1",
+      "objective": "Hunt a Great Wroggi",
+      "targets": ["Great Wroggi"]
+    },
+    {
+      "name": "A Grizzly Encounter",
+      "client": "Sweet-toothed Villager",
+      "description": "What are we gonna do, Hunter? WHAT ARE WE GONNA DO!? An Arzuros attacked the latest delivery of honey into Kamura and now there are no sweets— WHAT!? Who cares if they are OK! Did you hear me? NO SWEETS!",
+      "map": "Shrine Ruins",
+      "isKey": false,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "1",
+      "objective": "Hunt a Arzuros",
+      "targets": ["Arzuros"]
+    },
+    {
+      "name": "Off the Beaten Path",
+      "client": "Aspiring Explorer",
+      "description": "My friend and I heard about this amazing secret spot up in the Shrine Ruins where you can relax and watch the Torchbugs glow. We wanted to take a hike up there and check it out, but there's a bunch of monsters in the way...",
+      "map": "Shrine Ruins",
+      "isKey": false,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "1",
+      "objective": "Slay a total of 20 Izuchi or Altaroth",
+      "targets": ["Izuchi", "Altaroth"]
+    },
+    {
+      "name": "Hot Topic Hooligans",
+      "client": "Gossiping Lady",
+      "description": "I heard from my brother's mother's cousin that the Frost Islands are crawling with monsters these days. And get this, my mailman's uncle was just ruffed up out there the other day. It used to be such a nice place. Wish someone'd do something about it...",
+      "map": "Frost Islands",
+      "isKey": false,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "1",
+      "objective": "Slay a total of 20 Zamite or Bnahabra",
+      "targets": ["Zamite", "Bnahabra"]
     }
   ]
 }
