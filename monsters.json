@@ -4459,6 +4459,12 @@
           "game": "Monster Hunter Stories",
           "image": "MH4U-Kushala_Daora_Icon.png",
           "info": "Eldеr Dragon clad in mеtal plating. Gеnеratеs storms whеrеvеr it goеs. Gеtting closе to it is no mеan fеat."
+        },
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRise-Kushala_Daora_Icon.png",
+          "info": "It's difficult to even get close to one of these metallic elder dragons, but some claim better odds if the creature is weakened with poison, or has its horn broken, limiting the amount of wind pressure it can muster.",
+          "danger": "8"
         }
       ]
     },
