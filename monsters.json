@@ -449,6 +449,34 @@
     },
     {
       "_id": {
+        "$oid": "6084142841460e8216704358"
+      },
+      "name": "Apex Rathalos",
+      "type": "Flying Wyvern",
+      "isLarge": true,
+      "elements": [
+        "Fire"
+      ],
+      "ailments": [
+        "Fireblight",
+        "Stun",
+        "Poison"
+      ],
+      "weakness": [
+        "Dragon",
+        "Thunder"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRise-Apex_Rathalos_Icon.png",
+          "info": "A Rathalos so mighty, it was crowned an Apex. It is eternally possessed by wrath and terror, possibly due to the myriad wounds that cover its body. Its every breath releases flaming jets that singe the very air. The call of an Apex unleashes its tortured anger on nearby beasts, driving them into a frenzy.",
+          "danger": "9"
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "608413b741460e8216704352"
       },
       "name": "Apex Arzuros",
@@ -5817,7 +5845,8 @@
       "subSpecies": [
         "Azure Rathalos",
         "Silver Rathalos",
-        "Dreadking Rathalos"
+        "Dreadking Rathalos",
+        "Apex Rathalos"
       ],
       "elements": [
         "Fire"
