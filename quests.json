@@ -1,6 +1,9 @@
 {
   "quests": [
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b005d"
+      },
       "name": "Unpious Peons",
       "client": "Devout Felyne",
       "description": "Those in-fur-nal Jagras keep messing with my visits to the Shrine Ruins. They're after the offur-ings I bring with me, those rude, blasphemous fiends! Send them running with their tails between their legs!",
@@ -10,21 +13,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "1",
       "objective": "Slay 8 Jagras",
-      "targets": ["Jagras"]
+      "targets": [
+        "Jagras"
+      ]
     },
     {
-      "name": "Help With Maintenance",
-      "client": "Young Carpenter",
-      "description": "I'm fixin' up the ol' camp, but I'm out of raw materials. Can't go get more 'cause everywhere ya go, Izuchi are snappin' and slashin' at ya. Think you can get 'em to scram so I can go get what I need?",
-      "map": "Shrine Ruins",
-      "isKey": false,
-      "questType": "Village",
-      "game": "Monster Hunter Rise",
-      "difficulty": "1",
-      "objective": "Slay 8 Izuchi",
-      "targets": ["Izuchi"]
-    },
-    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b005e"
+      },
       "name": "Fungal Frustrations",
       "client": "Mushroom Restaurant Owner",
       "description": "I've been dreaming of opening my own restaurant, but I spent so much time experimenting with the menu that I ran out of ingredients! I'll never be able to open if I don't get some more. Think you can help me out?",
@@ -36,6 +32,26 @@
       "objective": "Deliver 8 Unique Mushrooms"
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b005f"
+      },
+      "name": "Help With Maintenance",
+      "client": "Young Carpenter",
+      "description": "I'm fixin' up the ol' camp, but I'm out of raw materials. Can't go get more 'cause everywhere ya go, Izuchi are snappin' and slashin' at ya. Think you can get 'em to scram so I can go get what I need?",
+      "map": "Shrine Ruins",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Rise",
+      "difficulty": "1",
+      "objective": "Slay 8 Izuchi",
+      "targets": [
+        "Izuchi"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0060"
+      },
       "name": "Roly-poly Lanterns",
       "client": "Girly Village Maiden",
       "description": "Firelanterns are, like, so pretty! So red. So round. Something about them is simply magical. I totally want see them all the time so maybe I should put 'em in my room? What do you say? Think you can get me some?",
@@ -47,6 +63,9 @@
       "objective": "Deliver 8 Firelanterns"
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0061"
+      },
       "name": "Grizzly Glutton",
       "client": "Master Angler of Kamura",
       "description": "This is terrible... If it goes on eating this much, there won't be a single fish left for us to catch! Hunt that thing before all the fish totally vanish from our rivers, will ya?",
@@ -56,9 +75,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "2",
       "objective": "Hunt an Arzuros",
-      "targets": ["Arzuros"]
+      "targets": [
+        "Arzuros"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0062"
+      },
       "name": "Plump and Juicy",
       "client": "Crustacean Connoisseur",
       "description": "Raftshells are just SO good. That gooeyness is to die for! And I almost did 'cause I couldn't stop stuffin' my face with 'em... Now my wife says I'm not allowed to have 'em anymore, but I can't take it!—I HAVE to have 'em! Think you can sneak me a few?",
@@ -70,6 +94,9 @@
       "objective": "Deliver 10 Raftshells"
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0063"
+      },
       "name": "A Frosty Paradise",
       "client": "Sleep-averse Peddler",
       "description": "The darndest thing keeps happening. Every time I use this path, I fall asleep! When I wake up, my stuff is all chewed up! I know this place is infested with monsters...maybe they're behind this! You gotta do something or my biz is done for!",
@@ -79,9 +106,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "2",
       "objective": "Slay 10 Baggi",
-      "targets": ["Baggi"]
+      "targets": [
+        "Baggi"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0064"
+      },
       "name": "Out Cold",
       "client": "Sanctimonious Felyne",
       "description": "A Great Baggi and its little fur-iends were being a nuisance in the Fur-ost Islands, so I went to teach 'em a lesson. But when I got there, I passed out. Was it the cold? Just thinking about it makes me...so...slee—ZZZzzz...",
@@ -91,9 +123,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "2",
       "objective": "Hunt a Great Baggi",
-      "targets": ["Great Baggi"]
+      "targets": [
+        "Great Baggi"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0065"
+      },
       "name": "Rabid Rabbit",
       "client": "Timid Rookie Hunter",
       "description": "I went hunting for some food but came across a Lagombi. I am NOT trying to get eaten by that thing. Hunter do you think you can take care of it for me, please?",
@@ -103,9 +140,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "2",
       "objective": "Hunt a Lagombi",
-      "targets": ["Lagombi"]
+      "targets": [
+        "Lagombi"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0066"
+      },
       "name": "Great Izuchi, Great Pain",
       "client": "Yomogi the Chef",
       "description": "A stupid Great Izuchi's going crazy at the Shrine Ruins, meaning my ingredients supplier is seriously in danger! Can you deal with that dumb Great Izuchi so my supplier can deliver the ingredients?",
@@ -115,9 +157,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "2",
       "objective": "Hunt a Great Izuchi",
-      "targets": ["Great Izuchi"]
+      "targets": [
+        "Great Izuchi"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0067"
+      },
       "name": "Case of the Creepy Crawlies",
       "client": "Merchant's Wife",
       "description": "Some kids were telling us about all the bugs at the Shrine Ruins. Creepy crawly bugs...bugs that fly—yuck! I am NOT going there with all those bugs! Can you go out and exterminate those pests!?",
@@ -127,9 +174,15 @@
       "game": "Monster Hunter Rise",
       "difficulty": "2",
       "objective": "Slay a total of 14 Altaroth or Bnahabra",
-      "targets": ["Altaroth", "Bnahabra"]
+      "targets": [
+        "Altaroth",
+        "Bnahabra"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0068"
+      },
       "name": "Hmm, Not So Tasty...",
       "client": "Felyne Commis Chef",
       "description": "Meow I'll never learn to cook meat! Too fast and it's raw, too slow and it's burnt... I need more purr-actice but I'm all out of Popo Tongues. Think you can get me some more?",
@@ -141,6 +194,9 @@
       "objective": "Deliver 3 Popo Tonguesa"
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0069"
+      },
       "name": "Can't Stomach the Thought",
       "client": "Unflappable Biologist",
       "description": "During a survey of the Frost Islands, I was attacked by a Tetranadon and found myself inside its gut! I managed to escape, but others might not be so lucky. Please hunt it before someone gets eaten!",
@@ -150,9 +206,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "3",
       "objective": "Hunt a Tetranadon",
-      "targets": ["Tetranadon"]
+      "targets": [
+        "Tetranadon"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b006a"
+      },
       "name": "Walking on Eggshells",
       "client": "Sandy Plains Courier",
       "description": "Blasted Kulu-Ya-Ku always stealing my Wyvern Eggs! I've tried and tried to make my way through the Sandy Plains but they get the jump on me every single time!",
@@ -162,9 +223,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "3",
       "objective": "Hunt a Kulu-Ya-Ku",
-      "targets": ["Kulu-Ya-Ku"]
+      "targets": [
+        "Kulu-Ya-Ku"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b006b"
+      },
       "name": "Fightin' Dirty",
       "client": "Master Mushroom Forager",
       "description": "Ptoeey! Look at me! Covered from head to toe in mud! All because a stupid Barroth attacked me! Now all the mushrooms I gathered are ruined! Just great! Can you go and bash that Barroth, please!?",
@@ -174,9 +240,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "3",
       "objective": "Hunt a Barroth",
-      "targets": ["Barroth"]
+      "targets": [
+        "Barroth"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b006c"
+      },
       "name": "Obnoxious Lord, Noxious Monster",
       "client": "Lord's Aide",
       "description": "Oh dear... The lord's son heard a Great Wroggi was in the Flooded Forest and went out to hunt it. What a fool. Surely he'll run at the first sign of danger. Can you hunt the creature before my lord gets hurt.",
@@ -186,9 +257,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "3",
       "objective": "Hunt a Great Wroggi",
-      "targets": ["Great Wroggi"]
+      "targets": [
+        "Great Wroggi"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b006d"
+      },
       "name": "Spongy Oasis",
       "client": "Desert Inventor",
       "description": "You know how Royal Ludroth hide is all spongey and absorbs lots of water, right? If we get a bunch of it, then desert farmers will never have to worry about watering their crops ever again! I. AM. A. GENIUS!",
@@ -198,9 +274,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "3",
       "objective": "Hunt a Royal Ludroth",
-      "targets": ["Royal Ludroth"]
+      "targets": [
+        "Royal Ludroth"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b006e"
+      },
       "name": "Feathered Frenzy",
       "client": "Buddy Handler Iori",
       "description": "I'm sorry Hunter... Those Buddies heard that there were \"ghosts\" at the Shrine Ruins and ran off. I'm so worried about them with that Aknosom around. Can you hunt it while I go look for them!?",
@@ -210,9 +291,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "3",
       "objective": "Hunt a Aknosom",
-      "targets": ["Aknosom"]
+      "targets": [
+        "Aknosom"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b006f"
+      },
       "name": "Supply Run",
       "client": "Yomogi the Chef",
       "description": "HELP! My supplier was ambushed by monsters, and dropped all their cargo on the way back to Kamura! It was near the Shrine Ruins—here, I'll mark it on your map, so can you get those ingredients back? Pleeease!?",
@@ -224,6 +310,9 @@
       "objective": "Deliver 6 Classic Drango Ingredients"
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0070"
+      },
       "name": "Faceless Foe",
       "client": "Scared Researcher",
       "description": "Gross! There I was, taking a rest, when something wet dripped on my shoulder. I look up and—EW! Wrinkles, veins, and—ICK—a pale monster with no face that looks like a— *gag* Go hunt it PLEASE!",
@@ -233,9 +322,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "3",
       "objective": "Hunt a Khezu",
-      "targets": ["Khezu"]
+      "targets": [
+        "Khezu"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0071"
+      },
       "name": "The Cactus Diet",
       "client": "Trend-chasing Woman",
       "description": "This cactus diet has taken over my life. Cactus salad, cactus steak, cactus smoothies— you name it! But now I'm all out of Bauble Cactuses... Cacti? Whatever! Just go get me some!",
@@ -247,6 +341,9 @@
       "objective": "Deliver 10 Bauble Cactus"
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0072"
+      },
       "name": "A Sandy Cabal",
       "client": "Wannabe Sleuth",
       "description": "What a twist! I was attacked by some strange barking creatures, but in my desperation to escape, I could not clearly identify my assailants... Hunter, please, help me solve this riddle!",
@@ -256,9 +353,15 @@
       "game": "Monster Hunter Rise",
       "difficulty": "3",
       "objective": "Slay a total of 14 Jaggi or Jaggia",
-      "targets": ["Jaggi", "Jaggia"]
+      "targets": [
+        "Jaggi",
+        "Jaggia"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0073"
+      },
       "name": "Breath of the Past",
       "client": "Inquisitive Young Master",
       "description": "Do you know of Simple Prisms? They call it a prism, but it's really a small animal fossil. That's what Father said. I've never seen a fossil, so I'd like to take a look at it. Please find one for me.",
@@ -270,6 +373,9 @@
       "objective": "Deliver 10 Simple Prisms"
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0074"
+      },
       "name": "Ladies of the Lake",
       "client": "Gorgeous Lady",
       "description": "I was looking for my lost husband in the Flooded Forest when I was attacked. I had heard tales of sirens dressed in yellow in the waters there. If I am to ever find my husband, I will need them gone.",
@@ -279,9 +385,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "3",
       "objective": "Slay 10 Ludroth",
-      "targets": ["Ludroth"]
+      "targets": [
+        "Ludroth"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0075"
+      },
       "name": "Infernal Lacrimosa",
       "client": "Earnest Hunter",
       "description": "I was tasked to hunt a so-called \"Mermaid Dragon,\" in the Frost Islands. Upon arriving, I heard what sounded like a song and instantly fell asleep. I woke up back at camp covered in gashes and cuts. What happened out there!?",
@@ -291,9 +402,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "4",
       "objective": "Hunt a Stomnacanth",
-      "targets": ["Stomnacanth"]
+      "targets": [
+        "Stomnacanth"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0076"
+      },
       "name": "Raging White-out",
       "client": "Foreign Noble",
       "description": "The area surrounding the Frost Islands is scarce in food as it is and now a Barioth has been spotted in the area. Surely we will starve if this nuisance isn't dealt with!",
@@ -303,9 +419,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "4",
       "objective": "Hunt a Barioth",
-      "targets": ["Barioth"]
+      "targets": [
+        "Barioth"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0077"
+      },
       "name": "The Queen's Procession",
       "client": "Cheerful Man",
       "description": "Woohoo! Ohhh man! The queen of the Sandy Plains is spewing fire everywhere! She burned all my stuff—even set my pants on fire, too! Haha! Wait...that's not funny... *ahem* Please hunt that Rathian!",
@@ -315,9 +436,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "4",
       "objective": "Hunt a Rathian",
-      "targets": ["Rathian"]
+      "targets": [
+        "Rathian"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0078"
+      },
       "name": "Streaking Shadow",
       "client": "Fledgling Investigator",
       "description": "I was out exploring in the Flooded Forest, when suddenly, lightning struck. I looked to the sky and saw something zipping and zapping from tree to tree! I got away some- how, but others might not be so lucky. Please, do something!",
@@ -327,9 +453,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "4",
       "objective": "Hunt a Tobi-Kadachi",
-      "targets": ["Tobi-Kadachi"]
+      "targets": [
+        "Tobi-Kadachi"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0079"
+      },
       "name": "A Song of Red and Fire",
       "client": "Solitary Composer",
       "description": "Can you hear that? The perfect melody of flowing lava, smoldering ash, and the bassy rumblings of the volcano all accompanied by the sound of Volvidon rolling around. Bravo! BRAVO!",
@@ -339,9 +470,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "4",
       "objective": "Hunt a Volvidon",
-      "targets": ["Volvidon"]
+      "targets": [
+        "Volvidon"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b007a"
+      },
       "name": "Off Your Rocker",
       "client": "Lava Caverns Excavator",
       "description": "Dude... I'm freaking out. Every time I go to the Lava Caverns, I keep hearing this creepy voice. Like, I look around, and no one is there! No one! Uh, can you go and check it out for me? I know I'm not crazy!",
@@ -351,9 +487,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "4",
       "objective": "Hunt a Basarios",
-      "targets": ["Basarios"]
+      "targets": [
+        "Basarios"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b007b"
+      },
       "name": "Monkey Wrench in Your Plans",
       "client": "Hamon the Blacksmith",
       "description": "In order to separate Magnamalo from the Rampage, I need to complete my device. In order to do that, I need materials from a Bishaten. One has been spotted in the Shrine Ruins. Depart at once!",
@@ -363,9 +504,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "4",
       "objective": "Hunt a Bishaten",
-      "targets": ["Bishaten"]
+      "targets": [
+        "Bishaten"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b007c"
+      },
       "name": "Getting Back the Groceries",
       "client": "Yomogi the Chef",
       "description": "I was cutting through the Lava Caverns one night when, out of nowhere, there was this SPOOKY roar! I freaked, dropped all my ingredients, and now...I'm way too scared to go back for them. Can you, um, go instead?",
@@ -377,6 +523,9 @@
       "objective": "Deliver 6 Secret Dango Ingredients"
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b007d"
+      },
       "name": "A Poisonous Project",
       "client": "Antidote Researcher",
       "description": "My research is everything to me! And this new antidote research shall be my legacy! In order to continue my work, I'll need you to fetch me a Pukei-Pukei specimen. But you'll need to bring your own antidotes...",
@@ -386,9 +535,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "4",
       "objective": "Hunt a Pukei-Pukei",
-      "targets": ["Pukei-Pukei"]
+      "targets": [
+        "Pukei-Pukei"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b007e"
+      },
       "name": "Deliver the Liver",
       "client": "Boozy Youth",
       "description": "Me and my pals are having a few drinks tonight, and we're hankerin' after some monster liver with 'em. Thing is, it's ONLY good when it's raw—and I ain't eating raw liver if it ain't fresh! Think you can hook us up?",
@@ -400,6 +554,9 @@
       "objective": "Deliver 5 Monster Guts"
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b007f"
+      },
       "name": "So Hot, It Melts Iron",
       "client": "Foreign Smithy",
       "description": "Where I'm from, if you want to make good equipment, ya gotta use lots of Coal. Maybe Kamura has some fancy pants way of doing it without coal, but we ain't got the facilities like you folks do here. Can you go get me some?",
@@ -411,6 +568,9 @@
       "objective": "Deliver 12 pieces of Coal"
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0080"
+      },
       "name": "THE BEST Quest",
       "client": "Thoughtful Girl",
       "description": "My daddy's THE BEST and I want to make THE BEST gloves for him. Mommy says that Rachnoid thread is THE BEST for making gloves so... Can you go and fight a few for me and bring me the thread? You'd be THE BEST if you did!",
@@ -420,9 +580,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "4",
       "objective": "Slay 10 Rachnoid",
-      "targets": ["Rachnoid"]
+      "targets": [
+        "Rachnoid"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0081"
+      },
       "name": "Third Wheel",
       "client": "Referee Girl",
       "description": "\"In the right corner, Arzuros! And in the left corner, Tetranadon!\" Oh! You're here too!? Uh... \"In the middle, you!\" How's that? Yeah, uh, good luck! Hope you win!",
@@ -432,9 +597,15 @@
       "game": "Monster Hunter Rise",
       "difficulty": "4",
       "objective": "Hunt all target monsters",
-      "targets": ["Arzuros", "Tetranadon"]
+      "targets": [
+        "Arzuros",
+        "Tetranadon"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0082"
+      },
       "name": "Wind Speed Wyvern",
       "client": "Neighboring Hamlet's Envoy",
       "description": "Nargacuga are so cool, right? And fast too! How is it that they are so light on their feet!? I MUST know! I bet if I made some Nargacuga shoes I could be just as fast as they are!",
@@ -444,9 +615,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "5",
       "objective": "Hunt a Nargacuga",
-      "targets": ["Nargacuga"]
+      "targets": [
+        "Nargacuga"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0083"
+      },
       "name": "Electrifying Ephiphany",
       "client": "Unflappable Biologist",
       "description": "During a survey of the Shrine Ruins, I was struck by a bolt of lightning. At first, I thought perhaps some genius idea had come to fruition, but alas it was only a Zinogre...",
@@ -456,9 +632,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "5",
       "objective": "Hunt a Zinogre",
-      "targets": ["Zinogre"]
+      "targets": [
+        "Zinogre"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0084"
+      },
       "name": "Nocturnal Tracker",
       "client": "Wandering Bard",
       "description": "The Plains at night are quite elegant and inspiring... But someone or someTHING is following me. I feel so afraid that all my ideas and emotions are simply swept away! Please get rid of this stalker!",
@@ -468,9 +649,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "5",
       "objective": "Hunt a Anjanath",
-      "targets": ["Anjanath"]
+      "targets": [
+        "Anjanath"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0085"
+      },
       "name": "Waltzing by Moonlight",
       "client": "Traditional Dance Master",
       "description": "O, how elegantly the Mizutsune steps, arcing through the air... It must be the fin! If I had one for my own, surely I could dance as it does too... I know! Hunter! Waltz with the wyvern, and I shall seize its fin!",
@@ -480,9 +666,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "5",
       "objective": "Hunt a Mizutsune",
-      "targets": ["Mizutsune"]
+      "targets": [
+        "Mizutsune"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0086"
+      },
       "name": "Rathalos Alert!",
       "client": "Eagle-eyed Observer",
       "description": "[REPORT BEGINS] Rathalos spotted in the Lava Caverns [STOP] Requesting support from all qualified hunters [STOP] Look out for the rain of fire from the sky [REPORT ENDS]",
@@ -492,9 +683,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "5",
       "objective": "Hunt a Rathalos",
-      "targets": ["Rathalos"]
+      "targets": [
+        "Rathalos"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0087"
+      },
       "name": "Comeuppance",
       "client": "Fugen the Elder",
       "description": "Durin' the Rampage fifty years ago, Magnamalo showed up and caused an epic mess. We can't let that happen ever again. You gotta take down Magnamalo! Now go get to it!",
@@ -504,9 +700,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "5",
       "objective": "Hunt a Magnamalo",
-      "targets": ["Magnamalo"]
+      "targets": [
+        "Magnamalo"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0088"
+      },
       "name": "The Secret Ingredient",
       "client": "Yomogi the Chef",
       "description": "So my idea is to make these new Bunny Dango that'll refresh you just like a power nap would. But to do that, I need you to capture a Somnacanth so I can use its song to make a recipe! I love you and please!",
@@ -516,9 +717,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "5",
       "objective": "Hunt a Somnacanth",
-      "targets": ["Somnacanth"]
+      "targets": [
+        "Somnacanth"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0089"
+      },
       "name": "BZZZZZ or ZZZZzzzz",
       "client": "Fussy Girlfriend",
       "description": "My boyfriend is straight trippin'. He thinks that Somnacanth are cuter than Khezu. HELLO! Obviously Khezu are but he won't budge. Well, if he won't see it my way, then I guess we'll let you settle this!",
@@ -528,9 +734,15 @@
       "game": "Monster Hunter Rise",
       "difficulty": "5",
       "objective": "Hunt a Khezu and a Somnacanth",
-      "targets": ["Khezu", "Somnacanth"]
+      "targets": [
+        "Khezu",
+        "Somnacanth"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b008a"
+      },
       "name": "Nosey Nuisances",
       "client": "Barrel Bomb Maker",
       "description": "These monsters are so annoying! First it was that bird-brain trying to peck me to death, then it was that pink snozz-o-saurus trying to blow mucus all over me. Wish those two would keep their noses out of my business! ARGH!",
@@ -540,9 +752,15 @@
       "game": "Monster Hunter Rise",
       "difficulty": "5",
       "objective": "Hunt a Kulu-Ya-Ku and an Anjanath",
-      "targets": ["Kulu-Ya-Ku", "Anjanath"]
+      "targets": [
+        "Kulu-Ya-Ku",
+        "Anjanath"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b008b"
+      },
       "name": "The Hottest Around",
       "client": "Curious Felyne",
       "description": "A Volvidon rammed into a Tetranadon! I don't know what they were fighting over, but it was amazing! Until they came rolling my way and almost turned me into roadkill! Leave me outta this, will ya!",
@@ -552,9 +770,15 @@
       "game": "Monster Hunter Rise",
       "difficulty": "5",
       "objective": "Hunt a Tetranadon and a Volvidon",
-      "targets": ["Tetranadon", "Volvidon"]
+      "targets": [
+        "Tetranadon",
+        "Volvidon"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b008c"
+      },
       "name": "Hermit of the Swamp",
       "client": "Fugen the Elder",
       "description": "An Almudron is makin' a real mess of things in the Shrine Ruins. They usually just keep to themselves up in the mountains... Could just be another effect of the Rampage Either way, we can't let it get any closer to the village. Now get to it!",
@@ -564,9 +788,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "6",
       "objective": "Hunt an Almudron",
-      "targets": ["Almudron"]
+      "targets": [
+        "Almudron"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b008d"
+      },
       "name": "Abominable Snow-beast",
       "client": "Tundra-dwelling Mother",
       "description": "A monster in the Frost Islands has been roaring after dark. The cries have terrified my child, who now refuses to go to the toilet alone at night! Please, help us if you can!",
@@ -576,9 +805,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "6",
       "objective": "Hunt an Goss Harag",
-      "targets": ["Goss Harag"]
+      "targets": [
+        "Goss Harag"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b008e"
+      },
       "name": "Thundering Voice",
       "client": "Frost Islands Fugitive",
       "description": "I hear roars echoing all over, no idea where they come from. I fear it might be a Tigrex! Wherever I hide, the growling follows. Please, I beg of you... Hunt the source of that sound before it catches up with me!",
@@ -588,9 +822,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "6",
       "objective": "Hunt an Tigrex",
-      "targets": ["Tigrex"]
+      "targets": [
+        "Tigrex"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b008f"
+      },
       "name": "Twisted Desire",
       "client": "Smith's Son",
       "description": "Those horns are so cool! Fit for a name like \"Diablos\" for sure, with that twisted shape. I'd love to get my hands on one and craft my store sign from it. I bet it'd do wonders for business!",
@@ -600,9 +839,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "6",
       "objective": "Hunt an Diablos",
-      "targets": ["Diablos"]
+      "targets": [
+        "Diablos"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0090"
+      },
       "name": "A Test of Courage",
       "client": "Cowardly Felyne",
       "description": "I'm no scaredy cat but the Shrine Ruins are haunted! HAUNTED, I tell ya! There was this big scary shadow with fireballs all around it and a ghost glowing in the distance surround by souls! Even meow I get chills just thinking about it! HELP!",
@@ -612,9 +856,15 @@
       "game": "Monster Hunter Rise",
       "difficulty": "6",
       "objective": "Hunt Magnamalo and a Zinogre",
-      "targets": ["Magnamalo", "Zinogre"]
+      "targets": [
+        "Magnamalo",
+        "Zinogre"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0091"
+      },
       "name": "Like a Flash of Lightning",
       "client": "Talkative Senior Hunter",
       "description": "Here's a favor for ya, rookie, from me. There's a Mizutsune and a Tobi-Kadachi dukin' it out in the Flooded Forest, and I'm lettin' YOU have at 'em! I'm feelin', uh...charitable today. Y-Yeah. Well, good luck!",
@@ -624,9 +874,15 @@
       "game": "Monster Hunter Rise",
       "difficulty": "6",
       "objective": "Hunt a Tobi-Kadachi and a Mizutsune",
-      "targets": ["Tobi-Kadachi", "Mizutsune"]
+      "targets": [
+        "Tobi-Kadachi",
+        "Mizutsune"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0092"
+      },
       "name": "King of the Sky, Bane of the Land",
       "client": "Young General",
       "description": "My subordinates had enough of their harsh missions and rebelled. I was forced to take responsibility and demoted to the Lava Caverns. I need to get better at my job, but to do so I need to survive first! Help!",
@@ -636,9 +892,15 @@
       "game": "Monster Hunter Rise",
       "difficulty": "6",
       "objective": "Hunt a Rathalos and a Tigrex",
-      "targets": ["Rathalos", "Tigrex"]
+      "targets": [
+        "Rathalos",
+        "Tigrex"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0093"
+      },
       "name": "Shady Monster",
       "client": "Creepy Old Lady",
       "description": "SAy tHeRe, hUNter~ eVEr sEeN A mOnSTeR tHAt hOPs oN One lEg? i hAvE...aND i'Ve nEveR bEen tHe sAMe sINcE—Hahaha! *hack* Those old ghost stories don't scare me none. HOW ABOUT YOU!?",
@@ -648,9 +910,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "1",
       "objective": "Hunt an Aknosom",
-      "targets": ["Aknosom"]
+      "targets": [
+        "Aknosom"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0094"
+      },
       "name": "Tired and Feathered",
       "client": "Kamura's No.1 Egg Lover",
       "description": "Thinks he's number one, does he? Just because he snatched my Gold Gargwa Egg? Well, you're gonna show him. You got that!? I'm number one around here. I'M NUMBER ONE!",
@@ -660,9 +927,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "1",
       "objective": "Hunt a Kulu-Ya-Ku",
-      "targets": ["Kulu-Ya-Ku"]
+      "targets": [
+        "Kulu-Ya-Ku"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0095"
+      },
       "name": "Jumped in the Frost Islands",
       "client": "Hunter Hiding Behind a Bush",
       "description": "Psst! Hey, pal. I just got ruffed up by a gang of Izuchi and their \"great\" bozo leader. They took my pouch, my zenny—even my pants! Think ya could do me a solid and take care of 'em for me? And maybe, uh, get me some pants too, huh?",
@@ -672,9 +944,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "1",
       "objective": "Hunt a Great Izuchi",
-      "targets": ["Great Izuchi"]
+      "targets": [
+        "Great Izuchi"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0096"
+      },
       "name": "No Cure for the Common Baggi",
       "client": "Sneezing Felyne",
       "description": "YUCK! Fur-st a Great Baggi *sniff* spits all over me! *sniff* THEN I fall asleep out in the Frost Islands, and now *sniff* I think I'm coming down with something! Nya...Nya... *sniff* Nya...NYACHOO! *sniff*",
@@ -684,9 +961,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "1",
       "objective": "Hunt a Great Baggi",
-      "targets": ["Great Baggi"]
+      "targets": [
+        "Great Baggi"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0097"
+      },
       "name": "A Snowball's Chance...",
       "client": "Hapless Trader",
       "description": "I absolutely cannot believe how awful my luck is. No way that thing could've hit me! There I was...bobbing...weaving. Zigging...zagging. Just when I thought I had gotten away from this Lagombi *BAM* me and all my goods crushed by a snowball. Unbelievable...",
@@ -696,9 +978,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "1",
       "objective": "Hunt a Lagombi",
-      "targets": ["Lagombi"]
+      "targets": [
+        "Lagombi"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0098"
+      },
       "name": "Wroggi Place, Wroggi Time",
       "client": "Fleetfooted Courier",
       "description": "I was out on my morning jog through the Ruins and out pops a Great Wroggi spittin' poison all over my new running shoes. What is wrong with these monsters!? Hunter, please avenge my shoes, would you?",
@@ -708,9 +995,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "1",
       "objective": "Hunt a Great Wroggi",
-      "targets": ["Great Wroggi"]
+      "targets": [
+        "Great Wroggi"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0099"
+      },
       "name": "A Grizzly Encounter",
       "client": "Sweet-toothed Villager",
       "description": "What are we gonna do, Hunter? WHAT ARE WE GONNA DO!? An Arzuros attacked the latest delivery of honey into Kamura and now there are no sweets— WHAT!? Who cares if they are OK! Did you hear me? NO SWEETS!",
@@ -720,9 +1012,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "1",
       "objective": "Hunt a Arzuros",
-      "targets": ["Arzuros"]
+      "targets": [
+        "Arzuros"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b009a"
+      },
       "name": "Off the Beaten Path",
       "client": "Aspiring Explorer",
       "description": "My friend and I heard about this amazing secret spot up in the Shrine Ruins where you can relax and watch the Torchbugs glow. We wanted to take a hike up there and check it out, but there's a bunch of monsters in the way...",
@@ -732,9 +1029,15 @@
       "game": "Monster Hunter Rise",
       "difficulty": "1",
       "objective": "Slay a total of 20 Izuchi or Altaroth",
-      "targets": ["Izuchi", "Altaroth"]
+      "targets": [
+        "Izuchi",
+        "Altaroth"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b009b"
+      },
       "name": "Hot Topic Hooligans",
       "client": "Gossiping Lady",
       "description": "I heard from my brother's mother's cousin that the Frost Islands are crawling with monsters these days. And get this, my mailman's uncle was just ruffed up out there the other day. It used to be such a nice place. Wish someone'd do something about it...",
@@ -744,9 +1047,15 @@
       "game": "Monster Hunter Rise",
       "difficulty": "1",
       "objective": "Slay a total of 20 Zamite or Bnahabra",
-      "targets": ["Zamite", "Bnahabra"]
+      "targets": [
+        "Zamite",
+        "Bnahabra"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b009c"
+      },
       "name": "I Want Off This Ride",
       "client": "Spinning Felyne",
       "description": "I was coming home FUR-OM WORK when suddenly I SAW A BISHATEN spinning on its TAIL AND SUDDENLY it started spinning AROUND ME! Then everything STARTED SPINNING! And then I started SPINNING! AND meow I can't stop! PLEASE HELP!",
@@ -756,9 +1065,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "2",
       "objective": "Hunt a Bishaten",
-      "targets": ["Bishaten"]
+      "targets": [
+        "Bishaten"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b009d"
+      },
       "name": "Way of the Pukei",
       "client": "Utsushi Fangirl",
       "description": "Master Utsushi does those monster impressions, right? Maybe if I, like, learned one, we'd have something in common. I bet I could do Pukei-Pukei. Seems easy. I'm already pretty good at sticking out my tongue. If you hunt one for me, I can watch and take notes!",
@@ -768,9 +1082,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "2",
       "objective": "Hunt a Pukei-Pukei",
-      "targets": ["Pukei-Pukei"]
+      "targets": [
+        "Pukei-Pukei"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b009e"
+      },
       "name": "The Flooding Flooded Forest",
       "client": "Trade Ship Crewman",
       "description": "It's utter chaos! Our couriers are under attack from a Royal Ludroth and its mates! \"Mates\" as in females, by the way, not frie—wait, that doesn't even— Look, we just need you to hunt that Royal Ludroth ASAP!",
@@ -780,9 +1099,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "2",
       "objective": "Hunt a Royal Ludroth",
-      "targets": ["Royal Ludroth"]
+      "targets": [
+        "Royal Ludroth"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b009f"
+      },
       "name": "So Muddy Hardheaded!",
       "client": "Stubborn Husband",
       "description": "\"You're so hardheaded, you'd put a Barroth to shame!\" Heh, can you believe my wife said that to me? She thinks my head's harder than a Barroth's! There's no way! So I'm goin' out to get me a Barroth skull to prove it! And ain't no one gonna change my mind!",
@@ -792,9 +1116,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "2",
       "objective": "Hunt a Barroth",
-      "targets": ["Barroth"]
+      "targets": [
+        "Barroth"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00a0"
+      },
       "name": "A Pale Shadow",
       "client": "A Felyne's Journal",
       "description": "\"So...so...cold... Whiskers fur-ozen... Tail fur-ozen... Paws— Wha...What's that? A fur-iendly smile? So...warm...meow... Everything...warm—\" (The diary ends there. You feel compelled to rescue its owner.)",
@@ -804,9 +1133,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "2",
       "objective": "Hunt a Khezu",
-      "targets": ["Khezu"]
+      "targets": [
+        "Khezu"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00a1"
+      },
       "name": "Reinventing the Wheel",
       "client": "Desert Inventor",
       "description": "Wheels get stuck in the sand, limiting trade across deserts; and yet, Volvidon traverse the Plains with ease—wait, that's it! Allow me to observe how a Volvidon rolls, and I shall design an unstoppable wheel!",
@@ -816,9 +1150,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "2",
       "objective": "Hunt a Volvidon",
-      "targets": ["Volvidon"]
+      "targets": [
+        "Volvidon"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00a2"
+      },
       "name": "Blasted Basarios!",
       "client": "Sandy Plains Miner",
       "description": "*cough* Dang Basarios! *wheeze* One minute you're sittin' on what you thought was a rock, tryin' to get the dirt out of yer boots, *hack* and the next, you're huffin' *cough* all kinds of who-knows-what! *hack*",
@@ -828,9 +1167,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "2",
       "objective": "Hunt a Basarios",
-      "targets": ["Basarios"]
+      "targets": [
+        "Basarios"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00a3"
+      },
       "name": "The Path to Royalty",
       "client": "Aspiring Monarch",
       "description": "Oh, what I wouldn't give to be a queen! \"Queen of the Land\"? Who wouldn't love a title like that!? Perhaps I may learn a thing or two from the queen herself! Valiant Knight of Kamura! I order you to hunt a Rathian!",
@@ -840,9 +1184,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "2",
       "objective": "Hunt a Rathian",
-      "targets": ["Rathian"]
+      "targets": [
+        "Rathian"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00a4"
+      },
       "name": "Dead Ringer",
       "client": "Minoto the Hub Maiden",
       "description": "Me and my big mouth... I saw a picture of a Tetranadon and blurted out \"It looks exactly like Master Hojo!\" He overheard me and now he thinks I was talking about a Mizutsune! If he finds out the truth, he'll croak!",
@@ -852,9 +1201,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "2",
       "objective": "Hunt a Tetranadon",
-      "targets": ["Tetranadon"]
+      "targets": [
+        "Tetranadon"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00a5"
+      },
       "name": "The Rampage Approaches",
       "client": "Guild Master Hojo",
       "description": "Well then, Hunter, the Rampage is nearing Kamura. The villages will defend the areas surrounding the Stronghold, while you fend off any monsters that make it in. Johoho! Good luck!",
@@ -866,6 +1220,9 @@
       "objective": "Defend the final gate"
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00a6"
+      },
       "name": "Dawn of the Kestodon",
       "client": "Utterly Confused Man",
       "description": "What do I do? WHAT DO I DO!? There's Kestodon all around me! Here, there, yonder, whither— they're everywhere, I tell ya, EVERYWHERE! Even in my mind! There's nowhere left to run! You gotta stop 'em before it's too late!",
@@ -875,9 +1232,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "2",
       "objective": "Slay 20 Kestodon",
-      "targets": ["Kestodon"]
+      "targets": [
+        "Kestodon"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00a7"
+      },
       "name": "Hide, Hide, Hide!",
       "client": "Master Tailor",
       "description": "Darling, a special order has come in for a very special client and I'm all out of materials. Be a dear and fetch some for me, will you? Only the finest materials will do. None of that faux nonsense! Now, off you go!",
@@ -887,9 +1249,15 @@
       "game": "Monster Hunter Rise",
       "difficulty": "2",
       "objective": "Slay a total of 20 Jagras or Ludroth",
-      "targets": ["Jagras", "Ludroth"]
+      "targets": [
+        "Jagras",
+        "Ludroth"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00a8"
+      },
       "name": "Bouncing Brawlers",
       "client": "Weary Observatory Staffer",
       "description": "I haven't slept in days and it's all because of those two stupid monsters. Fighting all day... Fighting all night! They never let up! The roaring. The rumbling. I can't take it anymore! Please, I need some sleep! SHUT THEM UP!",
@@ -899,9 +1267,15 @@
       "game": "Monster Hunter Rise",
       "difficulty": "2",
       "objective": "Hunt a Lagombi and a Tetranadon",
-      "targets": ["Lagombi", "Tetranadon"]
+      "targets": [
+        "Lagombi",
+        "Tetranadon"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00a9"
+      },
       "name": "Fried and Baptized",
       "client": "Unflappable Biologist",
       "description": "I tend to ignore these little \"tiffs\" between monsters while out in the field. Especially since I have a special cloak to protect me. But it becomes increasingly difficult to ignore when the forest is flooding and burning at the same time...",
@@ -911,9 +1285,15 @@
       "game": "Monster Hunter Rise",
       "difficulty": "2",
       "objective": "Hunt a Royal Ludroth and a Rathian",
-      "targets": ["Royal Ludroth", "Rathian"]
+      "targets": [
+        "Royal Ludroth",
+        "Rathian"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00aa"
+      },
       "name": "Beckoning Slumber",
       "client": "Exhausted Woman",
       "description": "I've been suffering from insomnia... So I figured, hey, why don't I create a sedative using Somnacanth powder? At this point, I don't care how crazy it sounds. Just get me that powder, please.",
@@ -923,9 +1303,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "3",
       "objective": "Hunt a Somnacanth",
-      "targets": ["Somnacanth"]
+      "targets": [
+        "Somnacanth"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00ab"
+      },
       "name": "The Blizzard Blender",
       "client": "Martial Artist in Training",
       "description": "Yo, I heard those Goss Harag's can turn their arms into these sick ice blades that'll carve a hunter up like, \"Shwa! Shwa! Shwashwashwa SHWA!\" Dude, I gotta see it! Come on, go pick a fight with one! Just, uh, don't get all \"shwa-shwa-shwa\"-ed up out there!",
@@ -935,9 +1320,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "3",
       "objective": "Hunt a Goss Harag",
-      "targets": ["Goss Harag"]
+      "targets": [
+        "Goss Harag"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00ac"
+      },
       "name": "Zigzagging Zapper",
       "client": "Impatient Hunter",
       "description": "Blargh! I was trying to hunt a stupid Tobi-Kadachi but the squirrely monster just wouldn't stay still! When I finally got an opening to strike, it scurried off and hid in a tree! Is it gonna come down anytime soon? You know what? I'm outta here! I don't got all day for this!",
@@ -947,9 +1337,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "3",
       "objective": "Hunt a Tobi-Kadachi",
-      "targets": ["Tobi-Kadachi"]
+      "targets": [
+        "Tobi-Kadachi"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00ad"
+      },
       "name": "Down 'n' Dirty",
       "client": "Distressed Farmer",
       "description": "Doggone Almudron! That thing came through the farm slingin' its mud all over the dern place. Now there's mud all over my dern crops. All in my dern house. Heck, even got mud in my dern pants! Well, least the Poogies is happy...",
@@ -959,9 +1354,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "3",
       "objective": "Hunt a Almudron",
-      "targets": ["Almudron"]
+      "targets": [
+        "Almudron"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00ae"
+      },
       "name": "Bully of the Caverns",
       "client": "Scarred Old Woman",
       "description": "I can see why that Anjanath likes to bully all those little monsters. Them Raths always pickin' on 'em for having those li'l stubby \"wings\" and a funny lookin' schnoz. But that don't make it right. I don't like bullies. And I won't have any of it!",
@@ -971,9 +1371,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "3",
       "objective": "Hunt a Anjanath",
-      "targets": ["Anjanath"]
+      "targets": [
+        "Anjanath"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00af"
+      },
       "name": "Twilit Twin Stars",
       "client": "Convalescing Hunter",
       "description": "It was a quiet night in the Ruins; that's when I saw two red stars glowing in the darkness. I felt a gust of wind, and the next thing I knew, I awoke on a hospital bed. I did not know such frightening things exist out there...",
@@ -983,9 +1388,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "3",
       "objective": "Hunt a Nargacuga",
-      "targets": ["Nargacuga"]
+      "targets": [
+        "Nargacuga"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00b0"
+      },
       "name": "My Muse the Mizutsune",
       "client": "Wife of a Reckless Artist",
       "description": "My husband is one of those artsy- fartsy types, you know the kind. Sees a sunset...cries. Well, he heard Mizutsune are \"creatures that inspire creativity\" so he ran off with his easel to find one. *sigh* Can you go save him for me?",
@@ -995,9 +1405,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "3",
       "objective": "Hunt a Mizutsune",
-      "targets": ["Mizutsune"]
+      "targets": [
+        "Mizutsune"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00b1"
+      },
       "name": "Champion of the Caverns",
       "client": "Felyne with a Singed Tail",
       "description": "Meow, I've seen my share of Raths before. Never thought they were that tough, just fly around and yowl at ya. Mewboy, I was so wrong... I got the big idea to take one on, paw-to-claw, and it one only took one fireball for me to hightail it out of there! Youch!",
@@ -1007,21 +1422,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "3",
       "objective": "Hunt a Rathalos",
-      "targets": ["Rathalos"]
+      "targets": [
+        "Rathalos"
+      ]
     },
     {
-      "name": "Wavering Moon and Thunder",
-      "client": "Well-dressed Youth",
-      "description": "My guards have turned craven after hearing of a Zinogre in the area. Nonetheless, I must press on through the Forest, no matter what... Which is why I implore you, brave Hunter, to vanquish the beast instead.",
-      "map": "Flooded Forest",
-      "isKey": true,
-      "questType": "Hub",
-      "game": "Monster Hunter Rise",
-      "difficulty": "3",
-      "objective": "Hunt a Zinogre",
-      "targets": ["Zinogre"]
-    },
-    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00b2"
+      },
       "name": "White Knight vs. Hunter",
       "client": "Wandering Swordsman",
       "description": "I am a warrior, roaming these lands to hone my skills. I've come to the Islands to observe the so-called \"White Knight.\" I long to challenge it, however, it is custom in my country to allow you the honor first. Have at it, brave Hunter!",
@@ -1031,9 +1439,31 @@
       "game": "Monster Hunter Rise",
       "difficulty": "3",
       "objective": "Hunt a Barioth",
-      "targets": ["Barioth"]
+      "targets": [
+        "Barioth"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00b3"
+      },
+      "name": "Wavering Moon and Thunder",
+      "client": "Well-dressed Youth",
+      "description": "My guards have turned craven after hearing of a Zinogre in the area. Nonetheless, I must press on through the Forest, no matter what... Which is why I implore you, brave Hunter, to vanquish the beast instead.",
+      "map": "Flooded Forest",
+      "isKey": true,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "3",
+      "objective": "Hunt a Zinogre",
+      "targets": [
+        "Zinogre"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00b4"
+      },
       "name": "A Friend in Need",
       "client": "Kind Trader",
       "description": "My Popo, Posey, is my best friend. She helps me every day and is the sweetest companion I've ever had. A Tigrex was spotted along my trade route and you know what they do to Popo... Hunter, please. I can't lose Posey. If I lose her, I lose everything!",
@@ -1043,9 +1473,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "3",
       "objective": "Hunt a Tigrex",
-      "targets": ["Tigrex"]
+      "targets": [
+        "Tigrex"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00b5"
+      },
       "name": "A Few Bumps Along the Way",
       "client": "Hapless Trader",
       "description": "A buddy of mine told me about this \"great shortcut\" he found. The road was so bumpy I fell off my cart right into a cactus patch. And to make matters worse, a Diablos appeared out of nowhere and turned my cart into splinters... Why do these things always happen to me!?",
@@ -1055,9 +1490,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "3",
       "objective": "Hunt a Diablos",
-      "targets": ["Diablos"]
+      "targets": [
+        "Diablos"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00b6"
+      },
       "name": "Hellfire",
       "client": "Guild Master Hojo",
       "description": "That dreadful Magnamalo has been spotted! Quick, Hunter, you must leap into action at once! We cannot allow it to feed on the hordes or it may become too powerful to defeat! No time to waste! Hop to it-to it!",
@@ -1067,9 +1507,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "3",
       "objective": "Hunt a Magnamalo",
-      "targets": ["Magnamalo"]
+      "targets": [
+        "Magnamalo"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00b7"
+      },
       "name": "Tail to Tail",
       "client": "Well-informed Man",
       "description": "Both Bishaten and Almudron are known for using their powerful tails when they attack. I'm collecting information on these monsters. Could you possibly assist me? I need to ascertain which tail is stronger. The one like a fist, or the one like a whip?",
@@ -1079,9 +1524,15 @@
       "game": "Monster Hunter Rise",
       "difficulty": "3",
       "objective": "Hunt a Bishaten and an Almudron",
-      "targets": ["Bishaten", "Almudron"]
+      "targets": [
+        "Bishaten",
+        "Almudron"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00b8"
+      },
       "name": "Beastly Chaos",
       "client": "Distressed Felyne",
       "description": "Oh meow! A Tigrex and a Goss Harag are going berserk out in the Frost Islands! If someone doesn't stop 'em, the island's gonna get carved up like a scratching post! Help!",
@@ -1091,9 +1542,15 @@
       "game": "Monster Hunter Rise",
       "difficulty": "3",
       "objective": "Hunt a Tigrex and a Goss Harag",
-      "targets": ["Tigrex", "Goss Harag"]
+      "targets": [
+        "Tigrex",
+        "Goss Harag"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00b9"
+      },
       "name": "Disastrously Beautiful",
       "client": "Captivating Kimono Woman",
       "description": "Ah. A Barroth, Tobi-Kadachi, and Magnamalo—quite the trio. Is anyone capable of dancing with three such aggressive partners, one after the other? If you intend to take to this stage, I'll be your audience.",
@@ -1103,9 +1560,16 @@
       "game": "Monster Hunter Rise",
       "difficulty": "3",
       "objective": "Hunt all target monsters",
-      "targets": ["Barroth", "Tobi-Kadachi", "Magnamalo"]
+      "targets": [
+        "Barroth",
+        "Tobi-Kadachi",
+        "Magnamalo"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00ba"
+      },
       "name": "The Swirling Gale",
       "client": "Woman Living By the Ruins",
       "description": "For crying out loud! I moved near the Shrine Ruins because it was a nice and quiet neighborhood... Now there's a Great Izuchi and its little gang making a ruckus. I tried to give 'em a piece of my mind but they pulled their blades on me! Hunter, please get rid of 'em!",
@@ -1115,9 +1579,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "4",
       "objective": "Hunt a Great Izuchi",
-      "targets": ["Great Izuchi"]
+      "targets": [
+        "Great Izuchi"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00bb"
+      },
       "name": "Divine Comedy",
       "client": "Agricultural Trader",
       "description": "You're kidding me! Why's there gotta be an Arzuros AND a Kulu-Ya-Ku on my route when I've got honey and eggs to deliver!? Is this some kind of punishment from the gods!?",
@@ -1127,9 +1596,15 @@
       "game": "Monster Hunter Rise",
       "difficulty": "4",
       "objective": "Hunt an Arzuros and a Kulu-Ya-Ku",
-      "targets": ["Arzuros", "Kulu-Ya-Ku"]
+      "targets": [
+        "Arzuros",
+        "Kulu-Ya-Ku"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00bc"
+      },
       "name": "Didn't Get the Memo",
       "client": "Overly Defensive Hunter",
       "description": "I can take a Great Baggi, no problemo! But TWO!? Nobody said anything about two of 'em! I mean, maybe if I had like a heads up or something, I'd be alright. Someone should have told me! What—!? It's written in the quest description? Come on! Nobody reads that stuff!",
@@ -1139,9 +1614,15 @@
       "game": "Monster Hunter Rise",
       "difficulty": "4",
       "objective": "Hunt 2 Great Baggi",
-      "targets": ["Great Baggi", "Great Baggi"]
+      "targets": [
+        "Great Baggi",
+        "Great Baggi"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00bd"
+      },
       "name": "Dancing A-purr-ition",
       "client": "Rain-soaked Felyne",
       "description": "Help, Hunter! I just saw this su-purr creepy umbrella monster! I tried to get close to see if it was real or if I was just i-meow-gining it and it tried to attack me! I've never been more tra-mew-tized in all my nine lives! Make it go away!",
@@ -1151,9 +1632,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "4",
       "objective": "Hunt an Aknosom",
-      "targets": ["Aknosom"]
+      "targets": [
+        "Aknosom"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00be"
+      },
       "name": "The Frost Islands Arena",
       "client": "Up-and-coming Wrestler",
       "description": "Oh~yeah! You're going nowhere. I've got you for fifty minutes...Fifty minutes of huntin' time! Heard this Tetranadon was out there talkin' smack. You gonna stand there and take that!? Or are ya gonna go out there and put 'em in a world of hurt!?",
@@ -1163,9 +1649,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "4",
       "objective": "Hunt an Tetranadon",
-      "targets": ["Tetranadon"]
+      "targets": [
+        "Tetranadon"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00bf"
+      },
       "name": "Even Cute Things Have Fangs",
       "client": "Felyne-loving Girl",
       "description": "I have this Felyne friend, and she got all scared about some big fluffy bunny. But I don't get it, 'cause bunnies are supposed to be cute! Can you go check it out so she'll stop being such a scaredy-cat?",
@@ -1175,9 +1666,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "4",
       "objective": "Hunt an Lagombi",
-      "targets": ["Lagombi"]
+      "targets": [
+        "Lagombi"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00c0"
+      },
       "name": "Night of the Khezu",
       "client": "Poetically Spoken Man",
       "description": "I was out fishing; everything dark and gloomy. When suddenly down flew a Khezu; slimy and gooey. Horrified to find there were no eyes that would twinkle, only a blubbery neck...veiny and wrinkled.",
@@ -1187,9 +1683,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "4",
       "objective": "Hunt an Khezu",
-      "targets": ["Khezu"]
+      "targets": [
+        "Khezu"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00c1"
+      },
       "name": "Dango Duty",
       "client": "Yomogi the Chef",
       "description": "I heard the Frost Islands are crawling with Izuchi and Baggi! My ingredients supplier will be passing through there and the last thing I want is for them to get pounced on by some dumb monsters! Could you maybe go and check it out, pleeeeeeease?",
@@ -1199,21 +1700,15 @@
       "game": "Monster Hunter Rise",
       "difficulty": "4",
       "objective": "Slay a total of 20 Izuchi or Baggi",
-      "targets": ["Izuchi", "Baggi"]
+      "targets": [
+        "Izuchi",
+        "Baggi"
+      ]
     },
     {
-      "name": "Totally Not Cool, Kulu!",
-      "client": "Yomogi the Chef",
-      "description": "A pair of Kulu-Ya-Ku is after the eggs I had dibs on for my dango! No fair, AND rude! But if you can keep them occupied, I can grab the eggs before they eat 'em. You'll help me out, right? Right?",
-      "map": "Shrine Ruins",
-      "isKey": false,
-      "questType": "Hub",
-      "game": "Monster Hunter Rise",
-      "difficulty": "4",
-      "objective": "Hunt 2 Kulu-Ya-Ku",
-      "targets": ["Kulu-Ya-Ku", "Kulu-Ya-Ku"]
-    },
-    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00c2"
+      },
       "name": "Study the Sword & Shield",
       "client": "Master Utsushi",
       "description": "Alright, Ace, lesson time! An Aknosom makes clever use of its big crest to fight, right? Understand how to maneuver around these kinds of attacks and you'll learn the very essence of the sword & shield!",
@@ -1223,9 +1718,32 @@
       "game": "Monster Hunter Rise",
       "difficulty": "4",
       "objective": "Capture an Aknosom",
-      "targets": ["Aknosom"]
+      "targets": [
+        "Aknosom"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00c3"
+      },
+      "name": "Totally Not Cool, Kulu!",
+      "client": "Yomogi the Chef",
+      "description": "A pair of Kulu-Ya-Ku is after the eggs I had dibs on for my dango! No fair, AND rude! But if you can keep them occupied, I can grab the eggs before they eat 'em. You'll help me out, right? Right?",
+      "map": "Shrine Ruins",
+      "isKey": false,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "4",
+      "objective": "Hunt 2 Kulu-Ya-Ku",
+      "targets": [
+        "Kulu-Ya-Ku",
+        "Kulu-Ya-Ku"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00c4"
+      },
       "name": "Honing Your Hunting Horn",
       "client": "Master Utsushi",
       "description": "Alright, Ace, lesson time! Harmonize with the sounds of nature as you serenade these monster to permanent sleep and you're sure to find a new tune for the hunting horn!",
@@ -1235,9 +1753,15 @@
       "game": "Monster Hunter Rise",
       "difficulty": "4",
       "objective": "Hunt a Great Izuchi and Tetranadon",
-      "targets": ["Great Izuchi", "Tetranadon"]
+      "targets": [
+        "Great Izuchi",
+        "Tetranadon"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00c5"
+      },
       "name": "Study the Switch Axe",
       "client": "Master Utsushi",
       "description": "Alright, Ace, lesson time! The Lagombi and the Khezu may both be white but that's where their similarities end. If you can take on this contrasting pair at once, you'll discover the essence of the switch axe.",
@@ -1247,9 +1771,15 @@
       "game": "Monster Hunter Rise",
       "difficulty": "4",
       "objective": "Hunt a Lagombi and a Khezu",
-      "targets": ["Lagombi", "Khezu"]
+      "targets": [
+        "Lagombi",
+        "Khezu"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00c6"
+      },
       "name": "Learning the Light Bowgun",
       "client": "Master Utsushi",
       "description": "Alright, Ace, lesson time! The path to light bowgun mastery is paved by the Great Baggi and the Great Wroggi. Their sly and agile combat is full of potential for new hit and run tactics for this weapon!",
@@ -1259,9 +1789,15 @@
       "game": "Monster Hunter Rise",
       "difficulty": "4",
       "objective": "Hunt a Great Baggi and a Great Wroggi",
-      "targets": ["Great Baggi", "Great Wroggi"]
+      "targets": [
+        "Great Baggi",
+        "Great Wroggi"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00c7"
+      },
       "name": "Learning the Light Bowgun",
       "client": "Master Utsushi",
       "description": "Alright, Ace, lesson time! The path to light bowgun mastery is paved by the Great Baggi and the Great Wroggi. Their sly and agile combat is full of potential for new hit and run tactics for this weapon!",
@@ -1271,9 +1807,15 @@
       "game": "Monster Hunter Rise",
       "difficulty": "4",
       "objective": "Hunt a Great Baggi and a Great Wroggi",
-      "targets": ["Great Baggi", "Great Wroggi"]
+      "targets": [
+        "Great Baggi",
+        "Great Wroggi"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00c8"
+      },
       "name": "Donning Toxicity",
       "client": "Village Dyer",
       "description": "I've hit a bit of a slump, and I'm looking for something to rekindle my creativity. Hmm... Aha! Yes, a Great Wroggi hide! Its vivid hues make for great inspiration, and there just so happens to be one in the area!",
@@ -1283,9 +1825,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "4",
       "objective": "Hunt a Great Wroggi",
-      "targets": ["Great Wroggi"]
+      "targets": [
+        "Great Wroggi"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00c9"
+      },
       "name": "Lost and Found",
       "client": "Boy Running Errands",
       "description": "Oh, man... On my way home, I dropped my wallet somewhere near the Ruins. My mom's gonna be SO mad if I don't bring it back, but there're too many monsters around there to go look for it... Please help me, Hunter!",
@@ -1295,9 +1842,15 @@
       "game": "Monster Hunter Rise",
       "difficulty": "4",
       "objective": "Slay a total of 20 Jagras or Bullfango",
-      "targets": ["Jagras", "Bullfango"]
+      "targets": [
+        "Jagras",
+        "Bullfango"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00ca"
+      },
       "name": "Blue, Round, and Cute",
       "client": "Whimsical Researcher",
       "description": "You there! Tell me, don't you think Arzuros are the cutest!? Fuzzy blue fur, a soft tubby belly; what I wouldn't give to hug 'em! Sooo, can you capture one for m— Whaddya mean, \"only if I promise not to hug it?\"",
@@ -1307,33 +1860,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "4",
       "objective": "Capture an Arzuros",
-      "targets": ["Arzuros"]
+      "targets": [
+        "Arzuros"
+      ]
     },
     {
-      "name": "Foul Play in the Forest",
-      "client": "Restaurant Owner",
-      "description": "Hey, listen here. Don't go tellin' people what I'm about to tell you, capiche? Some of our \"special ingredients\" come from the Flooded Forest, but now some rivals are tryin' to move in on our turf. This is not good for business. And, we can't have that, can we?",
-      "map": "Flooded Forest",
-      "isKey": true,
-      "questType": "Hub",
-      "game": "Monster Hunter Rise",
-      "difficulty": "5",
-      "objective": "Hunt a Royal Ludroth",
-      "targets": ["Royal Ludroth"]
-    },
-    {
-      "name": "Rise above the Mud",
-      "client": "Determined Hunter",
-      "description": "Aaaargh! I was SO close! *sigh* Right as I was about to land the final blow on a Barroth, my feet got stuck in some mud! Not only did it proceed to stomp the crap out of me, but then it got away! Once I'm better—*ouch* I'm gonna go and finish what I started!",
-      "map": "Sandy Plains",
-      "isKey": true,
-      "questType": "Hub",
-      "game": "Monster Hunter Rise",
-      "difficulty": "5",
-      "objective": "Hunt a Barroth",
-      "targets": ["Barroth"]
-    },
-    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00cb"
+      },
       "name": "Bowled Over",
       "client": "Hapless Trader",
       "description": "Man, I cannot catch a break! I was making my way through the Plains when I started hearing this, *boingy* *boingy* *boingy* noise. Then suddenly two Volvidon appear out of nowhere and roll over my cart! To make matters worse, any produce that didn't get squashed was covered in their nasty spit!",
@@ -1343,9 +1877,15 @@
       "game": "Monster Hunter Rise",
       "difficulty": "5",
       "objective": "Hunt 2 Volvidon",
-      "targets": ["Volvidon", "Volvidon"]
+      "targets": [
+        "Volvidon",
+        "Volvidon"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00cc"
+      },
       "name": "Rotten Fruit",
       "client": "Innocent Felyne",
       "description": "It was my fur-st time seeing a Bishaten up close. It looked so playful and fur- iendly! It even started throwing fruit to me. I thought they were purr-esents but one of them blinded me with a flash and the other zapped my tail! What a meanie! Go teach it a lesson fur me!",
@@ -1355,9 +1895,31 @@
       "game": "Monster Hunter Rise",
       "difficulty": "5",
       "objective": "Hunt a Bishaten",
-      "targets": ["Bishaten"]
+      "targets": [
+        "Bishaten"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00cd"
+      },
+      "name": "Rise above the Mud",
+      "client": "Determined Hunter",
+      "description": "Aaaargh! I was SO close! *sigh* Right as I was about to land the final blow on a Barroth, my feet got stuck in some mud! Not only did it proceed to stomp the crap out of me, but then it got away! Once I'm better—*ouch* I'm gonna go and finish what I started!",
+      "map": "Sandy Plains",
+      "isKey": true,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "5",
+      "objective": "Hunt a Barroth",
+      "targets": [
+        "Barroth"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00ce"
+      },
       "name": "Go Away, Pukei!",
       "client": "Hungry Woman",
       "description": "I am absolutely fuming right now! I spent months, MONTHS, breaking my back to have a good harvest this year, and it takes only one day for that googly-eyed monster to wipe out all my crops. Think you can go harvest its hide for me?",
@@ -1367,9 +1929,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "5",
       "objective": "Hunt a Pukei-Pukei",
-      "targets": ["Pukei-Pukei"]
+      "targets": [
+        "Pukei-Pukei"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00cf"
+      },
       "name": "Miner Problem",
       "client": "Veteran Miner",
       "description": "Had a new guy on the team get pretty messed up by a Basarios. He came across a boulder juttin' up out of the ground and thought he hit the jackpot. Poor kid didn't know what he was doing when he planted a pickaxe square in the monster's rocky rear.",
@@ -1379,9 +1946,31 @@
       "game": "Monster Hunter Rise",
       "difficulty": "5",
       "objective": "Hunt a Basarios",
-      "targets": ["Basarios"]
+      "targets": [
+        "Basarios"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00d0"
+      },
+      "name": "Foul Play in the Forest",
+      "client": "Restaurant Owner",
+      "description": "Hey, listen here. Don't go tellin' people what I'm about to tell you, capiche? Some of our \"special ingredients\" come from the Flooded Forest, but now some rivals are tryin' to move in on our turf. This is not good for business. And, we can't have that, can we?",
+      "map": "Flooded Forest",
+      "isKey": true,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "5",
+      "objective": "Hunt a Royal Ludroth",
+      "targets": [
+        "Royal Ludroth"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00d1"
+      },
       "name": "Charmed by a Queen",
       "client": "Reckless Artist",
       "description": "Hunter Hunter HUNTER! We must go at once! As we speak the queen herself is gracing the Shrine Ruins! I must capture her majesty in all its glory! But I hear Rathian are rather... difficult to work with. Perhaps you can assist me?",
@@ -1391,21 +1980,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "5",
       "objective": "Hunt a Rathian",
-      "targets": ["Rathian"]
+      "targets": [
+        "Rathian"
+      ]
     },
     {
-      "name": "The Restless Swamp",
-      "client": "Guild Master Hojo",
-      "description": "One of our scouts tracking a Jyuratodus has gone missing in the Flooded Forest. If you would hunt the beast so that it is safe enough to dispatch a search party, it would be much appreciated. Now, hop to it-to it!",
-      "map": "Flooded Forest",
-      "isKey": false,
-      "questType": "Hub",
-      "game": "Monster Hunter Rise",
-      "difficulty": "5",
-      "objective": "Hunt a Jyuratodus",
-      "targets": ["Jyuratodus"]
-    },
-    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00d2"
+      },
       "name": "Grasp the Great Sword",
       "client": "Master Utsushi",
       "description": "Alright, Ace, lesson time! The Bishaten may move and attack in its own unique way, but when it hits big, it hits BIG! See for yourself what I mean, and you'll definitely find new ways to swing a great sword!",
@@ -1415,9 +1997,15 @@
       "game": "Monster Hunter Rise",
       "difficulty": "5",
       "objective": "Hunt 2 Bishaten",
-      "targets": ["Bishaten", "Bishaten"]
+      "targets": [
+        "Bishaten",
+        "Bishaten"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00d3"
+      },
       "name": "Honing Your Hammer",
       "client": "Master Utsushi",
       "description": "Alright, Ace, lesson time! The secret to hammer— Well, let's not kid ourselves here... Hammer equals thrashing and pummeling your target. Go hunt this Pukei-Pukei and Barroth and you'll know exactly what I mean!",
@@ -1427,9 +2015,15 @@
       "game": "Monster Hunter Rise",
       "difficulty": "5",
       "objective": "Hunt a Pukei-Pukei and a Barroth",
-      "targets": ["Pukei-Pukei", "Barroth"]
+      "targets": [
+        "Pukei-Pukei",
+        "Barroth"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00d4"
+      },
       "name": "Learn the Lance",
       "client": "Master Utsushi",
       "description": "Alright, Ace, lesson time! A knight wields their lance to protect the weak—just like a Rathian fiercely protects her young! Capture the queen and you'll acquire some new Skills for your lance!",
@@ -1439,9 +2033,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "5",
       "objective": "Capture a Rathian",
-      "targets": ["Rathian"]
+      "targets": [
+        "Rathian"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00d5"
+      },
       "name": "Charge Blade Coalescing",
       "client": "Master Utsushi",
       "description": "Alright, Ace, lesson time! Like the Royal Ludroth and Jyuratodus, you'll need to be in water—Wait, no... You'll need to be \"AS water.\" Meaning you'll have to be flexible according to the situation. Understanding this is the key to unlocking the charge blade's potential!",
@@ -1451,9 +2050,15 @@
       "game": "Monster Hunter Rise",
       "difficulty": "5",
       "objective": "Hunt a Royal Ludroth and a Jyuratodus",
-      "targets": ["Royal Ludroth", "Jyuratodus"]
+      "targets": [
+        "Royal Ludroth",
+        "Jyuratodus"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00d6"
+      },
       "name": "Hone Your Heavy Bowgun",
       "client": "Master Utsushi",
       "description": "Alright, Ace, lesson time! Strategically strike from a distance like the Volvidon, or get up close and personal like a Basarios. Add their fighting styles to the long-range, high-powered heavy bowgun, and you should learn something new!",
@@ -1463,9 +2068,15 @@
       "game": "Monster Hunter Rise",
       "difficulty": "5",
       "objective": "Hunt a Basarios and a Volvidon",
-      "targets": ["Basarios", "Volvidon"]
+      "targets": [
+        "Basarios",
+        "Volvidon"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00d7"
+      },
       "name": "Bad Review",
       "client": "Gossiping Lady",
       "description": "I just got done talking to my best friend and her neighbor's daughter had THE WORST experience out in the Sandy Plains. Apparently, the locals were extremely rude and wouldn't stop butting in to her business. The nerve...",
@@ -1475,9 +2086,15 @@
       "game": "Monster Hunter Rise",
       "difficulty": "5",
       "objective": "Slay a total of 20 Rhenoplos or Kestodon",
-      "targets": ["Rhenoplos", "Kestodon"]
+      "targets": [
+        "Rhenoplos",
+        "Kestodon"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00d8"
+      },
       "name": "Flooded Forest Fiasco",
       "client": "Teary-eyed Boy",
       "description": "*sniff* Papa promised we'd go fishin' 'cuz I was a good boy, I did all my chores. Brushed my teeth. Even cleaned my room! But now we can't *sniff* because *sniff* a bunch of dumb monsters. *sob* It's not fair! *sniff*",
@@ -1487,9 +2104,32 @@
       "game": "Monster Hunter Rise",
       "difficulty": "5",
       "objective": "Slay a total of 20 Ludroth or Wroggi",
-      "targets": ["Ludroth", "Wroggi"]
+      "targets": [
+        "Ludroth",
+        "Wroggi"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00d9"
+      },
+      "name": "The Restless Swamp",
+      "client": "Guild Master Hojo",
+      "description": "One of our scouts tracking a Jyuratodus has gone missing in the Flooded Forest. If you would hunt the beast so that it is safe enough to dispatch a search party, it would be much appreciated. Now, hop to it-to it!",
+      "map": "Flooded Forest",
+      "isKey": false,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "5",
+      "objective": "Hunt a Jyuratodus",
+      "targets": [
+        "Jyuratodus"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00da"
+      },
       "name": "Shadows Over the Frost",
       "client": "Traders' Representative",
       "description": "It has come to the board's attention that one of our members has not returned from the Frost Islands. We have to assume that the trader must have been attacked thus we are requiring the assistance of a hunter. We will send out a rescue team (or cleap-up crew) once you have completed your task.",
@@ -1499,9 +2139,15 @@
       "game": "Monster Hunter Rise",
       "difficulty": "5",
       "objective": "Hunt a Khezu and a Tetranadon",
-      "targets": ["Khezu", "Tetranadon"]
+      "targets": [
+        "Khezu",
+        "Tetranadon"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00db"
+      },
       "name": "Skies Flash, Clouds Boom",
       "client": "Jittery Felyne",
       "description": "Eep! WH-WHAT WAS THAT!? Don't sneak up on me, Hunter! I-I've been on edge ever since a Zinogre j-jumped out on me! Brr...my fur's still on end from the fear...a-and static! Could y-you help me-me-meow-t?",
@@ -1511,9 +2157,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "6",
       "objective": "Hunt a Zinogre",
-      "targets": ["Zinogre"]
+      "targets": [
+        "Zinogre"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00dc"
+      },
       "name": "A Somniferous Elegy",
       "client": "Inn Keeper",
       "description": "Had a group of travelers come in last night fleeing a Somnacanth. Dang monster must have got 'em good because they're still sleepin'! I can't have guests stayin' past check out time! Hunter, can ya go do something 'bout that thing?",
@@ -1523,9 +2174,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "6",
       "objective": "Hunt a Somnacanth",
-      "targets": ["Somnacanth"]
+      "targets": [
+        "Somnacanth"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00dd"
+      },
       "name": "Sharpening Amber Fangs",
       "client": "Waiting Woman",
       "description": "My boyfriend's on his way here for my birthday. Oh, thank you! Anyway, he'll be passing through the Frost Islands to get here and I just heard that a Barioth has been spotted! Hunter, I didn't get all dolled up for nothing! You gotta get rid of it so he (and his presents) arrive safely!",
@@ -1535,21 +2191,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "6",
       "objective": "Hunt a Barioth",
-      "targets": ["Barioth"]
+      "targets": [
+        "Barioth"
+      ]
     },
     {
-      "name": "Skies are Gray",
-      "client": "Energetic Fisherwoman",
-      "description": "When the skies cloud over, ya think there's rain on the way, don'tcha? Well, this time, it weren't no storm, it was a dang Tobi-Kadachi! Can't do no fishin' when you're gettin' zapped in the rear every other minute! I want that varmint gone, ya hear me!?",
-      "map": "Floode Forest",
-      "isKey": true,
-      "questType": "Hub",
-      "game": "Monster Hunter Rise",
-      "difficulty": "6",
-      "objective": "Hunt a Tobi-Kadachi",
-      "targets": ["Tobi-Kadachi"]
-    },
-    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00de"
+      },
       "name": "Closer Than it Appears",
       "client": "Terrified Courier",
       "description": "I was en route to do some business when I started hearing this stomping noise behind me. It was faint at first, but then started getting louder and louder! I turn around and there's an Anjanath right behind me! I've never screamed and run so hard in my life!",
@@ -1559,9 +2208,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "6",
       "objective": "Hunt a Anjanath",
-      "targets": ["Anjanath"]
+      "targets": [
+        "Anjanath"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00df"
+      },
       "name": "The Abyss Stares Back",
       "client": "Shaken Hunter",
       "description": "I still see it. Even now when I close my eyes. A moving void. The darkest dark you could ever imagine. You don't even know it's there until it's too late. From the abyss of night, two streaks of red surge towards you. Before you can even react, it has you.",
@@ -1571,9 +2225,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "6",
       "objective": "Hunt a Nargacuga",
-      "targets": ["Nargacuga"]
+      "targets": [
+        "Nargacuga"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00e0"
+      },
       "name": "Red Skies at Night",
       "client": "Chic Firework-Maker",
       "description": "I saw it one night: a stunning firework rising up above the Caverns, so bright, the night looked like day. If that was the doing of a monster, it's got to be a pro at using fire. I need to know what it was.",
@@ -1583,21 +2242,31 @@
       "game": "Monster Hunter Rise",
       "difficulty": "6",
       "objective": "Hunt a Rathalos",
-      "targets": ["Rathalos"]
+      "targets": [
+        "Rathalos"
+      ]
     },
     {
-      "name": "A Bewitching Dance",
-      "client": "Guild Master Hojo",
-      "description": "Ah, . A Mizutsune has become quite aggressive in the Shrine Ruins. They're normally not like this— What could have caused it to go hopping mad!? We'll investigate while you take care of it.",
-      "map": "Shrine Ruins",
-      "isKey": false,
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00e1"
+      },
+      "name": "Skies are Gray",
+      "client": "Energetic Fisherwoman",
+      "description": "When the skies cloud over, ya think there's rain on the way, don'tcha? Well, this time, it weren't no storm, it was a dang Tobi-Kadachi! Can't do no fishin' when you're gettin' zapped in the rear every other minute! I want that varmint gone, ya hear me!?",
+      "map": "Floode Forest",
+      "isKey": true,
       "questType": "Hub",
       "game": "Monster Hunter Rise",
       "difficulty": "6",
-      "objective": "Hunt a Mizutsune",
-      "targets": ["Mizutsune"]
+      "objective": "Hunt a Tobi-Kadachi",
+      "targets": [
+        "Tobi-Kadachi"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00e2"
+      },
       "name": "Do It for the Dango!",
       "client": "Yomogi the Chef",
       "description": "Grrrr! Stupid. Monsters. Everywhere! Why won't they leave me alone? I go to one fishing spot—Monster. I go to a different spot—ANOTHER MONSTER. Why are they so rude!? Can you go let those meanies know just how mad I am!?",
@@ -1607,9 +2276,32 @@
       "game": "Monster Hunter Rise",
       "difficulty": "6",
       "objective": "Hunt a Nargacuga and a Jyuratodus",
-      "targets": ["Nargacuga", "Jyuratodus"]
+      "targets": [
+        "Nargacuga",
+        "Jyuratodus"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00e3"
+      },
+      "name": "A Bewitching Dance",
+      "client": "Guild Master Hojo",
+      "description": "Ah, . A Mizutsune has become quite aggressive in the Shrine Ruins. They're normally not like this— What could have caused it to go hopping mad!? We'll investigate while you take care of it.",
+      "map": "Shrine Ruins",
+      "isKey": false,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "6",
+      "objective": "Hunt a Mizutsune",
+      "targets": [
+        "Mizutsune"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00e4"
+      },
       "name": "Learn the Long Sword",
       "client": "Master Utsushi",
       "description": "Alright, Ace, lesson time! Sharp, flowing strikes are the soul of long sword combat. The fearlessness of a Zinogre and the elegance of a Mizutsune combined are just the thing you'll need to master 'em!",
@@ -1619,21 +2311,15 @@
       "game": "Monster Hunter Rise",
       "difficulty": "6",
       "objective": "Hunt a Zinogre and a Mizutsune",
-      "targets": ["Zinogre", "Mizutsune"]
+      "targets": [
+        "Zinogre",
+        "Mizutsune"
+      ]
     },
     {
-      "name": "Dissect the Dual Blades",
-      "client": "Master Utsushi",
-      "description": "Alright, Ace, lesson time! Fending off an Anjanath and a Rathian at the same time may sound crazy, but it's just the challenge for any hunter who's looking to develop their dual blade technique!",
-      "map": "Sandy Plains",
-      "isKey": false,
-      "questType": "Hub",
-      "game": "Monster Hunter Rise",
-      "difficulty": "6",
-      "objective": "Hunt an Anjanath and a Rathian",
-      "targets": ["Anjanath", "Rathian"]
-    },
-    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00e5"
+      },
       "name": "Grasp the Gunlance",
       "client": "Master Utsushi",
       "description": "Alright, Ace, lesson time! Getting in your target's face and remaining calm is the key to unleashing the true potential of the gunlance. And no monster teaches \"in-your-face\" better than the Barioth!",
@@ -1643,21 +2329,32 @@
       "game": "Monster Hunter Rise",
       "difficulty": "6",
       "objective": "Capture a Barioth",
-      "targets": ["Barioth"]
+      "targets": [
+        "Barioth"
+      ]
     },
     {
-      "name": "Invoke the Insect Glaive",
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00e6"
+      },
+      "name": "Dissect the Dual Blades",
       "client": "Master Utsushi",
-      "description": "Alright, Ace, lesson time! Swift, graceful, dance-like: that sounds like the attacks of a Somnacanth, an Aknosom, and an insect glaive, right? Try combining the three, and see what you end up learning!",
-      "map": "Frost Islands",
+      "description": "Alright, Ace, lesson time! Fending off an Anjanath and a Rathian at the same time may sound crazy, but it's just the challenge for any hunter who's looking to develop their dual blade technique!",
+      "map": "Sandy Plains",
       "isKey": false,
       "questType": "Hub",
       "game": "Monster Hunter Rise",
       "difficulty": "6",
-      "objective": "Hunt a Somnacanth and an Aknosom",
-      "targets": ["Somnacanth", "Aknosom"]
+      "objective": "Hunt an Anjanath and a Rathian",
+      "targets": [
+        "Anjanath",
+        "Rathian"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00e7"
+      },
       "name": "Be One with the Bow",
       "client": "Master Utsushi",
       "description": "Alright, Ace, lesson time! Speed, agility, and positioning are the signatures of the Tobi- Kadachi. Have you ever noticed how similar they are to the bow? Well, now you know, go see it for yourself!",
@@ -1667,9 +2364,33 @@
       "game": "Monster Hunter Rise",
       "difficulty": "6",
       "objective": "Hunt 2 Tobi-Kadachi",
-      "targets": ["Tobi-Kadachi", "Tobi-Kadachi"]
+      "targets": [
+        "Tobi-Kadachi",
+        "Tobi-Kadachi"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00e8"
+      },
+      "name": "Invoke the Insect Glaive",
+      "client": "Master Utsushi",
+      "description": "Alright, Ace, lesson time! Swift, graceful, dance-like: that sounds like the attacks of a Somnacanth, an Aknosom, and an insect glaive, right? Try combining the three, and see what you end up learning!",
+      "map": "Frost Islands",
+      "isKey": false,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "6",
+      "objective": "Hunt a Somnacanth and an Aknosom",
+      "targets": [
+        "Somnacanth",
+        "Aknosom"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00e9"
+      },
       "name": "The Lava Caverns Sweep",
       "client": "Well-dressed Youth",
       "description": "A great horde of monsters has gathered in the Lava Caverns, but I must pass through! My guards and I cannot defeat them, I know this—but I also know that a hunter as skilled as you can. Will you help us?",
@@ -1679,9 +2400,15 @@
       "game": "Monster Hunter Rise",
       "difficulty": "6",
       "objective": "Slay a total of 20 Uroktor or Rachnoid",
-      "targets": ["Uroktor", "Rachnoid"]
+      "targets": [
+        "Uroktor",
+        "Rachnoid"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00ea"
+      },
       "name": "Showdown in the Arena",
       "client": "Rowdy Showman",
       "description": "Gather 'round, gather 'round! Today we have a show packed with fur and fury! Anjanath! Mizutsune! Zinogre! Sparks will fly! Fire will burn! Bubbles— d-does that say bubbles? It does. Uh... OK. Bubbles will, um, bubble! Who dares challenge this trifecta of trepidation!",
@@ -1691,9 +2418,16 @@
       "game": "Monster Hunter Rise",
       "difficulty": "6",
       "objective": "Hunt all target monsters",
-      "targets": ["Anjanath", "Mizutsune", "Zinogre"]
+      "targets": [
+        "Anjanath",
+        "Mizutsune",
+        "Zinogre"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00eb"
+      },
       "name": "Serpent God of Wind",
       "client": "Guild Master Hojo",
       "description": "Hunter, the Rampage approaches, roused by the Wind Serpent. Our village defenders will target Ibushi and lure it out to the Stronghold, where you'll be waiting. And then it's all up to you. Johoho! We're counting on you, now!",
@@ -1703,9 +2437,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "6",
       "objective": "Repel Ibushi",
-      "targets": ["Wind Serpent Ibushi"]
+      "targets": [
+        "Wind Serpent Ibushi"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00ec"
+      },
       "name": "It's Gonna Get You!",
       "client": "Young Prankster",
       "description": "Mom always says, \"If you don't behave, the snow demon from the Frost Islands is gonna come and gobble you up!\" Yeah, right! There's no snow demon out there! ...Is there? Uh, on second thought, maybe you could go check for me?",
@@ -1715,9 +2454,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "7",
       "objective": "Hunt a Goss Harag",
-      "targets": ["Goss Harag"]
+      "targets": [
+        "Goss Harag"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00ed"
+      },
       "name": "Clad in Hellfire",
       "client": "Armored Hunter",
       "description": "What an embarrassment. My best armor was about as effective as wet paper against Magnamalo. I tell ya, that hellfire is a one-way ticket back to camp... I guess I need to hit up the Smithy again. Think you can finish up the quest for me?",
@@ -1727,21 +2471,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "7",
       "objective": "Hunt a Magnamalo",
-      "targets": ["Magnamalo"]
+      "targets": [
+        "Magnamalo"
+      ]
     },
     {
-      "name": "A Muddy Invitation",
-      "client": "Mud-caked Felyne",
-      "description": "Just look at me... Yuck! Covered from head to tail in mud. Meow I have to take a bath with Meowster... And you know Felynes hate baths! Can you go take care of that nasty creature while I go scrub Meowster's back?",
-      "map": "Flooded Forest",
-      "isKey": true,
-      "questType": "Hub",
-      "game": "Monster Hunter Rise",
-      "difficulty": "7",
-      "objective": "Hunt a Almudron",
-      "targets": ["Almudron"]
-    },
-    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00ee"
+      },
       "name": "Subterranean Disturbances",
       "client": "Nearby Village's Elder",
       "description": "We've recently been getting earthquakes, as if something is shuffling beneath our feet. Everyone's scared and rightly so! It's hard enough trying to keep it together when we can barely keep things on the shelves!",
@@ -1751,9 +2488,31 @@
       "game": "Monster Hunter Rise",
       "difficulty": "7",
       "objective": "Hunt a Diablos",
-      "targets": ["Diablos"]
+      "targets": [
+        "Diablos"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00ef"
+      },
+      "name": "A Muddy Invitation",
+      "client": "Mud-caked Felyne",
+      "description": "Just look at me... Yuck! Covered from head to tail in mud. Meow I have to take a bath with Meowster... And you know Felynes hate baths! Can you go take care of that nasty creature while I go scrub Meowster's back?",
+      "map": "Flooded Forest",
+      "isKey": true,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Hunt a Almudron",
+      "targets": [
+        "Almudron"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00f0"
+      },
       "name": "A Resounding Roar",
       "client": "Sandy Plains Trader",
       "description": "Did you hear that? It was that Tigrex! That monster's invaded the Plains and has been hollerin' up a storm ever since. Now all our Popo are spooked and won't budge. Can't blame 'em...they are a Tigrex's favorite snack. Please, Hunter. You gotta help us out!",
@@ -1763,9 +2522,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "7",
       "objective": "Hunt a Tigrex",
-      "targets": ["Tigrex"]
+      "targets": [
+        "Tigrex"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00f1"
+      },
       "name": "Evil Afoot",
       "client": "Unnerved Traveler",
       "description": "A d-d-demon, I tell you! A demon! No one's safe with that thing around! No one! The Felynes, the dango, the twins—ME! Oh my Gog! ME! I'm not safe! AHHHHHH! Hunter! What are you doing!? Go get rid of that thing!",
@@ -1775,9 +2539,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "7",
       "objective": "Hunt a Rajang",
-      "targets": ["Rajang"]
+      "targets": [
+        "Rajang"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00f2"
+      },
       "name": "Can't Kill It with Fire",
       "client": "Guild Master Hojo",
       "description": "Rakna-Kadaki inhabit a select few regions, and yet one has just been sighted in the Lava Caverns... I just don't get it-get it! All of this strange activity around the region. And now Minoto is acting strange as well...",
@@ -1787,9 +2556,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "7",
       "objective": "Hunt a Rakna-Kadaki",
-      "targets": ["Rakna-Kadaki"]
+      "targets": [
+        "Rakna-Kadaki"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00f3"
+      },
       "name": "Serpent Goddess of Thunder",
       "client": "Guild Master Hojo",
       "description": "At last! The chance to end this miserable calamity is at hand! You must defeat Thunder Serpent Narwa once and for all! Hunter of Kamura, go and be victorious! I and the rest of your family are awaiting your triumphant return!",
@@ -1799,9 +2573,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "7",
       "objective": "Slay the Thunder Serpent Narwa",
-      "targets": ["Thunder Serpent Narwa"]
+      "targets": [
+        "Thunder Serpent Narwa"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00f4"
+      },
       "name": "Seared Situation",
       "client": "Yomogi the Chef",
       "description": "Bunny Dango slow-cooked over lava: sounds super yummy, right!? I was gonna go out to the Lava Caverns to try it out... WAS until I heard there was a Rathalos and Magnamalo. How rude! Could you go get rid of them please!?",
@@ -1811,21 +2590,15 @@
       "game": "Monster Hunter Rise",
       "difficulty": "7",
       "objective": "Hunt a Rathalos and Magnamalo",
-      "targets": ["Rathalos", "Magnamalo"]
+      "targets": [
+        "Rathalos",
+        "Magnamalo"
+      ]
     },
     {
-      "name": "A Quartet of Horns",
-      "client": "Yomogi the Chef",
-      "description": "UGH! I was gathering herbs for my new menu out in the Sandy Plains, and guess what? Two dumb Diablos showed up to stab my lunch dango on their horns! Grr, I want payback on those jerks!",
-      "map": "Sandy Plains",
-      "isKey": false,
-      "questType": "Hub",
-      "game": "Monster Hunter Rise",
-      "difficulty": "7",
-      "objective": "Hunt 2 Diablos",
-      "targets": ["Diablos", "Diablos"]
-    },
-    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00f5"
+      },
       "name": "Ruckus in the Ruins",
       "client": "Bewildered Girl",
       "description": "Whoa! It is TOTALLY going down right now in the Shrine Ruins! One minute there's mud everywhere. Then the next, there's bubbles everywhere. Mud. Bubbles. Mud! Bubbles! I think you need to go out and clean up this mess!",
@@ -1835,33 +2608,33 @@
       "game": "Monster Hunter Rise",
       "difficulty": "7",
       "objective": "Hunt an Almudron and a Mizutsune",
-      "targets": ["Almudron", "Mizutsune"]
+      "targets": [
+        "Almudron",
+        "Mizutsune"
+      ]
     },
     {
-      "name": "A Frosty Stalemate",
-      "client": "Returning Villager",
-      "description": "Hey, um, sorry to interrupt you, but I think there's something out in the Frost Islands that \"may\" need your attention. These two monsters have been going at it for a while now and it seems to be getting worse. Just, uh, thought you should know.",
-      "map": "Frost Islands",
-      "isKey": false,
-      "questType": "Hub",
-      "game": "Monster Hunter Rise",
-      "difficulty": "7",
-      "objective": "Hunt a Goss Harag and a Tetranadon",
-      "targets": ["Almudron", "Mizutsune"]
-    },
-    {
-      "name": "Fought, Failed, Fired Up",
-      "client": "Warrior in Training",
-      "description": "*sigh* I took on a Diablos and failed... I took on an Anjanath—failed. I just can't anymore. How can it even be done? You've challenged all sorts of beasts, surely these are nothing to you. Maybe if I watch you defeat them, it'll rekindle the fire inside me.",
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00f6"
+      },
+      "name": "A Quartet of Horns",
+      "client": "Yomogi the Chef",
+      "description": "UGH! I was gathering herbs for my new menu out in the Sandy Plains, and guess what? Two dumb Diablos showed up to stab my lunch dango on their horns! Grr, I want payback on those jerks!",
       "map": "Sandy Plains",
       "isKey": false,
       "questType": "Hub",
       "game": "Monster Hunter Rise",
       "difficulty": "7",
-      "objective": "Hunt a Diablos and an Anjanath",
-      "targets": ["Diablos", "Anjanath"]
+      "objective": "Hunt 2 Diablos",
+      "targets": [
+        "Diablos",
+        "Diablos"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00f7"
+      },
       "name": "Occupational Hazards",
       "client": "Hapless Trader",
       "description": "I love when monsters keep destroying my carts and my livelihood—said no trader ever! First a Lagombi, then a Diablos, then two Volvidon, and NOW a Rajang and Zinogre! I just want, for once, to get from point A to point B without getting beat up by monsters!",
@@ -1871,9 +2644,15 @@
       "game": "Monster Hunter Rise",
       "difficulty": "7",
       "objective": "Hunt a Rajang and a Zinogre",
-      "targets": ["Rajang", "Zinogre"]
+      "targets": [
+        "Rajang",
+        "Zinogre"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00f8"
+      },
       "name": "Omnidirectional Threats",
       "client": "Plainly Dressed Lady",
       "description": "Hi, I'd like to speak to whoever is in charge here. Yes, I heard that there were two monsters in the Lava Caverns. This is completely unacceptable! If something is not done about this right away, I WILL be contacting the guild to file a complaint!",
@@ -1883,9 +2662,51 @@
       "game": "Monster Hunter Rise",
       "difficulty": "7",
       "objective": "Hunt a Rakna-Kadaki and a Khezu",
-      "targets": ["Rakna-Kadaki", "Khezu"]
+      "targets": [
+        "Rakna-Kadaki",
+        "Khezu"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00f9"
+      },
+      "name": "A Frosty Stalemate",
+      "client": "Returning Villager",
+      "description": "Hey, um, sorry to interrupt you, but I think there's something out in the Frost Islands that \"may\" need your attention. These two monsters have been going at it for a while now and it seems to be getting worse. Just, uh, thought you should know.",
+      "map": "Frost Islands",
+      "isKey": false,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Hunt a Goss Harag and a Tetranadon",
+      "targets": [
+        "Almudron",
+        "Mizutsune"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00fa"
+      },
+      "name": "Fought, Failed, Fired Up",
+      "client": "Warrior in Training",
+      "description": "*sigh* I took on a Diablos and failed... I took on an Anjanath—failed. I just can't anymore. How can it even be done? You've challenged all sorts of beasts, surely these are nothing to you. Maybe if I watch you defeat them, it'll rekindle the fire inside me.",
+      "map": "Sandy Plains",
+      "isKey": false,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Hunt a Diablos and an Anjanath",
+      "targets": [
+        "Diablos",
+        "Anjanath"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00fb"
+      },
       "name": "A Whirlwind of a Stage",
       "client": "Eccentric Writer",
       "description": "I've been suffering from a severe case of writer's block, so I asked an acquaintance of mine to set up a grand stage performance. All you have to do, Hunter, is play your part, and surely I will find the inspiration I need to finish my romance novel!",
@@ -1895,9 +2716,16 @@
       "game": "Monster Hunter Rise",
       "difficulty": "7",
       "objective": "Hunt all target monsters",
-      "targets": ["Tobi-Kadachi", "Nargacuga", "Tigrex"]
+      "targets": [
+        "Tobi-Kadachi",
+        "Nargacuga",
+        "Tigrex"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00fc"
+      },
       "name": "Ancient Illusion",
       "client": "Guild Master Hojo",
       "description": "A Chameleos has shown itself— hmmm...no. A Chameleos has appeared—*sigh* A Chameleos has been spot—We know it's out there! Go hunt the cursed thing before it unleashes toadal chaos! Now, hop to it-to it!",
@@ -1907,9 +2735,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "7",
       "objective": "Slay a Chameleos",
-      "targets": ["Chameleos"]
+      "targets": [
+        "Chameleos"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00fd"
+      },
       "name": "The Steely Storm",
       "client": "Guild Master Hojo",
       "description": "Johoho! This quest will just \"blow\" your socks off, Hunter! *ahem* Pardon me! The Kushala Daora is an elder dragon shrouded in mystery. How they are able to summon tempests simply, joho, \"blows\" our mind! Johoho! *ahem*",
@@ -1919,9 +2752,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "7",
       "objective": "Slay a Kushala Daora",
-      "targets": ["Kushala Daora"]
+      "targets": [
+        "Kushala Daora"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00fe"
+      },
       "name": "The Emperor of Flame",
       "client": "Guild Master Hojo",
       "description": "A Teostra has been spotted in the Lava Caverns. Wreathed in flame, Teostra are of such a fierce and deadly nature that the Guild keeps track of their movements whenever possible. You must leap into action at once and extinguish this threat!",
@@ -1931,9 +2769,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "7",
       "objective": "Slay a Teostra",
-      "targets": ["Teostra"]
+      "targets": [
+        "Teostra"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b00ff"
+      },
       "name": "A Blaze Among Beasts",
       "client": "Fugen the Elder",
       "description": "Got a real challenge here for ya, Squirt! Bwahaha! Look at those ears perk up! I knew it'd be right up your alley! Best these beasties and ol' Fugen will give ya a new Petalace. Sounds good, don't it!? Now go get to it!",
@@ -1943,21 +2786,16 @@
       "game": "Monster Hunter Rise",
       "difficulty": "7",
       "objective": "Hunt all target monsters",
-      "targets": ["Rathian", "Tigrex", "Rakna-Kadaki"]
+      "targets": [
+        "Rathian",
+        "Tigrex",
+        "Rakna-Kadaki"
+      ]
     },
     {
-      "name": "May Fire Quell Fury",
-      "client": "Fugen the Elder",
-      "description": "Bein' flexible in any situation's the mark of a true hunter, and I've got just the quest to test ya! If you can capture me a Rajang, you pass—and ya get yourself a new Petalace too! Now, go get to it!",
-      "map": "Frost Islands",
-      "isKey": false,
-      "questType": "Hub",
-      "game": "Monster Hunter Rise",
-      "difficulty": "7",
-      "objective": "Capture a Rajang",
-      "targets": ["Rajang"]
-    },
-    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0100"
+      },
       "name": "Death From Above",
       "client": "Mid-tier Hunter",
       "description": "I've never seen anything like it! From the skies I heard a distant roar and then \"it\" came. Like hell falling from the heavens, fire rained down, scorching the earth. Time almost stood still as everything around me was consumed by flame.",
@@ -1967,33 +2805,31 @@
       "game": "Monster Hunter Rise",
       "difficulty": "7",
       "objective": "Hunt a Bazelgeuse",
-      "targets": ["Bazelgeuse"]
+      "targets": [
+        "Bazelgeuse"
+      ]
     },
     {
-      "name": "Return of the Bazelgeuse",
-      "client": "Nearby Village's Militia",
-      "description": "That cursed thing has returned! And with it, fire and destruction! Where it will strike next, we do not know. All we can do is follow the trail of devastation it has left behind. Hunter we ask that you stop this terror from the skies!",
-      "map": "Shrine Ruins",
-      "isKey": false,
-      "questType": "Hub",
-      "game": "Monster Hunter Rise",
-      "difficulty": "7",
-      "objective": "Hunt a Bazelgeuse",
-      "targets": ["Bazelgeuse"]
-    },
-    {
-      "name": "Return of the Bazelgeuse",
-      "client": "Nearby Village's Militia",
-      "description": "That cursed thing has returned! And with it, fire and destruction! Where it will strike next, we do not know. All we can do is follow the trail of devastation it has left behind. Hunter we ask that you stop this terror from the skies!",
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0101"
+      },
+      "name": "May Fire Quell Fury",
+      "client": "Fugen the Elder",
+      "description": "Bein' flexible in any situation's the mark of a true hunter, and I've got just the quest to test ya! If you can capture me a Rajang, you pass—and ya get yourself a new Petalace too! Now, go get to it!",
       "map": "Frost Islands",
       "isKey": false,
       "questType": "Hub",
       "game": "Monster Hunter Rise",
       "difficulty": "7",
-      "objective": "Hunt a Bazelgeuse",
-      "targets": ["Bazelgeuse"]
+      "objective": "Capture a Rajang",
+      "targets": [
+        "Rajang"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0102"
+      },
       "name": "Return of the Bazelgeuse",
       "client": "Nearby Village's Militia",
       "description": "That cursed thing has returned! And with it, fire and destruction! Where it will strike next, we do not know. All we can do is follow the trail of devastation it has left behind. Hunter we ask that you stop this terror from the skies!",
@@ -2003,21 +2839,31 @@
       "game": "Monster Hunter Rise",
       "difficulty": "7",
       "objective": "Hunt a Bazelgeuse",
-      "targets": ["Bazelgeuse"]
+      "targets": [
+        "Bazelgeuse"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0103"
+      },
       "name": "Return of the Bazelgeuse",
       "client": "Nearby Village's Militia",
       "description": "That cursed thing has returned! And with it, fire and destruction! Where it will strike next, we do not know. All we can do is follow the trail of devastation it has left behind. Hunter we ask that you stop this terror from the skies!",
-      "map": "Lava Caverns",
+      "map": "Shrine Ruins",
       "isKey": false,
       "questType": "Hub",
       "game": "Monster Hunter Rise",
       "difficulty": "7",
       "objective": "Hunt a Bazelgeuse",
-      "targets": ["Bazelgeuse"]
+      "targets": [
+        "Bazelgeuse"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0104"
+      },
       "name": "The Avaricious Apex Arzuros",
       "client": "Hiking Enthusiast",
       "description": "I've spent a lot time hiking through the Ruins and I've seen more than my share of Arzuros... But the one I saw earlier was no ordinary Arzuros. I think this one was of those Apex monsters I've heard about. And if it was I won't be taking any more hiking trips through the Ruins anytime soon.",
@@ -2027,9 +2873,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "7",
       "objective": "Hunt an Apex Arzuros",
-      "targets": ["Apex Arzuros"]
+      "targets": [
+        "Apex Arzuros"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0105"
+      },
       "name": "The Graceful Apex Rathian",
       "client": "Ditzy Hunter",
       "description": "I TOTALLY thought that Rathian was 'bout done for, 'cause it looked like, SUPER beat up. But then it got mad, and it was, like, soooo STRONG! Like, what even is its problem, y'know? Anyway, can you hunt it for me? Thaaanks!",
@@ -2039,9 +2890,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "7",
       "objective": "Hunt an Apex Rathian",
-      "targets": ["Apex Rathian"]
+      "targets": [
+        "Apex Rathian"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0106"
+      },
       "name": "The Harlequin Apex Mizutsune",
       "client": "Austere Maid",
       "description": "Good evening, Master Hunter. I hate to disturb you in this late hour, but I have received word that an Apex Mizutsune was spotted along my employer's route home. I ask that you guarantee his safe return.",
@@ -2051,9 +2907,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "7",
       "objective": "Hunt an Apex Mizutsune",
-      "targets": ["Apex Mizutsune"]
+      "targets": [
+        "Apex Mizutsune"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0107"
+      },
       "name": "Master Utsushi's Challenge Part 1",
       "client": "Master Utushi",
       "description": "Yo, Ace! You've been making some totally gnarly progress recently! Does a man good to see his pupil train so hard! In fact, let's kick it up a notch! Got just the quest for you, and it's a real banger!",
@@ -2063,21 +2924,15 @@
       "game": "Monster Hunter Rise",
       "difficulty": "7",
       "objective": "Hunt a Almudron and a Zinogre",
-      "targets": ["Almudron", "Zinogre"]
+      "targets": [
+        "Almudron",
+        "Zinogre"
+      ]
     },
     {
-      "name": "Master Utsushi's Challenge Part 2",
-      "client": "Master Utushi",
-      "description": "Yo, Ace! You've been making some totally gnarly progress recently! Does a man good to see his pupil train so hard! In fact, let's kick this up a notch! Got just the quest for you, and it's a real banger!",
-      "map": "Frost Islands",
-      "isKey": false,
-      "questType": "Hub",
-      "game": "Monster Hunter Rise",
-      "difficulty": "7",
-      "objective": "Hunt a Goss Harag and a Rajang",
-      "targets": ["Goss Harag", "Rajang"]
-    },
-    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0108"
+      },
       "name": "Master Utsushi's Challenge Part 3",
       "client": "Master Utushi",
       "description": "Yo, Ace! You've been making some totally gnarly progress recently! Does a man good to see his pupil train so hard! In fact, let's kick this up a notch! Got just the quest for you, and it's a real banger!",
@@ -2087,9 +2942,15 @@
       "game": "Monster Hunter Rise",
       "difficulty": "7",
       "objective": "Hunt a Magnamalo and a Nargacuga",
-      "targets": ["Magnamalo", "Nargacuga"]
+      "targets": [
+        "Magnamalo",
+        "Nargacuga"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0109"
+      },
       "name": "Arena 01",
       "client": "Master Utushi",
       "description": "Yo, Ace! Ready for some awesome Arena action!? Prove your mettle using the equipment provided here!",
@@ -2099,33 +2960,48 @@
       "game": "Monster Hunter Rise",
       "difficulty": "1",
       "objective": "Slay a Kulu-Ya-Ku",
-      "targets": ["Kulu-Ya-Ku"]
+      "targets": [
+        "Kulu-Ya-Ku"
+      ]
     },
     {
-      "name": "Arena 02",
-      "client": "Master Utushi",
-      "description": "Yo, Ace! Ready for some awesome Arena action!? Prove your mettle using the equipment provided here!",
-      "map": "Arena",
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b010a"
+      },
+      "name": "Return of the Bazelgeuse",
+      "client": "Nearby Village's Militia",
+      "description": "That cursed thing has returned! And with it, fire and destruction! Where it will strike next, we do not know. All we can do is follow the trail of devastation it has left behind. Hunter we ask that you stop this terror from the skies!",
+      "map": "Lava Caverns",
       "isKey": false,
-      "questType": "Arena",
+      "questType": "Hub",
       "game": "Monster Hunter Rise",
-      "difficulty": "2",
-      "objective": "Slay a Barroth",
-      "targets": ["Barroth"]
+      "difficulty": "7",
+      "objective": "Hunt a Bazelgeuse",
+      "targets": [
+        "Bazelgeuse"
+      ]
     },
     {
-      "name": "Arena 03",
-      "client": "Master Utushi",
-      "description": "Yo, Ace! Ready for some awesome Arena action!? Prove your mettle using the equipment provided here!",
-      "map": "Flooded Forest",
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b010b"
+      },
+      "name": "Return of the Bazelgeuse",
+      "client": "Nearby Village's Militia",
+      "description": "That cursed thing has returned! And with it, fire and destruction! Where it will strike next, we do not know. All we can do is follow the trail of devastation it has left behind. Hunter we ask that you stop this terror from the skies!",
+      "map": "Frost Islands",
       "isKey": false,
-      "questType": "Arena",
+      "questType": "Hub",
       "game": "Monster Hunter Rise",
-      "difficulty": "3",
-      "objective": "Slay a Royal Ludroth and a Nargacuga",
-      "targets": ["Royal Ludroth", "Nargacuga"]
+      "difficulty": "7",
+      "objective": "Hunt a Bazelgeuse",
+      "targets": [
+        "Bazelgeuse"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b010c"
+      },
       "name": "Arena 04",
       "client": "Master Utushi",
       "description": "Yo, Ace! Ready for some awesome Arena action!? Prove your mettle using the equipment provided here!",
@@ -2135,9 +3011,14 @@
       "game": "Monster Hunter Rise",
       "difficulty": "6",
       "objective": "Slay a Barioth",
-      "targets": ["Barioth"]
+      "targets": [
+        "Barioth"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b010d"
+      },
       "name": "Arena 05",
       "client": "Master Utushi",
       "description": "Yo, Ace! Ready for some awesome Arena action!? Prove your mettle using the equipment provided here!",
@@ -2147,21 +3028,32 @@
       "game": "Monster Hunter Rise",
       "difficulty": "7",
       "objective": "Slay a Rajang",
-      "targets": ["Rajang"]
+      "targets": [
+        "Rajang"
+      ]
     },
     {
-      "name": "Arena 06",
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b010e"
+      },
+      "name": "Master Utsushi's Challenge Part 2",
       "client": "Master Utushi",
-      "description": "Yo, Ace! Ready for some awesome Arena action!? Prove your mettle using the equipment provided here!",
-      "map": "Lava Caverns",
+      "description": "Yo, Ace! You've been making some totally gnarly progress recently! Does a man good to see his pupil train so hard! In fact, let's kick this up a notch! Got just the quest for you, and it's a real banger!",
+      "map": "Frost Islands",
       "isKey": false,
-      "questType": "Arena",
+      "questType": "Hub",
       "game": "Monster Hunter Rise",
       "difficulty": "7",
-      "objective": "Slay a Volvidon, a Basarios, and a Bazelgeuse",
-      "targets": ["Volvidon", "Basarios", "Bazelgeuse"]
+      "objective": "Hunt a Goss Harag and a Rajang",
+      "targets": [
+        "Goss Harag",
+        "Rajang"
+      ]
     },
     {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b010f"
+      },
       "name": "Out of Sight, Out of Mind's Eye",
       "client": "Darkly Garbed Elder",
       "description": "After the most brutal training, I have become one with the shadows and achieved enlightenment. However, a Tetranadon hinders my training. I will bestow my wisdom upon any who can defeat it.",
@@ -2171,7 +3063,63 @@
       "game": "Monster Hunter Rise",
       "difficulty": "6",
       "objective": "Slay a Tetranadon",
-      "targets": ["Tetranadon"]
+      "targets": [
+        "Tetranadon"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0110"
+      },
+      "name": "Arena 06",
+      "client": "Master Utushi",
+      "description": "Yo, Ace! Ready for some awesome Arena action!? Prove your mettle using the equipment provided here!",
+      "map": "Lava Caverns",
+      "isKey": false,
+      "questType": "Arena",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Slay a Volvidon, a Basarios, and a Bazelgeuse",
+      "targets": [
+        "Volvidon",
+        "Basarios",
+        "Bazelgeuse"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0111"
+      },
+      "name": "Arena 03",
+      "client": "Master Utushi",
+      "description": "Yo, Ace! Ready for some awesome Arena action!? Prove your mettle using the equipment provided here!",
+      "map": "Flooded Forest",
+      "isKey": false,
+      "questType": "Arena",
+      "game": "Monster Hunter Rise",
+      "difficulty": "3",
+      "objective": "Slay a Royal Ludroth and a Nargacuga",
+      "targets": [
+        "Royal Ludroth",
+        "Nargacuga"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0112"
+      },
+      "name": "Arena 02",
+      "client": "Master Utushi",
+      "description": "Yo, Ace! Ready for some awesome Arena action!? Prove your mettle using the equipment provided here!",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Arena",
+      "game": "Monster Hunter Rise",
+      "difficulty": "2",
+      "objective": "Slay a Barroth",
+      "targets": [
+        "Barroth"
+      ]
     }
   ]
 }
