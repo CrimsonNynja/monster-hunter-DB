@@ -2088,6 +2088,78 @@
       "difficulty": "7",
       "objective": "Hunt a Magnamalo and a Nargacuga",
       "targets": ["Magnamalo", "Nargacuga"]
+    },
+    {
+      "name": "Arena 01",
+      "client": "Master Utushi",
+      "description": "Yo, Ace! Ready for some awesome Arena action!? Prove your mettle using the equipment provided here!",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Arena",
+      "game": "Monster Hunter Rise",
+      "difficulty": "1",
+      "objective": "Slay a Kulu-Ya-Ku",
+      "targets": ["Kulu-Ya-Ku"]
+    },
+    {
+      "name": "Arena 02",
+      "client": "Master Utushi",
+      "description": "Yo, Ace! Ready for some awesome Arena action!? Prove your mettle using the equipment provided here!",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Arena",
+      "game": "Monster Hunter Rise",
+      "difficulty": "2",
+      "objective": "Slay a Barroth",
+      "targets": ["Barroth"]
+    },
+    {
+      "name": "Arena 03",
+      "client": "Master Utushi",
+      "description": "Yo, Ace! Ready for some awesome Arena action!? Prove your mettle using the equipment provided here!",
+      "map": "Flooded Forest",
+      "isKey": false,
+      "questType": "Arena",
+      "game": "Monster Hunter Rise",
+      "difficulty": "3",
+      "objective": "Slay a Royal Ludroth and a Nargacuga",
+      "targets": ["Royal Ludroth", "Nargacuga"]
+    },
+    {
+      "name": "Arena 04",
+      "client": "Master Utushi",
+      "description": "Yo, Ace! Ready for some awesome Arena action!? Prove your mettle using the equipment provided here!",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Arena",
+      "game": "Monster Hunter Rise",
+      "difficulty": "6",
+      "objective": "Slay a Barioth",
+      "targets": ["Barioth"]
+    },
+    {
+      "name": "Arena 05",
+      "client": "Master Utushi",
+      "description": "Yo, Ace! Ready for some awesome Arena action!? Prove your mettle using the equipment provided here!",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Arena",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Slay a Rajang",
+      "targets": ["Rajang"]
+    },
+    {
+      "name": "Arena 06",
+      "client": "Master Utushi",
+      "description": "Yo, Ace! Ready for some awesome Arena action!? Prove your mettle using the equipment provided here!",
+      "map": "Lava Caverns",
+      "isKey": false,
+      "questType": "Arena",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Slay a Volvidon, a Basarios, and a Bazelgeuse",
+      "targets": ["Volvidon", "Basarios", "Bazelgeuse"]
     }
   ]
 }
