@@ -2160,6 +2160,18 @@
       "difficulty": "7",
       "objective": "Slay a Volvidon, a Basarios, and a Bazelgeuse",
       "targets": ["Volvidon", "Basarios", "Bazelgeuse"]
+    },
+    {
+      "name": "Out of Sight, Out of Mind's Eye",
+      "client": "Darkly Garbed Elder",
+      "description": "After the most brutal training, I have become one with the shadows and achieved enlightenment. However, a Tetranadon hinders my training. I will bestow my wisdom upon any who can defeat it.",
+      "map": "Lava Caverns",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter Rise",
+      "difficulty": "6",
+      "objective": "Slay a Tetranadon",
+      "targets": ["Tetranadon"]
     }
   ]
 }
