@@ -3383,6 +3383,150 @@
       "game": "Monster Hunter 3 Ultimate",
       "difficulty": "1",
       "objective": "Deliver 8 Red Coral Stones"
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0120"
+      },
+      "name": "Harvest Tour: Sandy Plains",
+      "client": "Felyne Tour Guide",
+      "description": "Everyone here, nya? Welcome to the Sandy Plains Harvest Tour, where we'll witness the purrfect beauty of the desert. After two minutes, you can grab a Paw Pass Ticket for safe and easy passage home.",
+      "map": "Sandy Plains",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "2",
+      "objective": "Deliver a Paw Pass Ticket"
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0121"
+      },
+      "name": "Bug Hunt",
+      "client": "Brainy Biologist",
+      "description": "I'm considering writing a book about Altaroth in this area, Surely, even illiterate brutes like you hunters have noticed the large size and peculiar traits of these insects. Come, assist in my research!",
+      "map": "Deserted Island",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "2",
+      "objective": "Slay 12 Altaroth",
+      "targets": [
+        "Altaroth"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0122"
+      },
+      "name": "My Lord's Errand",
+      "client": "Reticent Bodyguard",
+      "description": "Grim tidings. An Arzuros has been seen roaming the Deserted Island. Its appearance is ill timed with my lord's visit, for he is not a spry as he once was. Good hunter, vanguish the Arzuros for the sake of my graybeard liege.",
+      "map": "Deserted Island",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "2",
+      "objective": "Hunt 1 Arzuros",
+      "targets": [
+        "Arzuros"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0123"
+      },
+      "name": "Bear Trap",
+      "client": "Sunbaked Fisherman",
+      "description": "A while back, I happened across an Arzuros catching fish in the river. Talk about the one that got away! If we could somehow capture it, I reckon I could use its materials to whip up some fancy fishing gear.",
+      "map": "Deserted Island",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "2",
+      "objective": "Capture 1 Arzuros",
+      "targets": [
+        "Arzuros"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0124"
+      },
+      "name": "Who's The Boss?",
+      "client": "Brainy Biologist",
+      "description": "We know there are - to use a layman's term - \"bosses\" within Jaggi's herds, but we still have much to learn of their social hierarchy. If you could just obtain a Jaggi leader specimen for me...",
+      "map": "Deserted Island",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "2",
+      "objective": "Capture a Great Jaggi",
+      "targets": [
+        "Great Jaggi"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0125"
+      },
+      "name": "No Love for Ludroth!",
+      "client": "Ex-Caravan Sentry",
+      "description": "I gets riled up just thinkin' about it! Some stupid Ludroth beats me- and I gets fired over it! How was I supposed ta know d'em cute beasties packed such a wallop? How's about you go wallop 'em back for me?",
+      "map": "Deserted Island",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "2",
+      "objective": "Slay 6 Ludroth",
+      "targets": [
+        "Ludroth"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0126"
+      },
+      "name": "Pain in the Plains",
+      "client": "Injured Villager",
+      "description": "Not only did that beast whup all us villagers with its army of Jaggi - now it's traipsing around the Sandy Plains like it owns the joint. Insult to injury, that is! Time to call in a professional. Meaning you!",
+      "map": "Sandy Plains",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "2",
+      "objective": "Hunt 1 Great Jaggi",
+      "targets": [
+        "Great Jaggi"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0127"
+      },
+      "name": "Secret of the Crystal Bones",
+      "client": "Archeologist",
+      "description": "You brawny hunter-types scoff at my studies of crystallized bones. Hmph! They have much to say about life in the far past and the mysteries of today! My progress has stalled here on the frontier. You must help!",
+      "map": "Sandy Plains",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "2",
+      "objective": "Deliver 4 Crystal Bones"
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0128"
+      },
+      "name": "No Guts, No Glory",
+      "client": "Caravan Leader",
+      "description": "Delex attack in packs and are mean as all get out, but their innards make right good trail chow. I reckon takin' them down is like killin' two Vespoids with one stone, eh? Now git along, little hunter.",
+      "map": "Sandy Plains",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "2",
+      "objective": "Deliver 3 Monster Guts"
     }
   ]
 }
