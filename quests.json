@@ -3527,6 +3527,170 @@
       "game": "Monster Hunter 3 Ultimate",
       "difficulty": "2",
       "objective": "Deliver 3 Monster Guts"
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0129"
+      },
+      "name": "Harvest Tour: Flooded Forest",
+      "client": "Felyne Tour Guide",
+      "description": "Everyone here, nya? Welcome to the Flooded Forest Harvest Tour - a purrfect adventure through the trees! You'll receive a Paw Pass Ticket in two minutes for safe, easy passage home.",
+      "map": "Flooded Forest",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "3",
+      "objective": "Deliver a Paw Pass Ticket"
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b012a"
+      },
+      "name": "Trapping a Trickster",
+      "client": "Newbie Hunter",
+      "description": "No, no, no! I was so close to catching it! And then, I heard this freaky call and - bam! Foiled again! You think you're such a hot hunter, you try catching this sly guy!",
+      "map": "Deserted Island",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "3",
+      "objective": "Capture 1 Qurupeco",
+      "targets": [
+        "Qurupeco"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b012b"
+      },
+      "name": "A Royal Pain",
+      "client": "Lord's Beloved Daughter",
+      "description": "Anyone who's anyone in high society has a pet Royal Ludroth. They're so orange! So squishy! I absolutely must have one! Do TRY not to hurt it badly, you brute. I suppose a few minor scrapes are acceptable...",
+      "map": "Deserted Island",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "3",
+      "objective": "Capture 1 Royal Ludroth",
+      "targets": [
+        "Royal Ludroth"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b012c"
+      },
+      "name": "Playing with Fire",
+      "client": "Red-cheeked Huntress",
+      "description": "I ran into this saucy little wyvern in the Sandy Plains. Before I knew it, my derriere was on fire! We can't have perverted monsters assaulting women! I want payback... And you're gonna help me get it!",
+      "map": "Sandy Plains",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "3",
+      "objective": "Hunt 1 Qurupeco",
+      "targets": [
+        "Qurupeco"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b01d"
+      },
+      "name": "Leading the Charge",
+      "client": "Brainy Biologist",
+      "description": "I've read reports of an intriguing monster in the Sandy Plains... Apparently, weak weapons bounce off its tough hide, and the beast sometimes destroys anthills when it charges. Fascinating!",
+      "map": "Sandy Plains",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "3",
+      "objective": "Hunt 1 Barroth",
+      "targets": [
+        "Barroth"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b01e"
+      },
+      "name": "Rhenoplos Rampage!",
+      "client": "Bandaged Boy",
+      "description": "Oww... I was out digging for fossils, minding my own business, when this... rock-looking thing hit me where the sun don't shine. The Medicine Man says I can't sit down for a month! Avenge my rear-end!",
+      "map": "Sandy Plains",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "3",
+      "objective": "Slay 6 Rhenoplos",
+      "targets": [
+        "Rhenoplos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b020"
+      },
+      "name": "Herbivore Egg Hunt!",
+      "client": "Newlywed Wife",
+      "description": "I want to make family recipe for my tubby hubby, but I'm missing the secret ingredient. (*Psst* It's Herbivore Eggs!) Bring me some, please. You'll find them in the Sandy Plains, under that tree in the oasis.",
+      "map": "Sandy Plains",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "3",
+      "objective": "Deliver 2 Herbivore Eggs"
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b021"
+      },
+      "name": "Toxic Troublemaker",
+      "client": "Brash Explorer",
+      "description": "No sooner had I stepped through the foliage than I spied the creature, standing in a sea of orange beasts. Sure, I could've handled it easy enough, but why hog all the fun? Have at it, hunter!",
+      "map": "Flooded Forest",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "3",
+      "objective": "Hunt 1 Great Wroggi",
+      "targets": [
+        "Great Wroggi"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b022"
+      },
+      "name": "Save Our Boat",
+      "client": "Fleet Captain",
+      "description": "The Lagiacrus scuttled our huntin' boat, and now we need parts from a Royal Ludroth to get her ship-shape. We just want to make Moga Village prosperous again -it's our duty as the local heroes!",
+      "map": "Flooded Forest",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "3",
+      "objective": "Hunt 1 Royal Ludroth",
+      "targets": [
+        "Royal Ludroth"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b023"
+      },
+      "name": "Pest Control",
+      "client": "Cattle Rancher",
+      "description": "Bnahabra keep moseyin' from the Flooded Forest and goin' after mah cattle. Spooks'em so bad their milk comes out already sour. Tastes terrible! Reckon you could take care o' them varmint, pardner?",
+      "map": "Flooded Forest",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "3",
+      "objective": "Slay 12 Bnahabra",
+      "targets": [
+        "Bnahabra"
+      ]
     }
   ]
 }
