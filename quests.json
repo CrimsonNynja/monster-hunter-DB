@@ -3296,6 +3296,93 @@
       "targets": [
         "Apex Arzuros"
       ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0114"
+      },
+      "name": "Harvest 'Shroom",
+      "client": "Clan Matriarch",
+      "description": "The fungi around here are no fun, but the Unique Mushrooms from the Deserted Island really satisfy! Be a dear and fetch me some. Ripened or Choice Mushrooms would be nice, too. I hear some 'shrooms will ripen when Altaroth eat 'em!",
+      "map": "Deserted Island",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "1",
+      "objective": "Deliver 3 Unique Mushroom"
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0115"
+      },
+      "name": "Farm Aid",
+      "client": "Old Farmer",
+      "description": "An omery herd of Jaggia's been ravagin' mah farm. The varmints come tearin' through an' eat up everything - roots and all. If you could head on out there ad snuff'em out on their own turf, I'd be much obliged.",
+      "map": "Deserted Island",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "1",
+      "objective": "Slay 5 Jaggia",
+      "targets": [
+        "Jaggia"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0116"
+      },
+      "name": "Guts: It's What's for Dinner",
+      "client": "Manor Cook",
+      "description": "Folks call my lord the \"Master of Inviting\" because of his big shindigs. He's throwing a full-moon banquet for the nobles, and I want to knock their fancy pants off. I need Epioth tripe, ASAP.",
+      "map": "Deserted Island",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "1",
+      "objective": "Deliver 3 Monster Guts"
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0117"
+      },
+      "name": "Prescription Pick-Up",
+      "client": "Medicine Man",
+      "description": "Constipation, backaches, performance anxiety - my patients are fallin' apart! Two Kelbi horns would cure 'em all. Just knock the Kelbi out; that makes it a snap to harvest they horns.",
+      "map": "Deserted Island",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "1",
+      "objective": "Deliver 2 Kelbi Horns"
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0118"
+      },
+      "name": "Goldenfish Opportunity",
+      "client": "Fish Fanboy",
+      "description": "I love fish so much my pals say I should marry one. Silly, huh? Goldenfish are the prettiest.. um, I mean best. Catch me three and I'll reward you well - maybe even invite you to the wedding... I'm kidding!",
+      "map": "Deserted Island",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "1",
+      "objective": "Deliver 3 Goldenfish"
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b0119"
+      },
+      "name": "Sunken Treasures",
+      "client": "Lovesick Kid",
+      "description": "I promised my lady a Red Coral Stone hair clip... but water scares me! Now I'm up Dung Creek without a paddle. Dive down and get me some Red Coral Stones so she won't find out I'm a fraidy Felyne!",
+      "map": "Deserted Island",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "1",
+      "objective": "Deliver 8 Red Coral Stones"
     }
   ]
 }
