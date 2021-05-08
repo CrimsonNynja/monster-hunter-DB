@@ -3691,6 +3691,202 @@
       "targets": [
         "Bnahabra"
       ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b024"
+      },
+      "name": "The Deadliest Catch",
+      "client": "Flooded Forest Guardian",
+      "description": "Gah! Now I know what it's like to drown on land! We ran into some rough critters the other day that tore the Flooded Forest Guard a new one! They don't pay me enough for this. You handle it!",
+      "map": "Flooded Forest",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "3",
+      "objective": "Slay 7 Ludroth",
+      "targets": [
+        "Ludroth"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b025"
+      },
+      "name": "Harvest Tour: Tundra",
+      "client": "Felyne Tour Guide",
+      "description": "Everyone here, nya? Welcome to the Tundra Harvest Tour. Hope your fur is thick! If you get cold and wanna quit, you'll receive a Paw Pass Ticket in two minutes. Use it for safe, easy passage home.",
+      "map": "Tundra",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "4",
+      "objective": "Deliver a Paw Pass Ticket"
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b026"
+      },
+      "name": "Dragon Lady",
+      "client": "Village Protector",
+      "description": "Egad! I'd heard rumors of Rathian sightings, but I never thought they'd be true. That thing's way too tough for my blood! Any warriors worth their swords out there? I beseech you: save our village!",
+      "map": "Deserted Island",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "4",
+      "objective": "Hunt 1 Rathian",
+      "targets": [
+        "Rathian"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b027"
+      },
+      "name": "Poached Wyvern Eggs",
+      "client": "Royal Cook",
+      "description": "I have an urgent request! If I do not serve Wyvern Eggs at the upcoming banquet, I'll be fired -- as in literally set on fire! Save me from becoming the main course and you'll be amply rewarded!",
+      "map": "Deserted Island",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "4",
+      "objective": "Deliver 2 Wyvern Eggs"
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b028"
+      },
+      "name": "Hunter Killer",
+      "client": "Wounded Hunter",
+      "description": "Listen to a hunter who knows! There's a Barroth and a Great Jaggi running wild on the Sandy Plains. No matter how good a hunter you think you are, you'd better stay away. It ain't worth your life!",
+      "map": "Sandy Plains",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "4",
+      "objective": "Hunt 1 Barroth and 1 Great Jaggi",
+      "targets": [
+        "Barroth",
+        "Great Jaggi"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b029"
+      },
+      "name": "A Royal Rumble",
+      "client": "Middle-aged Knight!",
+      "description": "Pardon my discretion in this matter, my good hunter, but my liege lord -- who shall remain nameless -- desires a Rathian of his own. I fear I am not up to the task, but I cannot refuse his request.",
+      "map": "Flooded Forest",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "4",
+      "objective": "Capture 1 Rathian",
+      "targets": [
+        "Rathian"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b02a"
+      },
+      "name": "Accident Investigation",
+      "client": "Trader",
+      "description": "It's hard to say exactly what happened... The fog was just so thick. I remember a flash, and then the ship cracked open. We lost every head of cattle! The culprit must be still out there... Mind taking a look?",
+      "map": "Flooded Forest",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "4",
+      "objective": "Hunt 1 Gobul",
+      "targets": [
+        "Gobul"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b02b"
+      },
+      "name": "The Snowbound Slider",
+      "client": "Eagle-eyed Observer",
+      "description": "(REPORT BEGINS) Lagombi spotted on the Tundra. (STOP) Requesting immediate support from all qualified hunters. (STOP) We are snowed in and cannot render assistance. (REPORT ENDS)",
+      "map": "Tundra",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "4",
+      "objective": "Hunt 1 Lagombi",
+      "targets": [
+        "Lagombi"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b02c"
+      },
+      "name": "Leader of the Icepack",
+      "client": "Tundra Expedition Leader",
+      "description": "To think those beasts had something like THAT leading them! Our bodyguard was useless! That does it - I'm putting our expedition on indefinite hiatus until someone takes this pack down!",
+      "map": "Tundra",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "4",
+      "objective": "Hunt 1 Great Baggi",
+      "targets": [
+        "Great Baggi"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b02d"
+      },
+      "name": "The Creeping Venom",
+      "client": "Cocky Hunter",
+      "description": "Look, I ain't no green trainee. I've been around! But I ain't never seen nothin' like THAT. I enter this cave and a second later this... this THING is covering me. Ugh! I'm getting too olf for this!",
+      "map": "Tundra",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "4",
+      "objective": "Hunt 1 Gigginox",
+      "targets": [
+        "Gigginox"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b02e"
+      },
+      "name": "Lost in Blue",
+      "client": "Tundra Expedition Member",
+      "description": "*Brr* I d-don't think I'll ever f-feel my n-nose agin. I thought they were r-regular Jaggi, but no. They immobilized us. And now my f-face has f-frostbite! Th-those monsters can't be allowed to run free!",
+      "map": "Tundra",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "4",
+      "objective": "Slay 20 Baggi",
+      "targets": [
+        "Baggi"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b02f"
+      },
+      "name": "Cold Stones",
+      "client": "Female Geologist",
+      "description": "I tell ya, the Tundra is really somethin'. It's like, the final frontier of excavation! Diggers like me wouldn't last five minutes in the cold, though, so I'm counting on you. Nab me 8 Bloodstones, hunter.",
+      "map": "Tundra",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "4",
+      "objective": "Deliver 8 Bloodstones"
     }
   ]
 }
