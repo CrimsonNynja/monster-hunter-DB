@@ -3887,6 +3887,255 @@
       "game": "Monster Hunter 3 Ultimate",
       "difficulty": "4",
       "objective": "Deliver 8 Bloodstones"
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b030"
+      },
+      "name": "Harvest Tour: Volcano",
+      "client": "Felyne Tour Guide",
+      "description": "Everyone here, nya? Welcome to the Volcano Harvest Tour. Keep an eye out for ore you can only find here! If you get too hot under the collar, you'll receive a Paw Pass Ticket in two minutes. Use it for safe, easy passage home.",
+      "map": "Volcano",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "5",
+      "objective": "Deliver a Paw Pass Ticket"
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b031"
+      },
+      "name": "Fell the Lagiacrus!",
+      "client": "Moga Village Chief",
+      "description": "You did good against the Lagiacrus, kid. Now  that ya got a taste of its power, it's time to seal the deal. This'll be the ultimate battle. I have to say, I'm almost jealous. Do us proud, kid.",
+      "map": "Deserted Island",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "5",
+      "objective": "Hunt a Lagiacrus",
+      "targets": [
+        "Lagiacrus"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b032"
+      },
+      "name": "The Desert Gourmand",
+      "client": "Master Cooper",
+      "description": "Oy! One minuite I was rattlin' along the Sandy Plains in me barrel buggy, mindin' me own lookout. And then, RAAARRR! Cart goes flyin' -- and me with it! What gives!? The barrel business is s'pposed ta be safe, by gum!",
+      "map": "Sandy Plains",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "5",
+      "objective": "Hunt a Nibelsnarf",
+      "targets": [
+        "Nibelsnarf"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b033"
+      },
+      "name": "The Lord of the Seas",
+      "client": "Ocenographer",
+      "description": "Dear hunter: Our institute has launched an intensive study of Lagiacrus, the Lord of the Seas. A live specimen would be a huge boon to our research. Are you willing to put your life on the line for marine science?",
+      "map": "Flooded Forest",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "5",
+      "objective": "Capture a Lagiacrus",
+      "targets": [
+        "Lagiacrus"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b034"
+      },
+      "name": "Hammer Time",
+      "client": "Yukumo Chieftess",
+      "description": "Heed my words, dear hunter, and you shall prevail. It is said that the Duramboros wields its tail like a hammer, swinging it hither and thither while pounding the earth. May your journey be a safe one, and may it end with a trophy.",
+      "map": "Flooded Forest",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "5",
+      "objective": "Hunt a Duramboros",
+      "targets": [
+        "Duramboros"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b035"
+      },
+      "name": "Walk 'N' Roll",
+      "client": "Village Storyteller",
+      "description": "Which four-legged beast is also a ball? What red roller sometimes struts its stuff? Why, it's the vicious Volvidon! See for yourself in the Volcano. Just don't let this ball toss you around!",
+      "map": "Volcano",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "5",
+      "objective": "Hunt a Volvidon",
+      "targets": [
+        "Volvidon"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b036"
+      },
+      "name": "Uragaan's Trail",
+      "client": "Brainy Biologist",
+      "description": "I've read of a large beast in the volcanic region with a prominent jaw. I could build a career around such a creature! Even a partial specimen would do. Get to gathering, hunter. Oh, my wit knows no rival.",
+      "map": "Volcano",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "5",
+      "objective": "Capture a Uragaan",
+      "targets": [
+        "Uragaan"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b037"
+      },
+      "name": "Heat Exhaustion",
+      "client": "City Armorer",
+      "description": "Powderstones hold concentrated volcanic energy. They pack enough heat to forge a monster carapace or hard minerals. Thing is, you can't make them, so I need you to fetch me some. Carrying them is the tricky part!",
+      "map": "Volcano",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "5",
+      "objective": "Deliver 2 Powderstones"
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b038"
+      },
+      "name": "The Decisive Battle",
+      "client": "Guild Headquaters",
+      "description": "[For top-class hunters only] Alert! The great sea drake Ceadeus has been sighted near the Deserted Island. We lack sufficient information to judge its strength. Hunters should put a stop to it, ASAP!",
+      "map": "Ruins",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "5",
+      "objective": "Slay or Repel a Ceadeus",
+      "targets": [
+        "Ceadeus"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b039"
+      },
+      "name": "The Wrath of Rathalos",
+      "client": "Princess of a Ruined Land",
+      "description": "I seek a hunter of unmatched valor to defeat the King of the Skies. Succeed and receive untold riches. Gathering halls across the land will echo with songs of your deed. Fail and you're on your own, buddy.",
+      "map": "Volcano",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "5",
+      "objective": "Hunt a Rathalos",
+      "targets": [
+        "Rathalos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b03a"
+      },
+      "name": "A Bard's Tale",
+      "client": "Wandering Bard",
+      "description": "Ever since I was a wee lad, tales of the phantom drake have entranced me... Finally, after a lifetime of searching, I've found the beast in the frozen wastes! Fair hunter, dare you challenge its might?",
+      "map": "Tundra",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "5",
+      "objective": "Hunt a Barioth",
+      "targets": [
+        "Barioth"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b03b"
+      },
+      "name": "The Horned Wyvern",
+      "client": "Watchtower Sentinal",
+      "description": "We guards are so scared we can't go back to work! We spotted a huge, two-horned beast in the desert -- a Diablos! That thing's way too dangerous to wander free. Please deal with it -- my career's at stake here!",
+      "map": "Sandy Plains",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "5",
+      "objective": "Hunt a Diablos",
+      "targets": [
+        "Diablos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b03c"
+      },
+      "name": "The Omen",
+      "client": "Shipmaster",
+      "description": "Saw it swoop down above the ship, we fif, with wings that blotted out the sun... 'Twas the King of the Skies, the flame drgon Rathalos, sure as I'm an old salt! We be needin' a hunter to kill this bad omen!",
+      "map": "Deserted Island",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "5",
+      "objective": "Hunt a Rathalos",
+      "targets": [
+        "Rathalos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b03d"
+      },
+      "name": "The Volcano's Fur",
+      "client": "Scarred Hunter",
+      "description": "Don't bother readin' any further unless you're a true hunter -- the type who loves that quiver in your guts when you're livin' on the razor's edge. Still with me? Go to the volcano. Somethin's wattin.",
+      "map": "Volcano",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "5",
+      "objective": "Hunt a Uragaan",
+      "targets": [
+        "Uragaan"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b03e"
+      },
+      "name": "Denizen of the Molten Deep",
+      "client": "Fire Country Chieftain",
+      "description": "The molten heart of the volcano beats with a fell beast. A once-rare wyvern stirs in the lava. Half of my countrymen have perished; the rest live in fear... Please, release my people from this terror!",
+      "map": "Volcano",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "5",
+      "objective": "Hunt an Agnaktor",
+      "targets": [
+        "Agnaktor"
+      ]
     }
   ]
 }
