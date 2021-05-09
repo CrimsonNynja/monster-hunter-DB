@@ -3396,7 +3396,7 @@
       "questType": "Village",
       "game": "Monster Hunter 3 Ultimate",
       "difficulty": "2",
-      "objective": "Deliver a Paw Pass Ticket"
+      "objective": "Survive until time expires or deliver a Paw Pass Ticket"
     },
     {
       "_id": {
@@ -3427,7 +3427,7 @@
       "questType": "Village",
       "game": "Monster Hunter 3 Ultimate",
       "difficulty": "2",
-      "objective": "Hunt 1 Arzuros",
+      "objective": "Hunt an Arzuros",
       "targets": [
         "Arzuros"
       ]
@@ -3444,7 +3444,7 @@
       "questType": "Village",
       "game": "Monster Hunter 3 Ultimate",
       "difficulty": "2",
-      "objective": "Capture 1 Arzuros",
+      "objective": "Capture an Arzuros",
       "targets": [
         "Arzuros"
       ]
@@ -3495,7 +3495,7 @@
       "questType": "Village",
       "game": "Monster Hunter 3 Ultimate",
       "difficulty": "2",
-      "objective": "Hunt 1 Great Jaggi",
+      "objective": "Hunt a Great Jaggi",
       "targets": [
         "Great Jaggi"
       ]
@@ -3540,7 +3540,7 @@
       "questType": "Village",
       "game": "Monster Hunter 3 Ultimate",
       "difficulty": "3",
-      "objective": "Deliver a Paw Pass Ticket"
+      "objective": "Survive until time expires or deliver a Paw Pass Ticket"
     },
     {
       "_id": {
@@ -3554,7 +3554,7 @@
       "questType": "Village",
       "game": "Monster Hunter 3 Ultimate",
       "difficulty": "3",
-      "objective": "Capture 1 Qurupeco",
+      "objective": "Capture a Qurupeco",
       "targets": [
         "Qurupeco"
       ]
@@ -3571,7 +3571,7 @@
       "questType": "Village",
       "game": "Monster Hunter 3 Ultimate",
       "difficulty": "3",
-      "objective": "Capture 1 Royal Ludroth",
+      "objective": "Capture a Royal Ludroth",
       "targets": [
         "Royal Ludroth"
       ]
@@ -3588,7 +3588,7 @@
       "questType": "Village",
       "game": "Monster Hunter 3 Ultimate",
       "difficulty": "3",
-      "objective": "Hunt 1 Qurupeco",
+      "objective": "Hunt a Qurupeco",
       "targets": [
         "Qurupeco"
       ]
@@ -3605,7 +3605,7 @@
       "questType": "Village",
       "game": "Monster Hunter 3 Ultimate",
       "difficulty": "3",
-      "objective": "Hunt 1 Barroth",
+      "objective": "Hunt a Barroth",
       "targets": [
         "Barroth"
       ]
@@ -3653,7 +3653,7 @@
       "questType": "Village",
       "game": "Monster Hunter 3 Ultimate",
       "difficulty": "3",
-      "objective": "Hunt 1 Great Wroggi",
+      "objective": "Hunt a Great Wroggi",
       "targets": [
         "Great Wroggi"
       ]
@@ -3670,7 +3670,7 @@
       "questType": "Village",
       "game": "Monster Hunter 3 Ultimate",
       "difficulty": "3",
-      "objective": "Hunt 1 Royal Ludroth",
+      "objective": "Hunt a Royal Ludroth",
       "targets": [
         "Royal Ludroth"
       ]
@@ -3721,7 +3721,7 @@
       "questType": "Village",
       "game": "Monster Hunter 3 Ultimate",
       "difficulty": "4",
-      "objective": "Deliver a Paw Pass Ticket"
+      "objective": "Survive until time expires or deliver a Paw Pass Ticket"
     },
     {
       "_id": {
@@ -3735,7 +3735,7 @@
       "questType": "Village",
       "game": "Monster Hunter 3 Ultimate",
       "difficulty": "4",
-      "objective": "Hunt 1 Rathian",
+      "objective": "Hunt a Rathian",
       "targets": [
         "Rathian"
       ]
@@ -3766,7 +3766,7 @@
       "questType": "Village",
       "game": "Monster Hunter 3 Ultimate",
       "difficulty": "4",
-      "objective": "Hunt 1 Barroth and 1 Great Jaggi",
+      "objective": "Hunt a Barroth and a Great Jaggi",
       "targets": [
         "Barroth",
         "Great Jaggi"
@@ -3784,7 +3784,7 @@
       "questType": "Village",
       "game": "Monster Hunter 3 Ultimate",
       "difficulty": "4",
-      "objective": "Capture 1 Rathian",
+      "objective": "Capture a Rathian",
       "targets": [
         "Rathian"
       ]
@@ -3801,7 +3801,7 @@
       "questType": "Village",
       "game": "Monster Hunter 3 Ultimate",
       "difficulty": "4",
-      "objective": "Hunt 1 Gobul",
+      "objective": "Hunt a Gobul",
       "targets": [
         "Gobul"
       ]
@@ -3818,7 +3818,7 @@
       "questType": "Village",
       "game": "Monster Hunter 3 Ultimate",
       "difficulty": "4",
-      "objective": "Hunt 1 Lagombi",
+      "objective": "Hunt a Lagombi",
       "targets": [
         "Lagombi"
       ]
@@ -3835,7 +3835,7 @@
       "questType": "Village",
       "game": "Monster Hunter 3 Ultimate",
       "difficulty": "4",
-      "objective": "Hunt 1 Great Baggi",
+      "objective": "Hunt a Great Baggi",
       "targets": [
         "Great Baggi"
       ]
@@ -3852,7 +3852,7 @@
       "questType": "Village",
       "game": "Monster Hunter 3 Ultimate",
       "difficulty": "4",
-      "objective": "Hunt 1 Gigginox",
+      "objective": "Hunt a Gigginox",
       "targets": [
         "Gigginox"
       ]
@@ -3900,7 +3900,7 @@
       "questType": "Village",
       "game": "Monster Hunter 3 Ultimate",
       "difficulty": "5",
-      "objective": "Deliver a Paw Pass Ticket"
+      "objective": "Survive until time expires or deliver a Paw Pass Ticket"
     },
     {
       "_id": {
