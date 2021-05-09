@@ -4136,6 +4136,318 @@
       "targets": [
         "Agnaktor"
       ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b03f"
+      },
+      "name": "Harvest Tour: Sandy Plains",
+      "client": "Felyne Tour Guide",
+      "description": "Everyone here, nya? Welcome to the Sandy Plains Harvest Tour, where we'll witness the purrfect beauty of the desert. After two minutes, you can grab a Paw Pass Ticket for safe and easy passage home.",
+      "map": "Sandy Plains",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "6",
+      "objective": "Survive until time expires or deliver a Paw Pass Ticket"
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b040"
+      },
+      "name": "Harvest Tour: Flooded Forest",
+      "client": "Felyne Tour Guide",
+      "description": "Everyone here, nya? Welcome to the Flooded Forest Harvest Tour - a purrfect adventure through the trees! You'll receive a Paw Pass Ticket in two minutes for safe, easy passage home.",
+      "map": "Flooded Forest",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "6",
+      "objective": "Survive until time expires or deliver a Paw Pass Ticket"
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b041"
+      },
+      "name": "Harvest Tour: Misty Peaks",
+      "client": "Felyne Tour Guide",
+      "description": "Everyone here, nya? Welcome to the Misty Peaks Harvest Tour. The evergreen landscape is a fancy feast for the eyes, and getting back is kitten's play. You'll receive a Paw Pass Ticket in two minutes for safe, easy passage home.",
+      "map": "Misty Peaks",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "6",
+      "objective": "Survive until time expires or deliver a Paw Pass Ticket"
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b042"
+      },
+      "name": "The Merchant's Mission",
+      "client": "Simple Fur Trader",
+      "description": "Gah! Again my cargo is kaput. What use is guard if he no guard nothing? Always, I hire guard! Always, I hear same story: monster too strong! But not immortal, yes? So, you hunt him? I reward. We understand?",
+      "map": "Deserted Island",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "6",
+      "objective": "Hunt a Rathian",
+      "targets": [
+        "Rathian"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b043"
+      },
+      "name": "Current Events",
+      "client": "Wannabe Sleuth",
+      "description": "What a twist! People on land suddenly soaked to the bone! The soggy victims insist they saw something yellow before their drenching. What could it have been? Hunter, please, help me solve this ridle!",
+      "map": "Deserted Island",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "6",
+      "objective": "Hunt a Royal Ludroth",
+      "targets": [
+        "Royal Ludroth"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b044"
+      },
+      "name": "Herd Mentality",
+      "client": "Imaginative Boy",
+      "description": "If I was a Great Jaggi, I'd be, like, \"Listen here, Pink Rathian! You got a lotta nerve comin' around MY island. Time to show you there's strength in numbers! Bring on the new recruits! Let's hear it for the herd! RAAARRR!\"",
+      "map": "Deserted Island",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "6",
+      "objective": "Hunt all large monsters",
+      "targets": [
+        "Great Jaggi",
+        "Pink Rathian"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b045"
+      },
+      "name": "The Jaggia Menace",
+      "client": "Female Farmer",
+      "description": "Jeepers! Jaggia have been wreaking havoc on our crops this season! At this rate, we won't have enough food to survive the winter... The Jaggia mist have a big warren nearby -- please, o something about it before we starve!",
+      "map": "Deserted Island",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "6",
+      "objective": "Slay 10 Jaggia",
+      "targets": [
+        "Jaggia"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b046"
+      },
+      "name": "Avenge the Fallen Hunter!",
+      "client": "Wounded Hunter",
+      "description": "Wy weapon... bounced off its hide like a toy. That thing moved... so fast. Before I knew it... I was knocked cold. The Medicine Man says it's... just a scratch, but the pain! Avenge my flesh wound!",
+      "map": "Sandy Plains",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "6",
+      "objective": "Slay a Barroth",
+      "targets": [
+        "Barroth"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b047"
+      },
+      "name": "Desert Warfare",
+      "client": "Monster News Network",
+      "description": "This just in: A Rathian has invaded a Barroth's territory. Expect the Sandy Plains to become a battleground within the next few days. The danger zone begins 25 meters from the monsters. Beware of charges and flames!",
+      "map": "Sandy Plains",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "6",
+      "objective": "Hunt all large monsters",
+      "targets": [
+        "Rathian",
+        "Barroth"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b048"
+      },
+      "name": "Bye-Bye, Bloome",
+      "client": "Old Landscape Artist",
+      "description": "Ah, there's nothing like the Flooded Forest on a cloudy day. The colors are so... subtle! When I spotted that big crimson flower, I was inspired! But I turned my back for one second to set up my easel., and the flower was gone...",
+      "map": "Flooded Forest",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "6",
+      "objective": "Hunt a Crimson Qurupeco",
+      "targets": [
+        "Crimson Qurupeco"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b049"
+      },
+      "name": "Toxic Troublemaker",
+      "client": "Brash Explorer",
+      "description": "No sooner had I stepped through the foliage than I spied the creature. standing in a sea of orange beasts. Sure, I could've handled it easily enough, but why hog all the fun? Have at it, hunter!",
+      "map": "Flooded Forest",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "6",
+      "objective": "Hunt a Great Wroggi",
+      "targets": [
+        "Great Wroggi"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b04a"
+      },
+      "name": "Hair of the Dog",
+      "client": "Tavernkeep's Daughter",
+      "description": "Something ain't right with Daddy. He says he had too much fun last night and just wants to sleep it off. How can \"fun\" make you feel icky? Get me some Slagtoth Oils from the Flooded Forest so I can mix up some medicine!",
+      "map": "Flooded Forest",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "6",
+      "objective": "Deliver 5 Slagtoth Oils"
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b04b"
+      },
+      "name": "Pink Queen of the Peaks",
+      "client": "Shipmaster",
+      "description": "Twas like no Rathian I ever seen. She had scales the color of a cherry blossom. Attacked us at seas, she did! I know when she be roostin'. If ya be wirth yer salt.",
+      "map": "Misty Peaks",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "6",
+      "objective": "Hunt a Pink Rathian",
+      "targets": [
+        "Pink Rathian"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b04c"
+      },
+      "name": "Poison Control",
+      "client": "Young General",
+      "description": "Well, ain't that typical. I get back from a 10-day hump in the bush, and what's waiting for me? Orders to hunt down a Purple Ludroth! I need some R&R! Mind fielding this one. Guild Hunter?",
+      "map": "Misty Peaks",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "6",
+      "objective": "Hunt a Purple Ludroth",
+      "targets": [
+        "Purple Ludroth"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b04d"
+      },
+      "name": "Double Jeopardy",
+      "client": "Yukumo Clerk",
+      "description": "Calling all Elite Hunters -- have I got a request for you! Interested in an Arzuros near the village? Wait, don;t answer. How 'bout two of them? That oughta put some pep in your step! You need more info? No? OK then!",
+      "map": "Misty Peaks",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "6",
+      "objective": "Hunt 2 Arzuros",
+      "targets": [
+        "Arzuros",
+        "Arzuros"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b04e"
+      },
+      "name": "Field Trip",
+      "client": "Spirited Teacher",
+      "description": "The next generation of hunters needs your help! Mind sharing your killer skills with my herd of little pupils? Just go hunt the Great Jaggi pack in the Misty Peaks. C'mon, do it for the children.",
+      "map": "Misty Peaks",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "6",
+      "objective": "Hunt a Great Jaggi",
+      "targets": [
+        "Great Jaggi"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b04f"
+      },
+      "name": "Bully the Bullfango",
+      "client": "Battered Yukumo Defender",
+      "description": "Ugh! My backside's seen better days. Blame the Bullfango! My mom sent me to the Misty Peaks to dig up mushrooms, see, and all of a sudden those beasts were behind me! Long story short, my butt needs avenging!",
+      "map": "Misty Peaks",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "6",
+      "objective": "Slay 15 Bullfango",
+      "targets": [
+        "Bullfango"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b050"
+      },
+      "name": "Under the Yolk",
+      "client": "Doting Mother",
+      "description": "It's my daughter's birthday, but she thinks I forgot! I shooed her away on errands so I can whip up a Gargwa Egg omelette -- her favorite! I can't wait to see the look on her face! Please, get me the eggs or my surprise will backfire.",
+      "map": "Misty Peaks",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "6",
+      "objective": "Deliver 3 Gargwa Eggs"
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b051"
+      },
+      "name": "Siren's Song",
+      "client": "Village Storyteller",
+      "description": "Its call can summon. Its call can heal. Whose call, you ask? Why, the Qurupeco's, of course. And it has come a-calling on the Deserted Island. Several of them, in fact! Can you resist this creature's siren song?",
+      "map": "Deserted Island",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "6",
+      "objective": "Survive until time expires or deliver a Paw Pass Ticket",
+      "targets": [
+        "Qurupeco",
+        "Qurupeco"
+      ]
     }
   ]
 }
