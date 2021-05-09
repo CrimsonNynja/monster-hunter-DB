@@ -4448,6 +4448,227 @@
         "Qurupeco",
         "Qurupeco"
       ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b052"
+      },
+      "name": "Harvest Tour: Tundra",
+      "client": "Felyne Tour Guide",
+      "description": "Everyone here, nya? Welcome to the Tundra Harvest Tour. Hope your fur is thick! If you get cold and wanna quit, you'll receive a Paw Pass Ticket in two minutes. Use it for safe, easy passage home.",
+      "map": "Tundra",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "7",
+      "objective": "Survive until time expires or deliver a Paw Pass Ticket"
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b053"
+      },
+      "name": "Splash Damage",
+      "client": "Young Fisherwoman",
+      "description": "I seen this black shape in the water, all hige and scary. 'Fore I knew it, a big ol' Piscine Wyvern breached the brine like some kinda flyin' fish. Its splash was like a tidal wave. Soaked me to the britches, it did!",
+      "map": "Deserted Island",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "7",
+      "objective": "Hunt a Plesioth",
+      "targets": [
+        "Plesioth"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b054"
+      },
+      "name": "Rockslide",
+      "client": "Sandy Plains Merchant",
+      "description": "Holy moly! I was scared enough when I saw those two red boulders bearing down on my head, but it turns out they were monsters! That kind of nonsense is rotten for business. Get rid of 'em!",
+      "map": "Sandy Plains",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "7",
+      "objective": "Hunt 2 Volvidons",
+      "targets": [
+        "Volvidon",
+        "Volvidon"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b055"
+      },
+      "name": "Scene of the Crime",
+      "client": "Seafaring Trader",
+      "description": "Oh, it's tragic! Tragic! There's a Gobul in the Flooded Forest! It tore up me mates! And now trade in the region is ruined. Somebody, anybody, please... Stop the beast 'fore it 'urts anyone else!",
+      "map": "Flooded Forest",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "7",
+      "objective": "Hunt a Gobul",
+      "targets": [
+        "Gobul"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b056"
+      },
+      "name": "Snowball Fight",
+      "client": "Tundra Ranger",
+      "description": "We've had recent reports of a monster rampaging across the Tundra, flinging snowballs with the force of an avalanche. People are getting hurt our there. Investigate at once!",
+      "map": "Tundra",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "7",
+      "objective": "Hunt a Jade Barroth",
+      "targets": [
+        "Jade Barroth"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b057"
+      },
+      "name": "Snowball Fight",
+      "client": "Wandering Reporter",
+      "description": "I'm reporting live from the Tundra, where two Lagombi are making their way across the frozen landscape with all the grace of ice ballerinas I could stand here and watch them all day!... Wait, are they coming this way! RUN!",
+      "map": "Tundra",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "7",
+      "objective": "Hunt 2 Lagombi",
+      "targets": [
+        "Lagombi",
+        "Lagombi"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b058"
+      },
+      "name": "Leader of the Icepack",
+      "client": "Tundra Expedition Leader",
+      "description": "To think those beasts had something like THAT leading them! Our bodyguard was useless! That does it -- I'm putting our expedition on indefinite hiatus until someone takes this pack down!",
+      "map": "Tundra",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "7",
+      "objective": "Hunt a Great Baggi",
+      "targets": [
+        "Great Baggi"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b058"
+      },
+      "name": "Shocking Development",
+      "client": "Yukumo Clerk",
+      "description": "Attention, Elite Hunters! This request is tailor made for your skills! Apparently there's this terrible Thunder element monster out on the Tundra. Interested? I sure am! Who wouldn't be, you know? Well, I suppose (TRUNCATED)",
+      "map": "Tundra",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "7",
+      "objective": "Hunt a Baleful Gigginox",
+      "targets": [
+        "Baleful Gigginox"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b059"
+      },
+      "name": "Research Assistance",
+      "client": "Antidote Researcher",
+      "description": "Egad! Our antidote research has hit a brick wall. We can't reach the next phase without dissecting a Gigginox and a Baleful Gigginox. And until we've perfected our medicine, you better remember your Antidotes!",
+      "map": "Tundra",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "7",
+      "objective": "Hunt a Gigginox and a Baleful Gigginox",
+      "targets": [
+        "Gigginox",
+        "Baleful Gigginox"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b05a"
+      },
+      "name": "Designer Antlers",
+      "client": "Fastidious Man",
+      "description": "I finally finished sprucing up my house, but it's still missing that final touch. I figure a giant ornament would be the Felyne's pajamas! Nab me 5 Anteka Antlers for materials. They're easy to carve if you stun the Anteka.",
+      "map": "Tundra",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "7",
+      "objective": "Deliver 5 Anteka Antlers"
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b05b"
+      },
+      "name": "Toxin Avenger",
+      "client": "Antidote Researcher",
+      "description": "Eureka! Our antidote research is on the verge of a breakthrough! We just need copious quantities of toxins. I hear several Gigginox have moved to the Tundra... You know what to do, hunter!",
+      "map": "Tundra",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "7",
+      "objective": "Hunt 3 Gigginox in succession",
+      "targets": [
+        "Gigginox",
+        "Gigginox",
+        "Gigginox"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b05c"
+      },
+      "name": "The Write Stuff",
+      "client": "Royal Scribe",
+      "description": "Whoever said the pen is mightier than the sword never had to fight a Jade Barroth and a Gigginox with nothing but a quill and ink! Hunters, head to the Tundra posthaste. Tales of your victory shall be writ large!",
+      "map": "Tundra",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "7",
+      "objective": "Hunt all large monsters",
+      "targets": [
+        "Jade Barroth",
+        "Gigginox"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b05d"
+      },
+      "name": "Rumble in the Great Desert",
+      "client": "Guildmaster",
+      "description": "Callin' all hunters and Dragonships! The Jhen Mohran -- that sultan of the desert sands -- is upon us! We gotta hit it with guns blazin'! You fancy yerself an ultimate hunter? Then hop aboard, 'cause this is the ultimate hunt!",
+      "map": "Great Desert",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "7",
+      "objective": "Slay a Jhen Mohran or repel it",
+      "targets": [
+        "Jhen Mohran"
+      ]
     }
   ]
 }
