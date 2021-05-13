@@ -4107,9 +4107,9 @@
       "_id": {
         "$oid": "608fc50ddc2d8ce1017b03d"
       },
-      "name": "The Volcano's Fur",
+      "name": "The Volcano's Fury",
       "client": "Scarred Hunter",
-      "description": "Don't bother readin' any further unless you're a true hunter -- the type who loves that quiver in your guts when you're livin' on the razor's edge. Still with me? Go to the volcano. Somethin's wattin.",
+      "description": "Don't bother readin' any further unless you're a true hunter -- the type who loves that quiver in your guts when you're livin' on the razor's edge. Still with me? Go to the volcano. Somethin's waitin'.",
       "map": "Volcano",
       "isKey": true,
       "questType": "Village",
@@ -4668,6 +4668,247 @@
       "objective": "Slay a Jhen Mohran or repel it",
       "targets": [
         "Jhen Mohran"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b05e"
+      },
+      "name": "Harvest Tour: Volcano",
+      "client": "Felyne Tour Guide",
+      "description": "Everyone here, nya? Welcome to the Volcano Harvest Tour. Keep an eye out for ore you can only find here! If you get too hot under the collar, you'll receive a Paw Pass Ticket in two minutes. Use it for safe, easy passage home.",
+      "map": "Volcano",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "8",
+      "objective": "Survive until time expires or deliver a Paw Pass Ticket"
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b05f"
+      },
+      "name": "Masked Robbery",
+      "client": "Kayamba",
+      "description": "Yam-BA! Kayamba finally track own rotten Rathalos that swiped precious mask! No way Kayamba dodge fire breath alone, so he bring you along as distraction. Kayamba strategical genius.",
+      "map": "Deserted Island",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "8",
+      "objective": "Hunt a Rathalos",
+      "targets": [
+        "Rathalos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b060"
+      },
+      "name": "The Fisherman's Fiend",
+      "client": "Frontier Baron",
+      "description": "I've learned the most dreadful financial news! The Lagiacrus has appeared in own waters. That beast will destroy the fishery! I'll pay anything if you save our economy... Oh, and the people, too. Right.",
+      "map": "Deserted Island",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "8",
+      "objective": "Hunt a Lagiacrus",
+      "targets": [
+        "Lagiacrus"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b061"
+      },
+      "name": "Troubled Waters",
+      "client": "Young Fisherwoman",
+      "description": "As if that phony flyin' fish weren't bad enough, now it's partnered up with a Lagiacrus! Made the'selves at home in my fishin' ground, they did. Left us fisherfolk high and dry. Mind gettin' us out of this fix?",
+      "map": "Deserted Island",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "8",
+      "objective": "Hunt a Lagiacrus and a Plesioth",
+      "targets": [
+        "Lagiacrus",
+        "Plesioth"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b062"
+      },
+      "name": "The Horned Wyvern",
+      "client": "Watchtower Sentinel",
+      "description": "We guards are so scared we can't go back to work! We spotted a hige, two-horned beast in the desert -- a Diablos! That thing's way too dangerous to wander free. Please deal with it -- my career's at stake here!",
+      "map": "Sandy Plains",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "8",
+      "objective": "Hunt a Diablos",
+      "targets": [
+        "Diablos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b063"
+      },
+      "name": "The Desert Gourmand",
+      "client": "Master Cooper",
+      "description": "Oy! One minute I was rattlin' along the Sandy Plains ibn me barrel buggy, mindin' me own lookout. An then, RAAARRR! Cart goes flyin' -- and me with it! What gives!? The barrel business is s'ppose ta be safe, by gum!",
+      "map": "Sandy Plains",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "8",
+      "objective": "Hunt a Nibelsnarf",
+      "targets": [
+        "Nibelsnarf"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b064"
+      },
+      "name": "The Lost Expedition",
+      "client": "Female Geologist",
+      "description": "I'm worried, hunter. We havn't heard a peep from one of our Tundra-expedition teams. Mind investigating? It's a cold, cruel region, so gird those loins before you go! Pave the way for our exploration.",
+      "map": "Tundra",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "8",
+      "objective": "Hunt a Barioth",
+      "targets": [
+        "Barioth"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b065"
+      },
+      "name": "Denizen of the Molten Deep",
+      "client": "Fire Country Chieftain",
+      "description": "The molten heart of the volcano beats with a fell beast. A once-rare wyvern stirs in the lava. Half of my countrymen have perished; the rest live in fear... Please, release my people from this terror!",
+      "map": "Volcano",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "8",
+      "objective": "Hunt a Agnaktor",
+      "targets": [
+        "Agnaktor"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b066"
+      },
+      "name": "The Volcano's Fury",
+      "client": "Scarred Hunter",
+      "description": "Don't bother readin' any further unless you're a true hunter -- the type who loves that quiver in your guts when you're livin' on the razor's edge. Still with me? Go to the volcano. Somethin's waitin'.",
+      "map": "Volcano",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "8",
+      "objective": "Hunt a Uragaan",
+      "targets": [
+        "Uragaan"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b067"
+      },
+      "name": "The Moving Mountain",
+      "client": "Old Landscape Artist",
+      "description": "That little moss-covered hill at the Misty Peaks was just begging to be painted. But the second I pulled out my easel and brush, it was gone! How can I be a landscape artist if the landscape won't cooperate?",
+      "map": "Misty Peaks",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "8",
+      "objective": "Hunt a Duramboros",
+      "targets": [
+        "Duramboros"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b068"
+      },
+      "name": "Twin Peaks",
+      "client": "Romantic Man",
+      "description": "Ladies like more than long walks on the beach, ya know. I took my date to the Misty Peaks for a little rainy-day romance, but I never thought we'd run into a mammoth beast like that! Twins, even! Can't you help a fella out?",
+      "map": "Misty Peaks",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "8",
+      "objective": "Hunt 2 Duramboros",
+      "targets": [
+        "Duramboros",
+        "Duramboros"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b069"
+      },
+      "name": "[Canteen] The Endless Hunt",
+      "client": "Young General",
+      "description": "This battle in the Flooded Forest is gonna be a real quagmire, but it ain't my style to turn tail and run. Help us, and I'll think about tossing in some healthy grub with your reward. I know these soggy operations burn through supplies.",
+      "map": "Flooded Forest",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "8",
+      "objective": "Hunt all large monsters",
+      "targets": [
+        "Gobul",
+        "Great Wroggi",
+        "Lagiacrus"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b06a"
+      },
+      "name": "Clobberin' Time!",
+      "client": "Fangster Red",
+      "description": "When monsters go to sleep at night, they check under the bed for me. I'm just that good! But I done bad. How was I suppose to know those beasts would keep coming? They have a deathwish? Finish what I started, hunter!",
+      "map": "Volcano",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "8",
+      "objective": "Hunt all large monsters",
+      "targets": [
+        "Agnaktor",
+        "Volvidon",
+        "Rathalos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b06b"
+      },
+      "name": "\"Brachydios\" Means Trouble",
+      "client": "Argosy Captain",
+      "description": "Uwasa tell me about new monster -- Brachydios! So I seek it out at Volcano. Very big monster, very violent, very kowai. \"Kowai\" means scary! You goran for yourself, you hear its DOKAAAAAN! Mayhap bring extra pair dry britches.",
+      "map": "Volcano",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "8",
+      "objective": "Hunt a Brachydios",
+      "targets": [
+        "Brachydios"
       ]
     }
   ]
