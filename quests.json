@@ -3137,6 +3137,24 @@
       "targets": [
         "Nargacuga"
       ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b005c"
+      },
+      "name": "Heart of a Warrior",
+      "client": "Fugen the Elder",
+      "description": "Hey, Squirt! We've got ourselves a little quest that'll determine who's the strongest hunter. My zenny's on you, but we'll see! All ya gotta do is go smack around a Goss Harag and Magnamalo in the Arena and these titles are yours! Think you're up to it? Well go get to it! Bwahahaha!",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter Rise",
+      "difficulty": "3",
+      "objective": "Hunt a Goss Harag and Magnamalo",
+      "targets": [
+        "Goss Harag",
+        "Magnamalo"
+      ]
     }
   ]
 }
