@@ -740,7 +740,7 @@
           "game": "Monster Hunter 3 Ultimate",
           "image": "MH3U-Azure_Rathalos_Icon.png",
           "info": "An azure-colored subspecies of Rathalos. More mobile than their standard cousin, they locate prey from the air and quickly swoop in for the kill. Once these master hunters select a target, there is little hope of escape.",
-          "danger": "5"
+          "danger": "4"
         },
         {
           "game": "Monster Hunter 4 Ultimate",
@@ -2676,7 +2676,7 @@
           "game": "Monster Hunter 3 Ultimate",
           "image": "MH3U-Fish_Icon.png",
           "info": "This category includes carnivorous fish (Sharq, Catfish), migratory fish (Tuna, Arowanas), and natatorial fish (Molids, Perciformes). Fish often flee when attacked, so hunters prefer to use harpoons to obtain materials from them.",
-          "danger": "1"
+          "danger": "2"
         }
       ]
     },
@@ -5166,7 +5166,7 @@
           "game": "Monster Hunter 3 Ultimate",
           "image": "MH3U-Nargacuga_Icon.png",
           "info": "Flying wyverns that have evolved to live in thickly wooded areas. These sly beasts stalk their prey from the shadows with ferocious speed and dogged tenacity, and their massive tails are as dexterous as they are deadly.",
-          "danger": "5"
+          "danger": "4"
         },
         {
           "game": "Monster Hunter Generations Ultimate",
@@ -5448,7 +5448,7 @@
           "game": "Monster Hunter 3 Ultimate",
           "image": "MH3U-Pink_Rathian_Icon.png",
           "info": "A subspecies of Rathian with vibrant pink scales. Pink Rathian wield their toxic tails more skillfully than normal Rathian, using a wide variety of attacks to weaken their prey before eventually moving in for the kill.",
-          "danger": "5"
+          "danger": "4"
         },
         {
           "game": "Monster Hunter 4 Ultimate",
@@ -5494,7 +5494,7 @@
           "game": "Monster Hunter 3 Ultimate",
           "image": "MH3U-Plesioth_Icon.png",
           "info": "Giant piscine wyverns with swift and varied underwater movements, as well as deadly breath and charging attacks. Plesioth are agitated by loud noises, so approach warily. Their favorite food is frogs.",
-          "danger": "4"
+          "danger": "5"
         },
         {
           "game": "Monster Hunter Generations Ultimate",
@@ -5699,7 +5699,7 @@
           "game": "Monster Hunter 3 Ultimate",
           "image": "MH3U-Qurupeco_Icon.png",
           "info": "Bird Wyverns with unique plumage. Well known for using their thoracic vocal organs to imitate others monsters calls, first summoning them, then using the distraction to flee. The creature spits a dangerous body fluid that can lower one's Resistance.",
-          "danger": "5"
+          "danger": "3"
         },
         {
           "game": "Monster Hunter Stories",
@@ -5897,7 +5897,7 @@
           "game": "Monster Hunter 3 Ultimate",
           "image": "MH3U-Rathalos_Icon.png",
           "info": "Terrible wyverns called the 'Kings of the Skies'. Together with Rathian, they stake wide territories centered around their nests. Rathalos descend on invaders from the sky, attacking with poison claws and breath of fire.",
-          "danger": "5"
+          "danger": "4"
         },
         {
           "game": "Monster Hunter 4 Ultimate",
@@ -6831,7 +6831,7 @@
           "game": "Monster Hunter 3 Ultimate",
           "image": "MH3U-Slagtoth_Icon.png",
           "info": "Herbivores that live near water in the Volcano and Flooded Forest. Their heavy, sagging hides store nutrients, and are prized for their resistance to heat and water. Males are quite territorial, often refusing to flee from even invading wyverns.",
-          "danger": "1"
+          "danger": "2"
         },
         {
           "game": "Monster Hunter 4 Ultimate",
