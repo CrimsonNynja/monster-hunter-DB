@@ -4910,6 +4910,131 @@
       "targets": [
         "Brachydios"
       ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b06c"
+      },
+      "name": "Azure Attack",
+      "client": "Boisterous Blacksmith",
+      "description": "I was out diggin' for ore when I nearly tripped over an Azure Rathalos. That got my blood flowin'! I ran halfway home before I realized I needed his materials for crafting. I don't care how tough that thing is -- sic 'em!",
+      "map": "Deserted Island",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "9",
+      "objective": "Hunt an Azure Rathalos",
+      "targets": [
+        "Azure Rathalos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b06d"
+      },
+      "name": "Desert Storm",
+      "client": "Eagle-eyed Observer",
+      "description": "[REPORT BEGINS] A Sand Barioth has been spotted on the Sandy Plains. [STOP] Requesting immediate support from all available skilled hunters. [STOP] The situation is spiraling out of controll... [REPORT ENDS]",
+      "map": "Sandy Plains",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "9",
+      "objective": "Hunt a Sand Barioth",
+      "targets": [
+        "Sand Barioth"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b06e"
+      },
+      "name": "Jumping At Shadows",
+      "client": "Excited Youth",
+      "description": "I saw it! I swear! It was some kinda shadow jumping from tree to tree! It's coming to attack our village -- I just know it -- but no one believes me... Please, hunter, save our village!",
+      "map": "Flooded Forest",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "9",
+      "objective": "Hunt a Nargacuga",
+      "targets": [
+        "Nargacuga"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b06f"
+      },
+      "name": "Howl at the Moon",
+      "client": "Yukumo Chieftess",
+      "description": "Heed my wors, hunter. It is said that a Zinogre roams the forests on the Misty Peaks. The village must deal with this threat before it causes any more damage! Help us, good hunter, and may your journey be a safe one.",
+      "map": "Misty Peaks",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "9",
+      "objective": "Hunt a Zinogre",
+      "targets": [
+        "Zinogre"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b070"
+      },
+      "name": "Triple Threat",
+      "client": "Kind Lord",
+      "description": "I paid a visit to a village in the Sandy Plains -- and found the people in panic! Who could blame them? Not one, not two, but three ferocious monsters were sighted nearby! Would you be so kind as to rid the villagers of this menace?",
+      "map": "Sandy Plains",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "9",
+      "objective": "Hunt all large monsters",
+      "targets": [
+        "Nibelsnarf",
+        "Volvidon",
+        "Sand Barioth"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b071"
+      },
+      "name": "Operation: Paradise Lost",
+      "client": "Young General",
+      "description": "Why ain't I surprised? Just when my tour of duty's about to end, I get orders to wipe out all the monsters on the Deserted Island. Typical! I'll do my best, but maybe you could help me get home early, Guild Hunter!",
+      "map": "Deserted Island",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "9",
+      "objective": "Hunt all large monsters",
+      "targets": [
+        "Great Jaggi",
+        "Duramboros",
+        "Azure Rathalos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b072"
+      },
+      "name": "Lurkers in the Woods",
+      "client": "Black-cloaked Hunter",
+      "description": "In the deepest forest of the Misty Peaks, natural predators lurk in the shadows, awaiting your approach. The hunter or the hunted... Which will you be?",
+      "map": "Misty Peaks",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "9",
+      "objective": "Hunt all large monsters",
+      "targets": [
+        "Arzuros",
+        "Nargacuga",
+        "Zinogre"
+      ]
     }
   ]
 }
