@@ -2253,7 +2253,7 @@
       "name": "Skies are Gray",
       "client": "Energetic Fisherwoman",
       "description": "When the skies cloud over, ya think there's rain on the way, don'tcha? Well, this time, it weren't no storm, it was a dang Tobi-Kadachi! Can't do no fishin' when you're gettin' zapped in the rear every other minute! I want that varmint gone, ya hear me!?",
-      "map": "Floode Forest",
+      "map": "Flooded Forest",
       "isKey": true,
       "questType": "Hub",
       "game": "Monster Hunter Rise",
@@ -3154,6 +3154,23 @@
       "targets": [
         "Goss Harag",
         "Magnamalo"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b005b"
+      },
+      "name": "Haste Makes Waste",
+      "client": "Hamon the Blacksmith",
+      "description": "Seems like power alone isn't enough these days -- hunters want to look intelligent too. I'd take brawn over brains any day... I guess times are changing. Complete this request, and I'll give you the required materials.",
+      "map": "Flooded Forest",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Slay an Apex Arzuros",
+      "targets": [
+        "Apex Arzuros"
       ]
     }
   ]
