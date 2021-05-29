@@ -401,9 +401,9 @@
       "questType": "Village",
       "game": "Monster Hunter Rise",
       "difficulty": "4",
-      "objective": "Hunt a Stomnacanth",
+      "objective": "Hunt a Somnacanth",
       "targets": [
-        "Stomnacanth"
+        "Somnacanth"
       ]
     },
     {
@@ -2916,7 +2916,7 @@
         "$oid": "608fc50ddc2d8ce1017b0107"
       },
       "name": "Master Utsushi's Challenge Part 1",
-      "client": "Master Utushi",
+      "client": "Master Utsushi",
       "description": "Yo, Ace! You've been making some totally gnarly progress recently! Does a man good to see his pupil train so hard! In fact, let's kick it up a notch! Got just the quest for you, and it's a real banger!",
       "map": "Flooded Forest",
       "isKey": false,
@@ -2934,7 +2934,7 @@
         "$oid": "608fc50ddc2d8ce1017b0108"
       },
       "name": "Master Utsushi's Challenge Part 3",
-      "client": "Master Utushi",
+      "client": "Master Utsushi",
       "description": "Yo, Ace! You've been making some totally gnarly progress recently! Does a man good to see his pupil train so hard! In fact, let's kick this up a notch! Got just the quest for you, and it's a real banger!",
       "map": "Shrine Ruins",
       "isKey": false,
@@ -2952,7 +2952,7 @@
         "$oid": "608fc50ddc2d8ce1017b0109"
       },
       "name": "Arena 01",
-      "client": "Master Utushi",
+      "client": "Master Utsushi",
       "description": "Yo, Ace! Ready for some awesome Arena action!? Prove your mettle using the equipment provided here!",
       "map": "Arena",
       "isKey": false,
@@ -3003,7 +3003,7 @@
         "$oid": "608fc50ddc2d8ce1017b010c"
       },
       "name": "Arena 04",
-      "client": "Master Utushi",
+      "client": "Master Utsushi",
       "description": "Yo, Ace! Ready for some awesome Arena action!? Prove your mettle using the equipment provided here!",
       "map": "Arena",
       "isKey": false,
@@ -3020,7 +3020,7 @@
         "$oid": "608fc50ddc2d8ce1017b010d"
       },
       "name": "Arena 05",
-      "client": "Master Utushi",
+      "client": "Master Utsushi",
       "description": "Yo, Ace! Ready for some awesome Arena action!? Prove your mettle using the equipment provided here!",
       "map": "Arena",
       "isKey": false,
@@ -3037,7 +3037,7 @@
         "$oid": "608fc50ddc2d8ce1017b010e"
       },
       "name": "Master Utsushi's Challenge Part 2",
-      "client": "Master Utushi",
+      "client": "Master Utsushi",
       "description": "Yo, Ace! You've been making some totally gnarly progress recently! Does a man good to see his pupil train so hard! In fact, let's kick this up a notch! Got just the quest for you, and it's a real banger!",
       "map": "Frost Islands",
       "isKey": false,
@@ -3072,7 +3072,7 @@
         "$oid": "608fc50ddc2d8ce1017b0110"
       },
       "name": "Arena 06",
-      "client": "Master Utushi",
+      "client": "Master Utsushi",
       "description": "Yo, Ace! Ready for some awesome Arena action!? Prove your mettle using the equipment provided here!",
       "map": "Lava Caverns",
       "isKey": false,
@@ -3088,10 +3088,27 @@
     },
     {
       "_id": {
+        "$oid": "608fc50ddc2d8ce1017b005a"
+      },
+      "name": "Challenge Quest 01",
+      "client": "Master Utsushi",
+      "description": "Sup, Ace? Ready for a REAL challenge? Don't think I'm gonna go easy on ya jast 'cuz you're my favorite. Nah, it's thrash or BE thrashed! If ya know what I mean. Let's see what you got!",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Challenge",
+      "game": "Monster Hunter Rise",
+      "difficulty": "2",
+      "objective": "Slay an Tetranadon",
+      "targets": [
+        "Tetranadon"
+      ]
+    },
+    {
+      "_id": {
         "$oid": "608fc50ddc2d8ce1017b0111"
       },
       "name": "Arena 03",
-      "client": "Master Utushi",
+      "client": "Master Utsushi",
       "description": "Yo, Ace! Ready for some awesome Arena action!? Prove your mettle using the equipment provided here!",
       "map": "Flooded Forest",
       "isKey": false,
@@ -3109,7 +3126,7 @@
         "$oid": "608fc50ddc2d8ce1017b0112"
       },
       "name": "Arena 02",
-      "client": "Master Utushi",
+      "client": "Master Utsushi",
       "description": "Yo, Ace! Ready for some awesome Arena action!? Prove your mettle using the equipment provided here!",
       "map": "Arena",
       "isKey": false,
@@ -3154,6 +3171,23 @@
       "targets": [
         "Goss Harag",
         "Magnamalo"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b004f"
+      },
+      "name": "I Can't Do What Somnacan",
+      "client": "Alluring Dancer",
+      "description": "I am a professional dancer, and I wish to expand my repertoire with the graceful moves of a Somnacanth! YOU hunt one while I watch safely from afar and take notes. I'll teach you a gesture as a reward!",
+      "map": "Frost Islands",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Slay an Somnacanth",
+      "targets": [
+        "Somnacanth"
       ]
     },
     {
