@@ -570,6 +570,34 @@
     },
     {
       "_id": {
+        "$oid": "6084142847460e8216704353"
+      },
+      "name": "Apex Zinogre",
+      "type": "Fanged Wyvern",
+      "isLarge": true,
+      "elements": [
+        "Thunder"
+      ],
+      "ailments": [
+        "Thunderblight",
+        "Paralysis"
+      ],
+      "weakness": [
+        "Ice",
+        "Water",
+        "Fire"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRise-Apex_Zinogre_Icon.png",
+          "info": "A Zinogre so mighty, it was crowned an Apex. Its body is covered in scars and wounds as if it had been caught in a storm, and it's seemingly always dominated by wrath and terror. Its forelegs - and their every strike - brim with ferocious sparks. The call of an Apex unleashes its tortured anger on nearby beasts, driving them into a frenzy.",
+          "danger": "10"
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5dfc9bde9dabf81e7717cea6"
       },
       "name": "Aptonoth",
@@ -1959,6 +1987,28 @@
           "game": "Monster Hunter Stories",
           "image": "MHST-Crimson_Qurupeco_Icon.png",
           "info": "Subspecies with vibrant red plumage. Flints in its wings allow it to release fearsome electrical attacks."
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e1457f08a80af35ca52d726"
+      },
+      "name": "Crimson Glow Valstrax",
+      "type": "Elder Dragon",
+      "isLarge": true,
+      "elements": [
+        "Dragon"
+      ],
+      "ailments": [
+        "Dragonblight"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRise-Crimson_Glow_Valstrax_Icon.png",
+          "info": "A mutant Valstrax fearsomely dubbed the \"Crimson Glow\". This elder dragon typically secludes itself in the upper atmosphere, but it has been driven mad by its own rampant energy, causing to lash out at anything in its sight. Once it sights its prey, it swoops down, trampling them beneath its shifting wingblades. Several have been sighted all over, so be prepared to encounter one at any time.",
+          "danger": "10"
         }
       ]
     },
@@ -5194,6 +5244,32 @@
     },
     {
       "_id": {
+        "$oid": "5e143275aa80af35ce52d6f6"
+      },
+      "name": "Narwa the Allmother",
+      "type": "Elder Dragon",
+      "isLarge": true,
+      "elements": [
+        "Thunder"
+      ],
+      "ailments": [
+        "Thunderblight"
+      ],
+      "weakness": [
+        "Dragon",
+        "Ice"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRise-Narwa_The_Allmother_Icon.png",
+          "info": "Having absorbed the lifeforce of her \"king\", Narwa has transformed and become imbued with new power. She now possesses Ibushi's mastery over wind as well as her own control over thunder, and lusts for utter annihilation.",
+          "danger": "10"
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e158ca58a80af35ce52d78c"
       },
       "name": "Nergigante",
@@ -7151,6 +7227,9 @@
       "name": "Thunder Serpent Narwa",
       "type": "Elder Dragon",
       "isLarge": true,
+      "subSpecies": [
+        "Narwa the Allmother"
+      ],
       "elements": [
         "Thunder"
       ],
@@ -7505,6 +7584,9 @@
       "name": "Valstrax",
       "type": "Elder Dragon",
       "isLarge": true,
+      "subSpecies": [
+        "Crimson Glow Valstrax"
+      ],
       "elements": [
         "Dragon"
       ],
@@ -8056,7 +8138,8 @@
       "isLarge": true,
       "subSpecies": [
         "Stygian Zinogre",
-        "Thunderlord Zinogre"
+        "Thunderlord Zinogre",
+        "Apex Zinogre"
       ],
       "elements": [
         "Thunder"
