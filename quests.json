@@ -2923,7 +2923,7 @@
       "questType": "Hub",
       "game": "Monster Hunter Rise",
       "difficulty": "7",
-      "objective": "Hunt a Almudron and a Zinogre",
+      "objective": "Hunt all target monsters",
       "targets": [
         "Almudron",
         "Zinogre"
@@ -2941,7 +2941,7 @@
       "questType": "Hub",
       "game": "Monster Hunter Rise",
       "difficulty": "7",
-      "objective": "Hunt a Magnamalo and a Nargacuga",
+      "objective": "Hunt all target monsters",
       "targets": [
         "Magnamalo",
         "Nargacuga"
@@ -3034,6 +3034,24 @@
     },
     {
       "_id": {
+        "$oid": "608fc50ddc2a8ce1017b010e"
+      },
+      "name": "The Allmother",
+      "client": "Guild Master Hojo",
+      "description": "Ibushi and Narwa have convened at the Coral Palace—that means we're running out of time... You must give them both the paddling of their lives, and break the chains shackling our village!",
+      "map": "Coral Palace",
+      "isKey": false,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Slay Ibushi and Narwa",
+      "targets": [
+        "Wind Serpent Ibushi",
+        "Narwa the Allmother"
+      ]
+    },
+    {
+      "_id": {
         "$oid": "608fc50ddc2d8ce1017b010e"
       },
       "name": "Master Utsushi's Challenge Part 2",
@@ -3044,10 +3062,46 @@
       "questType": "Hub",
       "game": "Monster Hunter Rise",
       "difficulty": "7",
-      "objective": "Hunt a Goss Harag and a Rajang",
+      "objective": "Hunt all target monsters",
       "targets": [
         "Goss Harag",
         "Rajang"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddf2d8cf1017b010e"
+      },
+      "name": "Master Utsushi's Challenge Part 4",
+      "client": "Master Utsushi",
+      "description": "Yo, Ace! You've been making some totally gnarly progress recently! Does a man good to see his pupil train so hard! In fact, let's kick this up a notch! Got just the quest for you, and it's a real banger!",
+      "map": "Sandy Plains",
+      "isKey": false,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Hunt all target monsters",
+      "targets": [
+        "Tigrex",
+        "Anjanath"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddd2d8cf1017b010e"
+      },
+      "name": "Master Utsushi's Challenge Part 5",
+      "client": "Master Utsushi",
+      "description": "Yo, Ace! You've been making some totally gnarly progress recently! Does a man good to see his pupil train so hard! In fact, let's kick this up a notch! Got just the quest for you, and it's a real banger!",
+      "map": "Lava Caverns",
+      "isKey": false,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Hunt all target monsters",
+      "targets": [
+        "Rakna-Kadaki",
+        "Rathalos"
       ]
     },
     {
