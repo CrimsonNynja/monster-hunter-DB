@@ -5080,7 +5080,7 @@
       "client": "Head of Island Guard",
       "description": "Veteran hunters know that tracking a Rathalos AND a Rathian isn't just a job -- it's an adventure. And during mating season, it's suicide! The slightest slip could kill. Are you up to the challenge?",
       "map": "Misty Peaks",
-      "isKey": false,
+      "isKey": true,
       "questType": "Village",
       "game": "Monster Hunter 3 Ultimate",
       "difficulty": "9",
@@ -5098,7 +5098,7 @@
       "client": "Nomad Chief",
       "description": "With mine own eyes, I saw its hateful glare and glimmering body. With mine own ears, I heard a roar that shattered the midnight clam. Dare you face the creature before it stains the Sandy Plains red?",
       "map": "Sandy Plains",
-      "isKey": false,
+      "isKey": true,
       "questType": "Village",
       "game": "Monster Hunter 3 Ultimate",
       "difficulty": "9",
@@ -5115,7 +5115,7 @@
       "client": "Shifty Gambler",
       "description": "I got a line on a sure bet, but I need Steel Uragaan parts as my trump card. Somebody, anybody, head to the Volcano and hunt one. My life savings is on the line!",
       "map": "Volcano",
-      "isKey": false,
+      "isKey": true,
       "questType": "Village",
       "game": "Monster Hunter 3 Ultimate",
       "difficulty": "9",
@@ -5132,13 +5132,30 @@
       "client": "Solitary Composer",
       "description": "The ear-splitting crack of calving glaciers! The rumbling echo of colliding icebergs! The sounds pf the Tundra stir my soul. I must recreate them in my music! Would you escort me on an expedition to that frozen land?",
       "map": "Tundra",
-      "isKey": false,
+      "isKey": true,
       "questType": "Village",
       "game": "Monster Hunter 3 Ultimate",
       "difficulty": "9",
       "objective": "Hunt a Glacial Agnaktor",
       "targets": [
         "Glacial Agnaktor"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b079"
+      },
+      "name": "Conqueror of Land and Sea",
+      "client": "Moga Village Chief",
+      "description": "Just when I thought it was safe to go back in the water, the Ivory Lagiacrus prowls these seas again! Lucky for that beast, I'm retired. I trust you to handle things from here, kid. Don't let us down!",
+      "map": "Deserted Island",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "9",
+      "objective": "Hunt an Ivory Lagiacrus",
+      "targets": [
+        "Ivory Lagiacrus"
       ]
     }
   ]
