@@ -5035,6 +5035,111 @@
         "Nargacuga",
         "Zinogre"
       ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b073"
+      },
+      "name": "Triumph of the Tyrants",
+      "client": "Knight Commander",
+      "description": "What was I thinking? I threw all my troops against the two tyrants in the Sandy Plains, but it wasn't enough. Our reputation is ruined! Hunt them down before I decide to fall on my sword!",
+      "map": "Sandy Plains",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "9",
+      "objective": "Hunt a Diablos and a Black Diablos",
+      "targets": [
+        "Diablos",
+        "Black Diablos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b074"
+      },
+      "name": "Frozen Bloodlust",
+      "client": "Tundra Gardsman",
+      "description": "We've lost both the earth and the sky on the Tundra. We'll lose the people next if this continues. There is nothing more we can do. Please, drive the two beasts away as quickly as possible!",
+      "map": "Tundra",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "9",
+      "objective": "Hunt a Glacial Agnaktor and a Barioth",
+      "targets": [
+        "Glacial Agnaktor",
+        "Barioth"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b075"
+      },
+      "name": "Heaven and Earth",
+      "client": "Head of Island Guard",
+      "description": "Veteran hunters know that tracking a Rathalos AND a Rathian isn't just a job -- it's an adventure. And during mating season, it's suicide! The slightest slip could kill. Are you up to the challenge?",
+      "map": "Misty Peaks",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "9",
+      "objective": "Hunt a Pink Rathian and an Azure Rathalos",
+      "targets": [
+        "Pink Rathian",
+        "Azure Rathalos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b076"
+      },
+      "name": "Midnight Madness",
+      "client": "Nomad Chief",
+      "description": "With mine own eyes, I saw its hateful glare and glimmering body. With mine own ears, I heard a roar that shattered the midnight clam. Dare you face the creature before it stains the Sandy Plains red?",
+      "map": "Sandy Plains",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "9",
+      "objective": "Hunt a Black Diablos",
+      "targets": [
+        "Black Diablos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b077"
+      },
+      "name": "Ace in the Hole",
+      "client": "Shifty Gambler",
+      "description": "I got a line on a sure bet, but I need Steel Uragaan parts as my trump card. Somebody, anybody, head to the Volcano and hunt one. My life savings is on the line!",
+      "map": "Volcano",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "9",
+      "objective": "Hunt a Steel Uragaan",
+      "targets": [
+        "Steel Uragaan"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b078"
+      },
+      "name": "Echo Location",
+      "client": "Solitary Composer",
+      "description": "The ear-splitting crack of calving glaciers! The rumbling echo of colliding icebergs! The sounds pf the Tundra stir my soul. I must recreate them in my music! Would you escort me on an expedition to that frozen land?",
+      "map": "Tundra",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "9",
+      "objective": "Hunt a Glacial Agnaktor",
+      "targets": [
+        "Glacial Agnaktor"
+      ]
     }
   ]
 }
