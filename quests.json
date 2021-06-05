@@ -899,6 +899,25 @@
     },
     {
       "_id": {
+        "$oid": "608fc50ddc2d8ae1017b0092"
+      },
+      "name": "Advanced: The Veterans' Gala",
+      "client": "Fugen the Elder",
+      "description": "A Rajang, a Bazelgeuse, and Magnamalo all waitin' for ya in the Arena! Sky's the limit if you can outdo this trio. So aim sky-high, Squirt! Bwahaha!",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Rise",
+      "difficulty": "6",
+      "objective": "Hunt all target monsters",
+      "targets": [
+        "Rajang",
+        "Bazelgeuse",
+        "Magnamalo"
+      ]
+    },
+    {
+      "_id": {
         "$oid": "608fc50ddc2d8ce1017b0093"
       },
       "name": "Shady Monster",
@@ -2909,6 +2928,23 @@
       "objective": "Hunt an Apex Mizutsune",
       "targets": [
         "Apex Mizutsune"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b9106"
+      },
+      "name": "The Fearsome Apex Rathalos",
+      "client": "Felyne with a Singed Tail",
+      "description": "Talk about a bad fur day! Just when my tail healed up, I come across an even meaner Rathalos! An Apex one, too! As soon as it spotted me it barfed up this meowssive fireball! At this point, the fur on my tail will never grow back...",
+      "map": "Lava Caverns",
+      "isKey": false,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Hunt an Apex Rathalos",
+      "targets": [
+        "Apex Rathalos"
       ]
     },
     {
