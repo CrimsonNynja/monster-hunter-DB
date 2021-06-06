@@ -3275,9 +3275,26 @@
       "questType": "Event",
       "game": "Monster Hunter Rise",
       "difficulty": "7",
-      "objective": "Slay an Somnacanth",
+      "objective": "Slay a Somnacanth",
       "targets": [
         "Somnacanth"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50dda2d8ce1017b004f"
+      },
+      "name": "Dancing Parasol, Snowy Breeze",
+      "client": "Guild Master Hojo",
+      "description": "Ah, Hunter! Minoto asked me to make some Cahoot stickers and, johoho, they came out better than expected! Wouldn't you agree? Complete my request, and they're yours! Now... hop to it-to it!",
+      "map": "Frost Islands",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Slay an Aknosom",
+      "targets": [
+        "Aknosom"
       ]
     },
     {
