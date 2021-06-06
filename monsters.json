@@ -475,7 +475,10 @@
       "type": "Flying Wyvern",
       "isLarge": true,
       "weakness": [
-        "Ice"
+        "Water",
+        "Ice",
+        "Dragon",
+        "Thunder"
       ],
       "games": [
         {
@@ -2002,6 +2005,12 @@
       ],
       "ailments": [
         "Dragonblight"
+      ],
+      "weakness": [
+        "Fire",
+        "Water",
+        "Thunder",
+        "Ice"
       ],
       "games": [
         {
