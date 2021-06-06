@@ -5157,6 +5157,23 @@
       "targets": [
         "Ivory Lagiacrus"
       ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1017b07a"
+      },
+      "name": "Into the Fire",
+      "client": "Fire Country Chieftain",
+      "description": "My country is a crucible of danger. Yet no threat tempers a hunter like a Deviljho on the rampage. There are but few who could stand the heat of such a challenge. I must have faith that you will prevail.",
+      "map": "Volcano",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter 3 Ultimate",
+      "difficulty": "9",
+      "objective": "Hunt a Deviljho",
+      "targets": [
+        "Deviljho"
+      ]
     }
   ]
 }
