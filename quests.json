@@ -3142,6 +3142,254 @@
     },
     {
       "_id": {
+        "$oid": "608fc50ddd2d8cf1017b010f"
+      },
+      "name": "The Evil Star from Beyond",
+      "client": "Scarred Old Woman",
+      "description": "The Valstrax has returned. If you plan on takin' it on, beware its wings! If they don;t burn you to a crisp, they'll dang sure poke you pull of holes. Be quick and stay on your toes out there! Got it? Well, good luck to ya!",
+      "map": "Frost Islands",
+      "isKey": false,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Slay a Crimson Glow Valstrax",
+      "targets": [
+        "Crimson Glow Valstrax"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddd2d8cf1017b0110"
+      },
+      "name": "The Devastating Apex Diablos",
+      "client": "Absentminded Old Man",
+      "description": "I saw it! I saw that terrifying—Wait... What was it I saw? A three-eyed goat? No... A beady-eyed ghost? Dern it! OH! It was a Diablos! But it wasn't a Diablos...know what I mean? No...? Well, it had horns...And... Well, shoot. I forget... Just go hunt the dang thing!",
+      "map": "Sandy Plains",
+      "isKey": false,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Hunt an Apex Diablos",
+      "targets": [
+        "Apex Diablos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddd2d8cf1017b0111"
+      },
+      "name": "The Voltaic Apex Zinogre",
+      "client": "Vigilant Hunter",
+      "description": "I was out on patrol in the Ruins, when suddenly, lightning struck all around me. I thought perhaps I had angered the gods enshrined there. But it wasn't any god, it was worse. It was a Zinogre. But this was no ordinary Zinogre. Tread carefully out there, Hunter.",
+      "map": "Shrine Ruins",
+      "isKey": false,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Hunt an Apex Zinogre",
+      "targets": [
+        "Apex Zinogre"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddd2d8cf1017b0112"
+      },
+      "name": "Advanced: Dual Calamities",
+      "client": "Panicked Lady",
+      "description": "Magnamalo AND a Bazelgeuse!? At the SAME time!? What are we gonna do!? We're doomed I tell ya! DOOMED! There's nowhere to run! There's nowhere to hide! I'm gonna get gobbled up—No! I'm gonna get blown to bits! Maybe even both!",
+      "map": "Shrine Ruins",
+      "isKey": false,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Hunt a Magnamalo and a Bazelgeuse",
+      "targets": [
+        "Magnamalo",
+        "Bazelgeuse"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddd2d8cf1017b0113"
+      },
+      "name": "Advanced: Monsters in Ink",
+      "client": "Reckless Artist",
+      "description": "Hunter Hunter HUNTER! A Goss Harag, a Tigrex, and a Mizutsune are all out in the Frost Islands right at this moment! If you'd be willing to take the three of them on, I shall observe you, painting a masterpiece of the action! It will be my finest work!",
+      "map": "Frost Islands",
+      "isKey": false,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Hunt a Goss Harag, a Tigrex, and a Mizutsune",
+      "targets": [
+        "Goss Harag",
+        "Tigrex",
+        "Mizutsune"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddd2d8cf1017b0114"
+      },
+      "name": "Advanced: Of Storm and Fire",
+      "client": "Excited Ecologist",
+      "description": "Really? TWO elder dragons!? Why, this is THE observation opportunity of two lifetimes! Here: you just slay them as you would usually, while we carry out our research. Easy, right? Nothing to worry about!",
+      "map": "Sandy Plains",
+      "isKey": false,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Slay a Kushala Daora and a Teostra",
+      "targets": [
+        "Kushala Daora",
+        "Teostra"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddd2d8cf1017b0115"
+      },
+      "name": "Advanced: Scaredy-Cat",
+      "client": "Fearful Felyne",
+      "description": "It was so scary, Hunter! I was trying to get home when I got caught in this creepy mist. It was so thick, I could barely see my whiskers! I heard a rustling noise and when I spun around, I saw it! A two-horned demon! Please! Don't let it get me!",
+      "map": "Flooded Forest",
+      "isKey": false,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Slay a Chameleos and hunt a Rajang",
+      "targets": [
+        "Chameleos",
+        "Rajang"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddd2d8cf1017b0116"
+      },
+      "name": "Advanced: The Fallen Comet",
+      "client": "Amateur Stargazer",
+      "description": "Oh, wow! I just saw a comet fall into the Lava Caverns! While I really wanna check it out, I'm also not trying to go there by myself. Not with all the creepy crawly things that live there. Hey, what if it wasn't a comet but that legendary elder dragon!? C'mon! Let's go!",
+      "map": "Lava Caverns",
+      "isKey": false,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Slay a Crimson Glow Valstrax and hunt a Rakna-kadaki",
+      "targets": [
+        "Crimson Glow Valstrax",
+        "Rakna-Kadaki"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddd2d8cf1017b0117"
+      },
+      "name": "The Crimson Glow",
+      "client": "Guild Master Hojo",
+      "description": "Ancient texts speak of the Crimson Glow Valstrax as the \"Scourge of the World.\" Well, now that it's returned, we won't let it destroy the peace that Kamura has fought so hard for! Time to hop to it-to it!",
+      "map": "Shrine Ruins",
+      "isKey": false,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Slay a Crimson Glow Valstrax",
+      "targets": [
+        "Crimson Glow Valstrax"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddd2d8cf1017b0118"
+      },
+      "name": "The Evil Star from Beyond",
+      "client": "Scarred Old Woman",
+      "description": "The Valstrax has returned. If you plan on takin' it on, beware its wings! If they don;t burn you to a crisp, they'll dang sure poke you pull of holes. Be quick and stay on your toes out there! Got it? Well, good luck to ya!",
+      "map": "Sandy Plains",
+      "isKey": false,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Slay a Crimson Glow Valstrax",
+      "targets": [
+        "Crimson Glow Valstrax"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddd2d8cf1017b0119"
+      },
+      "name": "The Evil Star from Beyond",
+      "client": "Scarred Old Woman",
+      "description": "The Valstrax has returned. If you plan on takin' it on, beware its wings! If they don;t burn you to a crisp, they'll dang sure poke you pull of holes. Be quick and stay on your toes out there! Got it? Well, good luck to ya!",
+      "map": "Flooded Forest",
+      "isKey": false,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Slay a Crimson Glow Valstrax",
+      "targets": [
+        "Crimson Glow Valstrax"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddd2d8cf1017b011a"
+      },
+      "name": "The Evil Star from Beyond",
+      "client": "Scarred Old Woman",
+      "description": "The Valstrax has returned. If you plan on takin' it on, beware its wings! If they don;t burn you to a crisp, they'll dang sure poke you pull of holes. Be quick and stay on your toes out there! Got it? Well, good luck to ya!",
+      "map": "Lava Caverns",
+      "isKey": false,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Slay a Crimson Glow Valstrax",
+      "targets": [
+        "Crimson Glow Valstrax"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddd2d8cf1017b011b"
+      },
+      "name": "Advanced: Proof of Power",
+      "client": "Hot-blooded Novice Hunter",
+      "description": "I. AM. PUMPED! Now that I'm a hunter, I cannot WAIT to see some action! And this quest is EXACTLY the type of action I'm looking for! Whattaya say, Hunter? Think you can best all three of these bad boys?",
+      "map": "Infernal Springs",
+      "isKey": false,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Hunt all target monsters",
+      "targets": [
+        "Diablos",
+        "Magnamalo",
+        "Rathalos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddd2d8cf1017b011c"
+      },
+      "name": "Advanced: Those Crowned Apex",
+      "client": "Rowdy Showman",
+      "description": "Gather 'round, gather 'round! Tonight we have a grand show of magnitude and might! Apexes galore for your viewing pleasure! Mizutsune! Rathalos! Zinogre! Who will step up to the challenge!? Come one 'n' all to find out!",
+      "map": "Infernal Springs",
+      "isKey": false,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Slay all target monsters",
+      "targets": [
+        "Apex Mizutsune",
+        "Apex Rathalos",
+        "Apex Zinogre"
+      ]
+    },
+    {
+      "_id": {
         "$oid": "608fc50ddc2d8ce1017b010f"
       },
       "name": "Out of Sight, Out of Mind's Eye",
