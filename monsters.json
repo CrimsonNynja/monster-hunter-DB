@@ -3573,6 +3573,24 @@
     },
     {
       "_id": {
+        "$oid": "5e1423038a80af35ce52d6e8"
+      },
+      "name": "Great Jagras",
+      "type": "Fanged Wyvern",
+      "isLarge": true,
+      "weakness": [
+        "Fire"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter World",
+          "image": "MHW-Great_Jagras_Icon.png",
+          "info": "The pack leader of the Jagras. When hungry, Great Jagras are known to attack monsters even stronger than themselves. It balloons to unbelievable proportions after swallowing prey."
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e141dd08a80af35ce52d6e5"
       },
       "name": "Great Maccao",
