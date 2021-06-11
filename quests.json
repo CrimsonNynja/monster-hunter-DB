@@ -3837,6 +3837,280 @@
         "Tigrex",
         "Brute Tigrex"
       ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d120"
+      },
+      "name": "The Food Chain Dominator",
+      "client": "Eccentric Trio",
+      "description": "The Deviljho is a frightening presence that takes the idea of the food chain and crushes it between massive jaws! Now it's here in the New World. It's time to get investigating!",
+      "map": "Ancient Forest",
+      "isKey": false,
+      "questType": "Special Assignment",
+      "game": "Monster Hunter World",
+      "difficulty": "7",
+      "objective": "Hunt a Deviljho",
+      "targets": [
+        "Deviljho"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d121"
+      },
+      "name": "The Blazing Sun",
+      "client": "The Huntsman",
+      "description": "A team has spotted Teostra in the Wildspire Waste. I say it's an opportune time to go and have an audience with the infernal emperor, wouldn't you say?",
+      "map": "Wildspire Waste",
+      "isKey": false,
+      "questType": "Special Assignment",
+      "game": "Monster Hunter World",
+      "difficulty": "8",
+      "objective": "Slay Teostra",
+      "targets": [
+        "Teostra"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d122"
+      },
+      "name": "Pandora's Arena",
+      "client": "Second Fleet Master",
+      "description": "There's a saying about a cornered animal that slips me mind— Either way, there's wounded Teostra corralled in the Special Arena. Something's up with it. Go and check it out, eh?",
+      "map": "Special Arena",
+      "isKey": false,
+      "questType": "Special Assignment",
+      "game": "Monster Hunter World",
+      "difficulty": "8",
+      "objective": "Complete the assignment",
+      "targets": [
+        "Lunastra",
+        "Teostra"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d123"
+      },
+      "name": "No Remorse, No Surrender",
+      "client": "The Huntsman",
+      "description": "I never thought I'd live to see both the emperor and his empress in one spot. It's only fitting that you have the honor of ending their reign.",
+      "map": "Elder's Recess",
+      "isKey": false,
+      "questType": "Special Assignment",
+      "game": "Monster Hunter World",
+      "difficulty": "8",
+      "objective": "Slay all target monsters",
+      "targets": [
+        "Lunastra",
+        "Teostra"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d124"
+      },
+      "name": "A Visitor from Another World",
+      "client": "Serious Handler",
+      "description": "My weirdo partner won't shut up about some non-animal animal he found in the Wildspire Waste. Do you wanna tag along? Whatever it is, it's bound to be something interesting!",
+      "map": "Wildspire Waste",
+      "isKey": false,
+      "questType": "Special Assignment",
+      "game": "Monster Hunter World",
+      "difficulty": "6",
+      "objective": "Complete the assignment",
+      "targets": [
+        "Kulu-Ya-Ku"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d125"
+      },
+      "name": "The Legendary Beast",
+      "client": "Serious Handler",
+      "description": "Some kind of beast has arrived in the New World due to the instability of the aether. We have to do something otherwise every living thing in the New World is in serious danger!",
+      "map": "Elder's Recess",
+      "isKey": false,
+      "questType": "Special Assignment",
+      "game": "Monster Hunter World",
+      "difficulty": "9",
+      "objective": "Complete the assignment",
+      "targets": [
+        "Behemoth"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d126"
+      },
+      "name": "Contract: Trouble in the Ancient Forest",
+      "client": "Commander",
+      "description": "Attention field team! An anomaly has been discovered in the Ancient Forest. Help the witcher resolve this issue. In this quest, you will get to play as Geralt of Rivia.",
+      "map": "Ancient Forest",
+      "isKey": false,
+      "questType": "Special Assignment",
+      "game": "Monster Hunter World",
+      "difficulty": "9",
+      "objective": "Complete the assignment",
+      "targets": [
+        "Leshen"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d127"
+      },
+      "name": "He Taketh It with His Eyes",
+      "client": "Commander",
+      "description": "It was a Behemoth, an Eorzean beast, in the Elder's Recess. Heed the moogle's advice, call upon other trustworthy hunte— adventurers to help quell this terror!",
+      "map": "Elder's Recess",
+      "isKey": false,
+      "questType": "Special Assignment",
+      "game": "Monster Hunter World",
+      "difficulty": "9",
+      "objective": "Slay the Behemoth",
+      "targets": [
+        "Behemoth"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d128"
+      },
+      "name": "Sterling Pride",
+      "client": "The Admiral",
+      "description": "You hear the rumors of ol' Shattered Horn? Sounds like it's shown up in the Hoarfrost Reach, but why it's there and why its horn is broken is as clear as mud! Sounds like a mystery worth investigating, eh?",
+      "map": "Hoarfrost Reach",
+      "isKey": false,
+      "questType": "Special Assignment",
+      "game": "Monster Hunter World",
+      "difficulty": "MR6",
+      "objective": "Slay a Kirin",
+      "targets": [
+        "Kirin"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d129"
+      },
+      "name": "Reveal Thyself, Destroyer",
+      "client": "The Admiral",
+      "description": "We've traced whatever broke the Kirin's horn to the Guiding Lands. You can bet your bottom zenny that it's one tough customer, so don't let your guard down. And don't be late!",
+      "map": "The Guiding Lands",
+      "isKey": false,
+      "questType": "Special Assignment",
+      "game": "Monster Hunter World",
+      "difficulty": "MR6",
+      "objective": "Complete the assignment",
+      "targets": [
+        "Rajang"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d12a"
+      },
+      "name": "Across the Lost Path",
+      "client": "The Seeker",
+      "description": "We've discovered a new path in the Guiding Lands that even monsters tread carefully around. This may not be an issue from a long-term perspective, but it warrants an investigation.",
+      "map": "The Guiding Lands",
+      "isKey": false,
+      "questType": "Special Assignment",
+      "game": "Monster Hunter World",
+      "difficulty": "MR6",
+      "objective": "Complete the assignment",
+      "targets": [
+        "Stygian Zinogre"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d12b"
+      },
+      "name": "...And My Rage for All",
+      "client": "The Tracker",
+      "description": "A Raging Brachydios has been spotted in the Guiding Lands. Not many hunters have faced one and come back in one piece. Think you can join their ranks?",
+      "map": "The Guiding Lands",
+      "isKey": false,
+      "questType": "Special Assignment",
+      "game": "Monster Hunter World",
+      "difficulty": "MR6",
+      "objective": "Slay a Raging Brachydios",
+      "targets": [
+        "Raging Brachydios"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d12c"
+      },
+      "name": "The Fury Remains",
+      "client": "The Tracker",
+      "description": "A Furious Rajang has been spotted in the Hoarfrost Reach. Not many hunters have faced one and come back in one piece. Think you can join their ranks?",
+      "map": "Hoarfrost Reach",
+      "isKey": false,
+      "questType": "Special Assignment",
+      "game": "Monster Hunter World",
+      "difficulty": "MR6",
+      "objective": "Hunt a Furious Rajang",
+      "targets": [
+        "Furious Rajang"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d12d"
+      },
+      "name": "Dawn's Triumph",
+      "client": "Field Team Leader",
+      "description": "The burning Alatreon has once again been spotted. To make matters worse, news has spread of cataclysmic natural disasters occurring in the Old World. The timing of these events is curious to say the least. They merit further investigation but Alatreon comes first.",
+      "map": "Secluded Valley",
+      "isKey": false,
+      "questType": "Special Assignment",
+      "game": "Monster Hunter World",
+      "difficulty": "MR6",
+      "objective": "Slay an Alatreon",
+      "targets": [
+        "Alatreon"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d12e"
+      },
+      "name": "Blazing Black Twilight",
+      "client": "Third Fleet Master",
+      "description": "Not much is known of Alatreon, other than the destruction it's capable of threatens all of humanity. But this is a chance for the Commission to write history, no?",
+      "map": "Secluded Valley",
+      "isKey": false,
+      "questType": "Special Assignment",
+      "game": "Monster Hunter World",
+      "difficulty": "MR6",
+      "objective": "Slay an Alatreon",
+      "targets": [
+        "Alatreon"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d12f"
+      },
+      "name": "The Black Dragon",
+      "client": "Commander",
+      "description": "It is time for us to confront Fatalis. We, along with every nation and organization known, shall rid this world of this fabled scourge. When you're ready, we'll set sail.",
+      "map": "Castle Schrade",
+      "isKey": false,
+      "questType": "Special Assignment",
+      "game": "Monster Hunter World",
+      "difficulty": "MR6",
+      "objective": "Slay Fatalis",
+      "targets": [
+        "Fatalis"
+      ]
     }
   ]
 }
