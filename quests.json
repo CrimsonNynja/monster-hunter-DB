@@ -3728,7 +3728,7 @@
       "isKey": false,
       "questType": "Arena",
       "game": "Monster Hunter World",
-      "difficulty": "M1",
+      "difficulty": "MR1",
       "objective": "Slay a Banbaro",
       "targets": [
         "Banbaro"
@@ -3745,7 +3745,7 @@
       "isKey": false,
       "questType": "Arena",
       "game": "Monster Hunter World",
-      "difficulty": "M2",
+      "difficulty": "MR2",
       "objective": "Slay a Nightshade Paolumu",
       "targets": [
         "Nightshade Paolumu"
@@ -3762,7 +3762,7 @@
       "isKey": false,
       "questType": "Arena",
       "game": "Monster Hunter World",
-      "difficulty": "M3",
+      "difficulty": "MR3",
       "objective": "Slay a Nargacuga",
       "targets": [
         "Nargacuga"
@@ -3779,7 +3779,7 @@
       "isKey": false,
       "questType": "Arena",
       "game": "Monster Hunter World",
-      "difficulty": "M4",
+      "difficulty": "MR4",
       "objective": "Slay a Acidic Glavenus",
       "targets": [
         "Acidic Glavenus"
@@ -3796,7 +3796,7 @@
       "isKey": false,
       "questType": "Arena",
       "game": "Monster Hunter World",
-      "difficulty": "M4",
+      "difficulty": "MR4",
       "objective": "Slay all target monsters",
       "targets": [
         "Odogaron",
@@ -3814,7 +3814,7 @@
       "isKey": false,
       "questType": "Arena",
       "game": "Monster Hunter World",
-      "difficulty": "M6",
+      "difficulty": "MR6",
       "objective": "Slay a Zinogre",
       "targets": [
         "Zinogre"
@@ -3831,7 +3831,7 @@
       "isKey": false,
       "questType": "Arena",
       "game": "Monster Hunter World",
-      "difficulty": "M6",
+      "difficulty": "MR6",
       "objective": "Slay all target monsters",
       "targets": [
         "Tigrex",
@@ -4535,6 +4535,450 @@
       "objective": "Complete the assignment",
       "targets": [
        "Xeno'jiiva"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d149"
+      },
+      "name": "Baptism by Ice",
+      "client": "The Handler",
+      "description": "Ready to get exploring, Pard? I can hardly imagine what secrets are hidden beneath the snow! I'll find a place for the airship to land, you secure the area!",
+      "map": "Hoarfrost Reach",
+      "isKey": true,
+      "questType": "Assigned",
+      "game": "Monster Hunter World",
+      "difficulty": "MR1",
+      "objective": "Hunt a Beotodus",
+      "targets": [
+       "Beotodus"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d14a"
+      },
+      "name": "Banbaro Blockade",
+      "client": "Commander",
+      "description": "I've arranged a shipment of supplies from Astera, which should arrive at any moment. We'll need you to secure the Hoarfrost Reach to ensure it arrives safely. Don't forget to bundle up.",
+      "map": "Hoarfrost Reach",
+      "isKey": true,
+      "questType": "Assigned",
+      "game": "Monster Hunter World",
+      "difficulty": "MR1",
+      "objective": "Hunt a Banbaro",
+      "targets": [
+       "Banbaro"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d14b"
+      },
+      "name": "Ready to Strike",
+      "client": "The Tracker",
+      "description": "The scoutflies are useless with that Viper Tobi-Kadachi around. Get in there and do what you do best so we can keep pushing forward.",
+      "map": "Hoarfrost Reach",
+      "isKey": true,
+      "questType": "Assigned",
+      "game": "Monster Hunter World",
+      "difficulty": "MR2",
+      "objective": "Hunt a Viper Tobi-Kadachi",
+      "targets": [
+       "Viper Tobi-Kadachi"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d14c"
+      },
+      "name": "No Time for Naps",
+      "client": "Serious Handler",
+      "description": "Target: Nightshade Paolumu. Reports indicate that first contact resulted in extreme drowsiness. That's where the report ends... Let's get to it, uh, Partner! Excited to see what you can do!",
+      "map": "Wildspire Waste",
+      "isKey": true,
+      "questType": "Assigned",
+      "game": "Monster Hunter World",
+      "difficulty": "MR2",
+      "objective": "Hunt a Nightshade Paolumu",
+      "targets": [
+       "Nightshade Paolumu"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d14d"
+      },
+      "name": "Play Both Ends",
+      "client": "Serious Handler",
+      "description": "Target: Coral Pukei-Pukei. Reports indicate that first contact was greeted with blasts of...water? That's where the report ends... Let's get to it, uh, Partner! Excited to see what you can do!",
+      "map": "Coral Highlands",
+      "isKey": true,
+      "questType": "Assigned",
+      "game": "Monster Hunter World",
+      "difficulty": "MR2",
+      "objective": "Hunt a Coral Pukei-Pukei",
+      "targets": [
+       "Coral Pukei-Pukei"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d14e"
+      },
+      "name": "Blizzard Blitz",
+      "client": "Field Team Leader",
+      "description": "Reports have been coming in about a Barioth roaming around the Reach. Those two are still examining the wreckage, but we'll need them to retreat for now. Get out there and bring them back safely!",
+      "map": "Hoarfrost Reach",
+      "isKey": true,
+      "questType": "Assigned",
+      "game": "Monster Hunter World",
+      "difficulty": "MR3",
+      "objective": "Hunt a Barioth",
+      "targets": [
+       "Barioth"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d14f"
+      },
+      "name": "Ever-present Shadow",
+      "client": "Commander",
+      "description": "Velkhana's arrival in the New World has thrown the ecosystem out of whack. I guess it was inevitable that a monster like a Nargacuga would show up. Get out there and take care of it.",
+      "map": "Ancient Forest",
+      "isKey": true,
+      "questType": "Assigned",
+      "game": "Monster Hunter World",
+      "difficulty": "MR3",
+      "objective": "Hunt a Nargacuga",
+      "targets": [
+       "Nargacuga"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d150"
+      },
+      "name": "The Scorching Blade",
+      "client": "Commander",
+      "description": "Velkhana's arrival in the New World has thrown the ecosystem out of whack. I guess it was inevitable that a monster like a Glavenus would show up. Get out there and take care of it.",
+      "map": "Wildspire Waste",
+      "isKey": true,
+      "questType": "Assigned",
+      "game": "Monster Hunter World",
+      "difficulty": "MR3",
+      "objective": "Hunt a Glavenus",
+      "targets": [
+       "Glavenus"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d151"
+      },
+      "name": "Absolute Power",
+      "client": "Commander",
+      "description": "New monsters are popping up everywhere due to Velkhana's influence, even in the Rotten Vale. Head out and investigate this Tigrex. Be cautious of its piercing roar.",
+      "map": "Rotten Vale",
+      "isKey": true,
+      "questType": "Assigned",
+      "game": "Monster Hunter World",
+      "difficulty": "MR3",
+      "objective": "Hunt a Tigrex",
+      "targets": [
+       "Tigrex"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d152"
+      },
+      "name": "A Smashing Cross Counter",
+      "client": "Commander",
+      "description": "New monsters are popping up everywhere due to Velkhana's influence, even in the Elder's Recess. Head out and investigate this Brachydios. Be cautious of its explosive slime attacks.",
+      "map": "Elder's Recess",
+      "isKey": true,
+      "questType": "Assigned",
+      "game": "Monster Hunter World",
+      "difficulty": "MR3",
+      "objective": "Hunt a Brachydios",
+      "targets": [
+       "Brachydios"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d153"
+      },
+      "name": "A Tale of Ice and Fire",
+      "client": "Commander",
+      "description": "Thanks to everyone's diligent efforts, we know that Velkhana is in the Elder's Recess. We don't know why it's there, but we need our best hunters on the job. That means you!",
+      "map": "Elder's Recess",
+      "isKey": true,
+      "questType": "Assigned",
+      "game": "Monster Hunter World",
+      "difficulty": "MR3",
+      "objective": "Repel Velkhana",
+      "targets": [
+       "Velkhana"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d154"
+      },
+      "name": "When the Mist Taketh You",
+      "client": "The Handler",
+      "description": "Leave finding the Tracker to me. In the meantime, secure the area by taking care of that Legiana! Be careful though, there's something off about this one...",
+      "map": "Hoarfrost Reach",
+      "isKey": true,
+      "questType": "Assigned",
+      "game": "Monster Hunter World",
+      "difficulty": "MR4",
+      "objective": "Hunt a Shrieking Legiana",
+      "targets": [
+       "Shrieking Legiana"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d155"
+      },
+      "name": "The Thunderous Troublemaker!",
+      "client": "Field Team Leader",
+      "description": "The convoy from Astera is approaching the Hoarfrost Reach, but we need to secure its route. Our favorite troublemaker is back, and someone needs to teach it a lesson!",
+      "map": "Hoarfrost Reach",
+      "isKey": true,
+      "questType": "Assigned",
+      "game": "Monster Hunter World",
+      "difficulty": "MR4",
+      "objective": "Hunt a Fulgur Anjanath",
+      "targets": [
+       "Fulgur Anjanath"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d156"
+      },
+      "name": "The Disintegrating Blade",
+      "client": "Commander",
+      "description": "As soon as Velkhana left, monsters everywhere started getting riled up. We're short on manpower, and we need a hunter to secure the defense convoy's route to Seliana. Start by taking out the Glavenus subspecies!",
+      "map": "Rotten Vale",
+      "isKey": true,
+      "questType": "Assigned",
+      "game": "Monster Hunter World",
+      "difficulty": "MR4",
+      "objective": "Hunt an Acidic Glavenus",
+      "targets": [
+       "Acidic Glavenus"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d157"
+      },
+      "name": "Bad Friends, Great Enemies",
+      "client": "Commander",
+      "description": "As soon as Velkhana left, monsters everywhere started getting riled up. We're short on manpower, and we need a hunter to secure the defense convoy's route to Seliana. Start by taking out the Odogaron subspecies!",
+      "map": "Coral Highlands",
+      "isKey": true,
+      "questType": "Assigned",
+      "game": "Monster Hunter World",
+      "difficulty": "MR4",
+      "objective": "Hunt an Ebony Odogaron",
+      "targets": [
+       "Ebony Odogaron"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d158"
+      },
+      "name": "The Defense of Seliana",
+      "client": "Commander",
+      "description": "Velkhana is closing in on Seliana! Man the Dragonrazer and drive that thing back! All of Seliana is counting on you, Sapphire Star!",
+      "map": "Seliana Supply Cache",
+      "isKey": true,
+      "questType": "Assigned",
+      "game": "Monster Hunter World",
+      "difficulty": "MR4",
+      "objective": "Complete the assignment",
+      "targets": [
+       "Velkhana"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d159"
+      },
+      "name": "The Iceborne Wyvern",
+      "client": "Field Team Leader",
+      "description": "We may have protected Seliana this time, but we still have no idea if and when Velkhana will return. It's time to take the fight to the beast before it recovers! Gear up and head out! And BE CAREFUL!",
+      "map": "Hoarfrost Reach",
+      "isKey": true,
+      "questType": "Assigned",
+      "game": "Monster Hunter World",
+      "difficulty": "MR5",
+      "objective": "Slay a Velkhana",
+      "targets": [
+       "Velkhana"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d15a"
+      },
+      "name": "The Second Coming",
+      "client": "The Admiral",
+      "description": "Hah, look who's back to wreak havoc. This guy thinks he owns the place, but he's about to get a real rude awakening, right, Fiver? Get in there and send 'em packin'!",
+      "map": "Elder's Recess",
+      "isKey": true,
+      "questType": "Assigned",
+      "game": "Monster Hunter World",
+      "difficulty": "MR5",
+      "objective": "Hunt a Seething Bazelgeuse",
+      "targets": [
+       "Seething Bazelgeuse"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d15b"
+      },
+      "name": "Under the Veil of Death",
+      "client": "Field Team Leader",
+      "description": "Something strange is going on... A Vaal Hazak has shown up in the Ancient Forest. Reports state that something is...off about it. What's it doing outside the vale? At any rate, be careful!",
+      "map": "Ancient Forest",
+      "isKey": true,
+      "questType": "Assigned",
+      "game": "Monster Hunter World",
+      "difficulty": "MR5",
+      "objective": "Slay a Blackveil Vaal Hazak",
+      "targets": [
+       "Blackveil Vaal Hazak"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d15c"
+      },
+      "name": "A Light From the Abyss",
+      "client": "Field Team Leader",
+      "description": "The Commission has discovered a never-before-seen elder dragon in the Coral Highlands. No solid info to go on, other than reports of an ominous light radiating from the highest plateau...",
+      "map": "Coral Highlands",
+      "isKey": true,
+      "questType": "Assigned",
+      "game": "Monster Hunter World",
+      "difficulty": "MR5",
+      "objective": "Slay a Namielle",
+      "targets": [
+       "Namielle"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d15d"
+      },
+      "name": "To the Guided, A Paean",
+      "client": "Field Team Leader",
+      "description": "Board the ship when you're ready. It's time we wrap up all loose ends. Who knows what we'll find when we land, but I know you'll be ready. You always are.",
+      "map": "Origin Isle",
+      "isKey": true,
+      "questType": "Assigned",
+      "game": "Monster Hunter World",
+      "difficulty": "MR6",
+      "objective": "Complete the assignment",
+      "targets": [
+       "Ruiner Nergigante"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d15e"
+      },
+      "name": "Paean of Guidance",
+      "client": "The Tracker",
+      "description": "The time has finally come to face Shara Ishvalda. I wish I could be there to have a good look at it... But this is a job only you're capable of. Good luck.",
+      "map": "Origin Isle",
+      "isKey": true,
+      "questType": "Assigned",
+      "game": "Monster Hunter World",
+      "difficulty": "MR6",
+      "objective": "Complete the assignment",
+      "targets": [
+       "Shara Ishvalda"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d15f"
+      },
+      "name": "Return of the Crazy One",
+      "client": "The Handler",
+      "description": "What!? A Yian Garuga!? According to my notes, these monsters will pick a fight with just about anything! It also says be careful around its supersonic roars. This is gonna be exciting, Pard!",
+      "map": "The Guiding Lands",
+      "isKey": true,
+      "questType": "Assigned",
+      "game": "Monster Hunter World",
+      "difficulty": "MR6",
+      "objective": "Hunt a Yian Garuga",
+      "targets": [
+       "Yian Garuga"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d160"
+      },
+      "name": "Sleep Now in the Fire",
+      "client": "Field Team Leader",
+      "description": "This assignment is only for the few heroic hunters who can handle the rigors of being a true master hunter. Show everyone what you're capable of! (Completing this quest unlocks the MR cap limit)",
+      "map": "Ancient Forest",
+      "isKey": true,
+      "questType": "Assigned",
+      "game": "Monster Hunter World",
+      "difficulty": "MR6",
+      "objective": "Hunt all target monsters",
+      "targets": [
+       "Rathian",
+       "Nightshade Paolumu"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d161"
+      },
+      "name": "Big Burly Bash",
+      "client": "Field Team Leader",
+      "description": "This assignment is only for the few heroic hunters who can handle the rigors of being a true master hunter. Show everyone what you're capable of! (Completing this quest unlocks the MR cap limit)",
+      "map": "Elder's Recess",
+      "isKey": true,
+      "questType": "Assigned",
+      "game": "Monster Hunter World",
+      "difficulty": "MR6",
+      "objective": "Hunt all target monsters",
+      "targets": [
+       "Brachydios",
+       "Glavenus"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d162"
+      },
+      "name": "To the Very Ends with You",
+      "client": "Field Team Leader",
+      "description": "I know you've been waiting for this, and I bet Nergigante has, too. You guys are basically joined at the hip. But it's time to end this. Go get 'em, Hunter! (Completing this quest unlocks the MR cap limit)",
+      "map": "The Guiding Lands",
+      "isKey": true,
+      "questType": "Assigned",
+      "game": "Monster Hunter World",
+      "difficulty": "MR6",
+      "objective": "Slay a Ruiner Nergigante",
+      "targets": [
+       "Ruiner Nergigante"
       ]
     }
   ]
