@@ -3547,6 +3547,25 @@
     },
     {
       "_id": {
+        "$oid": "608fc50dda2d8ce1017b704f"
+      },
+      "name": "Heart of a Ninja",
+      "client": "Fugen the Elder",
+      "description": "Hey, Squirt! We've got ourselves another little quest in the Arena that'll test the best of the best. Complete it and you'll snag some new titles for yourself. Now these monsters think they're slick but my zenny's on you! Go get to it!",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Hunt all target monsters",
+      "targets": [
+        "Tobi-Kadachi",
+        "Barioth",
+        "Nargacuga"
+      ]
+    },
+    {
+      "_id": {
         "$oid": "608fc50ddc2d8ce1017b005b"
       },
       "name": "Haste Makes Waste",
