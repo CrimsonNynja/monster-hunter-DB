@@ -4999,6 +4999,71 @@
       "targets": [
        "Ruiner Nergigante"
       ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d163"
+      },
+      "name": "Butting Heads with Nature",
+      "client": "Chief Ecologist",
+      "description": "Blasted Kestodon! Every single time we go out to collect samples, those annoying creatures knock us on our tushes! I wish they'd butt out of our research!",
+      "map": "Ancient Forest",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "1",
+      "objective": "Slay 12 Kestodon",
+      "targets": [
+       "Kestodon"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d164"
+      },
+      "name": "A Thicket of Thugs",
+      "client": "Chief Ecologist",
+      "description": "One of my field researchers wants to collect brightmoss to study. Only problem is, it's mostly found in caves. Guess what else is mostly found in caves? That's right...Jagras!",
+      "map": "Ancient Forest",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "1",
+      "objective": "Slay 7 Jagras",
+      "targets": [
+       "Jagras"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d165"
+      },
+      "name": "Fungal Flexin' in the Ancient Forest",
+      "client": "The Meowscular Chef",
+      "description": "Supplements? At MY Canteen? Pfft! We're all organic, baby! If you need vitamin D, get some Gourmet Shroomcaps! *Unlocks a new Canteen ingredient on first time completion.",
+      "map": "Ancient Forest",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "1",
+      "objective": "Deliver 20 Gourmet Shroomcaps"
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d166"
+      },
+      "name": "Learning the Clutch",
+      "client": "Field Team Leader",
+      "description": "The old man said that New World hunters need to keep innovating, and our latest innovation is the clutch claw, a new feature of the slinger. Time for you to get up to snuff on how to use it.",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "1",
+      "objective": "Learn the mechanics of the clutch claw",
+      "targets": [
+       "Great Jagras"
+      ]
     }
   ]
 }
