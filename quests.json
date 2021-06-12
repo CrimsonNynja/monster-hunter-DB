@@ -5064,6 +5064,91 @@
       "targets": [
        "Great Jagras"
       ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d167"
+      },
+      "name": "The Great Glutton",
+      "client": "Chief Ecologist",
+      "description": "I'm sure by now you've seen the way Great Jagras swallow its prey whole. One's been spotted again in the forest. Take it out before one of my researchers gets gobbled up!",
+      "map": "Ancient Forest",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "2",
+      "objective": "Hunt a Great Jagras",
+      "targets": [
+       "Great Jagras"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d168"
+      },
+      "name": "Camp Crasher",
+      "client": "Chief Ecologist",
+      "description": "The other morning one of my researchers woke to his camp having been pilfered by one of those thieving Kulu-Ya-Ku. Do something about it before it ransacks another camp!",
+      "map": "Ancient Forest",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "2",
+      "objective": "Hunt a Kulu-Ya-Ku",
+      "targets": [
+       "Kulu-Ya-Ku"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d169"
+      },
+      "name": "Snatch the Snatcher",
+      "client": "Smart Biologist",
+      "description": "The Kulu-Ya-Ku uses its nimble forearms to pick up stones and eggs. Monsters that use tools are exceptionally rare. I'd like you to catch one for closer study.",
+      "map": "Wildspire Waste",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "2",
+      "objective": "Capture a Kulu-Ya-Ku",
+      "targets": [
+       "Kulu-Ya-Ku"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d16a"
+      },
+      "name": "The Pain from Gains",
+      "client": "The Meowscular Chef",
+      "description": "My paw-thritis is acting up again. Years of Palico-ing will do that to you. The best remedy? Good ol' Gajau liver oil! *Unlocks a new Canteen ingredient on first time completion.",
+      "map": "Wildspire Waste",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "2",
+      "objective": "Slay 7 Gajau",
+      "targets": [
+       "Gajau"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d16b"
+      },
+      "name": "Exterminator of the Waste",
+      "client": "The Meowscular Chef",
+      "description": "I need you to go out to the Wildspire Waste and waste a few Vespoids...or as I like to call them, punchin' bags with wings. *Unlocks a new Canteen ingredient on first time completion.",
+      "map": "Wildspire Waste",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "2",
+      "objective": "Slay 14 Vespoid",
+      "targets": [
+       "Vespoid"
+      ]
     }
   ]
 }
