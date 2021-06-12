@@ -4111,6 +4111,431 @@
       "targets": [
         "Fatalis"
       ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d130"
+      },
+      "name": "Jagras of the Ancient Forest",
+      "client": "The Commander",
+      "description": "Zorah Magdaros's appearance has brought about changes in the local ecosystem. Head into Jagras territory to investigate, and take them out if necessary.",
+      "map": "Ancient Forest",
+      "isKey": true,
+      "questType": "Assigned",
+      "game": "Monster Hunter World",
+      "difficulty": "1",
+      "objective": "Slay 7 Jagras",
+      "targets": [
+        "Jagras"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d131"
+      },
+      "name": "A Kestodon Kefuffle",
+      "client": "The Commander",
+      "description": "Zorah Magdaros's appearance has driven a herd of Kestodon to new territory. We'll need you to go out and thin that herd of head-butters.",
+      "map": "Ancient Forest",
+      "isKey": true,
+      "questType": "Assigned",
+      "game": "Monster Hunter World",
+      "difficulty": "2",
+      "objective": "Complete the assignment",
+      "targets": [
+        "Kestodon"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d132"
+      },
+      "name": "The Great Jagras Hunt",
+      "client": "Field Team Leader",
+      "description": "Things I'm not interested in writing in my daily report: \"Researchers swallowed whole by Great Jagras.\" Take it out before I actually have to write it!",
+      "map": "Ancient Forest",
+      "isKey": true,
+      "questType": "Assigned",
+      "game": "Monster Hunter World",
+      "difficulty": "2",
+      "objective": "Hunt a Great Jagras",
+      "targets": [
+        "Great Jagras"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d133"
+      },
+      "name": "Bird-Brained Bandit",
+      "client": "Provisions Manager",
+      "description": "The Kulu-Ya-Ku uses its dexterous forearms to carry objects. Left unchecked it's liable to run off with crucial supplies. Step one of rebuilding a secure camp is hunting that thief!",
+      "map": "Ancient Forest",
+      "isKey": true,
+      "questType": "Assigned",
+      "game": "Monster Hunter World",
+      "difficulty": "2",
+      "objective": "Hunt a Kulu-Ya-Ku",
+      "targets": [
+        "Kulu-Ya-Ku"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d134"
+      },
+      "name": "Urgent: Pukei-Pukei Hunt",
+      "client": "The Commander",
+      "description": "That Pukei-Pukei is none too pleased to have that slag in its territory. It'll be even less pleased if we send in our scholars to research it. Looks like we have to put it down.",
+      "map": "Ancient Forest",
+      "isKey": true,
+      "questType": "Assigned",
+      "game": "Monster Hunter World",
+      "difficulty": "3",
+      "objective": "Hunt a Pukei-Pukei",
+      "targets": [
+        "Pukei-Pukei"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d135"
+      },
+      "name": "The Best kind of Quest",
+      "client": "The Commander",
+      "description": "Something surely left by Zorah Magdaros was discovered out in the Wildspire Waste. Fifth Fleet hunters: Keep our scholars safe as you escort them out to investigate this new evidence.",
+      "map": "Wildspire Waste",
+      "isKey": true,
+      "questType": "Assigned",
+      "game": "Monster Hunter World",
+      "difficulty": "3",
+      "objective": "Complete the assignment",
+      "targets": [
+        "Barroth"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d136"
+      },
+      "name": "Sinister Shadows in the Swamp",
+      "client": "The Commander",
+      "description": "A young scholar has gotten separated from his escort out in the Wildspire Waste. Find him and escort him back to base. Neutralize any large monsters that pose a threat.",
+      "map": "Wildspire Waste",
+      "isKey": true,
+      "questType": "Assigned",
+      "game": "Monster Hunter World",
+      "difficulty": "3",
+      "objective": "Complete the assignment",
+      "targets": [
+        "Jyuratodus"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d137"
+      },
+      "name": "Flying Sparks: Tobi-Kadachi",
+      "client": "Chief Botanist",
+      "description": "Oh, my! That Tobi-Kadachi sure is getting in the way of progress! You hunters will never get a hold of these specialized tools I'm making if I become its dinner!",
+      "map": "Ancient Forest",
+      "isKey": true,
+      "questType": "Assigned",
+      "game": "Monster Hunter World",
+      "difficulty": "3",
+      "objective": "Hunt a Tobi-Kadachi",
+      "targets": [
+        "Tobi-Kadachi"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d138"
+      },
+      "name": "The Encroaching Anjanath",
+      "client": "Field Team Leader",
+      "description": "As we're gearing up to capture Zorah Magdaros, we need to secure Astera as much as we can. It's too much of a risk to have that Anjanath roaming so close to base.",
+      "map": "Ancient Forest",
+      "isKey": true,
+      "questType": "Assigned",
+      "game": "Monster Hunter World",
+      "difficulty": "4",
+      "objective": "Hunt an Anjanath",
+      "targets": [
+        "Anjanath"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d139"
+      },
+      "name": "One for the History Books",
+      "client": "The Commander",
+      "description": "At dawn we'll attempt what no one in history has dared: Capture an elder dragon! Make your preparations and proceed to the site. May the Sapphire Star guide us all.",
+      "map": "Great Ravine",
+      "isKey": true,
+      "questType": "Assigned",
+      "game": "Monster Hunter World",
+      "difficulty": "4",
+      "objective": "Complete the assignment",
+      "targets": [
+        "Zorah Magdaros"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d13a"
+      },
+      "name": "Ballooning Problems",
+      "client": "Third Fleet Master",
+      "description": "...I'm sorry, I just retched thinking about that monster's face. Seriously, you'll be doing it a favor...and us too. Hunt it and the Airship Engineer will have everything he needs.",
+      "map": "Coral Highlands",
+      "isKey": true,
+      "questType": "Assigned",
+      "game": "Monster Hunter World",
+      "difficulty": "4",
+      "objective": "Hunt a Paolumu",
+      "targets": [
+        "Paolumu"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d13b"
+      },
+      "name": "Radobaan Roadblock",
+      "client": "The Handler",
+      "description": "The bones covering Radobaan's body are gonna be tough to get through, but if we want to continue our survey of the Rotten Vale, you'll need to find a way!",
+      "map": "Rotten Vale",
+      "isKey": true,
+      "questType": "Assigned",
+      "game": "Monster Hunter World",
+      "difficulty": "4",
+      "objective": "Hunt a Radobaan",
+      "targets": [
+        "Radobaan"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d13c"
+      },
+      "name": "Legiana Embodiment of Elegance",
+      "client": "Third Fleet Master",
+      "description": "You already know how I feel about that intolerable creature. As long as it controls the skies in the highlands, we'll never be able to make our descent. Do take care of it, won't you?",
+      "map": "Coral Highlands",
+      "isKey": true,
+      "questType": "Assigned",
+      "game": "Monster Hunter World",
+      "difficulty": "5",
+      "objective": "Hunt a Legiana",
+      "targets": [
+        "Legiana"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d13d"
+      },
+      "name": "Into the Bowels of the Vale",
+      "client": "Third Fleet Master",
+      "description": "...... Certain death awaits you in the depths, but so does the key to finding Zorah Magdaros. A fair trade-off if you ask me.",
+      "map": "Rotten Vale",
+      "isKey": true,
+      "questType": "Assigned",
+      "game": "Monster Hunter World",
+      "difficulty": "5",
+      "objective": "Complete the assignment",
+      "targets": [
+        "Odogaron"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d13e"
+      },
+      "name": "A Firey Throne Atop the Forest",
+      "client": "The Handler",
+      "description": "The First Wyverian's not gonna spill the beans about Zorah until we stand on top of the food chain. That means we gotta hunt us a Rathalos! ...Does that mean we have to eat it too?",
+      "map": "Ancient Forest",
+      "isKey": true,
+      "questType": "Assigned",
+      "game": "Monster Hunter World",
+      "difficulty": "5",
+      "objective": "Hunt a Rathalos",
+      "targets": [
+        "Rathalos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d13f"
+      },
+      "name": "Horned Tyrant Below the Aands",
+      "client": "The Handler",
+      "description": "The First Wyverian's not gonna spill the beans about Zorah until we stand on top of the food chain. That means we gotta hunt us a Diablos! ...Does that mean we have to eat it too?",
+      "map": "Wildspire Waste",
+      "isKey": true,
+      "questType": "Assigned",
+      "game": "Monster Hunter World",
+      "difficulty": "5",
+      "objective": "Hunt a Diablos",
+      "targets": [
+        "Diablos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d140"
+      },
+      "name": "A Colossal Task",
+      "client": "The Commander",
+      "description": "The operation is set to commence in the Everstream. Do everything you can to force Zorah Magdaros out to sea. We must not fail! May the Sapphire Star light our way!",
+      "map": "Everstream",
+      "isKey": true,
+      "questType": "Assigned",
+      "game": "Monster Hunter World",
+      "difficulty": "6",
+      "objective": "Complete the assignment",
+      "targets": [
+        "Zorah Magdaros"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d141"
+      },
+      "name": "Invader in the Waste",
+      "client": "The Handler",
+      "description": "A Pukei-Pukei in the Wildspire Waste!? As if that's not already weird enough, this one's extra tough. We've gotta get to the bottom of this! Be careful, Partner!",
+      "map": "Wildspire Waste",
+      "isKey": true,
+      "questType": "Assigned",
+      "game": "Monster Hunter World",
+      "difficulty": "6",
+      "objective": "Hunt a Pukei-Pukei",
+      "targets": [
+        "Pukei-Pukei"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d142"
+      },
+      "name": "Tickled Pink",
+      "client": "Chief Ecologist",
+      "description": "A powerful Anjanath's been sighted! Their kind's the gold— pink?—standard for New World monsters. We can't let this chance at an ideal sample slip away. Go hunt it ASAP!",
+      "map": "Wildspire Waste",
+      "isKey": true,
+      "questType": "Assigned",
+      "game": "Monster Hunter World",
+      "difficulty": "6",
+      "objective": "Hunt an Anjanath",
+      "targets": [
+        "Anjanath"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d143"
+      },
+      "name": "Old World Monster in the New World",
+      "client": "The Commander",
+      "description": "We've finally tracked down the source of those mysterious tracks. Report to the Coral Highlands and seek it out! I'll be expecting your report as soon as you're done!",
+      "map": "Coral Highlands",
+      "isKey": true,
+      "questType": "Assigned",
+      "game": "Monster Hunter World",
+      "difficulty": "7",
+      "objective": "Complete the assignment",
+      "targets": [
+        "Pink Rathian"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d144"
+      },
+      "name": "A Wound and a Thirst",
+      "client": "The Commander",
+      "description": "The Nergigante's long eyed us from the far side of the Elder Crossing, but now we have a lead on its whereabouts. If we can study it, it may reveal the Crossing's true nature.",
+      "map": "Elder's Recess",
+      "isKey": true,
+      "questType": "Assigned",
+      "game": "Monster Hunter World",
+      "difficulty": "8",
+      "objective": "Slay a Nergigante",
+      "targets": [
+        "Nergigante"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d145"
+      },
+      "name": "Kushala Daora, Dragon of Steel",
+      "client": "Field Team Leader",
+      "description": "The elder dragon tracks in the forest? Kushala Daora. I'm sure of it. We know it's in the Elder's Recess. For the safety of everyone in Astera, we're counting on you!",
+      "map": "Elder's Recess",
+      "isKey": true,
+      "questType": "Assigned",
+      "game": "Monster Hunter World",
+      "difficulty": "8",
+      "objective": "Slay Kushala Daora",
+      "targets": [
+        "Kushala Daora"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d146"
+      },
+      "name": "Teostra the Infernal",
+      "client": "The Huntsman",
+      "description": "It's Teostra that stalks the Waste—Emperor of flame. And now it sits in wait in the Elder's Recess. Go to it, hunter, and end its searing reign!",
+      "map": "Elder's Recess",
+      "isKey": true,
+      "questType": "Assigned",
+      "game": "Monster Hunter World",
+      "difficulty": "8",
+      "objective": "Slay Teostra",
+      "targets": [
+       "Teostra"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d147"
+      },
+      "name": "Hellish Fiend Vaal Hazak",
+      "client": "Third Fleet Master",
+      "description": "I'm absolutely positive that the effluvium is controlled by Vaal Hazak. Now to prove my theory once and for all. Go to the vale and seek out Vaal Hazak!",
+      "map": "Rotten Vale",
+      "isKey": true,
+      "questType": "Assigned",
+      "game": "Monster Hunter World",
+      "difficulty": "8",
+      "objective": "Slay Vaal Hazak",
+      "targets": [
+       "Vaal Hazak"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d148"
+      },
+      "name": "Land of Convergance",
+      "client": "The Admiral",
+      "description": "An immense energy flows through the New World, and we've found where it all leads to. Go with the Seeker and find out what's there. May the Sapphire Star guide us all.",
+      "map": "Confluence of Fates",
+      "isKey": true,
+      "questType": "Assigned",
+      "game": "Monster Hunter World",
+      "difficulty": "9",
+      "objective": "Complete the assignment",
+      "targets": [
+       "Xeno'jiiva"
+      ]
     }
   ]
 }
