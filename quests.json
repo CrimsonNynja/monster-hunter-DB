@@ -5579,6 +5579,208 @@
       "targets": [
         "Raphinos"
       ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d186"
+      },
+      "name": "Special Arena: Legiana",
+      "client": "Arena Lass",
+      "description": "A new challenger: Legiana, the Slipstream Striker, the Wing leader! Remember, you can't spell flight without fight! Think you can go toe-to-toe—er, toe-to-claw with this heavy hitter!?",
+      "map": "Special Arena",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "5",
+      "objective": "Hunt a Legiana",
+      "targets": [
+        "Legiana"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d187"
+      },
+      "name": "Special Arena: Odogaron",
+      "client": "Arena Lass",
+      "description": "A new challenger: Odogaron, the Muscle Mutt, the Rex Who Wrecks! He'll bite your leg to fetch the stick inside! Think you can go toe-to-toe—er, toe-to-claw with this heavy hitter!?",
+      "map": "Special Arena",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "5",
+      "objective": "Hunt a Odogaron",
+      "targets": [
+        "Odogaron"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d188"
+      },
+      "name": "Special Arena: Rathalos",
+      "client": "Arena Lass",
+      "description": "A new challenger: Rathalos, the Red-Hot Raider, the Fire- starter! Forgive the fireballs; he likes his meals cooked! Think you can go toe-to-toe—er, toe-to-claw with this heavy hitter!?",
+      "map": "Special Arena",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "5",
+      "objective": "Hunt a Rathalos",
+      "targets": [
+        "Rathalos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d189"
+      },
+      "name": "Special Arena: Diablos",
+      "client": "Arena Lass",
+      "description": "A new challenger: Diablos, the Sandy Stampede, Biggus Diggus! Don't hang around if he's underground! Think you can go toe-to-toe—er, toe-to-claw with this heavy hitter!?",
+      "map": "Special Arena",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "5",
+      "objective": "Hunt a Rathalos",
+      "targets": [
+        "Rathalos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d18a"
+      },
+      "name": "When Desire Becomes an Obsession",
+      "client": "Chief Ecologist",
+      "description": "They say that Rathalos possess the rarest of gems, but I'm having a hard to time obtaining one. I've already gone through ten or so of them with no luck. Oh well, bring me another!",
+      "map": "Ancient Forest",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "5",
+      "objective": "Hunt a Rathalos",
+      "targets": [
+        "Rathalos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d18b"
+      },
+      "name": "Redefining the \"Power Couple\"",
+      "client": "The Armory",
+      "description": "Here at the Second Fleet, we've been working to develop new tools to help your hunts, but we need YOUR help gathering the materials. We're counting on you to take this quest!",
+      "map": "Ancient Forest",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "5",
+      "objective": "Hunt all target monsters",
+      "targets": [
+        "Rathalos",
+        "Rathian"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d18c"
+      },
+      "name": "Twin Spires Upon the Sands",
+      "client": "Chief Ecologist",
+      "description": "Did you know there's a species of insect that survives by burrowing into Diablos tails? No? Well neither do we! And we won't find out unless you go and bring us one to be sure!",
+      "map": "Wildspire Waste",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "5",
+      "objective": "Hunt a Diablos",
+      "targets": [
+        "Diablos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d18d"
+      },
+      "name": "A Humid Headache",
+      "client": "Chief Ecologist",
+      "description": "This weather is so humid you could cut the air with a great sword! Our department could do with some climate control and I know just the monster that can provide some relief!",
+      "map": "Coral Highlands",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "5",
+      "objective": "Hunt a Legiana",
+      "targets": [
+        "Legiana"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d18e"
+      },
+      "name": "Gone in a Flash",
+      "client": "Impatient Biologist",
+      "description": "Why are you still here? An elder dragon's been spotted and you're just hanging out!? Hurry up before it gets away! *Unlocks a new Specialized Tool on first time completion.",
+      "map": "Coral Highlands",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "5",
+      "objective": "Slay a Kirin",
+      "targets": [
+        "Kirin"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d18f"
+      },
+      "name": "Scratching the Itch",
+      "client": "Chief Ecologist",
+      "description": "This morning I awoke to a brilliant epiphany! I have an idea for something every hunter needs after a long day out in the field...Odogaron backscratchers!",
+      "map": "Rotten Vale",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "5",
+      "objective": "Hunt an Odogaron",
+      "targets": [
+        "Odogaron"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d190"
+      },
+      "name": "Man's Best Fiend",
+      "client": "Smart Biologist",
+      "description": "I really miss my old pet. The days we spent going to the park, playing fetch. I long for that companionship... that loyalty. Please go out and find me a new one.",
+      "map": "Rotten Vale",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "5",
+      "objective": "Capture an Odogaron",
+      "targets": [
+        "Odogaron"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d191"
+      },
+      "name": "The Meat of the Matter",
+      "client": "The Meowscular Chef",
+      "description": "You ready for back day!? GOOD! You'll need to put your back into it to get all the ingredients on this list! *Unlocks a new Canteen ingredient on first time completion.",
+      "map": "Rotten Vale",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "5",
+      "objective": "Deliver 2 Lumps of Meat"
     }
   ]
 }
