@@ -6288,6 +6288,435 @@
       "targets": [
         "Gajalaka"
       ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d1b0"
+      },
+      "name": "Special Arena: HR Pink Rathian",
+      "client": "Arena Lass",
+      "description": "A new challenger: Pink Rathian, the Burning Blossom, the Beauty Who Bites! Best not stop to smell the roses! The gloves are off—not that we have gloves that big...",
+      "map": "Special Arena",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "7",
+      "objective": "Hunt a Pink Rathian",
+      "targets": [
+        "Pink Rathian"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d1b1"
+      },
+      "name": "Two-horned Hostility",
+      "client": "Serious Handler",
+      "description": "Hey, we've gotten a report of an unusually fine monster specimen roaming around. We need to seize on this opportunity, so we need you to investigate ASAP!",
+      "map": "Wildspire Waste",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "7",
+      "objective": "Hunt a Black Diablos",
+      "targets": [
+        "Black Diablos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d1b2"
+      },
+      "name": "Bazelgeuse in the Field of Fire",
+      "client": "Smart Biologist",
+      "description": "That eccentric trio has gone and done it again! Now that they've discovered the location of a Bazelgeuse, they're off to study it! Please hunt it before they get themselves hurt!",
+      "map": "Elder's Recess",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "7",
+      "objective": "Hunt a Bazelgeuse",
+      "targets": [
+        "Bazelgeuse"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d1b3"
+      },
+      "name": "Ruler of the Azure Skies",
+      "client": "The Commander",
+      "description": "The field team has spotted an Azure Rathalos patroling the skies. Subspecies like these are highly valuable to the Commission's research efforts. Get going, hunter!",
+      "map": "Elder's Recess",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "7",
+      "objective": "Hunt an Azure Rathalos",
+      "targets": [
+        "Azure Rathalos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d1b4"
+      },
+      "name": "Ore-eating Occupier",
+      "client": "Serious Handler",
+      "description": "We've gotten a report of an unusually fine monster specimen roaming around. We need to seize on this opportunity, so we need you to investigate ASAP!",
+      "map": "Elder's Recess",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "7",
+      "objective": "Hunt an Uragaan",
+      "targets": [
+        "Uragaan"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d1b5"
+      },
+      "name": "Lavasioth, Monster of Magma",
+      "client": "Serious Handler",
+      "description": "Hey, we've gotten a report of an unusually fine monster specimen roaming around. We need to seize on this opportunity, so we need you to investigate ASAP!",
+      "map": "Elder's Recess",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "7",
+      "objective": "Hunt a Lavasioth",
+      "targets": [
+        "Lavasioth"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d1b6"
+      },
+      "name": "Odogaron Unleashed",
+      "client": "The Commander",
+      "description": "We've gotten a disturbing report of an unusually powerful Odogaron appearing in the Rotten Vale. Begin your investigation ASAP, but beware of its powerful claws!",
+      "map": "Rotten Vale",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "7",
+      "objective": "Hunt an Odogaron",
+      "targets": [
+        "Odogaron"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d1b7"
+      },
+      "name": "Talons of Ire and Ice",
+      "client": "Chief Botanist",
+      "description": "There's a spot I'm certain hides the secret to growing Ancient Trees. Unfortunately, two nasty monsters are patrolling that area. *Unlocks a Botanical Research slot on first time completion.",
+      "map": "Coral Highlands",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "7",
+      "objective": "Hunt all target monsters",
+      "targets": [
+        "Legiana",
+        "Odogaron"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d1b8"
+      },
+      "name": "A Sore Site",
+      "client": "Airship Engineer",
+      "description": "Ugh! Every time I go out to the highlands to observe my beloved Paolumu, that gnarly monster is there! Please do something! *Unlocks a new Canteen ingredient on first time completion.",
+      "map": "Coral Highlands",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "7",
+      "objective": "Hunt an Odogaron",
+      "targets": [
+        "Odogaron"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d1b9"
+      },
+      "name": "Legiana: Highlands Royalty",
+      "client": "The Commander",
+      "description": "We've gotten a disturbing report of an unusually powerful Legiana appearing in the Coral Highlands. Begin your investigation ASAP, but beware its swift and icy attacks!",
+      "map": "Coral Highlands",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "7",
+      "objective": "Hunt a Legiana",
+      "targets": [
+        "Legiana"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d1ba"
+      },
+      "name": "A Cherry Wind upon the Reefs",
+      "client": "The Commander",
+      "description": "The field team has spotted a Pink Rathian stalking the local wildlife. Subspecies like these are highly valuable to the Commission's research efforts. Get going, hunter!",
+      "map": "Coral Highlands",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "7",
+      "objective": "Hunt a Pink Rathian",
+      "targets": [
+        "Pink Rathian"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d1bc"
+      },
+      "name": "RRRRRumble in the Waste!",
+      "client": "Third Fleet Master",
+      "description": "*sigh* I've already told you what I want you to do. Run along now and complete this quest if you want your new toy. *Unlocks a new Specialized Tool on first time completion.",
+      "map": "Wildspire Waste",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "7",
+      "objective": "Hunt all target monsters",
+      "targets": [
+        "Diablos",
+        "Black Diablos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d1bd"
+      },
+      "name": "Well, That Diablos!",
+      "client": "The Commander",
+      "description": "We've gotten a disturbing report of an unusually powerful Diablos appearing in the Wildspire Waste. Begin your investigation ASAP, but beware of its charging attacks!",
+      "map": "Wildspire Waste",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "7",
+      "objective": "Hunt a Diablos",
+      "targets": [
+        "Diablos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d1be"
+      },
+      "name": "Special Arena: HR Legiana",
+      "client": "Arena Lass",
+      "description": "A new challenger: Legiana, the Slipstream Striker, the Wingleader! Remember, you can't spell flight without fight! The gloves are off—not that we have gloves that big...",
+      "map": "Special Arena",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "7",
+      "objective": "Hunt a Legiana",
+      "targets": [
+        "Legiana"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d1bf"
+      },
+      "name": "Pretty In Pink",
+      "client": "The Commander",
+      "description": "The field team has spotted a Pink Rathian stalking the local wildlife. Subspecies like these are highly valuable to the Commission's research efforts. Get going, hunter!",
+      "map": "Wildspire Waste",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "7",
+      "objective": "Hunt a Pink Rathian",
+      "targets": [
+        "Pink Rathian"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d1c0"
+      },
+      "name": "The Red and Blue Crew",
+      "client": "The Armory",
+      "description": "Here at the Second Fleet, we've been working to develop new tools to help your hunts, but we need YOUR help gathering the materials. We're counting on you to take this quest!",
+      "map": "Ancient Forest",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "7",
+      "objective": "Hunt all target monsters",
+      "targets": [
+        "Rathalos",
+        "Azure Rathalos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d1c1"
+      },
+      "name": "Rathalos in Blue",
+      "client": "The Commander",
+      "description": "The field team has spotted an Azure Rathalos patroling the skies. Subspecies like these are highly valuable to the Commission's research efforts. Get going, hunter!",
+      "map": "Ancient Forest",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "7",
+      "objective": "Hunt an Azure Rathalos",
+      "targets": [
+        "Azure Rathalos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d1c2"
+      },
+      "name": "Rathalos Rematch",
+      "client": "The Commander",
+      "description": "We've gotten a disturbing report of another unusually powerful Rathalos in the Ancient Forest. Let that red beast know who REALLY stands atop the food chain here!",
+      "map": "Ancient Forest",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "7",
+      "objective": "Hunt an Rathalos",
+      "targets": [
+        "Rathalos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d1c3"
+      },
+      "name": "Special Arena: HR Black Diablos",
+      "client": "Arena Lass",
+      "description": "A new challenger: Black Diablos, the Dark Destroyer, the Horn Express! Run, don't walk, from this furious fiend! The gloves are off—not that we have gloves that big...",
+      "map": "Special Arena",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "7",
+      "objective": "Hunt a Black Diablos",
+      "targets": [
+        "Black Diablos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d1c4"
+      },
+      "name": "Special Arena: HR Diablos",
+      "client": "Arena Lass",
+      "description": "A new challenger: Diablos, the Sandy Stampede, Biggus Diggus! Don't hang around if he's underground! The gloves are off—not that we have gloves that big...",
+      "map": "Special Arena",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "7",
+      "objective": "Hunt a Diablos",
+      "targets": [
+        "Diablos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d1c5"
+      },
+      "name": "Special Arena: HR Azure Rathalos",
+      "client": "Arena Lass",
+      "description": "A new challenger: Azure Rathalos, the Sapphire Sultan, the True Blue Terror! Bow down to the king of all wyverns! The gloves are off—not that we have gloves that big...",
+      "map": "Special Arena",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "7",
+      "objective": "Hunt a Azure Rathalos",
+      "targets": [
+        "Azure Rathalos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d1c6"
+      },
+      "name": "Special Arena: HR Rathalos",
+      "client": "Arena Lass",
+      "description": "A new challenger: Rathalos, the Red-Hot Raider, the Firestarter! Forgive the fireballs; he likes his meals cooked! The gloves are off—not that we have gloves that big...",
+      "map": "Special Arena",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "7",
+      "objective": "Hunt a Rathalos",
+      "targets": [
+        "Rathalos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d1c7"
+      },
+      "name": "Special Arena: HR Uragaan",
+      "client": "Arena Lass",
+      "description": "A new challenger: Uragaan, the Rolling Rocket, the Chinstigator! Once he starts spinning, uragoner! The gloves are off—not that we have gloves that big...",
+      "map": "Special Arena",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "7",
+      "objective": "Hunt a Uragaan",
+      "targets": [
+        "Uragaan"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d1c8"
+      },
+      "name": "Special Arena: HR Odogaron",
+      "client": "Arena Lass",
+      "description": "A new challenger: Odogaron, the Muscle Mutt, the Rex Who Wrecks! He'll bite your leg to fetch the stick inside! The gloves are off—not that we have gloves that big...",
+      "map": "Special Arena",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "7",
+      "objective": "Hunt a Odogaron",
+      "targets": [
+        "Odogaron"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d1c9"
+      },
+      "name": "A Fiery Convergence",
+      "client": "The Armory",
+      "description": "Here at the Second Fleet, we've been working to develop new tools to help your hunts, but we need YOUR help gathering the materials. We're counting on you to take this quest!",
+      "map": "Elder's Recess",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "7",
+      "objective": "Hunt all target monsters",
+      "targets": [
+        "Lavasioth",
+        "Uragaan"
+      ]
     }
   ]
 }
