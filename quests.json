@@ -3583,7 +3583,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d100"
+        "$oid": "5e13275aa180af35ce52d100"
       },
       "name": "Arena Quest 01",
       "client": "Arena Lass",
@@ -3600,7 +3600,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d101"
+        "$oid": "5e13275aa180af35ce52d101"
       },
       "name": "Arena Quest 02",
       "client": "Arena Lass",
@@ -3617,7 +3617,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d102"
+        "$oid": "5e13275aa180af35ce52d102"
       },
       "name": "Arena Quest 03",
       "client": "Arena Lass",
@@ -3634,7 +3634,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d103"
+        "$oid": "5e13275aa180af35ce52d103"
       },
       "name": "Arena Quest 04",
       "client": "Arena Lass",
@@ -3651,7 +3651,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d104"
+        "$oid": "5e13275aa180af35ce52d104"
       },
       "name": "Arena Quest 05",
       "client": "Arena Lass",
@@ -3668,7 +3668,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d105"
+        "$oid": "5e13275aa180af35ce52d105"
       },
       "name": "Arena Quest 06",
       "client": "Arena Lass",
@@ -3685,7 +3685,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d106"
+        "$oid": "5e13275aa180af35ce52d106"
       },
       "name": "Arena Quest 07",
       "client": "Arena Lass",
@@ -3702,7 +3702,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d107"
+        "$oid": "5e13275aa180af35ce52d107"
       },
       "name": "Arena Quest 08",
       "client": "Arena Lass",
@@ -3720,7 +3720,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d108"
+        "$oid": "5e13275aa180af35ce52d108"
       },
       "name": "Arena Quest 09",
       "client": "Arena Lass",
@@ -3738,7 +3738,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d109"
+        "$oid": "5e13275aa180af35ce52d109"
       },
       "name": "Arena Master Quest 01",
       "client": "Arena Lass",
@@ -3755,7 +3755,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d10a"
+        "$oid": "5e13275aa180af35ce52d10a"
       },
       "name": "Arena Master Quest 02",
       "client": "Arena Lass",
@@ -3772,7 +3772,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d10b"
+        "$oid": "5e13275aa180af35ce52d10b"
       },
       "name": "Arena Master Quest 03",
       "client": "Arena Lass",
@@ -3789,7 +3789,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d10c"
+        "$oid": "5e13275aa180af35ce52d10c"
       },
       "name": "Arena Master Quest 04",
       "client": "Arena Lass",
@@ -3806,7 +3806,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d10d"
+        "$oid": "5e13275aa180af35ce52d10d"
       },
       "name": "Arena Master Quest 05",
       "client": "Arena Lass",
@@ -3824,7 +3824,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d10e"
+        "$oid": "5e13275aa180af35ce52d10e"
       },
       "name": "Arena Master Quest 06",
       "client": "Arena Lass",
@@ -3841,7 +3841,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d10f"
+        "$oid": "5e13275aa180af35ce52d10f"
       },
       "name": "Arena Master Quest 07",
       "client": "Arena Lass",
@@ -3859,7 +3859,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d120"
+        "$oid": "5e13275aa180af35ce52d120"
       },
       "name": "The Food Chain Dominator",
       "client": "Eccentric Trio",
@@ -3876,7 +3876,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d121"
+        "$oid": "5e13275aa180af35ce52d121"
       },
       "name": "The Blazing Sun",
       "client": "The Huntsman",
@@ -3893,7 +3893,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d122"
+        "$oid": "5e13275aa180af35ce52d122"
       },
       "name": "Pandora's Arena",
       "client": "Second Fleet Master",
@@ -3911,7 +3911,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d123"
+        "$oid": "5e13275aa180af35ce52d123"
       },
       "name": "No Remorse, No Surrender",
       "client": "The Huntsman",
@@ -3929,7 +3929,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d124"
+        "$oid": "5e13275aa180af35ce52d124"
       },
       "name": "A Visitor from Another World",
       "client": "Serious Handler",
@@ -3946,7 +3946,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d125"
+        "$oid": "5e13275aa180af35ce52d125"
       },
       "name": "The Legendary Beast",
       "client": "Serious Handler",
@@ -3963,7 +3963,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d126"
+        "$oid": "5e13275aa180af35ce52d126"
       },
       "name": "Contract: Trouble in the Ancient Forest",
       "client": "Commander",
@@ -3980,7 +3980,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d127"
+        "$oid": "5e13275aa180af35ce52d127"
       },
       "name": "He Taketh It with His Eyes",
       "client": "Commander",
@@ -3997,7 +3997,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d128"
+        "$oid": "5e13275aa180af35ce52d128"
       },
       "name": "Sterling Pride",
       "client": "The Admiral",
@@ -4014,7 +4014,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d129"
+        "$oid": "5e13275aa180af35ce52d129"
       },
       "name": "Reveal Thyself, Destroyer",
       "client": "The Admiral",
@@ -4031,7 +4031,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d12a"
+        "$oid": "5e13275aa180af35ce52d12a"
       },
       "name": "Across the Lost Path",
       "client": "The Seeker",
@@ -4048,7 +4048,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d12b"
+        "$oid": "5e13275aa180af35ce52d12b"
       },
       "name": "...And My Rage for All",
       "client": "The Tracker",
@@ -4065,7 +4065,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d12c"
+        "$oid": "5e13275aa180af35ce52d12c"
       },
       "name": "The Fury Remains",
       "client": "The Tracker",
@@ -4082,7 +4082,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d12d"
+        "$oid": "5e13275aa180af35ce52d12d"
       },
       "name": "Dawn's Triumph",
       "client": "Field Team Leader",
@@ -4099,7 +4099,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d12e"
+        "$oid": "5e13275aa180af35ce52d12e"
       },
       "name": "Blazing Black Twilight",
       "client": "Third Fleet Master",
@@ -4116,7 +4116,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d12f"
+        "$oid": "5e13275aa180af35ce52d12f"
       },
       "name": "The Black Dragon",
       "client": "Commander",
@@ -4133,7 +4133,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d130"
+        "$oid": "5e13275aa180af35ce52d130"
       },
       "name": "Jagras of the Ancient Forest",
       "client": "The Commander",
@@ -4150,7 +4150,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d131"
+        "$oid": "5e13275aa180af35ce52d131"
       },
       "name": "A Kestodon Kefuffle",
       "client": "The Commander",
@@ -4167,7 +4167,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d132"
+        "$oid": "5e13275aa180af35ce52d132"
       },
       "name": "The Great Jagras Hunt",
       "client": "Field Team Leader",
@@ -4184,7 +4184,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d133"
+        "$oid": "5e13275aa180af35ce52d133"
       },
       "name": "Bird-Brained Bandit",
       "client": "Provisions Manager",
@@ -4201,7 +4201,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d134"
+        "$oid": "5e13275aa180af35ce52d134"
       },
       "name": "Urgent: Pukei-Pukei Hunt",
       "client": "The Commander",
@@ -4218,7 +4218,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d135"
+        "$oid": "5e13275aa180af35ce52d135"
       },
       "name": "The Best kind of Quest",
       "client": "The Commander",
@@ -4235,7 +4235,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d136"
+        "$oid": "5e13275aa180af35ce52d136"
       },
       "name": "Sinister Shadows in the Swamp",
       "client": "The Commander",
@@ -4252,7 +4252,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d137"
+        "$oid": "5e13275aa180af35ce52d137"
       },
       "name": "Flying Sparks: Tobi-Kadachi",
       "client": "Chief Botanist",
@@ -4269,7 +4269,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d138"
+        "$oid": "5e13275aa180af35ce52d138"
       },
       "name": "The Encroaching Anjanath",
       "client": "Field Team Leader",
@@ -4286,7 +4286,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d139"
+        "$oid": "5e13275aa180af35ce52d139"
       },
       "name": "One for the History Books",
       "client": "The Commander",
@@ -4303,7 +4303,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d13a"
+        "$oid": "5e13275aa180af35ce52d13a"
       },
       "name": "Ballooning Problems",
       "client": "Third Fleet Master",
@@ -4320,7 +4320,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d13b"
+        "$oid": "5e13275aa180af35ce52d13b"
       },
       "name": "Radobaan Roadblock",
       "client": "The Handler",
@@ -4337,7 +4337,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d13c"
+        "$oid": "5e13275aa180af35ce52d13c"
       },
       "name": "Legiana Embodiment of Elegance",
       "client": "Third Fleet Master",
@@ -4354,7 +4354,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d13d"
+        "$oid": "5e13275aa180af35ce52d13d"
       },
       "name": "Into the Bowels of the Vale",
       "client": "Third Fleet Master",
@@ -4371,7 +4371,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d13e"
+        "$oid": "5e13275aa180af35ce52d13e"
       },
       "name": "A Firey Throne Atop the Forest",
       "client": "The Handler",
@@ -4388,7 +4388,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d13f"
+        "$oid": "5e13275aa180af35ce52d13f"
       },
       "name": "Horned Tyrant Below the Aands",
       "client": "The Handler",
@@ -4405,7 +4405,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d140"
+        "$oid": "5e13275aa180af35ce52d140"
       },
       "name": "A Colossal Task",
       "client": "The Commander",
@@ -4422,7 +4422,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d141"
+        "$oid": "5e13275aa180af35ce52d141"
       },
       "name": "Invader in the Waste",
       "client": "The Handler",
@@ -4439,7 +4439,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d142"
+        "$oid": "5e13275aa180af35ce52d142"
       },
       "name": "Tickled Pink",
       "client": "Chief Ecologist",
@@ -4456,7 +4456,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d143"
+        "$oid": "5e13275aa180af35ce52d143"
       },
       "name": "Old World Monster in the New World",
       "client": "The Commander",
@@ -4473,7 +4473,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d144"
+        "$oid": "5e13275aa180af35ce52d144"
       },
       "name": "A Wound and a Thirst",
       "client": "The Commander",
@@ -4490,7 +4490,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d145"
+        "$oid": "5e13275aa180af35ce52d145"
       },
       "name": "Kushala Daora, Dragon of Steel",
       "client": "Field Team Leader",
@@ -4507,7 +4507,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d146"
+        "$oid": "5e13275aa180af35ce52d146"
       },
       "name": "Teostra the Infernal",
       "client": "The Huntsman",
@@ -4524,7 +4524,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d147"
+        "$oid": "5e13275aa180af35ce52d147"
       },
       "name": "Hellish Fiend Vaal Hazak",
       "client": "Third Fleet Master",
@@ -4541,7 +4541,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d148"
+        "$oid": "5e13275aa180af35ce52d148"
       },
       "name": "Land of Convergance",
       "client": "The Admiral",
@@ -4558,7 +4558,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d149"
+        "$oid": "5e13275aa180af35ce52d149"
       },
       "name": "Baptism by Ice",
       "client": "The Handler",
@@ -4575,7 +4575,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d14a"
+        "$oid": "5e13275aa180af35ce52d14a"
       },
       "name": "Banbaro Blockade",
       "client": "Commander",
@@ -4592,7 +4592,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d14b"
+        "$oid": "5e13275aa180af35ce52d14b"
       },
       "name": "Ready to Strike",
       "client": "The Tracker",
@@ -4609,7 +4609,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d14c"
+        "$oid": "5e13275aa180af35ce52d14c"
       },
       "name": "No Time for Naps",
       "client": "Serious Handler",
@@ -4626,7 +4626,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d14d"
+        "$oid": "5e13275aa180af35ce52d14d"
       },
       "name": "Play Both Ends",
       "client": "Serious Handler",
@@ -4643,7 +4643,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d14e"
+        "$oid": "5e13275aa180af35ce52d14e"
       },
       "name": "Blizzard Blitz",
       "client": "Field Team Leader",
@@ -4660,7 +4660,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d14f"
+        "$oid": "5e13275aa180af35ce52d14f"
       },
       "name": "Ever-present Shadow",
       "client": "Commander",
@@ -4677,7 +4677,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d150"
+        "$oid": "5e13275aa180af35ce52d150"
       },
       "name": "The Scorching Blade",
       "client": "Commander",
@@ -4694,7 +4694,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d151"
+        "$oid": "5e13275aa180af35ce52d151"
       },
       "name": "Absolute Power",
       "client": "Commander",
@@ -4711,7 +4711,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d152"
+        "$oid": "5e13275aa180af35ce52d152"
       },
       "name": "A Smashing Cross Counter",
       "client": "Commander",
@@ -4728,7 +4728,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d153"
+        "$oid": "5e13275aa180af35ce52d153"
       },
       "name": "A Tale of Ice and Fire",
       "client": "Commander",
@@ -4745,7 +4745,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d154"
+        "$oid": "5e13275aa180af35ce52d154"
       },
       "name": "When the Mist Taketh You",
       "client": "The Handler",
@@ -4762,7 +4762,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d155"
+        "$oid": "5e13275aa180af35ce52d155"
       },
       "name": "The Thunderous Troublemaker!",
       "client": "Field Team Leader",
@@ -4779,7 +4779,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d156"
+        "$oid": "5e13275aa180af35ce52d156"
       },
       "name": "The Disintegrating Blade",
       "client": "Commander",
@@ -4796,7 +4796,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d157"
+        "$oid": "5e13275aa180af35ce52d157"
       },
       "name": "Bad Friends, Great Enemies",
       "client": "Commander",
@@ -4813,7 +4813,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d158"
+        "$oid": "5e13275aa180af35ce52d158"
       },
       "name": "The Defense of Seliana",
       "client": "Commander",
@@ -4830,7 +4830,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d159"
+        "$oid": "5e13275aa180af35ce52d159"
       },
       "name": "The Iceborne Wyvern",
       "client": "Field Team Leader",
@@ -4847,7 +4847,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d15a"
+        "$oid": "5e13275aa180af35ce52d15a"
       },
       "name": "The Second Coming",
       "client": "The Admiral",
@@ -4864,7 +4864,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d15b"
+        "$oid": "5e13275aa180af35ce52d15b"
       },
       "name": "Under the Veil of Death",
       "client": "Field Team Leader",
@@ -4881,7 +4881,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d15c"
+        "$oid": "5e13275aa180af35ce52d15c"
       },
       "name": "A Light From the Abyss",
       "client": "Field Team Leader",
@@ -4898,7 +4898,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d15d"
+        "$oid": "5e13275aa180af35ce52d15d"
       },
       "name": "To the Guided, A Paean",
       "client": "Field Team Leader",
@@ -4915,7 +4915,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d15e"
+        "$oid": "5e13275aa180af35ce52d15e"
       },
       "name": "Paean of Guidance",
       "client": "The Tracker",
@@ -4932,7 +4932,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d15f"
+        "$oid": "5e13275aa180af35ce52d15f"
       },
       "name": "Return of the Crazy One",
       "client": "The Handler",
@@ -4949,7 +4949,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d160"
+        "$oid": "5e13275aa180af35ce52d160"
       },
       "name": "Sleep Now in the Fire",
       "client": "Field Team Leader",
@@ -4967,7 +4967,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d161"
+        "$oid": "5e13275aa180af35ce52d161"
       },
       "name": "Big Burly Bash",
       "client": "Field Team Leader",
@@ -4985,7 +4985,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d162"
+        "$oid": "5e13275aa180af35ce52d162"
       },
       "name": "To the Very Ends with You",
       "client": "Field Team Leader",
@@ -5002,7 +5002,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d163"
+        "$oid": "5e13275aa180af35ce52d163"
       },
       "name": "Butting Heads with Nature",
       "client": "Chief Ecologist",
@@ -5019,7 +5019,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d164"
+        "$oid": "5e13275aa180af35ce52d164"
       },
       "name": "A Thicket of Thugs",
       "client": "Chief Ecologist",
@@ -5036,7 +5036,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d165"
+        "$oid": "5e13275aa180af35ce52d165"
       },
       "name": "Fungal Flexin' in the Ancient Forest",
       "client": "The Meowscular Chef",
@@ -5050,7 +5050,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d166"
+        "$oid": "5e13275aa180af35ce52d166"
       },
       "name": "Learning the Clutch",
       "client": "Field Team Leader",
@@ -5067,7 +5067,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d167"
+        "$oid": "5e13275aa180af35ce52d167"
       },
       "name": "The Great Glutton",
       "client": "Chief Ecologist",
@@ -5084,7 +5084,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d168"
+        "$oid": "5e13275aa180af35ce52d168"
       },
       "name": "Camp Crasher",
       "client": "Chief Ecologist",
@@ -5101,7 +5101,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d169"
+        "$oid": "5e13275aa180af35ce52d169"
       },
       "name": "Snatch the Snatcher",
       "client": "Smart Biologist",
@@ -5118,7 +5118,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d16a"
+        "$oid": "5e13275aa180af35ce52d16a"
       },
       "name": "The Pain from Gains",
       "client": "The Meowscular Chef",
@@ -5135,7 +5135,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d16b"
+        "$oid": "5e13275aa180af35ce52d16b"
       },
       "name": "Exterminator of the Waste",
       "client": "The Meowscular Chef",
@@ -5152,7 +5152,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d16c"
+        "$oid": "5e13275aa180af35ce52d16c"
       },
       "name": "Special Arena: Pukei-Pukei",
       "client": "Arena Lass",
@@ -5169,7 +5169,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d16d"
+        "$oid": "5e13275aa180af35ce52d16d"
       },
       "name": "Special Arena: Barroth",
       "client": "Arena Lass",
@@ -5186,7 +5186,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d16e"
+        "$oid": "5e13275aa180af35ce52d16e"
       },
       "name": "Special Arena: Tobi-Kadachi",
       "client": "Arena Lass",
@@ -5203,7 +5203,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d16f"
+        "$oid": "5e13275aa180af35ce52d16f"
       },
       "name": "Scatternut Shortage",
       "client": "Chief Ecologist",
@@ -5220,7 +5220,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d170"
+        "$oid": "5e13275aa180af35ce52d170"
       },
       "name": "The Current Situation",
       "client": "Chief Ecologist",
@@ -5237,7 +5237,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d171"
+        "$oid": "5e13275aa180af35ce52d171"
       },
       "name": "Mired in the Spire",
       "client": "Chief Ecologist",
@@ -5254,7 +5254,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d172"
+        "$oid": "5e13275aa180af35ce52d172"
       },
       "name": "The Piscine Problem",
       "client": "Chief Ecologist",
@@ -5271,7 +5271,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d173"
+        "$oid": "5e13275aa180af35ce52d173"
       },
       "name": "Prickly Predicament",
       "client": "Laid-back Botanist",
@@ -5285,7 +5285,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d174"
+        "$oid": "5e13275aa180af35ce52d174"
       },
       "name": "Gettin' Yolked in the Waste",
       "client": "The Meowscular Chef",
@@ -5299,7 +5299,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d175"
+        "$oid": "5e13275aa180af35ce52d175"
       },
       "name": "Landing the Landslide Wyvern",
       "client": "Smart Biologist",
@@ -5316,7 +5316,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d176"
+        "$oid": "5e13275aa180af35ce52d176"
       },
       "name": "Special Arena: Anjanath",
       "client": "Arena Lass",
@@ -5333,7 +5333,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d177"
+        "$oid": "5e13275aa180af35ce52d177"
       },
       "name": "Special Arena: Rathian",
       "client": "Arena Lass",
@@ -5350,7 +5350,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d178"
+        "$oid": "5e13275aa180af35ce52d178"
       },
       "name": "Special Arena: Paolumu",
       "client": "Arena Lass",
@@ -5367,7 +5367,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d179"
+        "$oid": "5e13275aa180af35ce52d179"
       },
       "name": "Special Arena: Radobaan",
       "client": "Arena Lass",
@@ -5384,7 +5384,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d17a"
+        "$oid": "5e13275aa180af35ce52d17a"
       },
       "name": "One Helluva Sinus Infection",
       "client": "Chief Ecologist",
@@ -5401,7 +5401,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d17b"
+        "$oid": "5e13275aa180af35ce52d17b"
       },
       "name": "Gettin' Yolked in the Forest",
       "client": "The Meowscular Chef",
@@ -5415,7 +5415,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d17c"
+        "$oid": "5e13275aa180af35ce52d17c"
       },
       "name": "Royal Relocation",
       "client": "Laid-back Botanist",
@@ -5432,7 +5432,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d17d"
+        "$oid": "5e13275aa180af35ce52d17d"
       },
       "name": "It's a Crying Shamos",
       "client": "The Meowscular Chef",
@@ -5449,7 +5449,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d17e"
+        "$oid": "5e13275aa180af35ce52d17e"
       },
       "name": "A Tzitzi for Science",
       "client": "Eccentric Trio",
@@ -5466,7 +5466,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d17f"
+        "$oid": "5e13275aa180af35ce52d17f"
       },
       "name": "Sorry You're Not Invited",
       "client": "Chief Ecologist",
@@ -5483,7 +5483,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d180"
+        "$oid": "5e13275aa180af35ce52d180"
       },
       "name": "What a Bunch of Abalone",
       "client": "The Meowscular Chef",
@@ -5497,7 +5497,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d181"
+        "$oid": "5e13275aa180af35ce52d181"
       },
       "name": "White Monster for a White Coat",
       "client": "Smart Biologist",
@@ -5514,7 +5514,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d182"
+        "$oid": "5e13275aa180af35ce52d182"
       },
       "name": "Persistent Pests",
       "client": "Chief Botanist",
@@ -5531,7 +5531,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d183"
+        "$oid": "5e13275aa180af35ce52d183"
       },
       "name": "A Rotten Thing To Do",
       "client": "Stunned Researcher",
@@ -5548,7 +5548,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d184"
+        "$oid": "5e13275aa180af35ce52d184"
       },
       "name": "A Bone to Pick",
       "client": "Chief Ecologist",
@@ -5565,7 +5565,7 @@
     },
     {
       "_id": {
-        "$oid": "5e143275aa180af35ce52d185"
+        "$oid": "5e13275aa180af35ce52d185"
       },
       "name": "On Nightmare's Wings",
       "client": "The Armory",
