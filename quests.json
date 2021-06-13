@@ -5313,6 +5313,272 @@
       "targets": [
         "Barroth"
       ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d176"
+      },
+      "name": "Special Arena: Anjanath",
+      "client": "Arena Lass",
+      "description": "A new challenger: Anjanath, the Jaws of Death, the Stomp- asaurus! He's just stopped by for a quick bite! Think you can go toe-to-toe—er, toe-to-claw with this heavy hitter!?",
+      "map": "Special Arena",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "4",
+      "objective": "Hunt an Anjanath",
+      "targets": [
+        "Anjanath"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d177"
+      },
+      "name": "Special Arena: Rathian",
+      "client": "Arena Lass",
+      "description": "A new challenger: Rathian, the Queen o' Green, the Sky- borne Slasher! Don't get the lady angry; she's poison! Think you can go toe-to-toe—er, toe-to-claw with this heavy hitter!?",
+      "map": "Special Arena",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "4",
+      "objective": "Hunt a Rathian",
+      "targets": [
+        "Rathian"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d178"
+      },
+      "name": "Special Arena: Paolumu",
+      "client": "Arena Lass",
+      "description": "A new challenger: Paolumu, the Punishing Puffball, the Fear- igible! It may not be fair, but he's walking on air! Think you can go toe-to-toe—er, toe-to-claw with this heavy hitter!?",
+      "map": "Special Arena",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "4",
+      "objective": "Hunt a Paolumu",
+      "targets": [
+        "Paolumu"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d179"
+      },
+      "name": "Special Arena: Radobaan",
+      "client": "Arena Lass",
+      "description": "A new challenger: Radobaan, the Roto-Ravager, the Grinder! Better dodge fast, or you'll be boned! Think you can go toe-to-toe—er, toe-to-claw with this heavy hitter!?",
+      "map": "Special Arena",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "4",
+      "objective": "Hunt a Radobaan",
+      "targets": [
+        "Radobaan"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d17a"
+      },
+      "name": "One Helluva Sinus Infection",
+      "client": "Chief Ecologist",
+      "description": "Our entire department is out with the flu because of that Anjanath. How could they not be? The Ancient Forest is covered from top to bottom with that nasty mucus!",
+      "map": "Ancient Forest",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "4",
+      "objective": "Hunt an Anjanath",
+      "targets": [
+        "Anjanath"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d17b"
+      },
+      "name": "Gettin' Yolked in the Forest",
+      "client": "The Meowscular Chef",
+      "description": "You ready for leg day!? GOOD! You'll need 'em when you're running from that Rathian! Now go get me my purr-otein! *Unlocks a new Canteen ingredient on first time completion.",
+      "map": "Ancient Forest",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "4",
+      "objective": "Deliver 2 Wyvern Eggs"
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d17c"
+      },
+      "name": "Royal Relocation",
+      "client": "Laid-back Botanist",
+      "description": "The samples I need to further my Ancient Tree research are right under a Rathian's nest. Perhaps you can move it for me? *Unlocks a Botanical Research item on first time completion.",
+      "map": "Wildspire Waste",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "4",
+      "objective": "Hunt a Rathian",
+      "targets": [
+        "Rathian"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d17d"
+      },
+      "name": "It's a Crying Shamos",
+      "client": "The Meowscular Chef",
+      "description": "I almost feel bad for 'em. Those scrawny little monsters don't even stand a chance. Go flex on 'em while I get the goods! *Unlocks a new Canteen ingredient on first time completion.",
+      "map": "Coral Highlands",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "4",
+      "objective": "Slay 11 Shamos",
+      "targets": [
+        "Shamos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d17e"
+      },
+      "name": "A Tzitzi for Science",
+      "client": "Eccentric Trio",
+      "description": "We've heard talk of the Coral Highlands' Tzitzi-Ya-Ku, how it emits flashes of light to blind its enemies. We must know the mechanics involved. Field team, please hunt one for our studies!",
+      "map": "Coral Highlands",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "4",
+      "objective": "Hunt a Tzitzi-Ya-Ku",
+      "targets": [
+        "Tzitzi-Ya-Ku"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d17f"
+      },
+      "name": "Sorry You're Not Invited",
+      "client": "Chief Ecologist",
+      "description": "This is sort of an odd request but there is a birthday party coming up this weekend and we're in desperate need of balloons. If you could help us out you'd be a real hero!",
+      "map": "Coral Highlands",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "4",
+      "objective": "Hunt a Paolumu",
+      "targets": [
+        "Paolumu"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d180"
+      },
+      "name": "What a Bunch of Abalone",
+      "client": "The Meowscular Chef",
+      "description": "You ready for arms day!? GOOD! You're gonna need 'em to gather these ingredients I've had my eye on! *Unlocks a new Canteen ingredient on first time completion.",
+      "map": "Coral Highlands",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "4",
+      "objective": "Deliver 10 Super Abalone"
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d181"
+      },
+      "name": "White Monster for a White Coat",
+      "client": "Smart Biologist",
+      "description": "Paolumu dwell in the Coral Highlands, but details of their activities, diet, and nesting habits remain unknown. Catch one to help shed light on this mysterious creature.",
+      "map": "Coral Highlands",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "4",
+      "objective": "Capture a Paolumu",
+      "targets": [
+        "Paolumu"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d182"
+      },
+      "name": "Persistent Pests",
+      "client": "Chief Botanist",
+      "description": "There's a spot that I'm certain hides the secret to new Ancient Tree growth but it's infested with Hornetaurs! *Unlocks a Botanical Research slot on first time completion.",
+      "map": "Rotten Vale",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "4",
+      "objective": "Slay 14 Hornetaur",
+      "targets": [
+        "Hornetaur"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d183"
+      },
+      "name": "A Rotten Thing To Do",
+      "client": "Stunned Researcher",
+      "description": "I was work-k-king the Rotten V-Vale when a G-G-Great Girros z-z-zapped me from behind. I g-got out in one piece, but I'm still all t-t-tingly... Finish the j-j-job for me? P-Please!",
+      "map": "Rotten Vale",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "4",
+      "objective": "Hunt a Great Girros",
+      "targets": [
+        "Great Girros"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d184"
+      },
+      "name": "A Bone to Pick",
+      "client": "Chief Ecologist",
+      "description": "It's nearly impossible for any of our researchers to study fossils in the Rotten Vale because they keep getting stuck to that blasted Radobaan rolling around down there...",
+      "map": "Rotten Vale",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "4",
+      "objective": "Hunt a Radobaan",
+      "targets": [
+        "Radobaan"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143275aa180af35ce52d185"
+      },
+      "name": "On Nightmare's Wings",
+      "client": "The Armory",
+      "description": "Here at the Second Fleet, we've been working to develop new tools to help your hunts, but we need YOUR help gathering the materials. We're counting on you to take this quest!",
+      "map": "Rotten Vale",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "4",
+      "objective": "Slay 5 Raphinos",
+      "targets": [
+        "Raphinos"
+      ]
     }
   ]
 }
