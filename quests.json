@@ -6717,6 +6717,176 @@
         "Lavasioth",
         "Uragaan"
       ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d1ca"
+      },
+      "name": "A Portent of Disaster",
+      "client": "The Armory",
+      "description": "Here at the Second Fleet, we've been working to develop new tools to help your hunts, but we need YOUR help gathering the materials. We're counting on you to take this quest!",
+      "map": "Ancient Forest",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "8",
+      "objective": "Slay a Kushala Daora",
+      "targets": [
+        "Kushala Daora"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d1cb"
+      },
+      "name": "A Blaze on the Sand",
+      "client": "The Armory",
+      "description": "Here at the Second Fleet, we've been working to develop new tools to help your hunts, but we need YOUR help gathering the materials. We're counting on you to take this quest!",
+      "map": "Wildspire Waste",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "8",
+      "objective": "Slay a Teostra",
+      "targets": [
+        "Teostra"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d1cc"
+      },
+      "name": "Lightning Strikes Twice",
+      "client": "Impatient Biologist",
+      "description": "Yet another Kirin has shown up and you're just here, playing with your Palico!? We might never get this chance again to study it! Go go GOOOOOO!",
+      "map": "Coral Highlands",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "8",
+      "objective": "Slay a Kirin",
+      "targets": [
+        "Kirin"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d1cd"
+      },
+      "name": "Stirrings from the Grave",
+      "client": "Chief Ecologist",
+      "description": "Vaal Hazak serves its purpose in the life cycle of the New World, but now that it has stirred from its nest of decay, it threatens to ruin the whole ecosystem. It must be stopped!",
+      "map": "Rotten Vale",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "8",
+      "objective": "Slay a Vaal Hazak",
+      "targets": [
+        "Vaal Hazak"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d1ce"
+      },
+      "name": "The Eater of Elders",
+      "client": "The Admiral",
+      "description": "Nergigante is one helluva beast, and still so much we don't know 'bout it. Which is why I need you! If we're lucky, we might get to see two elder dragons squaring off!",
+      "map": "Elder's Recess",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "8",
+      "objective": "Slay Nergigante",
+      "targets": [
+        "Nergigante"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d1cf"
+      },
+      "name": "Master of the Gale",
+      "client": "Chief Ecologist",
+      "description": "Did you know that some cultures worship Kushala Daora as a god of wind? Luckily, we're not one of them! I'm determined to study its mastery of flight...just think of the benefits!",
+      "map": "Elder's Recess",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "8",
+      "objective": "Slay a Kushala Daora",
+      "targets": [
+        "Kushala Daora"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d1d0"
+      },
+      "name": "Hellfire's Stronghold",
+      "client": "Chief Ecologist",
+      "description": "Teostra. Just saying the name makes my quill tip quiver. Some believe it's bad luck to cut the fur from this regal beast, but for the sake of the future, we must study it!",
+      "map": "Elder's Recess",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "8",
+      "objective": "Slay a Teostra",
+      "targets": [
+        "Teostra"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d1d1"
+      },
+      "name": "The Eater of Elders",
+      "client": "The Admiral",
+      "description": "Nergigante is one helluva beast, and still so much we don't know 'bout it. Which is why I need you! If we're lucky, we might get to see two elder dragons squaring off!",
+      "map": "Elder's Recess",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "8",
+      "objective": "Slay Nergigante",
+      "targets": [
+        "Nergigante"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d1d2"
+      },
+      "name": "The Winds of Wrath Bite Deep",
+      "client": "The Admiral",
+      "description": "We've got a Kushala Daora running 'round, tearin' things up. Seems like it was kicked out of its territory. Question is, what did the kickin'? Time to investigate!",
+      "map": "Elder's Recess",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "8",
+      "objective": "Slay a Kushala Daora",
+      "targets": [
+        "Kushala Daora"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d1d3"
+      },
+      "name": "The Fires of Hell Bite Deep",
+      "client": "The Admiral",
+      "description": "We've got a riled up Teostra on the warpath. Seems like it was kicked out of its kingdom. Question is, what did the kickin'? Time to investigate!",
+      "map": "Elder's Recess",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "8",
+      "objective": "Slay a Teostra",
+      "targets": [
+        "Teostra"
+      ]
     }
   ]
 }
