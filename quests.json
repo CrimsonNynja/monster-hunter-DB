@@ -5781,6 +5781,513 @@
       "game": "Monster Hunter World",
       "difficulty": "5",
       "objective": "Deliver 2 Lumps of Meat"
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d192"
+      },
+      "name": "Special Arena: HR Pukei-Pukei",
+      "client": "Arena Lass",
+      "description": "A new challenger: Pukei-Pukei, the Toxic Tussler, the Lickin' Machine! He won't listen when you say \"no tongues\"! The gloves are off—not that we have gloves that big...",
+      "map": "Special Arena",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "6",
+      "objective": "Hunt a Pukei-Pukei",
+      "targets": [
+        "Pukei-Pukei"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d193"
+      },
+      "name": "Pukei-Pukei Ambush",
+      "client": "The Commander",
+      "description": "A major change in the ecosystem is driving monsters from their natural habitats. Head to the Wildspire Waste and begin your investigation of the invading Pukei-Pukei ASAP!",
+      "map": "Wildspire Waste",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "6",
+      "objective": "Hunt a Pukei-Pukei",
+      "targets": [
+        "Pukei-Pukei"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d194"
+      },
+      "name": "Dodogama Drama",
+      "client": "Serious Handler",
+      "description": "Hey, we've gotten a report of an unusually fine monster specimen roaming around. We need to seize on this opportunity, so we need you to investigate ASAP!",
+      "map": "Elder's Recess",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "6",
+      "objective": "Hunt a Hunt a Dodogama",
+      "targets": [
+        "Dodogama"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d195"
+      },
+      "name": "A Scalding Scoop",
+      "client": "Daredevil Editor",
+      "description": "I was out on assignment when a Barnos barfed something at me. Whatever it was it was HOT, painfully hot! But also the sells-lots-of-copies kind of hot! Help me get my story!",
+      "map": "Elder's Recess",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "6",
+      "objective": "Slay 5 Barnos",
+      "targets": [
+        "Barnos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d196"
+      },
+      "name": "A Meow for Help",
+      "client": "Foraging Felyne",
+      "description": "Every time I try to gather something for my meowster out in the Everstream, these Gastodon knock me on my tail! MEOW-CH! Can you lend a Felyne a paw here?",
+      "map": "Elder's Recess",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "6",
+      "objective": "Slay 13 Gastodon",
+      "targets": [
+        "Gastodon"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d197"
+      },
+      "name": "Chef Quest! A Rotten Request",
+      "client": "The Meowscular Chef",
+      "description": "These little monsters think you're playing with them! Show 'em what you're made of! Let's say... 10 reps? *Unlocks a new Canteen ingredient on first time completion.",
+      "map": "Rotten Vale",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "6",
+      "objective": "Slay 10 Girros",
+      "targets": [
+        "Girros"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d198"
+      },
+      "name": "Chef Quest! Pumped to Deliver",
+      "client": "The Meowscular Chef",
+      "description": "Now that you've worked both your upper and lower body, are you ready to put it to good use!? GOOD! Let's Work! *Unlocks a new Canteen ingredient on first time completion.",
+      "map": "Rotten Vale",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "6",
+      "objective": "Deliver 4 Forgotten Fossils"
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d199"
+      },
+      "name": "Stuck in a Rut",
+      "client": "The Commander",
+      "description": "We've gotten a disturbing report of an unusually powerful Radobaan appearing in the Rotten Vale. Begin your investigation ASAP, but beware of its rolling attacks!",
+      "map": "Rotten Vale",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "6",
+      "objective": "Hunt a Radobaan",
+      "targets": [
+        "Radobaan"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d19a"
+      },
+      "name": "A Tingling Taste",
+      "client": "Third Fleet Master",
+      "description": "...... Why do I want you to hunt a Great Girros? Well, I'll tell you later. I know, how devilish of me. Run along now...",
+      "map": "Rotten Vale",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "6",
+      "objective": "Hunt a Great Girros",
+      "targets": [
+        "Great Girros"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d19b"
+      },
+      "name": "Loop the Paolumu",
+      "client": "The Commander",
+      "description": "We've gotten a disturbing report of an unusually powerful Paolumu appearing in the Coral Highlands. Begin your investigation ASAP, but beware of its airburst attacks!",
+      "map": "Coral Highlands",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "6",
+      "objective": "Hunt a Paolumu",
+      "targets": [
+        "Paolumu"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d19c"
+      },
+      "name": "Say Cheese!",
+      "client": "The Commander",
+      "description": "We've gotten a disturbing report of an unusually powerful Tzitzi-Ya-Ku appearing in the Coral Highlands. Begin your investigation ASAP, but beware its blinding flash attacks!",
+      "map": "Coral Highlands",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "6",
+      "objective": "Hunt a Tzitzi-Ya-Ku",
+      "targets": [
+        "Tzitzi-Ya-Ku"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d19d"
+      },
+      "name": "Trespassing Troublemaker",
+      "client": "The Commander",
+      "description": "A major change in the ecosystem is driving monsters from their natural habitats. Head to the Wildspire Waste and begin your investigation of the invading Anjanath ASAP!",
+      "map": "Wildspire Waste",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "6",
+      "objective": "Hunt an Anjanath",
+      "targets": [
+        "Anjanath"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d19e"
+      },
+      "name": "Brown Desert, Green Queen",
+      "client": "The Commander",
+      "description": "We've gotten a disturbing report of an unusually powerful Rathian appearing in the Wildspire Waste. Begin your investigation ASAP, but beware of its poisonous tail!",
+      "map": "Wildspire Waste",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "6",
+      "objective": "Hunt a Rathian",
+      "targets": [
+        "Rathian"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d19f"
+      },
+      "name": "Up to Your Waist in the Waste",
+      "client": "The Commander",
+      "description": "We've gotten a disturbing report of an unusually powerful Jyuratodus appearing in the Wildspire Waste. Begin your investigation ASAP, but beware of getting stuck in the muck!",
+      "map": "Wildspire Waste",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "6",
+      "objective": "Hunt a Jyuratodus",
+      "targets": [
+        "Jyuratodus"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d1a0"
+      },
+      "name": "A Crown of Mud and Anger",
+      "client": "The Commander",
+      "description": "We've gotten a disturbing report of an unusually powerful Barroth roaming the Wildspire Waste. Begin your investigation ASAP, but beware its mud-caked attacks!",
+      "map": "Wildspire Waste",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "6",
+      "objective": "Hunt a Barroth",
+      "targets": [
+        "Barroth"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d1a1"
+      },
+      "name": "Special Arena: HR Barroth",
+      "client": "Arena Lass",
+      "description": "A new challenger: Barroth, the Hulking Headbutt, the Skullcracker! Lose to this guy, and your name is mud! The gloves are off—not that we have gloves that big...",
+      "map": "Special Arena",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "6",
+      "objective": "Hunt a Barroth",
+      "targets": [
+        "Barroth"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d1a2"
+      },
+      "name": "Keep Your Hands to Yourself!",
+      "client": "The Commander",
+      "description": "We've gotten a disturbing report of an unusually powerful Kulu-Ya-Ku roaming the Wildspire Waste. Begin your investigation ASAP, but beware its clever attacks!",
+      "map": "Wildspire Waste",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "6",
+      "objective": "Hunt a Kulu-Ya-Ku",
+      "targets": [
+        "Kulu-Ya-Ku"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d1a3"
+      },
+      "name": "Stuck in Their Ways",
+      "client": "Shy Scholar",
+      "description": "Those three crazy old scholars went to study a LIVE Tobi- Kadachi. Please go capture it before they hurt themselves! *Unlocks a new Canteen ingredient on first time completion.",
+      "map": "Ancient Forest",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "6",
+      "objective": "Capture a Tobi-Kadachi",
+      "targets": [
+        "Tobi-Kadachi"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d1a4"
+      },
+      "name": "The Sleeping Sylvan Queen",
+      "client": "The Commander",
+      "description": "A major change in the ecosystem is driving monsters from their natural habitats. Head to the Ancient Forest and begin your investigation of the invading Rathian immediately!",
+      "map": "Ancient Forest",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "6",
+      "objective": "Hunt a Rathian",
+      "targets": [
+        "Rathian"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d1a5"
+      },
+      "name": "It Can't See You if You Don't Move",
+      "client": "The Commander",
+      "description": "We've gotten a disturbing report of an unusually powerful Anjanath appearing in the Ancient Forest. Begin your investigation ASAP, but beware its fiery attacks!",
+      "map": "Ancient Forest",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "6",
+      "objective": "Hunt an Anjanath",
+      "targets": [
+        "Anjanath"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d1a6"
+      },
+      "name": "A Hair-Raising Experience",
+      "client": "The Commander",
+      "description": "We've gotten a disturbing report of an unusually powerful Tobi-Kadachi appearing in the Ancient Forest. Begin your investigation ASAP, but beware its lightning speed!",
+      "map": "Ancient Forest",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "6",
+      "objective": "Hunt a Tobi-Kadachi",
+      "targets": [
+        "Tobi-Kadachi"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d1a7"
+      },
+      "name": "Googly-eyed Green Monster",
+      "client": "The Commander",
+      "description": "We've gotten a disturbing report of an unusually powerful Pukei-Pukei appearing in the Ancient Forest. Begin your investigation ASAP, but beware its poisonous attacks!",
+      "map": "Ancient Forest",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "6",
+      "objective": "Hunt a Pukei-Pukei",
+      "targets": [
+        "Pukei-Pukei"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d1a8"
+      },
+      "name": "Hard to Swallow",
+      "client": "The Commander",
+      "description": "We've gotten a disturbing report of an unusually powerful Great Jagras appearing in the Ancient Forest. Begin your investigation ASAP, but beware its gluttonous appetite",
+      "map": "Ancient Forest",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "6",
+      "objective": "Hunt a Great Jagras",
+      "targets": [
+        "Great Jagras"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d1a9"
+      },
+      "name": "Left Quite the Impression",
+      "client": "Chief Ecologist",
+      "description": "Doesn't the sight of Zorah Magdaros make your heart skip a beat? Let me assure you, seeing its scales close up is just as awe-inspiring. It's imperative that we study it more.",
+      "map": "Everstream",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "6",
+      "objective": "Guide Zorah Magdaros",
+      "targets": [
+        "Zorah Magdaros"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d1aa"
+      },
+      "name": "Special Arena: HR Radobaan",
+      "client": "Arena Lass",
+      "description": "A new challenger: Radobaan, the Roto-Ravager, the Grinder! Better dodge fast, or you'll be boned! The gloves are off—not that we have gloves that big...",
+      "map": "Special Arena",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "6",
+      "objective": "Hunt a Radobaan",
+      "targets": [
+        "Radobaan"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d1ab"
+      },
+      "name": "Special Arena: HR Paolumu",
+      "client": "Arena Lass",
+      "description": "A new challenger: Paolumu, the Punishing Puffball, the Fearigible! It may not be fair, but he's walking on air! The gloves are off—not that we have gloves that big...",
+      "map": "Special Arena",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "6",
+      "objective": "Hunt a Paolumu",
+      "targets": [
+        "Paolumu"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d1ac"
+      },
+      "name": "Special Arena: HR Rathian",
+      "client": "Arena Lass",
+      "description": "A new challenger: Rathian, the Queen o' Green, the Skyborne Slasher! Don't get the lady angry; she's poison! The gloves are off—not that we have gloves that big...",
+      "map": "Special Arena",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "6",
+      "objective": "Hunt a Rathian",
+      "targets": [
+        "Rathian"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d1ad"
+      },
+      "name": "Special Arena: HR Anjanath",
+      "client": "Arena Lass",
+      "description": "A new challenger: Anjanath, the Jaws of Death, the Stompasaurus! He's just stopped by for a quick bite! The gloves are off—not that we have gloves that big...",
+      "map": "Special Arena",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "6",
+      "objective": "Hunt a Anjanath",
+      "targets": [
+        "Anjanath"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d1ae"
+      },
+      "name": "Special Arena: HR Tobi-Kadachi",
+      "client": "Arena Lass",
+      "description": "A new challenger: Tobi-Kadachi, the Leaping Lizard, the Bitemaster! He'll clean your clock with thunder shocks! The gloves are off—not that we have gloves that big...",
+      "map": "Special Arena",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "6",
+      "objective": "Hunt a Tobi-Kadachi",
+      "targets": [
+        "Tobi-Kadachi"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d1af"
+      },
+      "name": "Chef Quest! Gajalaka Lockdown",
+      "client": "The Meowscular Chef",
+      "description": "Meow my god! Are these lil' guys tryin' to flex on you? Show 'em what you're packin'! Let's say... 10 reps! *Unlocks a new Canteen ingredient on first time completion.",
+      "map": "Elder's Recess",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "6",
+      "objective": "Defeat 10 Gajalaka",
+      "targets": [
+        "Gajalaka"
+      ]
     }
   ]
 }
