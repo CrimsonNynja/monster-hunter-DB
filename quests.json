@@ -8714,6 +8714,210 @@
       "targets": [
         "Fulgur Anjanath"
       ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d23f"
+      },
+      "name": "Clashing Swords Upon The Rime",
+      "client": "Analytics Director",
+      "description": "Official records about Velkhana are non-existent, and much has yet to be confirmed about its ecology. But this is the perfect opportunity for us—er, YOU, to make history!",
+      "map": "Hoarfrost Reach",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "MR5",
+      "objective": "Slay a Velkhana",
+      "targets": [
+        "Velkhana"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d240"
+      },
+      "name": "The Harbinger of Clear Skies",
+      "client": "Blunt Elder Dragon Scholar",
+      "description": "Sure, Kushala Daora wrecks things with its storms, but I think it gets a bad rap. I mean, after those storms, it's super sunny and everything! Help me change people's minds!",
+      "map": "Ancient Forest",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "MR5",
+      "objective": "Slay a Kushala Daora",
+      "targets": [
+        "Kushala Daora"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d241"
+      },
+      "name": "Here Comes the Deathmaker",
+      "client": "Third Fleet Master",
+      "description": "...... So, the stories are true. A Vaal Hazak, in the Ancient Forest. Time for you to get to work, Hunter. Run along, now.",
+      "map": "Ancient Forest",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "MR5",
+      "objective": "Slay a Blackveil Vaal Hazak",
+      "targets": [
+        "Blackveil Vaal Hazak"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d242"
+      },
+      "name": "Royal Audience on the Sand",
+      "client": "The Huntsman",
+      "description": "A member of the Fourth encountered a Teostra in the Waste, one more terrible than usual. The emperor sits on its throne, waiting. Shall we pay him a visit?",
+      "map": "Wildspire Waste",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "MR5",
+      "objective": "Slay a Slay a Teostra",
+      "targets": [
+        "Slay a Teostra"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d243"
+      },
+      "name": "The Tyrant's Banquet",
+      "client": "Seliana Armory",
+      "description": "I've been going bonkers thinkin' about how I can upgrade your specialized tools. You go out and get me the materials I need and the status of your gear is sure to go up! (Upgrades the Apothecary Mantle upon first completion.)",
+      "map": "Wildspire Waste",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "MR5",
+      "objective": "Hunt a Savage Deviljho",
+      "targets": [
+        "Savage Deviljho"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d244"
+      },
+      "name": "Lightning Crashes",
+      "client": "Smart Biologist",
+      "description": "An unusual amount of lightning and radiance has occurred in the Highlands recently. This must be a sign that a Kirin is active in the area. You MUST look into this, Hunter!",
+      "map": "Coral Highlands",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "MR5",
+      "objective": "Slay a Kirin",
+      "targets": [
+        "Kirin"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d245"
+      },
+      "name": "Memories of the Sea God",
+      "client": "Commander",
+      "description": "Namielle is a truly terrifying beast, capable of summoning torrents as well as lightning! We must gather as much data as possible. I ask that you head out immediately, and of course, be careful!",
+      "map": "Coral Highlands",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "MR5",
+      "objective": "Slay a Namielle",
+      "targets": [
+        "Namielle"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d246"
+      },
+      "name": "It's the Afterlife for Me",
+      "client": "Seliana Armory",
+      "description": "I've been going bonkers thinkin' about how I can upgrade your specialized tools. Your gear might be immune to abnormal status effects but it ain't immune to my upgrades! (Upgrades the Immunity Mantle upon first completion.)",
+      "map": "Rotten Vale",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "MR5",
+      "objective": "Slay a Blackveil Vaal Hazak",
+      "targets": [
+        "Blackveil Vaal Hazak"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d247"
+      },
+      "name": "Wings of the Wind",
+      "client": "Calm Third",
+      "description": "Black tornadoes have been spotted in the Elder's Recess. Analytics believes this is the work of a Kushala Daora, and a very nasty one at that. I'll leave this one to you, bud.",
+      "map": "Elder's Recess",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "MR5",
+      "objective": "Slay a Kushala Daora",
+      "targets": [
+        "Kushala Daora"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d248"
+      },
+      "name": "Mark of the Sun",
+      "client": "Hotblooded Fourth",
+      "description": "The Huntsman and I tried to take on a Teostra, but it was too much for us. We need you to head out to the Elder's Recess and provide assistance. As in, you take care of it!",
+      "map": "Elder's Recess",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "MR5",
+      "objective": "Slay a Teostra",
+      "targets": [
+        "Teostra"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d249"
+      },
+      "name": "Seething with Anger",
+      "client": "Motivated Fourth",
+      "description": "So I heard this new Bazelgeuse is supposed to be red-hot. But do you think it can match MY red-hot passion for life? Uh, DOUBT IT! Let's go out and cool down that fool!",
+      "map": "Elder's Recess",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "MR5",
+      "objective": "Hunt a Seething Bazelgeuse",
+      "targets": [
+        "Seething Bazelgeuse"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d24a"
+      },
+      "name": "The Purr-fect Room: Silver",
+      "client": "The Housekeeper",
+      "description": "P.U.R.R. is in fur effect...with just one minor hiccup: a Bazelgeuse! Maybe if you say its name three times, we can sneak in and get the goods! Go on, give it a try! (Decor materials for your room added upon first completion.)",
+      "map": "Elder's Recess",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "MR5",
+      "objective": "Capture a Seething Bazelgeuse",
+      "targets": [
+        "Seething Bazelgeuse"
+      ]
     }
   ]
 }
