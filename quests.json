@@ -9290,6 +9290,131 @@
         "Great Jagras",
         "Great Jagras"
       ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d260"
+      },
+      "name": "Timberland Troublemakers",
+      "client": "Am I Getting Enough Sleep!?",
+      "description": "I woke up early to go and fetch some Goldbloom, but I found a grumpy Anjanath standing in my way! Take care of him, will ya? (Rare material reward chance up, special ticket available)",
+      "map": "Ancient Forest",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "4",
+      "objective": "Hunt 2 Anjanath",
+      "targets": [
+        "Anjanath",
+        "Anjanath"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d261"
+      },
+      "name": "Challenge Quest 2: Beginner",
+      "client": "Arena Lass",
+      "description": "In the monster corner: A Paolumu and Tobi-Kadachi tag team! One zips and zaps while the other drifts and flips! Wouldn't you know it, they make good enemies, but better friends!",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Challenge",
+      "game": "Monster Hunter World",
+      "difficulty": "4",
+      "objective": "Slay all target monsters",
+      "targets": [
+        "Tobi-Kadachi",
+        "Paolumu"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d262"
+      },
+      "name": "USJ Expert Challenge!",
+      "client": "Stupendous Crew",
+      "description": "Hello everyone, and welcome to USJ! We're happy to introduce our latest quest attraction, perfect for those who can beat up a monster with one arm tied behind their back!",
+      "map": "Special Arena",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "4",
+      "objective": "Slay a Rathian",
+      "targets": [
+        "Rathian"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d263"
+      },
+      "name": "USJ Beginners Challenge!",
+      "client": "Stupendous Crew",
+      "description": "Hello everyone, and welcome to USJ! We're happy to introduce our latest quest attraction, perfectly suitable for beginners! Come on and enjoy yourselves!",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "4",
+      "objective": "Slay a Tzitzi-Ya-Ku",
+      "targets": [
+        "Tzitzi-Ya-Ku"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d264"
+      },
+      "name": "Ya-Ku With That?",
+      "client": "Canteen Felyne",
+      "description": "Hunter, these two meownsters are su-purr good at stealing eggs and dropping wingdrakes in a flash. But purrhaps they'll make for good equipment too, mew get me?",
+      "map": "Special Arena",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "4",
+      "objective": "Hunt all target monsters",
+      "targets": [
+        "Kulu-Ya-Ku",
+        "Tzitzi-Ya-Ku"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d265"
+      },
+      "name": "Greeting the Gluttons",
+      "client": "Fiver Bro",
+      "description": "Huh? Yeah, this is a quest from the Meowscular Chef. Whoa, you'll go instead of me? Wow, thanks a bunch! To show my gratitude, the next meal's on me!",
+      "map": "Special Arena",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "4",
+      "objective": "Hunt all target monsters",
+      "targets": [
+        "Great Jagras",
+        "Pukei-Pukei",
+        "Paolumu"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d266"
+      },
+      "name": "Troubled Troupers",
+      "client": "Troupers",
+      "description": "\"We Troupers are getting batterfanged by two Tzitzi-Ya-Ku. Please har-meow-nize with our warriors to wallop them into hightailing it!\" (Translation by the Lynian Researcher)",
+      "map": "Coral Highlands",
+      "isKey": false,
+      "questType": "Optional",
+      "game": "Monster Hunter World",
+      "difficulty": "4",
+      "objective": "Hunt 2 Tzitzi-Ya-Ku",
+      "targets": [
+        "Tzitzi-Ya-Ku",
+        "Tzitzi-Ya-Ku"
+      ]
     }
   ]
 }
