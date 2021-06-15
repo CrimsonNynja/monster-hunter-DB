@@ -9678,6 +9678,462 @@
         "Great Girros",
         "Dodogama"
       ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d276"
+      },
+      "name": "The Food Chain Dominator",
+      "client": "Eccentric Trio",
+      "description": "The Deviljho is a frightening presence that takes the idea of the food chain and crushes it between its massive jaws! Now it's here in the New World. It's time to get investigating!",
+      "map": "Ancient Forest",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "7",
+      "objective": "Hunt a Deviljho",
+      "targets": [
+        "Deviljho"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d277"
+      },
+      "name": "What Lurks In The Forest",
+      "client": "The Commander",
+      "description": "We can't lavish any more praise on a hunter such as yourself, who has survived the dangers of the New World. But we do have a quest that will challenge even you, our Sapphire Star!",
+      "map": "Ancient Forest",
+      "isKey": false,
+      "questType": "Challenge",
+      "game": "Monster Hunter World",
+      "difficulty": "7",
+      "objective": "Slay all target monsters",
+      "targets": [
+        "Anjanath",
+        "Rathalos",
+        "Great Jagras"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d278"
+      },
+      "name": "USJ Blazing Azure Stars!",
+      "client": "Stupendous Crew",
+      "description": "USJ is pleased to present the most EXPLOSIVE show ever! Our twin blue stars will show you a dance like you've never seen before! Complete our challenge, and earn some fantastic armor!",
+      "map": "Elder's Recess",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "7",
+      "objective": "Hunt all target monsters",
+      "targets": [
+        "Dodogama",
+        "Azure Rathalos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d279"
+      },
+      "name": "A Rush of Blood",
+      "client": "Girl with Green Ribbon",
+      "description": "Oh no! There's this big ol' monster that looks a lot like our Rush! Someone's gotta calm the big boy down! Help us out, and we'll give you some special gear for your Palico!",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "7",
+      "objective": "Hunt 2 Odogaron",
+      "targets": [
+        "Odogaron",
+        "Odogaron"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d27a"
+      },
+      "name": "This is How Revolts Start",
+      "client": "Chief Botanist",
+      "description": "This is preposterous! Why can't I gather Kingly Cactus in peace!? This is beyond annoying, it's an uprising I tell you! Go out there and see for yourself",
+      "map": "Wildspire Waste",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "7",
+      "objective": "Hunt all target monsters",
+      "targets": [
+        "Diablos",
+        "Black Diablos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d27b"
+      },
+      "name": "Rock N' Roll Recess",
+      "client": "Commander",
+      "description": "The monsters roaming the Elder's Recess seem intent on facing off with each other. This could be a huge boon for our research. Hunters, don't let this opportunity pass us by!",
+      "map": "Elder's Recess",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "7",
+      "objective": "Hunt all target monsters",
+      "targets": [
+        "Dodogama",
+        "Uragaan",
+        "Lavasioth",
+        "Azure Rathalos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d27c"
+      },
+      "name": "Effluvial Opera",
+      "client": "Commander",
+      "description": "The monsters roaming the Rotten Vale seem intent on facing off with each other. This could be a huge boon for our research. Hunters, don't let this opportunity pass us by!",
+      "map": "Rotten Vale",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "7",
+      "objective": "Hunt all target monsters",
+      "targets": [
+        "Great Girros",
+        "Radobaan",
+        "Odogaron",
+        "Bazelgeuse"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d27d"
+      },
+      "name": "Coral Waltz",
+      "client": "Commander",
+      "description": "The monsters roaming the Coral Highlands seem intent on facing off with each other. This could be a huge boon for our research. Hunters, don't let this opportunity pass us by!",
+      "map": "Coral Highlands",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "7",
+      "objective": "Hunt all target monsters",
+      "targets": [
+        "Tzitzi-Ya-Ku",
+        "Paolumu",
+        "Pink Rathian",
+        "Legiana"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d27e"
+      },
+      "name": "Wildspire Bolero",
+      "client": "Commander",
+      "description": "The monsters roaming the Wildspire Waste seem intent on facing off with each other. This could be a huge boon for our research. Hunters, don't let this opportunity pass us by!",
+      "map": "Wildspire Waste",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "7",
+      "objective": "Hunt all target monsters",
+      "targets": [
+        "Kulu-Ya-Ku",
+        "Barroth",
+        "Jyuratodus",
+        "Rathian",
+        "Diablos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d27f"
+      },
+      "name": "Deep Green Blues",
+      "client": "Commander",
+      "description": "The monsters lurking deep in the Ancient Forest seem intent on facing off with each other. This could be a huge boon for our research. Hunters, don't let this opportunity pass us by!",
+      "map": "Ancient Forest",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "7",
+      "objective": "Hunt all target monsters",
+      "targets": [
+        "Great Jagras",
+        "Pukei-Pukei",
+        "Tobi-Kadachi",
+        "Anjanath",
+        "Rathalos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d280"
+      },
+      "name": "Rollin' With The Uragaan",
+      "client": "Serious Handler",
+      "description": "Urk, my head is still spinning from what I just saw. We need someone to take out these troublemakers before anyone else gets queasy. Complete this quest for a lot of Armor Spheres!",
+      "map": "Elder's Recess",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "7",
+      "objective": "Hunt 2 Uragaan",
+      "targets": [
+        "Uragaan",
+        "Uragaan"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d281"
+      },
+      "name": "When Law Meets War",
+      "client": "Commander",
+      "description": "Only a hunter like you, who has survived the dangers of the New World, can stand tall until the end and show everyone who has a heart that will not succumb to adversity!",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Challenge",
+      "game": "Monster Hunter World",
+      "difficulty": "7",
+      "objective": "Slay a Bazelgeuse",
+      "targets": [
+        "Bazelgeuse"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d282"
+      },
+      "name": "Deviljho Slay Event",
+      "client": "The Commander",
+      "description": "We can't lavish any more praise on a hunter such as yourself, who has survived the dangers of the New World. But we do have a quest that will challenge even you, our Sapphire Star!",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Challenge",
+      "game": "Monster Hunter World",
+      "difficulty": "7",
+      "objective": "Slay a Deviljho",
+      "targets": [
+        "Deviljho"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d283"
+      },
+      "name": "Today's Special: Hunter Flambé",
+      "client": "The Handler",
+      "description": "Partner, we're part of the food chain too if you think about it. And that's bad news for us if a Deviljho gets a hankering for a hunter burger! So, let's hunt it down before we're lunch!",
+      "map": "Ancient Forest",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "7",
+      "objective": "Hunt a Deviljho",
+      "targets": [
+        "Deviljho"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d284"
+      },
+      "name": "Gale & Fangs Slay Event 3",
+      "client": "Arena Lass",
+      "description": "To the hunters who have conquered the New World using everything at your disposal, we salute you with a quest that will show us why they call you the true Sapphire Star!",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Challenge",
+      "game": "Monster Hunter World",
+      "difficulty": "7",
+      "objective": "Slay all target monsters",
+      "targets": [
+        "Odogaron",
+        "Legiana"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d285"
+      },
+      "name": "Gale & Fangs Slay Event 2",
+      "client": "Arena Lass",
+      "description": "To the hunters who have conquered the New World using everything at your disposal, we salute you with a quest that will show us why they call you the true Sapphire Star!",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Challenge",
+      "game": "Monster Hunter World",
+      "difficulty": "7",
+      "objective": "Slay all target monsters",
+      "targets": [
+        "Odogaron",
+        "Legiana"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d286"
+      },
+      "name": "Gale & Fangs Slay Event 1",
+      "client": "Arena Lass",
+      "description": "To the hunters who have conquered the New World using everything at your disposal, we salute you with a quest that will show us why they call you the true Sapphire Star!",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Challenge",
+      "game": "Monster Hunter World",
+      "difficulty": "7",
+      "objective": "Slay all target monsters",
+      "targets": [
+        "Odogaron",
+        "Legiana"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d287"
+      },
+      "name": "Empress in Full Bloom III",
+      "client": "Super Female Martial Artist",
+      "description": "They say there's a monster as pink as the cherry blossoms around these parts, is that true!? Let's see who's the strongest, you, me, or that monster! Winner gets a prize!",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Challenge",
+      "game": "Monster Hunter World",
+      "difficulty": "7",
+      "objective": "Slay Pink Rathian",
+      "targets": [
+        "Pink Rathian"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d288"
+      },
+      "name": "Empress in Full Bloom II",
+      "client": "Super Female Martial Artist",
+      "description": "They say there's a monster as pink as the cherry blossoms around these parts, is that true!? Let's see who's the strongest, you, me, or that monster! Winner gets a prize!",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Challenge",
+      "game": "Monster Hunter World",
+      "difficulty": "7",
+      "objective": "Slay Pink Rathian",
+      "targets": [
+        "Pink Rathian"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d289"
+      },
+      "name": "Empress in Full Bloom I",
+      "client": "Super Female Martial Artist",
+      "description": "They say there's a monster as pink as the cherry blossoms around these parts, is that true!? Let's see who's the strongest, you, me, or that monster! Winner gets a prize!",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Challenge",
+      "game": "Monster Hunter World",
+      "difficulty": "7",
+      "objective": "Slay Pink Rathian",
+      "targets": [
+        "Pink Rathian"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d28a"
+      },
+      "name": "Challenge Quest 2: Intermediate",
+      "client": "Arena Lass",
+      "description": "In the monster corner: A double dose of Odogaron! Any hunter brave enough to step into their penitentiary should prepare for the most brutal of sentences!",
+      "map": "Special Arena",
+      "isKey": false,
+      "questType": "Challenge",
+      "game": "Monster Hunter World",
+      "difficulty": "7",
+      "objective": "Slay 2 Odogaron",
+      "targets": [
+        "Odogaron",
+        "Odogaron"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d28b"
+      },
+      "name": "Challenge Quest 1: Intermediate",
+      "client": "Arena Lass",
+      "description": "In the monster corner: A Rathalos and Tzitzi-Ya-Ku tag team! Fighting a war on two fronts is never fun, but maybe one of the monsters can *ahem* shed some light on a viable strategy!",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Challenge",
+      "game": "Monster Hunter World",
+      "difficulty": "7",
+      "objective": "Slay all target monsters",
+      "targets": [
+        "Rathalos",
+        "Tzitzi-Ya-Ku"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d28c"
+      },
+      "name": "Kings Know No Fear",
+      "client": "Cool Fiver",
+      "description": "Just looking at a Rathalos reminds me of how irrelevant I am compared to the King of the Skies. And I hate it! Help me be famous too! (Increased chance of rare material rewards, special ticket available)",
+      "map": "Elder's Recess",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "7",
+      "objective": "Hunt all target monsters",
+      "targets": [
+        "Rathalos",
+        "Azure Rathalos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d28d"
+      },
+      "name": "A Royal Pain",
+      "client": "Former Imperial Princess",
+      "description": "I wouldn't mind going home, but I hate all the royal hubbub that goes with it. Fiver, remind me why I joined the Fifth. (Special ticket and increased rare material rewards)",
+      "map": "Wildspire Waste",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "7",
+      "objective": "Hunt all target monsters",
+      "targets": [
+        "Pink Rathian",
+        "Rathian"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d28e"
+      },
+      "name": "USJ Blazing Azure Stars!",
+      "client": "Stupendous Crew",
+      "description": "USJ is pleased to present the most EXPLOSIVE show ever! Our twin blue stars will show you a dance like you've never seen before! Complete our challenge, and earn some fantastic armor!",
+      "map": "Wildspire Waste",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "7",
+      "objective": "Hunt all target monsters",
+      "targets": [
+        "Azure Rathalos",
+        "Dodogama"
+      ]
     }
   ]
 }
