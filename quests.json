@@ -9524,6 +9524,160 @@
         "Rathian",
         "Rathalos"
       ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d26d"
+      },
+      "name": "Midnight Mayhem",
+      "client": "Tribe Outlaw",
+      "description": "\"The heck, am I lost? I don't recognize this place. Oh well, I might as well have some fun while I'm here!\" (Translation by the Lynian Researcher) (Special ticket rewards)",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "6",
+      "objective": "Slay 10 Gastodon",
+      "targets": [
+        "Gastodon"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d26e"
+      },
+      "name": "Mosswinin' and Dinin'",
+      "client": "Little Helpful Felyne",
+      "description": "The Admiral and Meowscular Chef trapped some Mosswine and put them into the Arena. I didn't have the courage to tell them, but those Mosswine look purr-ty odd to me. Take a look!",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "6",
+      "objective": "Slay 5 Mosswine",
+      "targets": [
+        "Mosswine"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d26f"
+      },
+      "name": "Gaze Upon the Dawn",
+      "client": "Excitable A-Lister",
+      "description": "Whenever I see Zorah Magdaros, I can't help but feel sad, and a bit homesick. Let's finish up our research so I can go back to the Old World and meet my master and former teammates again!",
+      "map": "Everstream",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "6",
+      "objective": "Guide Zorah Magdaros",
+      "targets": [
+        "Zorah Magdaros"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d270"
+      },
+      "name": "Gajalaka Outbreak!",
+      "client": "Shy Scholar",
+      "description": "Geez, I just wanted to study the Gajalaka language, so I brought a group of them with me, but they all ran away! Can you help me round them up before they get into trouble?",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Challenge",
+      "game": "Monster Hunter World",
+      "difficulty": "6",
+      "objective": "Defeat 10 Gajalaka",
+      "targets": [
+        "Gajalaka"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d271"
+      },
+      "name": "Scrapping with the Shamos",
+      "client": "Second Fleet Master",
+      "description": "I'm getting bombarded with requests left n' right for the stuff I'm wearing, but I'm gonna need some special materials to meet demand. That's your cue, Hunter. You know what to do.",
+      "map": "Coral Highlands",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "6",
+      "objective": "Hunt 13 Shamos",
+      "targets": [
+        "Shamos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d272"
+      },
+      "name": "A Flash in the Pan",
+      "client": "Analytics Director",
+      "description": "My dear sister and I were suffering from poor eyesight, but the Second Fleet Master crafted us some fine spectacles. I'll give mine to you if you help me test them out!",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "6",
+      "objective": "Hunt 3 Tzitzi-Ya-Ku",
+      "targets": [
+        "Tzitzi-Ya-Ku",
+        "Tzitzi-Ya-Ku",
+        "Tzitzi-Ya-Ku"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d273"
+      },
+      "name": "Egg Lovers United",
+      "client": "Analytic Researcher",
+      "description": "While out gathering egg specimens, a familiar shadow took me unawares. But I believe we can use this for our own purposes! Study the Kulu-Ya-Ku's behavioral patterns, and report back!",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "6",
+      "objective": "Hunt a Kulu-Ya-Ku",
+      "targets": [
+        "Kulu-Ya-Ku"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d274"
+      },
+      "name": "Wiggle Me This",
+      "client": "Endemic Life Researcher",
+      "description": "Wha--hey, don't throw that net on me, I'm not a Wiggler! Fooled you, eh? If you want something like what I'm wearing, then you'll have to help me with my research!",
+      "map": "Coral Highlands",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "6",
+      "objective": "Deliver 10 Wigglers"
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d275"
+      },
+      "name": "Triple Threat Throwdown",
+      "client": "Timid Fiver",
+      "description": "This is a quest that I've prepared...just for you. You won't believe how many decorations you'll get if you can complete this quest! Now, show me what you got!",
+      "map": "Special Arena",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "6",
+      "objective": "Hunt all target monsters",
+      "targets": [
+        "Great Jagras",
+        "Great Girros",
+        "Dodogama"
+      ]
     }
   ]
 }
