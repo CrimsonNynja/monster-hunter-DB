@@ -10398,6 +10398,430 @@
         "Deviljho",
         "Lunastra"
       ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d29e"
+      },
+      "name": "Banquet in the Earthen Hall",
+      "client": "The Admiral",
+      "description": "The mother goddess has appeared again, but now that we have the Fifth here, we can finally complete the investigation that we started decades ago! We're counting on you kids!",
+      "map": "Caverns of El Dorado",
+      "isKey": false,
+      "questType": "Siege",
+      "game": "Monster Hunter World",
+      "difficulty": "9",
+      "objective": "Repel Kulve Taroth",
+      "targets": [
+        "Kulve Taroth"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d29f"
+      },
+      "name": "Undying Alpenglow",
+      "client": "Anonymous Fiver",
+      "description": "My home was in the path of Zorah Magdaros, and the result was tragic. Now I'm with the Fifth, and I need your help to make sure our operation is a success! I must avenge my hometown!",
+      "map": "Everstream",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "9",
+      "objective": "Guide Zorah Magdaros",
+      "targets": [
+        "Zorah Magdaros"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2a0"
+      },
+      "name": "A Visitor from Eorzea (Extreme)",
+      "client": "Serious Handler",
+      "description": "Another Behemoth has appeared in the Elder's Recess and is even more dangerous than the last! Summon other adventurers and quell the beast! (Extremely difficult! Rewards: Drachen layered armor and guild card title)",
+      "map": "Elder's Recess",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "9",
+      "objective": "Slay a Behemoth",
+      "targets": [
+        "Behemoth"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2a1"
+      },
+      "name": "The Thronetaker",
+      "client": "That's the New World for You!",
+      "description": "I finally got permission from Botanical Research to go out in the field. My partners and I stumbled upon a Teostra, Lunastra AND Nergigante! My luck freakin' sucks! I need a nap...",
+      "map": "Elder's Recess",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "9",
+      "objective": "Slay all target monsters",
+      "targets": [
+        "Nergigante",
+        "Lunastra",
+        "Teostra"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2a2"
+      },
+      "name": "No Tomorrow for Usurpers",
+      "client": "The Admiral",
+      "description": "Our guys spotted that big, ugly flying nuisance in the Elder's Recess! Get your gear, we need you out here ASAP! (Bonus HR points rewarded upon completion.)",
+      "map": "Elder's Recess",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "9",
+      "objective": "Hunt Bazelgeuse",
+      "targets": [
+        "Bazelgeuse"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2a3"
+      },
+      "name": "A Nose for an Eye",
+      "client": "The Huntsman",
+      "description": "In my day, we didn't need these Scoutflies to track down monsters, but this is the New World... I've located some interesting monsters for you. Go get them. (Bonus HR points rewarded upon completion.)",
+      "map": "Ancient Forest",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "9",
+      "objective": "Hunt all target monsters",
+      "targets": [
+        "Anjanath",
+        "Azure Rathalos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2a4"
+      },
+      "name": "Snow & Cherry Blossoms",
+      "client": "The Tracker",
+      "description": "Hey, I came across a couple of truly terrifying monsters in the Coral Highlands. Thought you might be interested! (Bonus HR points rewarded upon completion.)",
+      "map": "Coral Highlands",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "9",
+      "objective": "Hunt all target monsters",
+      "targets": [
+        "Pink Rathian",
+        "Legiana"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2a5"
+      },
+      "name": "Tracking the Delivery",
+      "client": "Scholar on the Scene",
+      "description": "While gathering samples out in the field, I noticed a number of rare tracks. I'll need a capable hunter to get the remainder of my samples, plus gather these tracks!",
+      "map": "Elder's Recess",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "9",
+      "objective": "Deliver 10 Blue Beryl"
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2a6"
+      },
+      "name": "A Simple Task",
+      "client": "Scholar on the Scene",
+      "description": "While gathering samples out in the field, I noticed a number of rare tracks. I need a capable hunter to investigate these tracks, plus gather the rest of my samples!",
+      "map": "Ancient Forest",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "9",
+      "objective": "Deliver 10 Gourmet Shroomcap"
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2a7"
+      },
+      "name": "Challenge Quest 2: Expert",
+      "client": "Arena Lass",
+      "description": "In the monster corner: Nergigante, the Divebombing Demon, the Prickly Punisher, the Barbed Brawler. It's half past time for the Eater of Elder's next meal, and you're on the menu!",
+      "map": "Special Arena",
+      "isKey": false,
+      "questType": "Challenge",
+      "game": "Monster Hunter World",
+      "difficulty": "9",
+      "objective": "Slay Nergigante",
+      "targets": [
+        "Nergigante"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2a8"
+      },
+      "name": "Challenge Quest 1: Expert",
+      "client": "Arena Lass",
+      "description": "In the monster corner: A Bazelgeuse-Uragaan tag team! You're walking into a literal minefield with these two around! Watch your step and you won't get blown up!",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Challenge",
+      "game": "Monster Hunter World",
+      "difficulty": "9",
+      "objective": "Slay all target monsters",
+      "targets": [
+        "Bazelgeuse",
+        "Uragaan"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2a9"
+      },
+      "name": "Keeper of the Otherworld",
+      "client": "Third Fleet Senior Scholar",
+      "description": "During my research, I came across a river. Just as I was about to swim across, I spotted some kind of supernatural light. Its existence defied all explanation. Help me unravel this mystery.",
+      "map": "Confluence of Fates",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "9",
+      "objective": "Slay Xeno'jiiva",
+      "targets": [
+        "Xeno'jiiva"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2aa"
+      },
+      "name": "Like a Moth to the Flame",
+      "client": "The Seeker",
+      "description": "Once more, I want to see that source of energy. The one born of light that has beckoned us all here to the New World. Let us embark on this journey once again if you are ready.",
+      "map": "Confluence of Fates",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "9",
+      "objective": "Slay Xeno'jiiva",
+      "targets": [
+        "Xeno'jiiva"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2ab"
+      },
+      "name": "Relish the Moment",
+      "client": "Analytics Director",
+      "description": "We've discovered an insanely fierce Deviljho! It seems the cause of his bad mood is his diet of Streamstones. Quell the beast, and take those Streamstones for yourself!",
+      "map": "Elder's Recess",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "9",
+      "objective": "Hunt a Deviljho",
+      "targets": [
+        "Deviljho"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2ac"
+      },
+      "name": "The Fury of El Dorado",
+      "client": "The Admiral",
+      "description": "The old girl is back and stronger than ever, this time dressed to the nines in a glittering white gold coat! With the First and Fifth working together, we won't let this golden opportunity go to waste!",
+      "map": "Caverns of El Dorado",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "9",
+      "objective": "Repel Kulve Taroth",
+      "targets": [
+        "Kulve Taroth"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2ad"
+      },
+      "name": "When Blue Dust Surpasses Red Lust",
+      "client": "Newly Single Commission Member",
+      "description": "What is TRUE love? *sigh* One must witness the passionate bond between the empress and emperor of flame to truly know. Get too close and surely you'll get burned. Like I did...",
+      "map": "Elder's Recess",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "9",
+      "objective": "Slay Lunastra",
+      "targets": [
+        "Lunastra"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2ae"
+      },
+      "name": "The Heralds of Destruction Cry",
+      "client": "Lost Scholar",
+      "description": "I still remember when that thing showed up. I heard horns blaring in my head. It sounded like a song of destruction. I need help with my research, so those horns can stop!",
+      "map": "Elder's Recess",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "9",
+      "objective": "Slay Nergigante",
+      "targets": [
+        "Nergigante"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2af"
+      },
+      "name": "The Eye of the Storm",
+      "client": "Excitable A-Lister",
+      "description": "Kushala's existence reminds us of how great and fearful nature is. But it also reminds us of those who stood up against the beast. Stand tall hunter, and return the skies to blue.",
+      "map": "Elder's Recess",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "9",
+      "objective": "Slay Kushala Daora",
+      "targets": [
+        "Kushala Daora"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2b0"
+      },
+      "name": "The Scorn of the Sun",
+      "client": "Fourth Fleet A-Lister",
+      "description": "When I first fought a Teostra back in the Old World, my fear washed over me, but it gave me the fire to fight. But now I realized it's calmness, not fear, that you need to slay it.",
+      "map": "Elder's Recess",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "9",
+      "objective": "Slay Teostra",
+      "targets": [
+        "Teostra"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2b1"
+      },
+      "name": "A Whisper of White Mane",
+      "client": "Long Black-haired Hunter",
+      "description": "At first I thought it was an illusion, staring down at me. That white mist gave me chills I'll never forget. I need your help to confirm my findings.",
+      "map": "Coral Highlands",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "9",
+      "objective": "Slay Kirin",
+      "targets": [
+        "Kirin"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2b2"
+      },
+      "name": "The Deathly Quiet Curtain",
+      "client": "Third Fleet Master",
+      "description": "The truly horrifying things are the ones sleeping in silence, no? But what could it be? The Third Fleet urges you to press on, to lift the curtain off of this mystery and feed our obsession.",
+      "map": "Rotten Vale",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "9",
+      "objective": "Slay Vaal Hazak",
+      "targets": [
+        "Vaal Hazak"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2b3"
+      },
+      "name": "The Name's Lavasioth!",
+      "client": "Excitable A-Lister",
+      "description": "Yo, we got asked to research a monster that no one ever wants to research! You know the one, that big floppy fishy that likes to lounge around in the lava! Yeah, THAT one! (Special ticket rewards)",
+      "map": "Elder's Recess",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "9",
+      "objective": "Hunt a Lavasioth",
+      "targets": [
+        "Lavasioth"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2b4"
+      },
+      "name": "The Greatest Jagras",
+      "client": "Chief Ecologist",
+      "description": "So I heard that a hunter had a Great Jagras cornered, but when they went to finish it off, a shadow appeared. What do you think it is? Heh, go out and find out for yourself! (Special ticket rewards)",
+      "map": "Ancient Forest",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "9",
+      "objective": "Hunt a Great Jagras",
+      "targets": [
+        "Great Jagras"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2b5"
+      },
+      "name": "A Visitor from Eorzea",
+      "client": "Serious Handler",
+      "description": "A Behemoth has appeared in the Elder's Recess. Conventional methods won't work, call upon other trustworthy hunte— adventurers to help quell the beast!",
+      "map": "Elder's Recess",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "9",
+      "objective": "Slay the Behemoth",
+      "targets": [
+        "Behemoth"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2b6"
+      },
+      "name": "Contract: Woodland Spirit",
+      "client": "Commander",
+      "description": "A portal appeared in the Ancient Forest, and a strange creature came through it. The beast is called a woodland spirit and it's extremely dangerous. Quest level close to Death March! difficulty in The Witcher 3.",
+      "map": "Ancient Forest",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "9",
+      "objective": "Slay the Ancient Leshen",
+      "targets": [
+        "Ancient Leshen"
+      ]
     }
   ]
 }
