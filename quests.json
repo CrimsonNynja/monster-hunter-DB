@@ -9166,6 +9166,76 @@
       "targets": [
         "Kestodon"
       ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d259"
+      },
+      "name": "Challenge Quest 1: Beginner",
+      "client": "Arena Lass",
+      "description": "In the monster corner: Two fringed contenders guaranteed to ruffle your feathers! Below the belt shots are allowed! You're the only one with a belt, so watch out!",
+      "map": "Special Arena",
+      "isKey": false,
+      "questType": "Challenge",
+      "game": "Monster Hunter World",
+      "difficulty": "2",
+      "objective": "Slay all target monsters",
+      "targets": [
+        "Pukei-Pukei",
+        "Kulu-Ya-Ku"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d25a"
+      },
+      "name": "Vespoid Infestation!",
+      "client": "2nd Fleet Architect",
+      "description": "Oh deeeear! I placed some monster repellent around here, but it started attracting giant Vespoids too! Someone, anyone, I need an exterminator!",
+      "map": "Special Arena",
+      "isKey": false,
+      "questType": "Challenge",
+      "game": "Monster Hunter World",
+      "difficulty": "2",
+      "objective": "Slay 30 Vespoid",
+      "targets": [
+        "Vespoid-Pukei"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d25b"
+      },
+      "name": "USJ Beginners Challenge!",
+      "client": "Stupendous Crew",
+      "description": "Hello everyone, and welcome to USJ! We're happy to introduce our latest quest attraction, perfectly suitable for beginners! Come on and enjoy yourselves!",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "2",
+      "objective": "Slay a Kulu-Ya-Ku",
+      "targets": [
+        "Kulu-Ya-Ku"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d25c"
+      },
+      "name": "Chew The Fat",
+      "client": "Field Team Leader",
+      "description": "Yo, got a quest for you, but don't worry, this is right up your alley. We got a couple of Great Jagras that need to be taken care of. Trust me, the rewards will be worth it.",
+      "map": "Ancient Forest",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "2",
+      "objective": "Hunt 2 Great Jagras",
+      "targets": [
+        "Great Jagras",
+        "Great Jagras"
+      ]
     }
   ]
 }
