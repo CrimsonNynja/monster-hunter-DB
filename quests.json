@@ -9149,6 +9149,23 @@
         "Velkhana",
         "Ruiner Nergigante"
       ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d258"
+      },
+      "name": "Up at the Crack of Dawn",
+      "client": "Elite Defender",
+      "description": "\"Our friendly Kestodon have blown a gasket, so we let them cool off in your Arena. Research Commission friends, please see if they've settled down.\" (Translation by the Lynian Researcher)",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "1",
+      "objective": "Slay 12 Kestodon",
+      "targets": [
+        "Kestodon"
+      ]
     }
   ]
 }
