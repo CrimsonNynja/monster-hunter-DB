@@ -9415,6 +9415,115 @@
         "Tzitzi-Ya-Ku",
         "Tzitzi-Ya-Ku"
       ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d267"
+      },
+      "name": "Every Hunter's Dream",
+      "client": "The Huntsman",
+      "description": "A hunter came by with a blueprint of a weapon he wanted. I still have the prints lying around, so if you want one of your own, get me the materials and I'll start workin'.",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "5",
+      "objective": "Hunt all target monsters",
+      "targets": [
+        "Paolumu",
+        "Rathalos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d268"
+      },
+      "name": "USJ Expert Challenge!",
+      "client": "Stupendous Crew",
+      "description": "Hello everyone, and welcome to USJ! We're happy to introduce our latest quest attraction, perfect for those who can beat up a monster with one arm tied behind their back!",
+      "map": "Special Arena",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "5",
+      "objective": "Slay a Rathalos",
+      "targets": [
+        "Rathalos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d269"
+      },
+      "name": "Wicked Wildspire Warfare",
+      "client": "Smart Biologist",
+      "description": "Do you know what'll happen if we get a couple of highly territorial monsters in one spot? No? Neither do I! Let's find out. Come out on top to earn Armor Spheres!",
+      "map": "Special Arena",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "5",
+      "objective": "Hunt all target monsters",
+      "targets": [
+        "Diablos",
+        "Barroth",
+        "Barroth"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d26a"
+      },
+      "name": "Flesh Cleaved to Bone",
+      "client": "Third Fleet Master",
+      "description": "So...let me get this straight, you're going to step into the arena and get between Fido and its chew toy? Teaching it to play dead, are we?",
+      "map": "Special Arena",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "5",
+      "objective": "Hunt all target monsters",
+      "targets": [
+        "Radobaan",
+        "Odogaron"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d26b"
+      },
+      "name": "Kirin The Myth",
+      "client": "Field Team Grizzled Hunter",
+      "description": "I looked left, it appeared on the right. I glanced behind me, it showed up in front of me. When I thought there was one of them, there were two. I'm outmatched here. This task is all yours.",
+      "map": "Coral Highlands",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "5",
+      "objective": "Slay 2 Kirin",
+      "targets": [
+        "Kirin",
+        "Kirin"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d26c"
+      },
+      "name": "The Poison Posse",
+      "client": "Cheerful Scholar",
+      "description": "They say the most beautiful of chalices are poisonous. But I don't think that applies to flying wyverns. But just in case, look into that for me.",
+      "map": "Ancient Forest",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "5",
+      "objective": "Hunt all target monsters",
+      "targets": [
+        "Pukei-Pukei",
+        "Rathian",
+        "Rathalos"
+      ]
     }
   ]
 }
