@@ -11413,6 +11413,301 @@
         "Ebony Odogaron",
         "Acidic Glavenus"
       ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2da"
+      },
+      "name": "Scores of Ores",
+      "client": "Hey yo! It's me!",
+      "description": "Dang, mining is a workout! If I had a cooler pickaxe maybe this wou—...!? I got it! Yes, INSPIRATION! To the message boards! (Special material rewards)",
+      "map": "Elder's Recess",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "MR5",
+      "objective": "Hunt a Brachydios",
+      "targets": [
+        "Brachydios"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2db"
+      },
+      "name": "The Winter Blues",
+      "client": "Third Fleet Master",
+      "description": "This cold reminds me of the Hinterlands, but it drips with an eerie, tranquil smell. This must be looked into, yes? Run along now... (Bonus HR/MR points rewarded upon completion.)",
+      "map": "Coral Highlands",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "MR5",
+      "objective": "Slay all target monsters",
+      "targets": [
+        "Velkhana",
+        "Namielle"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2dc"
+      },
+      "name": "The Assassin",
+      "client": "Seliana Armory",
+      "description": "I dreamt of a man with the grace of an assassin...and ever since, I've been going bonkers thinking about what I want to work on next. Ya gotta help me out here! (Upgrades the Assassin's Hood upon first completion.)",
+      "map": "Ancient Forest",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "MR5",
+      "objective": "Hunt a Nargacuga",
+      "targets": [
+        "Nargacuga"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2dd"
+      },
+      "name": "USJ: Shine On Forever",
+      "client": "The Smile Crew",
+      "description": "Special delivery from USJ to you: the perfect stage for you to sparkle with a monster that truly shines! May the shine never end! (Special material rewards)",
+      "map": "Seliana Supply Cache",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "MR5",
+      "objective": "Slay a Velkhana",
+      "targets": [
+        "Velkhana"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2de"
+      },
+      "name": "RE: Return of the Bioweapon",
+      "client": "Eccentric Trio",
+      "description": "We've discovered a strange condition which is horrifyingly unaffected by effluvial resistance! If it's not effluvial buildup, then what is it? Help us, Hunter, and you'll be generously compensated! (Special material rewards)",
+      "map": "Rotten Vale",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "MR5",
+      "objective": "Slay a Blackveil Vaal Hazak",
+      "targets": [
+        "Blackveil Vaal Hazak"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2df"
+      },
+      "name": "Old Dog, New Trick",
+      "client": "The Huntsman",
+      "description": "What a proud figure I must make, sitting here with my arms crossed. But perhaps I should learn the ways of the new generation, starting with the clutch claw? I heard a Gold Melding Ticket would be the prize, heh.",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "MR5",
+      "objective": "Hunt a Frostfang Barioth",
+      "targets": [
+        "Frostfang Barioth"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2e0"
+      },
+      "name": "Talk About a Party Foul...",
+      "client": "Hey! 'Tis I...again!",
+      "description": "Wooo, that was one GNARLY party! But some, uh, party pooper left all his party poop all over the place... Sorry, Player. Someone's gotta clean up this mess and it ain't me! But if you do, the Second Fleet Master will hook you up with some sweet armor spheres!",
+      "map": "Special Arena",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "MR5",
+      "objective": "Hunt a Seething Bazelgeuse",
+      "targets": [
+        "Seething Bazelgeuse"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2e1"
+      },
+      "name": "A Reason Behind The Hunger",
+      "client": "Smart Biologist",
+      "description": "Perhaps the reason why this type of Deviljho is constantly hunting is that it's lost its ability to feel full? Perhaps I can empathize with its plight. I too, crave... My hunger for knowledge is insatiable! (Bonus HR/MR points rewarded upon completion.)",
+      "map": "Elder's Recess",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "MR5",
+      "objective": "Hunt a Savage Deviljho",
+      "targets": [
+        "Savage Deviljho"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2e2"
+      },
+      "name": "We Three Kings",
+      "client": "The Huntsman",
+      "description": "Thunder. Wind. Fire. Nature's wonders in their purest form. So, we fight purity with purity. Pick your weapon, hunter. And fight. (Bonus HR/MR points rewarded upon completion.)",
+      "map": "Special Arena",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "MR5",
+      "objective": "Slay all target monsters",
+      "targets": [
+        "Kirin",
+        "Kushala Daora",
+        "Teostra"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2e3"
+      },
+      "name": "A Chilling Entrance",
+      "client": "C'mon, help a feller out!",
+      "description": "It's cold today, better get a scarf to warm up. I wonder what'll happen if I wrap my hea—...!? I got it! INSPIRATION! To the message boards! (Special material rewards)",
+      "map": "Ancient Forest",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "MR5",
+      "objective": "Slay all target monsters",
+      "targets": [
+        "Blackveil Vaal Hazak",
+        "Velkhana"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2e4"
+      },
+      "name": "Talk About a Party Foul...",
+      "client": "Hey! 'Tis I...again!",
+      "description": "Wooo, that was one GNARLY party! But some, uh, party pooper left all his party poop all over the place... Sorry, Player. Someone's gotta clean up this mess and it ain't me! But if you do, the Second Fleet Master will hook you up with some sweet armor spheres!",
+      "map": "Special Arena",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "MR5",
+      "objective": "Hunt a Seething Bazelgeuse",
+      "targets": [
+        "Seething Bazelgeuse"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2e5"
+      },
+      "name": "Farewell to the Frozen",
+      "client": "Field Team Leader",
+      "description": "To the hunters who have survived the dangers of the New World, I hope you can display your full potential one more time. Show them that the Sapphire Star can never be frozen!",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Challenge",
+      "game": "Monster Hunter World",
+      "difficulty": "MR5",
+      "objective": "Slay a Velkhana",
+      "targets": [
+        "Velkhana"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2e6"
+      },
+      "name": "The Conqueror of Hoarfrost",
+      "client": "Field Team Leader",
+      "description": "We salute all hunters who have conquered the New World using everything at their disposal. Embark on this quest that will challenge you and may the Sapphire Star light your way!",
+      "map": "Hoarfrost Reach",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "MR5",
+      "objective": "Slay all target monsters",
+      "targets": [
+        "Banbaro",
+        "Barioth",
+        "Shrieking Legiana"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2e7"
+      },
+      "name": "Aiming for the Light",
+      "client": "Field Team Leader",
+      "description": "We salute all hunters who have conquered the New World using everything at their disposal. Embark on this quest that will challenge you and may the Sapphire Star light your way!",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "MR5",
+      "objective": "Slay a Namielle",
+      "targets": [
+        "Namielle"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2e8"
+      },
+      "name": "A Star That Will Never Dim",
+      "client": "Field Team Leader",
+      "description": "We salute all hunters who have conquered the New World using everything at their disposal. Embark on this quest that will challenge you and may the Sapphire Star light your way!",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Challenge",
+      "game": "Monster Hunter World",
+      "difficulty": "MR5",
+      "objective": "Slay a Namielle",
+      "targets": [
+        "Namielle"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2e9"
+      },
+      "name": "Wearer of the Iceborne Crown",
+      "client": "Field Team Leader",
+      "description": "We salute all hunters who have conquered the New World using everything at their disposal. Embark on this quest that will challenge you and may the Sapphire Star light your way!",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Challenge",
+      "game": "Monster Hunter World",
+      "difficulty": "MR5",
+      "objective": "Slay a Velkhana",
+      "targets": [
+        "Velkhana"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2ea"
+      },
+      "name": "USJ: Ballet of Frost",
+      "client": "The Smile Crew",
+      "description": "Special delivery from USJ to you: the perfect stage for you to duel with a monster with fangs of frost! May the excitement never end! (Special material rewards)",
+      "map": "Hoarfrost Reach",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "MR5",
+      "objective": "Hunt a Frostfang Barioth",
+      "targets": [
+        "Frostfang Barioth"
+      ]
     }
   ]
 }
