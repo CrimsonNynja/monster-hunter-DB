@@ -10822,6 +10822,188 @@
       "targets": [
         "Ancient Leshen"
       ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2b7"
+      },
+      "name": "Pearl Snatchers",
+      "client": "Endemic Life Researcher",
+      "description": "Ooooh! My best assistant came to lend me a hand! Think you can catch me some of those fluffy duffy Pearlspring Macaques? For what? Duh! To play with—er, I mean to research of course, you silly hunter! (Special material rewards upon completion.)",
+      "map": "Hoarfrost Reach",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "MR1",
+      "objective": "Deliver 6 Pearlspring Macaques"
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2b8"
+      },
+      "name": "Duffel Duty",
+      "client": "Endemic Life Researcher",
+      "description": "You ready to lend me a hand? Oh, goodie! I need you to capture some Duffel Penguins for me. You gotta be quick, though. They'll give you the flipper then you give you the slip! (Special material rewards)",
+      "map": "Hoarfrost Reach",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "MR1",
+      "objective": "Deliver 8 Duffel Penguins"
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2b9"
+      },
+      "name": "Flora Frostbite",
+      "client": "Greetings, it's me again! Ha ha!",
+      "description": "The Reach is so cold your ears will fall off, or so I heard. Earmuffs would do the trick, or maybe some—!? I got it! Yes, INSPIRATION! To the message boards! (Special material rewards)",
+      "map": "Hoarfrost Reach",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "MR1",
+      "objective": "Deliver 10 Iceblooms"
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2ba"
+      },
+      "name": "Skyward Snipers",
+      "client": "Endemic Life Researcher",
+      "description": "You've seen those big Grandfather Mantagrells being all floaty in the air, right? My notes say they're especially weak to sudden shocks. I bet if you use your slinger you can get one for me to play with—I mean study, of course! (Special material rewards)",
+      "map": "Coral Highlands",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "MR1",
+      "objective": "Deliver 5 Grandfather Mantagrells"
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2bb"
+      },
+      "name": "A Fish to Whet Your Appetite",
+      "client": "Piscine Researcher",
+      "description": "Not only are those big boys sharp to a fault, if you can haul them here fresh as a daisy, they might be useful as a weapon too! So get on out there and snag some, will ya? (Special material rewards)",
+      "map": "Wildspire Waste",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "MR1",
+      "objective": "Deliver 2 Great Whetfish"
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2bc"
+      },
+      "name": "Trophy Fishin'",
+      "client": "Piscine Researcher",
+      "description": "Don't think you can eat 'em and I know gramps would be reel upset if I plopped one down in front of him for supper. But sounds like mighty good fun tangoin' with two tundra trouts! (Increased HR/MR points and special material rewards upon completion.)",
+      "map": "Hoarfrost Reach",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "MR1",
+      "objective": "Hunt all target monsters",
+      "targets": [
+        "Beotodus",
+        "Beotodus"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2bd"
+      },
+      "name": "The Lord of the Underworld Beckons",
+      "client": "Fruit-eating Felyne",
+      "description": "Those things—like felvine, I tell ya! I just can't get enough! If you can go meow-t and get your paws on some more, I'd really a-purr-eciate it! I'll even reward you with lots of bone materials fur your troubles! (Bonus HR/MR points rewarded upon completion.)",
+      "map": "Rotten Vale",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "MR1",
+      "objective": "Deliver 20 Underground Fruit"
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2be"
+      },
+      "name": "A Bunch of Sticks in the Mud",
+      "client": "Field Team Leader",
+      "description": "Some roaming Banbaro have adapted to the Wildspire and are using mounds of mud to attack hunters! Careful out there, everyone! (Bonus HR/MR points rewarded upon completion.)",
+      "map": "Wildspire Waste",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "MR1",
+      "objective": "Hunt all target monsters",
+      "targets": [
+        "Banbaro",
+        "Banbaro"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2bf"
+      },
+      "name": "Desert Desserts",
+      "client": "Second Fleet Mining Chief",
+      "description": "Ah, Hunter! I've caught wind of a delicacy called a Hardfruit, which makes for a delightful snack. It's a bit of a trek, but bring some back for me and I'll reward you with lots of ore! (Bonus HR/MR points rewarded upon completion.)",
+      "map": "Wildspire Waste",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "MR1",
+      "objective": "Deliver 20 Hardfruit"
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2c0"
+      },
+      "name": "The New World",
+      "client": "A Ranger",
+      "description": "Looks like I'm back in this world again, but where are those two? Guess I better look for them... In this quest, you will get to play as Artemis.",
+      "map": "Wildspire Waste",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "MR1",
+      "objective": "Head to Area 8",
+      "targets": [
+        "Black Diablos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2c1"
+      },
+      "name": "To Our World",
+      "client": "A Ranger",
+      "description": "Why is that thing still alive? I thought we killed it! Does that mean I'm in the...? At any rate, I need to find a way back to my world. In this quest, you will get to play as Artemis.",
+      "map": "Ancient Forest",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "MR1",
+      "objective": "Slay a Rathalos",
+      "targets": [
+        "Rathalos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2c2"
+      },
+      "name": "Fetching Light Pearls",
+      "client": "It's me again!",
+      "description": "I saw those Kelbi eyes glow like a pearl in the dark! Then it struck me. Yes, INSPIRATION! To the message boards! (Special material rewards)",
+      "map": "Coral Highlands",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "MR1",
+      "objective": "Deliver 8 Light Pearls"
     }
   ]
 }
