@@ -11004,6 +11004,167 @@
       "game": "Monster Hunter World",
       "difficulty": "MR1",
       "objective": "Deliver 8 Light Pearls"
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2c3"
+      },
+      "name": "Every Hunter's Dream II",
+      "client": "Second Fleet Master",
+      "description": "A hunter came by with blueprints for Palico equipment they wanted me to craft. I still have the prints lying around, so if you want one of your own, get me the materials and I'll start workin'. (Special material rewards)",
+      "map": "Coral Highlands",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "MR2",
+      "objective": "Capture a Coral Pukei-Pukei",
+      "targets": [
+        "Coral Pukei-Pukei"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2c4"
+      },
+      "name": "Paolumu Lullabies",
+      "client": "Little Helpful Felyne",
+      "description": "The Admiral and Chef managed to capture a Nightshade Paolumu, but something seemed pawfully off. I didn't mention anything to those two, but purrhaps you could take a look, Meowster?",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "MR2",
+      "objective": "Hunt a Nightshade Paolumu",
+      "targets": [
+        "Nightshade Paolumu"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2c5"
+      },
+      "name": "Challenge Quest 1: MR Intermediate",
+      "client": "Pub Arena Manager",
+      "description": "In the monster corner: A Tobi-Kadachi-Viper Tobi-Kadachi tag team! Stay on your toes against this tandem because the fur is about to fly! You ready to duke it out with set weapons and armor?",
+      "map": "Special Arena",
+      "isKey": false,
+      "questType": "Challenge",
+      "game": "Monster Hunter World",
+      "difficulty": "MR2",
+      "objective": "Slay all target monsters",
+      "targets": [
+        "Tobi-Kadachi",
+        "Viper Tobi-Kadachi"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2c6"
+      },
+      "name": "Balloon Fight",
+      "client": "Yo! 'Tis I!",
+      "description": "OK. I, uh, admit that I went a little crazy with the party prep, but I swear I did NOT blow up those balloons. Pop those pests and the Second Fleet Master will hook you up with armor spheres!",
+      "map": "Special Arena",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "MR2",
+      "objective": "Hunt all target monsters",
+      "targets": [
+        "Paolumu",
+        "Nightshade Paolumu"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2c7"
+      },
+      "name": "A New Troublemaker in Town",
+      "client": "Vice Chief Ecologist",
+      "description": "—and you know what would be fascinating? Hunting an Anjanath AND a Banbaro at the same time! I would certainly dole out more HR/MR points to any hunter who'd take up that challenge! Yes, can you imagine it, Hunter? Going at it with those two brutes—",
+      "map": "Ancient Forest",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "MR2",
+      "objective": "Hunt all target monsters",
+      "targets": [
+        "Anjanath",
+        "Banbaro"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2c8"
+      },
+      "name": "Colorful Carnival",
+      "client": "Motivated Fourth",
+      "description": "Yeah, time to get it done! I got an assignment from the scholars to pick up a couple of whatcha-ma-call-sacs. I'm gonna do it all in one go! (Increased HR/MR points upon completion.)",
+      "map": "Special Arena",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "MR2",
+      "objective": "Hunt all target monsters",
+      "targets": [
+        "Kulu-Ya-Ku",
+        "Tzitzi-Ya-Ku",
+        "Pukei-Pukei",
+        "Coral Pukei-Pukei"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2c9"
+      },
+      "name": "Hunter-Blunderer",
+      "client": "Fussy Fourth",
+      "description": "We were supposed to go out to get some stuff for Analytics, but my partner goofed and went on a different quest! Can you take care of this while I fetch him? Geez...this bozo. (Bonus HR/MR points rewarded upon completion.)",
+      "map": "Special Arena",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "MR2",
+      "objective": "Hunt all target monsters",
+      "targets": [
+        "Radobaan",
+        "Viper Tobi-Kadachi"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2ca"
+      },
+      "name": "Camoflawed",
+      "client": "Piscine Researcher",
+      "description": "The young miss I work with needs to research some critter in a Rath nest and almost went wearin' an herbivore disguise. Good thing I stopped her before she got swooped up. Could you go hunt that Rathian so she can get her critter fix? (Special material rewards)",
+      "map": "Ancient Forest",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "MR2",
+      "objective": "Hunt a Rathian",
+      "targets": [
+        "Rathian"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2cb"
+      },
+      "name": "Kadachi Twins ",
+      "client": "Overzealous Fifth",
+      "description": "It's so freakin' cold out here that I came up with a design for some warm armor based on a monster! It looks strong, yes, strong indeed! (Special material rewards)",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "MR2",
+      "objective": "Hunt all target monsters",
+      "targets": [
+        "Tobi-Kadachi",
+        "Viper Tobi-Kadachi"
+      ]
     }
   ]
 }
