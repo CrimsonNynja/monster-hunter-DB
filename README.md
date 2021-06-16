@@ -1,6 +1,8 @@
 ## Monster Hunter DB
 
-This repo contains a database of monsters from MH3U, MH4U, MHGU, MHST and MHW (plus Iceborne), and MH Rise. It also contains all quests from MH rise (more to come in the future)
+This repo contains a database of monsters from MH3U, MH4U, MHGU, MHST and MHW (plus Iceborne), and MH Rise. It also contains all quests from MH rise and MH world and Iceborne.
+
+If you have found any errors, would like something added, or wish to help, drop something in the discussion section of the repo.
 
 The data is provided in both a `.json` and `.ndjson` file, with the data sorted alphabetically on the monsters name.
 
