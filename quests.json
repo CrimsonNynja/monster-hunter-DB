@@ -11324,6 +11324,95 @@
       "targets": [
         "Tigrex"
       ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2d5"
+      },
+      "name": "Beef is Never a Mi-steak",
+      "client": "Been a while! How you doing!?",
+      "description": "No matter how much I chow down, I'm never full. Guess I'm still a growing boy! I need my protein, or maybe—!? I got it! Yes, INSPIRATION! To the message boards! (Special material rewards)",
+      "map": "Wildspire Waste",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "MR4",
+      "objective": "Hunt all target monsters",
+      "targets": [
+        "Tigrex"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2d6"
+      },
+      "name": "Challenge Quest 2: MR Intermediate",
+      "client": "Pub Arena Manager",
+      "description": "In the monster corner: An Anjanath-Fulgur Anjanath tag...team...? Bless their hearts, I think their lil' ol' arms are too short to tag... You ready to duke it out with set weapons and armor?",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Challenge",
+      "game": "Monster Hunter World",
+      "difficulty": "MR4",
+      "objective": "Slay all target monsters",
+      "targets": [
+        "Anjanath",
+        "Fulgur Anjanath"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2d7"
+      },
+      "name": "The Desert Dash",
+      "client": "The Admiral",
+      "description": "Scouts have spotted a couple of highly dangerous monsters speeding across the Wildspire. Head to the locale and take care of both threats! And don't be late! (Increased HR/MR points upon completion)",
+      "map": "Wildspire Waste",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "MR4",
+      "objective": "Hunt all target monsters",
+      "targets": [
+        "Black Diablos",
+        "Tigrex"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2d8"
+      },
+      "name": "In the Depths of the Forest",
+      "client": "Inquisitive Handler",
+      "description": "They say that Anjanaths are built for the forest. They roam it like kings, but now that an Azure Rathalos has showed up, we got a real fight on our hands! (Increased HR/MR points upon completion.)",
+      "map": "Ancient Forest",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "MR4",
+      "objective": "Hunt all target monsters",
+      "targets": [
+        "Azure Rathalos",
+        "Fulgur Anjanath"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2d9"
+      },
+      "name": "Servants of the Vale",
+      "client": "Analytics Director",
+      "description": "Two monsters have staked claim to the Rotten Vale, Hunter. But no matter who wins, the Commission loses. We need someone like you to get in there and drive both of them out! (Bonus HR/MR points rewarded upon completion.)",
+      "map": "Rotten Vale",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "MR4",
+      "objective": "Hunt all target monsters",
+      "targets": [
+        "Ebony Odogaron",
+        "Acidic Glavenus"
+      ]
     }
   ]
 }
