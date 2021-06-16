@@ -11152,7 +11152,7 @@
       "_id": {
         "$oid": "5e13275aa180af35ce52d2cb"
       },
-      "name": "Kadachi Twins ",
+      "name": "Kadachi Twins",
       "client": "Overzealous Fifth",
       "description": "It's so freakin' cold out here that I came up with a design for some warm armor based on a monster! It looks strong, yes, strong indeed! (Special material rewards)",
       "map": "Arena",
@@ -11164,6 +11164,165 @@
       "targets": [
         "Tobi-Kadachi",
         "Viper Tobi-Kadachi"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2cc"
+      },
+      "name": "Every Hunter's Dream III",
+      "client": "Second Fleet Master",
+      "description": "A hunter came by with a blueprint of a weapon they wanted. I still have the prints lying around, so if you want one of your own, get me the materials and I'll start workin'. (Special material rewards)",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "MR3",
+      "objective": "Hunt all target monsters",
+      "targets": [
+        "Nightshade Paolumu",
+        "Nargacuga"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2cd"
+      },
+      "name": "50 Shades of White",
+      "client": "Pub Arena Manager",
+      "description": "To all hunters who yearn for action in the Arena, this quest is for you! Go head to head with our combatants, and earn special materials to craft weapons! (Special material rewards)",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "MR3",
+      "objective": "Hunt a Barioth",
+      "targets": [
+        "Barioth"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2ce"
+      },
+      "name": "The True Tyrant",
+      "client": "Field Team Leader",
+      "description": "We salute all hunters who have conquered the New World using everything at their disposal. Embark on this quest that will challenge you and may the Sapphire Star light your way!",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Challenge",
+      "game": "Monster Hunter World",
+      "difficulty": "MR3",
+      "objective": "Slay a Tigrex",
+      "targets": [
+        "Tigrex"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2cf"
+      },
+      "name": "A Sky & Sea of Fire",
+      "client": "Studious Biologist",
+      "description": "They're everywhere! I can hear the treacherous wings of fire above me, and I can feel the smoldering glare coming from that lava! Help! (Bonus HR/MR points rewarded upon completion.)",
+      "map": "Elder's Recess",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "MR3",
+      "objective": "Hunt all target monsters",
+      "targets": [
+        "Rathalos",
+        "Lavasioth"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2d0"
+      },
+      "name": "A Curious Experiment",
+      "client": "Fidgety Fifth",
+      "description": "Hey, what do you think would happen if a Diablos charged at an inflated Paolumu? I've been thinking about this for way too long and now I can't sleep. Do you think you can find out for me? (Bonus HR/MR points rewarded upon completion.)",
+      "map": "Wildspire Waste",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "MR3",
+      "objective": "Hunt all target monsters",
+      "targets": [
+        "Diablos",
+        "Nightshade Paolumu"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2d1"
+      },
+      "name": "Soaked and Shivering",
+      "client": "Overzealous Fifth",
+      "description": "I was SO looking forward to going out on a hunt in a place that's not cold, but it IS cold. FREEZING COLD! And it's wet too! That's it! I am SO done. I'm going home... (Bonus HR/MR points rewarded upon completion.)",
+      "map": "Coral Highlands",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "MR3",
+      "objective": "Hunt all target monsters",
+      "targets": [
+        "Legiana",
+        "Coral Pukei-Pukei"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2d2"
+      },
+      "name": "Fired-Up Bruisers",
+      "client": "Vice Chief Ecologist",
+      "description": "—to hunt a Glavenus AND an Uragaan simultaneously, yes! That's the stuff dreams are made of! I'd most certainly dole out extra HR/MR points upon completion to the hunters who—",
+      "map": "Elder's Recess",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "MR3",
+      "objective": "Hunt all target monsters",
+      "targets": [
+        "Uragaan",
+        "Glavenus"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2d3"
+      },
+      "name": "When the Swift Meets the Roar",
+      "client": "Timid Fiver",
+      "description": "Expect things to get hot and tense in this quest! But don't worry, you'll get your fill of decorations if you come out of this in one piece! (Bonus HR/MR points rewarded upon completion.)",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "MR3",
+      "objective": "Hunt all target monsters",
+      "targets": [
+        "Tigrex",
+        "Nargacuga"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce52d2d4"
+      },
+      "name": "Seeing is Believing",
+      "client": "Meowscular Chef",
+      "description": "Yo, Scrawny. This hungover hunter came by sayin' he's seein' things in the Arena. He was so shook up about it that it's made him quit drinkin'. Go check it out for him, will ya? (Special material rewards)",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter World",
+      "difficulty": "MR3",
+      "objective": "Hunt a Tigrex",
+      "targets": [
+        "Tigrex"
       ]
     }
   ]
