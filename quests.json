@@ -3478,6 +3478,25 @@
     },
     {
       "_id": {
+        "$oid": "608fc50ddc2d8ce1077b0113"
+      },
+      "name": "Bird Wyverns of Ruin?",
+      "client": "Senri the Mailman",
+      "description": "Do you know the Felyne Tsukino, who appears in the mew MONSTER HUNTER STORIES 2: WINGS OF RUIN? She's so cute! Complete this quest and I'll give you materials to gorge layered armor to make your Palico look just like her!",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter Rise",
+      "difficulty": "1",
+      "objective": "Hunt all target monsters",
+      "targets": [
+        "Great Baggi",
+        "Great Izuchi",
+        "Kulu-Ya-Ku"
+      ]
+    },
+    {
+      "_id": {
         "$oid": "608fc50ddc2d8ce1017b0113"
       },
       "name": "Beast of the Shadows",
