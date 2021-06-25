@@ -3497,6 +3497,23 @@
     },
     {
       "_id": {
+        "$oid": "608fc50ddc2d8ce1077b8113"
+      },
+      "name": "Almudron: Fashion Victim",
+      "client": "Hamon the Blacksmith",
+      "description": "Rondine showed me a pair of tight pants from some far off country. I don't know fashion, but I know a pair of sturdy pants when I see 'em! Complete my request, and I'll give you the materials to forge 'em.",
+      "map": "Sandy Plains",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Hunt an Almudron",
+      "targets": [
+        "Almudron"
+      ]
+    },
+    {
+      "_id": {
         "$oid": "608fc50ddc2d8ce1017b0113"
       },
       "name": "Beast of the Shadows",
