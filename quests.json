@@ -3514,6 +3514,23 @@
     },
     {
       "_id": {
+        "$oid": "608fc50ddc2d8ce1077b8114"
+      },
+      "name": "Fooled in the Flooded Forest",
+      "client": "Fainted(?) Hunter",
+      "description": "Shhh! Don't mind me! I ran into a Chameleos and now I'm stalling for time playing possum. But I don't think I can fool it for much longer! If you can take care of it for me, I'll teach ya my trick for getting out of a bind!",
+      "map": "Flooded Forest",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Slay a Chameleos",
+      "targets": [
+        "Chameleos"
+      ]
+    },
+    {
+      "_id": {
         "$oid": "608fc50ddc2d8ce1017b0113"
       },
       "name": "Beast of the Shadows",
