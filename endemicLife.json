@@ -1,0 +1,864 @@
+{
+  "endemicLife": [
+    {
+      "name": "Shepherd Hare",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "Just look at these ginormous ears! Fluffy, AND they can discern precise sounds to avoid danger! They're so clever it hurts!",
+          "image": "MHW-Shepherd_Hare_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Pilot Hare",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "Ooh, this is a rare one! It's warm to the touch, like a little ball of sunshine! I bet this little guy just LOVES picnics!",
+          "image": "MHW-Pilot_Hare_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Forest Gekko",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "These puppies have cute, beady little eyes that can pick out even the smallest of prey against a patch of brightmoss!",
+          "image": "MHW-Forest_Gekko_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Wildspire Gekko",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "Barroth aren't the only ant-eaters in this desert! These guys love ants so much they'd even give Barroth a run for their money!",
+          "image": "MHW-Wildspire_Gekko_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Gloom Gekko",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "What a garish color for such a dark place! It just screams, \"Danger! Do not touch! And don't put me ANYWHERE near your mouth!\"",
+          "image": "MHW-Gloom_Gekko_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Moonlight Gekko",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "That shining tail! It's so pretty... I want to touch it... I want to be its best friend... *gasp* I almost fell for it!",
+          "image": "MHW-Moonlight_Gekko_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Vaporonid",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "Years of animal research and I've never seen a web being made! Even if you destroy a web, it just magically appears again the next day!",
+          "image": "MHW-Vaporonid_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Scavantula",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "These budies just love rotten meat! If you were to drop dead in the Rotten Vale, you might even be their next meal!",
+          "image": "MHW-Scavantula_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Revolture",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "These birds are always after large monsters' leftovers. If you spot one, a monster's probably lurking nearby!",
+          "image": "MHW-Revolture_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Blissbill",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "Their perfectly round eyes and heart-shaped faces make them popular pets. You may have seen some in Astera, too!",
+          "image": "MHW-Blissbill_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Dung Beetle",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "These fellas roll dung around all day long. Need some dung? Then look no further! What you do with it is none of my business!",
+          "image": "MHW-Dung_Beetle_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Bomb Beetle",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "Is that an explosive rock it's rolling around!? It must have astounding thermal resistance! Let me just touch its legs to-- OUCH!",
+          "image": "MHW-Bomb_Beetle_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Paratoad",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "It stores paralyzing gas in its body and releases it when threatened! See? Here, in its soma-AGH! I...I can't...mooove...",
+          "image": "MHW-Paratoad_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Sleeptoad",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "It's developed organs that produce a sleep gas in order to survive in the Coral Highlands! When provoked it releases-ZZZZZZzzzzz...",
+          "image": "MHW-Sleeptoad_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Nitrotoad",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "This one stores explosive fluids! But don't worry, I've learned my lesson with toads, I won't touch this one... Uh...is it leaking...?",
+          "image": "MHW-Nitrotoad_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Wiggler",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "It wiggles in the wind and isn't blown away because it's anchored in to the ground! Let's have a look at its feet... URRGH! It's stuck...",
+          "image": "MHW-Wiggler_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Wiggler Queen",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "This empress of the night only appears when there's a full moon! Let's see if she'll deign to show us her royal feet... URRGH! Nope...",
+          "image": "MHW-Wiggler_Queen_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Carrier Ant",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "They can lift incredible weights, and even made the Wildspires. They could probably even carry you! If you put down your huge weapon...",
+          "image": "MHW-Carrier_Ant_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Emperor Hopper",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "Authoritative expression... crown-like head and mantle-like wings... *gasp* A real emperor! F-Forgive us our impertinence!",
+          "image": "MHW-Emperor_Hopper_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Tyrant Hopper",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "Sometimes nature makes violent evolutions. BUT! To fully understand it, we must yet reach out a hand and... OUCH! I-It bit me!",
+          "image": "MHW-Tyrant_Hopper_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Iron Helmcrab",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "Wow! It really DOES look like a helmet! And it's carrying...a Piercing Pod? Well, I'm sure it won't mind if I take-Ow!",
+          "image": "MHW-Iron_Helmcrab_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Soldier Helmcrab",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "They carry Slinger Thorns and march around in groups just like soldiers! Does that make thorns their rations? Do they...eat it? Ew...",
+          "image": "MHW-Soldier_Helmcrab_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Emerald Helmcrab",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "That avant-garde shell design, that superb silhouette and color scheme... Forget research, I'm getting out my sketch book!",
+          "image": "MHW-Emerald_Helmcrab_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Gold Helmcrab",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "Wowzers, even Helmcrabs have gone gold! Is it holding... a Dragon Pod!? Guess when you gotta eat, you gotta eat!",
+          "image": "MHW-Gold_Helmcrab_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Shiny Gold Helmcrab",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "This little one isn't too different from your regular Gold Helmcrab, but it's a lot shinier. Guess it hoarded more grub for itself?",
+          "image": "MHW-Shiny_Gold_Helmcrab_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Copper Calappa",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "Holy Hermitaurs! A shiny crab!? Looks like it'll drop something if you follow it. Wait, isn't this a piece of gold!? NICE!",
+          "image": "MHW-Copper_Calappa_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Gold Calappa",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "Look at the shell on this thing! It makes me just wanna pick it up and scream \"big gold haul coming through!\"",
+          "image": "MHW-Gold_Calappa_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Stonebill",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "These clever kiddos raise a ruckus when a large monster enters their territory. Just amazing, really. It's⁠—OK, SHUT UP ALREADY!",
+          "image": "MHWI-Stonebill_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Rime Beetle",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "These cuties roll snowballs, but they aren't building snowmen. They're gathering crystals of ice into big crystalbursts. So talented!",
+          "image": "MHWI-Rime_Beetle_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Pearlspring Macaque",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "Nothing beats a hot spring when it's cold! These monkeys get it. They also get minor heat stroke from staying in too long. Oof!",
+          "image": "MHWI-Pearlspring_Macaque_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Goldspring Macaque",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "Whoa! A single gleaming golden monkey mixed in with the hot springs tour group! It's glittering! Dazzling! And...soft-boiled?",
+          "image": "MHWI-Goldspring_Macaque_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Crowned Prawn",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "These glowy boys light up dark caves! They rock the creepy-cute thing, but I don't need to see a whole bunch wriggling at once...",
+          "image": "MHWI-Crowned_Prawn_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Duffel Penguine",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "Looking at these guys, I can hear their moms saying, \"If you're cold, put on a jacket!\" Hmm, does the hood come off? ...No. SORRY!",
+          "image": "MHWI-Duffel_Penguine_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Arrowhead Gekko",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "These guys eat the bugs that gather around nutritious nuts. So it's as if their arrow-shaped heads point straight to bug buffets!",
+          "image": "MHWI-Arrowhead_Gekko_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Arrowhead Gekko",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "These guys eat the bugs that gather around nutritious nuts. So it's as if their arrow-shaped heads point straight to bug buffets!",
+          "image": "MHWI-Arrowhead_Gekko_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Climbing Joyperch",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "Oh my Wrog! This is THE quintessential ancestor of amphibians! Just as masterful in the water as on land... Magnificent!",
+          "image": "MHW-Climbing_Joyperch_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Pink Parexus",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "These fish are found all over the New World, show of some amazing primitive biology, AND they're easy fishing even for beginners!",
+          "image": "MHW-Pink_Parexus_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Burst Arrowana",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "This fish is literally bursting with explosive chemicals! It hides in weedy shallows, but it'll run away if you wiggle your bait!",
+          "image": "MHW-Burst_Arrowana_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Bomb Arrowana",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "They're even burstier than regular Arowana, if you can believe it! They're sensitive to movement, so don't wiggle that bait!",
+          "image": "MHW-Bomb_Arrowana_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Andangler",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "They like to draw Flying Meduso to their light and... CHOMP! It'd definitely be worth staying up all night to watch them in action!",
+          "image": "MHW-Andangler_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Hopguppy",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "Its specialized pectoral fins allow it to skip on water! It can even GLIDE! You won't be catching this one with a fishing pole!",
+          "image": "MHW-Hopguppy_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Petricanths",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "Previously known via fossils, this species was thought extinct. Finding otherwise was a real surprise.",
+          "image": "MHW-Petricanths_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Whetfish",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "They like to swim around in relatively deep water. Try wiggling the lure if it doesn't bite right away!",
+          "image": "MHW-Whetfish_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Gastronome Tuna",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "These big fish like to snatch away bait! Use the rod's flexibility to your benefit to bring it in, and be sure to check it for items!",
+          "image": "MHW-Gastronome Tuna_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "King Marlin",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "I knew that these are known to approach the shore in search of prey, but great job catching it! And not losing your pole in the process!",
+          "image": "MHW-King_Marlin_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Goldenfish",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "Golden-scaled cave-dwellers, they'll hightail it if you wiggle your bait! They also like to nibble before taking a real bite, so don't get duped!",
+          "image": "MHW-Goldenfish_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Platinumfish",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "Platinum-scaled cave-dwellers, they'll hightail it if you wiggle your bait! You're going to need a lot of patience if you want to catch one.",
+          "image": "MHW-Platinumfish_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Goldenfry",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "Small cave-dwelling fish with precious scales, they'll try to psych you out with a nibble, so be patient - and don't wiggle your bait!",
+          "image": "MHW-Goldenfry_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Sushifish",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "These fish are useful in restorative items for their high nutritional value! Just wiggle your bait in some deep water, or blast them out!",
+          "image": "MHW-Sushifish_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Gunpowderfish",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "Watchout - Their bodies contain the same substances as Devil's Blight! They're hard to spot, but they react noticeably to moving bait.",
+          "image": "MHW-Gunpowderfish_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Glass Parexus",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "These fish have transparent scales, so you can see their skeleton and organs. They only live in cold environments.",
+          "image": "MHWI-Glass_Parexus_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Sealord's Crestfish",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "These beauties lurk at the bottom, save when surfacing to feed by night. They're so rare, they're said to be familiars of the sea god.",
+          "image": "MHWI-Sealords_Crestfish_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Cobalt Flutterfly",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "It's so pretty I'd mistaken it for a flower! The scales reflect the light into such a deep blue that it can only be called a miracle!",
+          "image": "MHW-Cobalt_Flutterfly_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Phantom Flutterfly",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "These magnificent wings! Their rainbow glow is so alluring... I...I can't tear my eyes away from it! What a masterpiece!",
+          "image": "MHW-Phantom_Flutterfly_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Omenfly",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "See those glowing bellies? Usually they're yellow, but they turn red near big monsters...W-Why are they glowing red near me!?",
+          "image": "MHW-Omenfly_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Augurfly",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "They only emerge on rainy days, and it's said that the day after is guaranteed to be sunny! They're like good weather charms!",
+          "image": "MHW-Augurfly_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Scalebat",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "Upon inspection, these seem to have scales. And claws...and fangs! Great Gravios! They're mini-wyverns! I've made a huge discovery!",
+          "image": "MHW-Scalebat_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Gold Scalebat",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "These scales reflect the light so perfectly, they look like pure gold! I thought Scalebats only liked the dark, but these babies wanted to shine!",
+          "image": "MHW-Gold_Scalebat_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Elegant Coralbird",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "Look! A female Coralbird! They can hover silently in the air, and they can eat coral! What superbly adapted creatures!",
+          "image": "MHW-Elegant_Coralbird_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Dapper Coralbird",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "Coralbirds only allow one chosen male into their flock. In other words, this guy's the top dog- or bird.... You know what I mean!",
+          "image": "MHW-Dapper_Coralbird_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Vigorwasp",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "The fluid that it collects in this sac here is...that's right, Vitalily nectar! Its healing properties should be useful in a pinch.",
+          "image": "MHW-Vigorwasp_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Giant Vigorwasp",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "Its nectar has stronger healing properties than average, and it even releases a healing mist when its sac is ruptured!",
+          "image": "MHW-Giant_Vigorwasp_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Flying Meduso",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "Seeing Flying Meduso is a dead give-away that there's a wind current nearby! Find it, and YOU too can fly like the wind!",
+          "image": "MHW-Flying_Meduso_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Flashfly",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "Wow, this puppy's BRIGHT! Even a large monster would be stunned by it, I'm sure. It's like a living Flash Bomb...with wings!",
+          "image": "MHW-Flashfly_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Grandfather Mantagrell",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "Be gentle with this fella. GENTLE! If you hit it with even ONE shot from your slinger, it'll come careening down to the ground.",
+          "image": "MHW-Grandfather_Mantagrell_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Moon Slug",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "They stay in caves during the day, but come out to feed at night. If you see a bunch of them, keep an eye out for a rare guest!",
+          "image": "MHWI-Moon_Slug_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Woodland Pteryx",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "Serrated teeth, and those remiges... So much in common with prehistoric birds that it's a veritable living fossil!",
+          "image": "MHW-Woodland_Pteryx_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Forest Pteryx",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "I'm so excited my hands are shaking... Its red crown...and that blue plumage! To think it was in the Ancient Forest all along!",
+          "image": "MHW-Forest_Pteryx_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Hercudrome",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "Only seven of these are said to exist in the entire forest! To think that I'd ever see one in my lifetime... I'm... *sob* I'M SO HAPPY!",
+          "image": "MHW-Hercudrome_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Gold Hercudrome",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "The Bringer of Light? The Bug of Brilliant Gold? I...I'm speechless! My...my heart feels like it's been dipped in golden bliss!",
+          "image": "MHW-Gold_Hercudrome_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Prism Hercudrome",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "This is the... I... How in the WORLD did you manage to... Ooh, the colors... One, two... four... It's blinding me with rainbow colors!",
+          "image": "MHW-Prism_Hercudrome_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Blue Diva",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "Shhh, quiet now! Hear that beautiful song? It's meant as a mating call to the males, and who wouldn't fall for a voice like that?",
+          "image": "MHWI-Blue_Diva_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Downy Crake",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "You caught a Downy Crake!? They've been seen on the backs of monsters before, but you're the first person EVER to catch one!",
+          "image": "MHW-Downy_Crake_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Bristly Crake",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "Great jumping Jagras! A Bristly Crake!? The fleet-footed bird of legend...right before my very eyes! Someone pinch me...",
+          "image": "MHW-Bristly_Crake_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Wintermoon Nettle",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "Ahh, look at those tentacles! I always wanted to count them for myself! OK OK, one...two...three⁠—Hey, quit moving! One...two..",
+          "image": "MHWI-Wintermoon_Nettle_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Cactuar",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "It's one of the cute critters from Eorzea! I tried to pet it, but this little guy's got thorns - a thousand of them! I'll be tweezing for weeks...",
+          "image": "MHW-Cactuar_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Cactuar Cutting",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "It's one of the cute critters from Eorzea! It's kinda like a cactus, uh, if a cactus had legs and could run at mach speed...",
+          "image": "MHW-Cactuar_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Moly",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "Don't be fooled by the sleepy face on these critters! Some say they're the ones who shaped the landscape of the Guiding Lands.",
+          "image": "MHWI-Moly_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Mossy Moly",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "This one's all covered in moss! Must be pretty healthy, too, since it's sprouted flowers. Let's touch it! ...Oh. Weird...",
+          "image": "MHWI-Mossy_Moly_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Rocky Moly",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "Aww, look! It's got a little helmet on! Safety first, eh? Hahaha! Ahem. Anyway, these Moly are the best at digging!",
+          "image": "MHWI-Rocky_Moly_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Fluffy Moly",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "Oh... oh my gosh... It's so... so. SOFT!  It's like a fluffy pink cloud!  C-Can I keep it and use it as a pillow?  Please?",
+          "image": "MHWI-Fluffy_Moly_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Spiny Moly",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "This black-spiked Moly evolved to see through effluvium with its bright golden eyes. Quite the VISIONARY, don't you think? Heheh.",
+          "image": "MHWI-Spiny_Moly_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Frosty Moly",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "The white fur on this Moly isn't just warm and fluffy, it serves as camouflage in the snow, too! Ooh... it's so chubby and cute!",
+          "image": "MHWI-Frosty_Moly_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Rowdy Moly",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "The fiery red fur on this Moly makes it look like a tough guy, but all it wants is to be tickled on its belly. See? Coochy coochy coo!",
+          "image": "MHWI-Rowdy_Moly_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Tsuchinoko",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "Jeepers, talk about strange with a capital S. Its elastic body, and odd skin... I think I've heard fairy tales about this thing before...",
+          "image": "MHW-Tsuchinoko_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Nekker",
+      "game": [
+        {
+          "game": "Monster Hunter World",
+          "info": "I wonder if what the Witcher said was true... Do Nekkers really grow vicious when in a swarm? I think there's a place where we can test this...",
+          "image": "MHW-Nekker_Icon.png"
+        }
+      ]
+    }
+  ]
+}
