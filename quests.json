@@ -3531,6 +3531,24 @@
     },
     {
       "_id": {
+        "$oid": "608fc50ddc2d8ce1077b5114"
+      },
+      "name": "Rampage: Muddi Gras",
+      "client": "Guild Master Hojo",
+      "description": "Ah, Hunter! Take a look at these festive stickers I made! They are so... festive! Johoho! Really put you in the mood to celebrate, do they not? Complete my request, and they're yours! Now... hop it-to it!",
+      "map": "Red Stronghold",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Defend the final gate",
+      "targets": [
+        "Bishaten",
+        "Almudron"
+      ]
+    },
+    {
+      "_id": {
         "$oid": "608fc50ddc2d8ce1017b0113"
       },
       "name": "Beast of the Shadows",
