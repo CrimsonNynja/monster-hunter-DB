@@ -85,6 +85,10 @@
           "game": "Monster Hunter Stories",
           "image": "MHST-Agnaktor_Icon.png",
           "info": "Agnaktor use their tough beaks and powerful muscles to burrow into rock, moving freely through the earth."
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Agnaktor_Icon.png"
         }
       ]
     },
@@ -379,6 +383,10 @@
           "image": "MHRise-Anjanath_Icon.png",
           "info": "This belligerent monster will attack anything without the hesitation. The membrane along its tail fans out when its provoked - a behavior theorized to be either an act of intimiation or thermoregulation, as it has been known to do so when it breathes fire.",
           "danger": "6"
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Anjanath_Icon.png"
         }
       ]
     },
@@ -693,6 +701,10 @@
           "image": "MHRise-Arzuros_Icon.png",
           "info": "Beasts known to dwell in humid forest and mountain regions. Though known more for fishing and standing upright to collect honey, their thick claws and heavy forearm plating allow them to deliver powerful blows to any aggressor.",
           "danger": "1"
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Arzuros_Icon.png"
         }
       ]
     },
@@ -725,6 +737,10 @@
           "game": "Monster Hunter Stories",
           "image": "MH4U-Ash_Kecha_Wacha_Icon.png",
           "info": "This subspecies has pale, multicolored fur. They make sport of their prey with the cunning of their attacks."
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Ash_Kecha_Wacha_Icon.png"
         }
       ]
     },
@@ -756,6 +772,10 @@
           "image": "MHGen-Astalos_Icon.png",
           "info": "Known as the \"Thunder Wyvern,\" Astalos can charge itself with electricity from the furious movements of its wings, tail and crest. In its charged state, the membrane in its wings take on a beautiful glow that only barely offsets the terrible nature of this monster.",
           "danger": "5"
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Astalos_Icon.png"
         }
       ]
     },
@@ -800,6 +820,10 @@
           "game": "Monster Hunter Stories",
           "image": "MH4U-Azure_Rathalos_Icon.png",
           "info": "A Rathalos subspecies. More mobile than its cousin, it attacks with a matchless speed and ferocity."
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Azure_Rathalos_Icon.png"
         }
       ]
     },
@@ -934,6 +958,14 @@
           "image": "MHRise-Barioth_Icon.png",
           "info": "Wyverns that rule the eternally frozen Tundra. Barioth use their forelegs, tail and their spiked scales to traverse the slippery ice with ease; this makes them very difficult to keep up with.",
           "danger": "5"
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Barioth_Icon.png"
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Sand_Barioth_Icon.png"
         }
       ]
     },
@@ -1005,6 +1037,10 @@
           "image": "MHRise-Barroth_Icon.png",
           "info": "Barroth usually remain beneath the mud, perhaps to shield themselves from heat; they are even known to attack by flinging mud. They will charge in a frenzy at anything that disturbs their bogs.",
           "danger": "3"
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Barroth_Icon.png"
         }
       ]
     },
@@ -1054,6 +1090,10 @@
           "image": "MHRise-Basarios_Icon.png",
           "info": "These juvenile Gravios are famous for their rock-hard carapaces. They often borrow underground, mimicking rocks and savaging oblivious miners. Because their carapaces are tougher than that of a full-grown Gravios, they'll attack a threat by charging at it. They are also known to emit a poisonous gas.",
           "danger": "3"
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Basarios_Icon.png"
         }
       ]
     },
@@ -1089,6 +1129,10 @@
           "image": "MHRise-Bazelgeuse_Icon.png",
           "info": "A nefarious flying wyvern that travels the world in search of prey. It scatters its own explosive scales over a wide area to prey on whatever gets caught in the blast. In some places, this has earned it the nickname \"Bomber Wyvern.\"",
           "danger": "8"
+        },
+        {
+          "game":"Monster Hunter Stories 2",
+          "image": "MHST2-Bazelgeuse_Icon.png"
         }
       ]
     },
@@ -1229,6 +1273,10 @@
           "game": "Monster Hunter Stories",
           "image": "MH4U-Black_Diablos_Icon.png",
           "info": "A formidable subspecies of Diablos. Females darken in the mating season so as to warn off other creatures."
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Black_Diablos_Icon.png"
         }
       ]
     },
@@ -1260,6 +1308,10 @@
           "game": "Monster Hunter Stories",
           "image": "MH4U-Black_Gravios_Icon.png",
           "info": "This subspecies has a tough, black carapace. It is capable of discharging powerful blasts of heat."
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Black_Gravios_Icon.png"
         }
       ]
     },
@@ -1353,6 +1405,10 @@
           "image": "MHGU-Bloodbath_Diablos_Icon.png",
           "info": "A desert legend tells of the brave armies sent out against the unimaginable cruelties that had besieged their cities and nations. None of them returned alive, and only the sands remained as witnesses of their efforts. This story has no hero or happy ending, only the wyvern known as \"Bloodbath\". Requires special permission to hunt.",
           "danger": "6"
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Bloodbath_Diablos_Icon.png"
         }
       ]
     },
@@ -1384,6 +1440,10 @@
           "game": "Monster Hunter Stories",
           "image": "MH4U-Blue_Yian_Kut-Ku_Icon.png",
           "info": "A Yian Kut-Ku subspecies. Their blue coloration and physical prowess set them apart from their pink kin."
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Blue_Yian_Kut-Ku_Icon.png"
         }
       ]
     },
@@ -1482,6 +1542,10 @@
           "image": "MHGU-Boltreaver_Astalos_Icon.png",
           "info": "Whoever gets caught in the lightning shot by the unique Boltreaver Astalos will vanish without a trace, leaving only their shadow behind. The electrical properties of its shell allow it to glide through the air and create electromagnetic charges that can be used in chasing down prey. Requires special permission to hunt.",
           "danger": "6"
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Boltreaver_Astalos_Icon.png"
         }
       ]
     },
@@ -1550,6 +1614,10 @@
           "game": "Monster Hunter Stories",
           "image": "MH4U-Brachydios_Icon.png",
           "info": "Brute Wyvern coated in a volatile substance. Its saliva can be used to ignite this coat, with explosive results."
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Brachydios_Icon.png"
         }
       ]
     },
@@ -1580,6 +1648,10 @@
           "game": "Monster Hunter Stories",
           "image": "MH4U-Brute_Tigrex_Icon.png",
           "info": "A black Tigrex subspecies. The force and range of its howl is even more fearsome than that of its cousins."
+        },
+        {
+          "game":"Monster Hunter Stories 2",
+          "image": "MHST2-Brute_Tigrex_Icon.png"
         }
       ]
     },
@@ -1604,6 +1676,10 @@
           "game": "Monster Hunter Stories",
           "image": "MHST-Bulldrome_Icon.png",
           "info": "Powerful alpha monsters that lead Bullfango herds. They mow down their prey with their sturdy tusks."
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Bulldrome_Icon.png"
         }
       ]
     },
@@ -1642,7 +1718,7 @@
           "info": "Large, wild boars with a foul temper. Fertile and wide-ranging, they have been known to form large herds. They are so aggressive that they will attack other members of their own herd if they don't recognize them. Those without a particular reason to hunt them are better off keeping their distance."
         },
         {
-          "game":"Monster Hunter Stories 2",
+          "game": "Monster Hunter Stories 2",
           "image": "MHST2-Bullfango_Icon.png"
         }
       ]
@@ -1735,6 +1811,10 @@
           "game": "Monster Hunter Stories",
           "image": "MH4U-Cephadrome_Icon.png",
           "info": "Alpha monster that lead Cephalos. Hardened black scales set them apart from the smaller Cephalos."
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Cephadrome_Icon.png"
         }
       ]
     },
@@ -1916,6 +1996,10 @@
           "game": "Monster Hunter Stories",
           "image": "MH4U-Congalala_Icon.png",
           "info": "Pink-furred Fanged Beasts. They let rip with almighty farts, the stench of which overwhelms opponents."
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Congalala_Icon.png"
         }
       ]
     },
@@ -2022,6 +2106,10 @@
           "game": "Monster Hunter Stories",
           "image": "MHST-Crimson_Qurupeco_Icon.png",
           "info": "Subspecies with vibrant red plumage. Flints in its wings allow it to release fearsome electrical attacks."
+        },
+        {
+          "game":"Monster Hunter Stories 2",
+          "image": "MHST2-Crimson_Qurupeco_Icon.png"
         }
       ]
     },
@@ -2138,6 +2226,10 @@
           "game": "Monster Hunter Stories",
           "image": "MH4U-Daimyo_Hermitaur_Icon.png",
           "info": "These armored Carapaceons use their hardened pincers like shields to fend off the attacks of their enemies."
+        },
+        {
+          "game":"Monster Hunter Stories 2",
+          "image": "MHST2-Daimyo_Hermitaur_Icon.png"
         }
       ]
     },
@@ -2281,6 +2373,10 @@
           "image": "MH4U-Desert_Seltas_Queen_Icon.png",
           "info": "A large Neopteron known to use the pincers at the tip of its long tail to grasp male Seltas -- or anything it considers a threat. Once it has a male in its grasp, this Desert subspecies may even violently throw its mate at enemies.",
           "danger": "5"
+        },
+        {
+          "game":"Monster Hunter Stories 2",
+          "image": "MHST2-Desert_Seltas_Queen_Icon.png"
         }
       ]
     },
@@ -2333,6 +2429,10 @@
           "game": "Monster Hunter Stories",
           "image": "MH4U-Deviljho_Icon.png",
           "info": "Brute Wyverns that roam in search of food. Ferocious in the extreme, and relentless in pursuit of prey."
+        },
+        {
+          "game":"Monster Hunter Stories 2",
+          "image": "MHST2-Deviljho_Icon.png"
         }
       ]
     },
@@ -2385,6 +2485,10 @@
           "image": "MHRise-Diablos_Icon.png",
           "info": "Known as the \"Tyrant of the Desert\". The Diablos is extremely territorial and will use its massive horns to charge at invaders, Diablos have the ability to borrow underground and use this ability to strike from below, however, their sensitive ears make them susceptible to Sonic Bombs. Despite their predatory appearance, they are herbivorous and mostly feed on cactus.",
           "danger": "7"
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Diablos_Icon.png"
         }
       ]
     },
@@ -2459,6 +2563,10 @@
           "image": "MHGen-Dreadking_Rathalos_Icon.png",
           "info": "Even among the rulers of the sky, the \"Dreadking\" is truly the king of kings. A giant, supported by wings as black as the scorched remains of its prey. Humans are usually unworthy of its attention, but it descends with fiery wrath upon intruders to its domain. Requires special permission to hunt.",
           "danger": "6"
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Dreadking_Rathalos_Icon.png"
         }
       ]
     },
@@ -2487,6 +2595,10 @@
           "image": "MHGen-Dreadqueen_Rathian_Icon.png",
           "info": "Every rose has its thorns. The \"Dreadqueen's\" thorns are barbs full of deadly venom, and they can scatter a purple cloud of suffocating death in any area she alights. She blooms proud and alone amidst her own desolation. Requires special permission to hunt.",
           "danger": "6"
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Dreadqueen_Rathian_Icon.png"
         }
       ]
     },
@@ -2543,6 +2655,10 @@
           "image": "MHGen-Duramboros_Icon.png",
           "info": "Giant brute wyverns with hammer-like growths on their tails. They subsist on fallen or withered trees, often using their tails to knock said trees over. Researchers speculate that the lumps on their backs act as some sort of energy source.",
           "danger": "5"
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Duramboros_Icon.png"
         }
       ]
     },
@@ -2595,6 +2711,10 @@
           "image": "MHGU-Elderfrost_Gammoth_Icon.png",
           "info": "A Gammoth so gargantuan, ancient and strong that it may be mistaken for the foot of a mountain. Its great age and mountain home have given it the nickname \"Elderfrost\". Very few people have ever seen it fight, but it sometimes causes wild blizzards that race down the mountain and ravage the plains. Requires special permission to hunt.",
           "danger": "6"
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Elderfrost_Gammoth_Icon.png"
         }
       ]
     },
@@ -2629,6 +2749,10 @@
           "game": "Monster Hunter Stories",
           "image": "MH4U-Emerald_Congalala_Icon.png",
           "info": "A green-furred Congalala. Able to store even more prodigious quantities of gas than its pink brethren."
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Emerald_Congalala_Icon.png"
         }
       ]
     },
@@ -2701,6 +2825,10 @@
           "game": "Monster Hunter World",
           "image": "MHWI-Fatalis_Icon.png",
           "info": "A legendary black dragon known only as Fatalis. Rumored to have destroyed a kingdom in a single night, and has taken its castle for a roost."
+        },
+        {
+          "game":"Monster Hunter Stories 2",
+          "image": "MHST2-Question_Mark_Icon.png"
         }
       ]
     },
@@ -2821,6 +2949,10 @@
           "game": "Monster Hunter World",
           "image": "MHWI-Fulgur_Anjanath_Icon.png",
           "info": "Feared as the “Thunderjaw Wyvern”, this Anjanath subspecies electrifies its jaws and dorsal membrane with every blow."
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Fulgur_Anjanath_Icon.png"
         }
       ]
     },
@@ -2929,6 +3061,10 @@
           "image": "MHGen-Gammoth_Icon.png",
           "info": "Found in the most frigid regions of the world, Gammoths are behemoths with massive tusks. Though they are herbivores, when provoked they will leverage their enormous weight and trunks to crush a threat. They can also shatter the snow covering their legs to damage nearby foes.",
           "danger": "5"
+        },
+        {
+          "game":"Monster Hunter Stories 2",
+          "image": "MHST2-Gammoth_Icon.png"
         }
       ]
     },
@@ -3029,6 +3165,10 @@
           "game": "Monster Hunter Stories",
           "image": "MH4U-Gendrome_Icon.png",
           "info": "Alpha monsters that lead Genprey. Paralyzing venom tips their highly-developed fangs and claws."
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Gendrome_Icon.png"
         }
       ]
     },
@@ -3219,6 +3359,10 @@
           "game": "Monster Hunter Stories",
           "image": "MHST-Glacial_Agnaktor_Icon.png",
           "info": "A subspecies of Agnaktor. With its though scales, even the tundra presents no obstacles to their movements."
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Glacial_Agnaktor_Icon.png"
         }
       ]
     },
@@ -3258,6 +3402,10 @@
         {
           "game": "Monster Hunter Stories",
           "image": "MHGen-Glavenus_Icon.png"
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Glavenus_Icon.png"
         }
       ]
     },
@@ -3362,6 +3510,10 @@
           "game": "Monster Hunter Stories",
           "image": "MH4U-Gold_Rathian_Icon.png",
           "info": "A rare Rathian subspecies. Its majestic golden sheen resembles the glow of the full moon."
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Gold_Rathian_Icon.png"
         }
       ]
     },
@@ -3486,6 +3638,10 @@
           "game": "Monster Hunter Stories",
           "image": "MH4U-Gravios_Icon.png",
           "info": "Flying Wyverns that inhabit volcanic regions. Capable of attacking with fiery breath and sleeping gas."
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Gravios_Icon.png"
         }
       ]
     },
@@ -3519,6 +3675,10 @@
           "image": "MHRise-Great_Baggi_Icon.png",
           "info": "A carnivorous bird wyvern. Noted for their projecting cranial crests and bluish-white skin that's adapted to snowy climates. Great Baggi craftily command other Baggi to surround their prey and stun them with a tranquilizing fluid.",
           "danger": "1"
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Great_Baggi_Icon.png"
         }
       ]
     },
@@ -3542,7 +3702,7 @@
           "info": "Large Dracophage Bugs. Dragon Element energy is said to lie dormant within their bodies."
         },
         {
-          "game":"Monster Hunter Stories 2",
+          "game": "Monster Hunter Stories 2",
           "image": "MHST2-Great_Dracophage_Bug_Icon.png"
         }
       ]
@@ -3616,6 +3776,10 @@
           "game": "Monster Hunter Stories",
           "image": "MHST-Great_Jaggi_Icon.png",
           "info": "Alpha monsters that lead Jaggi. They issue complex commands to the pack via their howls."
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Great_Jaggi_Icon.png"
         }
       ]
     },
@@ -3743,6 +3907,10 @@
           "game": "Monster Hunter Stories",
           "image": "MHST-Green_Nargacuga_Icon.png",
           "info": "Dappled green fur serves as camouflage in the deep forests that this Nargacuga calls home."
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Green_Nargacuga_Icon.png"
         }
       ]
     },
@@ -3770,6 +3938,10 @@
           "image": "MH3U-Green_Plesioth_Icon.png",
           "info": "A subspecies of Plesioth with jade-green scales. Though primarily aquatic, the creature's movements are equally adept both in and out of water. When enraged, it has a habit of surfacing to rampage on land.",
           "danger": "5"
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Green_Plesioth_Icon.png"
         }
       ]
     },
@@ -3808,6 +3980,10 @@
           "image": "MHGen-Grimclaw_Tigrex_Icon.png",
           "info": "Highly developed physical strength lets it trample anything in its way, and its raw power overwhelms the so-called technological strengths that humans have spent centuries cultivating. Even veteran hunters shudder at its name, \"Grimclaw.\" Requires special permission to hunt.",
           "danger": "6"
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Grimclaw_Tigrex_Icon.png"
         }
       ]
     },
@@ -3845,6 +4021,10 @@
           "game": "Monster Hunter Stories",
           "image": "MH4U-Gypceros_Icon.png",
           "info": "Crested Bird Wyverns. They strike their crests to generate blinding flashes and dazzle their enemies."
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Gypceros_Icon.png"
         }
       ]
     },
@@ -3891,6 +4071,10 @@
           "image": "MHGen-Hellblade_Glavenus_Icon.png",
           "info": "A Glavenus whose intense heat is akin to an active volcano. It can blast apart stone with a single breath, and incinerate mountains with a single swipe of its red-hot tail. The \"Hellblade\" requires a special permission to hunt.",
           "danger": "6"
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Hellblade_Glavenus_Icon.png"
         }
       ]
     },
@@ -3985,6 +4169,10 @@
           "game": "Monster Hunter Stories",
           "image": "MH4U-Iodrome_Icon.png",
           "info": "Alpha monsters that lead Ioprey. Their poison sacs allow them to attack by spitting an acrid venom."
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Iodrome_Icon.png"
         }
       ]
     },
@@ -4055,6 +4243,10 @@
           "game": "Monster Hunter Stories",
           "image": "MHST-Ivory_Lagiacrus_Icon.png",
           "info": "A Lagiacrus subspecies adapted to life on land. Its beautiful white carapace belies its vicious nature."
+        },
+        {
+          "game":"Monster Hunter Stories 2",
+          "image": "MHST2-Ivory_Lagiacrus_Icon.png"
         }
       ]
     },
@@ -4102,6 +4294,10 @@
           "game": "Monster Hunter Stories",
           "image": "MHST-Jade_Barroth_Icon.png",
           "info": "A subspecies of Barroth. Often seen in polar regions, bashing their crowns against the ice."
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Jade_Barroth_Icon.png"
         }
       ]
     },
@@ -4145,7 +4341,7 @@
           "info": "Highly social, carnivorous bird wyverns that live in large packs. Young Jaggi males hunt in groups when attacking larger animals. Research suggests they operate under orders from a single aplha male."
         },
         {
-          "game":"Monster Hunter Stories 2",
+          "game": "Monster Hunter Stories 2",
           "image": "MHST2-Jaggi_Icon.png"
         }
       ]
@@ -4311,6 +4507,10 @@
           "game": "Monster Hunter Stories",
           "image": "MH4U-Kecha_Wacha_Icon.png",
           "info": "Fanged Beasts with limbs well adapted to swinging through the forest tree areas they inhabit."
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Kecha_Wacha_Icon.png"
         }
       ]
     },
@@ -4362,7 +4562,7 @@
           "info": "Small herbivores known for their gentle demeanor as well as medicinal properties of their horns. Those wishing to harvest a horn should aim for the head when attacking them."
         },
         {
-          "game":"Monster Hunter Stories 2",
+          "game": "Monster Hunter Stories 2",
           "image": "MHST2-Kelbi_Icon.png"
         }
       ]
@@ -4435,6 +4635,10 @@
           "image": "MHRise-Khezu_Icon.png",
           "info": "Its long, elastic neck stretching out while it clings to a wall or the ceiling is a sight straight out of a nightmare. Make sure you do not get overwhelmed by its horrific appearance.",
           "danger": "2"
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Khezu_Icon.png"
         }
       ]
     },
@@ -4481,6 +4685,10 @@
           "game": "Monster Hunter Stories",
           "image": "MH4U-Kirin_Icon.png",
           "info": "Lightning-wielding mystical creature. Classified as an Elder Dragon, but its true nature remains a mystery."
+        },
+        {
+          "game":"Monster Hunter Stories 2",
+          "image": "MHST2-Kirin_Icon.png"
         }
       ]
     },
@@ -4518,7 +4726,7 @@
           "info": "Neopterons that roam in search of food. Coloration varies based on habitat, this variety being sandy yellow/ an icy blue/ a rusty red/ verdant green."
         },
         {
-          "game":"Monster Hunter Stories 2",
+          "game": "Monster Hunter Stories 2",
           "image": "MHST2-Konchu_Icon.png"
         }
       ]
@@ -4545,6 +4753,10 @@
           "image": "MHRise-Kulu-Ya-Ku_Icon.png",
           "info": "A bird wyvern that has developed limbs capable of carrying objects. It has been spotted stealing eggs from nests. If attacked while carrying an egg, it will drop the egg in fright and flee. When engaged, a Kulu-Ya-Ku will dig up a small boulder to shield itself against threats or use it in its attacks.",
           "danger": "2"
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Kulu-Ya-Ku_Icon.png"
         }
       ]
     },
@@ -4570,6 +4782,10 @@
           "game": "Monster Hunter World",
           "image": "MHW-Kulve_Taroth_Icon.png",
           "info": "An elder dragon that protects itself with a glittering coat of metal. Its ecology and coat differ with each appearance, thus the need for a thorough investigation."
+        },
+        {
+          "game":"Monster Hunter Stories 2",
+          "image": "MHST2-Kulve_Taroth_Icon.png"
         }
       ]
     },
@@ -4624,6 +4840,10 @@
           "image": "MHRise-Kushala_Daora_Icon.png",
           "info": "It's difficult to even get close to one of these metallic elder dragons, but some claim better odds if the creature is weakened with poison, or has its horn broken, limiting the amount of wind pressure it can muster.",
           "danger": "8"
+        },
+        {
+          "game":"Monster Hunter Stories 2",
+          "image": "MHST2-Kushala_Daora_Icon.png"
         }
       ]
     },
@@ -4665,6 +4885,10 @@
           "game": "Monster Hunter Stories",
           "image": "MHST-Lagiacrus_Icon.png",
           "info": "Leviathans atop the aquatic food chain, due in no small part to their ability to deliver electrical shocks."
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Lagiacrus_Icon.png"
         }
       ]
     },
@@ -4717,6 +4941,10 @@
           "image": "MHRise-Lagombi_Icon.png",
           "info": "Fanged, long-eared beasts whose warm pelts and thick layers of fat help them survive in cold climates. Though mainly herbivores, Lagombi occasionally make use of their exceptional hearing and ability to glide on ice to sneak up on prey.",
           "danger": "1"
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Lagombi_Icon.png"
         }
       ]
     },
@@ -4817,6 +5045,10 @@
           "game": "Monster Hunter World",
           "image": "MHW-Legiana_Icon.png",
           "info": "The apex monster of the Coral Highlands, whose diet primarily consists of Raphinos. It emits a chilling wind from its body, which dulls its prey's ability to escape."
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "info": "MHST2-Legiana_Icon.png"
         }
       ]
     },
@@ -4882,7 +5114,7 @@
           "info": "Aquatic female monsters. Ludroth form \"harems\" around large males, gathering in territories designated as breeding grounds. They're known to be extremely aggressive towards outsiders, so caution is advised when treading in their territory."
         },
         {
-          "game":"Monster Hunter Stories 2",
+          "game": "Monster Hunter Stories 2",
           "image": "MHST2-Ludroth_Icon.png"
         }
       ]
@@ -5104,6 +5336,10 @@
           "image": "MHRise-Mizutsune_Icon.png",
           "info": "A specially evolved Leviathan with a sleek, lithe body. Mizutsune can secrete a peculiar fluid that covers its foes in immobilizing bubbles. Once its foe's movement is impaired, it closes in with spry, dance-like movements.",
           "danger": "6"
+        },
+        {
+          "game":"Monster Hunter Stories 2",
+          "image": "MHST2-Mizutsune_Icon.png"
         }
       ]
     },
@@ -5132,6 +5368,10 @@
           "game": "Monster Hunter Stories",
           "image": "MH4U-Molten_Tigrex_Icon.png",
           "info": "A rare Tigrex subspecies. Its existence is unconfirmed due to lack of reliable, and living, eye-witness accounts."
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Molten_Tigrex_Icon.png"
         }
       ]
     },
@@ -5160,6 +5400,10 @@
           "game": "Monster Hunter Stories",
           "image": "MH4U-Monoblos_Icon.png",
           "info": "Endowed with an impressive cranial horn. It uses its horn in brutal attacks, screeching ear-splitting war cries."
+        },
+        {
+          "game":"Monster Hunter Stories 2",
+          "image": "MHST2-Monoblos_Icon.png"
         }
       ]
     },
@@ -5350,6 +5594,10 @@
           "image": "MHRise-Nargacuga_Icon.png",
           "info": "Flying wyverns that have evolved to live in thickly wooded areas. Covered in jet black fur, these cunning predators stalk their prey from the shadows with ferocious speed. Their massive tails are as dexterous as they are deadly, and powerful enough to slay smaller monsters with one strike.",
           "danger": "6"
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Nargacuga_Icon.png"
         }
       ]
     },
@@ -5397,6 +5645,10 @@
           "game": "Monster Hunter Generations Ultimate",
           "image": "MHW-Nergigante_Icon.png",
           "info": "A terrible elder dragon that appears when other elders are in the vicinity. Its penchant for destruction is well documented."
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Nergigante_Icon.png"
         }
       ]
     },
@@ -5437,6 +5689,10 @@
           "game": "Monster Hunter Stories",
           "image": "MH4U-Nerscylla_Icon.png",
           "info": "Temnocerans that build nests of sticky webbing to ensnare prey, which they rend with their mandibles."
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Nerscylla_Icon.png"
         }
       ]
     },
@@ -5560,6 +5816,20 @@
     },
     {
       "_id": {
+        "$oid": "5dfc91d89dabf81e7717ce63"
+      },
+      "name": "Oltura",
+      "type": "Elder Dragon",
+      "isLarge": true,
+      "games": [
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Oltura_Icon"
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e144e8e8a80af35ce52d718"
       },
       "name": "Oroshi Kirin",
@@ -5587,6 +5857,10 @@
           "game": "Monster Hunter Stories",
           "image": "MH4U-Oroshi_Kirin_Icon.png",
           "info": "Mythical beasts that few have encountered. It is said that temperatures around them plummet below zero."
+        },
+        {
+          "game":"Monster Hunter Stories 2",
+          "image": "MHST2-Oroshi_Kirin_Icon.png"
         }
       ]
     },
@@ -5608,6 +5882,10 @@
           "game": "Monster Hunter World",
           "image": "MHW-Paolumu_Icon.png",
           "info": "Paolumu feast on eggs found in the Coral Highlands. They are able to propel through the air using unique sacs in their bodies, and attack with their extremely hard tails."
+        },
+        {
+          "game":"Monster Hunter Stories 2",
+          "image": "MHST2-Paolumu_Icon.png"
         }
       ]
     },
@@ -5652,6 +5930,10 @@
           "game": "Monster Hunter Stories",
           "image": "MH4U-Pink_Rathian_Icon.png",
           "info": "A vivid, pink-scaled Rathian subspecies. Its tail attacks are far more powerful than those of a regular Rathian."
+        },
+        {
+          "game":"Monster Hunter Stories 2",
+          "image": "MHST2-Pink_Rathian_Icon.png"
         }
       ]
     },
@@ -5688,6 +5970,10 @@
           "image": "MHGen-Plesioth_Icon.png",
           "info": "Giant piscine wyverns which can be spotted near bodies of water. Where wings would be found on other wyverns, it has developed fins specialized for swimming, and, as a result, cannot fly. Despite its fish-like appearance, it is just as comfortable on land.",
           "danger": "4"
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Plesioth_Icon.png"
         }
       ]
     },
@@ -5719,6 +6005,10 @@
           "game": "Monster Hunter Stories",
           "image": "MH4U-Plum_Daimyo_Hermitaur_Icon.png",
           "info": "Armored Carapaceons that approach their prey with blinding speed and strike using their powerful claws."
+        },
+        {
+          "game":"Monster Hunter Stories 2",
+          "image": "MHST2-Plum_Daimyo_Hermitaur_Icon.png"
         }
       ]
     },
@@ -5800,6 +6090,10 @@
           "image": "MHRise-Pukei-Pukei_Icon.png",
           "info": "A bird wyvern known to possess poisonous toxins in its body. It uses its toungue like a whip and can stretch or shrink it at will, allowing it to grab up food. As a defense against threats, Pukei-Pukei have numerous toxic attacks. Keep and eye on both its mouth and tail!",
           "danger": "4"
+        },
+        {
+          "game":"Monster Hunter Stories 2",
+          "image": "MHST2-Pukei-Pukei_Icon.png"
         }
       ]
     },
@@ -5829,6 +6123,10 @@
           "game": "Monster Hunter Stories",
           "image": "MH4U-Purple_Gypceros_Icon.png",
           "info": "A subspecies of Gypceros with a uniquely colored hide. It attacks by spitting highly venomous waste."
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Purple_Gypceros_Icon.png"
         }
       ]
     },
@@ -5861,6 +6159,10 @@
           "game": "Monster Hunter Stories",
           "image": "MHST-Purple_Ludroth_Icon.png",
           "info": "A subspecies of Royal Ludroth. Poison is stored in their spongy purple manes."
+        },
+        {
+          "game":"Monster Hunter Stories 2",
+          "image": "MHST2-Purple_Ludroth_Icon.png"
         }
       ]
     },
@@ -5896,6 +6198,10 @@
           "game": "Monster Hunter Stories",
           "image": "MHST-Qurupeco_Icon.png",
           "info": "Bird Wyverns with colourful plumage. Using thoracic vocal organs they imitate the calls of other monsters."
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Qurupeco_Icon.png"
         }
       ]
     },
@@ -6010,6 +6316,10 @@
           "image": "MHRise-Rajang_Icon.png",
           "info": "An ultra-aggressive creature that is rarely sighted and seldom survived. Those that have survived report that it exhibits a strange attack. Rajang are said to be loners, and this isolated life has made it difficult to pin down its territorial leanings. When angered, part of its pelt turns a golden color.",
           "danger": "8"
+        },
+        {
+          "game":"Monster Hunter Stories 2",
+          "image":"MHST2-Rajang_Icon.png"
         }
       ]
     },
@@ -6117,6 +6427,10 @@
           "image": "MHRise-Rathalos_Icon.png",
           "info": "Terrible wyverns called the 'Kings of the Skies'. Along with Rathians, they stake wide territories centered around their nests. Rathalos descend on invaders from the sky, attacking with poison claws and breath of fire.",
           "danger": "6"
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Rathalos_Icon.png"
         }
       ]
     },
@@ -6178,6 +6492,10 @@
           "image": "MHRise-Rathian_Icon.png",
           "info": "Fire-breathing female wyverns, also known as the \"Queens of the Land\". With powerful legs and poison-secreting tails, they hunt mainly on the ground. Sometimes seen preying as a couple, Rathians and Rathalos cooperate well.",
           "danger": "4"
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Rathian_Icon.png"
         }
       ]
     },
@@ -6209,6 +6527,10 @@
           "game": "Monster Hunter Stories",
           "image": "MH4U-Red_Khezu_Icon.png",
           "info": "Khezu subspecies with red bodies. Its electrical power is far more advanced than that of its white cousin."
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Red_Khezu_Icon.png"
         }
       ]
     },
@@ -6315,7 +6637,7 @@
           "info": "Extremely territorial herbivores with poor vision but acute hearing, Rhenoplos will doggedly pursue any target they sense. They cannot easily stop once they break into a run, a fact confirmed by hunters who foolishly thought they could stop them using a buckler or a shield."
         },
         {
-          "game":"Monster Hunter Stories 2",
+          "game": "Monster Hunter Stories 2",
           "image": "MHST2-Rhenoplos_Icon.png"
         }
       ]
@@ -6363,6 +6685,10 @@
           "image": "MHRise-Royal_Ludroth_Icon.png",
           "info": "Larger than regular Ludroth, Royal Ludroth use their sponge-like mane to absorb water and keep from drying out on land. Once the sponge loses moisture, they will seek out water to recover. They also spew mucus to trip their prey.",
           "danger": "3"
+        },
+        {
+          "game":"Monster Hunter Stories 2",
+          "image": "MHST2-Royal_Ludroth_Icon.png"
         }
       ]
     },
@@ -6397,6 +6723,10 @@
           "game": "Monster Hunter Stories",
           "image": "MH4U-Ruby_Basarios_Icon.png",
           "info": "Basarios subspecies that coats its carapace with rare ore. It scatters this with great force during battle."
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Ruby_Basarios_Icon.png"
         }
       ]
     },
@@ -6669,6 +6999,10 @@
           "image": "MH4U-Seltas_Icon.png",
           "info": "A medium-sized Neopteron that use swift aerial movements to attack invaders on the ground. It can also store a corrosive liquid inside itself, which it can shoot from its stinger-shaped abdomen.",
           "danger": "3"
+        },
+        {
+          "game":"Monster Hunter Stories 2",
+          "image": "MHST2-Seltas_Icon.png"
         }
       ]
     },
@@ -6706,6 +7040,10 @@
           "image": "MH4U-Seltas_Queen_Icon.png",
           "info": "Unable to fly by themselves, these wingless female Neopterons release pheromones to lure in male Seltas to serve as thralls. Seltas Queens possess a hard carapace, which they use to protect their vulnerable abdomens and mucus-spewing maws, which are vulnerable when exposed.",
           "danger": "5"
+        },
+        {
+          "game":"Monster Hunter Stories 2",
+          "image": "MHST2-Seltas_Queen_Icon.png"
         }
       ]
     },
@@ -6734,6 +7072,10 @@
           "game": "Monster Hunter Stories",
           "image": "MH4U-Seregios_Icon.png",
           "info": "Flying Wyvern known for its lustrous golden scales. Its scales can be launched at prey in high-speed attacks."
+        },
+        {
+          "game":"Monster Hunter Stories 2",
+          "image": "MHST2-Seregios_Icon.png"
         }
       ]
     },
@@ -6942,6 +7284,10 @@
           "game": "Monster Hunter Stories",
           "image": "MH4U-Shrouded_Nerscylla_Icon.png",
           "info": "Temnocerans that inhabit desert areas. They lurk beneath the sands in order ambush unwary prey."
+        },
+        {
+          "game":"Monster Hunter Stories 2",
+          "image": "MHST2-Shrouded_Nerscylla_Icon.png"
         }
       ]
     },
@@ -6992,6 +7338,10 @@
           "game": "Monster Hunter Stories",
           "image": "MH4U-Silver_Rathalos_Icon.png",
           "info": "A rare Rathalos subspecies. Its piercing silver shimmer resembles the blazing sun."
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Silver_Rathalos_Icon.png"
         }
       ]
     },
@@ -7015,6 +7365,10 @@
           "image": "MHGen-Silverwind_Nargacuga_Icon.png",
           "info": "White streaks like polish on a blade. Flashes from a tail that cleave the earth, sunder rock, and split the sky. The \"Silverwind\" summons a gale that slices. The careless fool is unaware, until his head falls cleanly from his shoulders. Requires special permission to hunt.",
           "danger": "6"
+        },
+        {
+          "game":"Monster Hunter Stories 2",
+          "image": "MHST2-Silverwind_Nargacuga_Icon.png"
         }
       ]
     },
@@ -7144,6 +7498,10 @@
           "image": "MHGU-Soulseer_Mizutsune_Icon.png",
           "info": "A Mizutsune that has lost its eyesight but adapted to use its bubbles as another sense. Rumor says that the malice of an undying grudge burns within its closed eyes. Those it catches in its bubbles know the true meaning of its nickname, \"Soulseer\". Requires special permission to hunt.",
           "danger": "6"
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Soulseer_Mizutsune_Icon.png"
         }
       ]
     },
@@ -7237,6 +7595,10 @@
           "game": "Monster Hunter Stories",
           "image": "MH4U-Stygian_Zinogre_Icon.png",
           "info": "Feeding on Dracophage Bugs has given this subspecies access to unheard of brute strength."
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Stygian_Zinogre_Icon.png"
         }
       ]
     },
@@ -7289,6 +7651,10 @@
           "image": "MHRise-Teostra_icon.png",
           "info": "Brutal elder dragons wreathed in flames that spew blazing fire. Teostra are of such a fierce and deadly nature that the Guild closely monitors their movements.",
           "danger": "8"
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Teostra_Icon.png"
         }
       ]
     },
@@ -7348,6 +7714,10 @@
           "image": "MH4U-Tetsucabra_Icon.png",
           "info": "Amphibians with unique jaws and tusks that they use to sift through rocks for prey. They use their powerful hind legs to traverse steep terrain. It can also use the large boulders it digs up to obstruct a predator's vision and make a hasty retreat.",
           "danger": "3"
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Tetsucabra_Icon.png"
         }
       ]
     },
@@ -7403,6 +7773,10 @@
           "image": "MHGen-Thunderlord_Zinogre_Icon.png",
           "info": "A Zinogre robed in lightning: the King of the Thunder Wolves is a legend. \"With one howl, the heavens loose a thousand flashes, and ten thousand peals of thunder. Approach it not, anger it not -- for the wrath of the 'Thunderlord' shows no mercy.\" Requires special permission to hunt.",
           "danger": "6"
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Thunderlord_Zinogre_Icon.png"
         }
       ]
     },
@@ -7537,6 +7911,10 @@
           "image": "MHRise-Tobi-Kadachi_Icon.png",
           "info": "A fanged wyvern that flies among the treetops. Its penchant to brush against the ground and the trees as it moves around builds up static electricity within its fur. This action allows it to reach a charged state - identified by its glowing fur - in which its head and tail attacks are said to be particularly lethal.",
           "danger": "5"
+        },
+        {
+          "game":"Monster Hunter Stories 2",
+          "image": "MHST2-Tobi-Kadachi_Icon.png"
         }
       ]
     },
@@ -7639,6 +8017,10 @@
           "game": "Monster Hunter Stories",
           "image": "MHST-Uragaan_Icon.png",
           "info": "Brute Wyverns with mighty jaws. They spray the stones and ore which stick to them in deadly, explosive attacks."
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Uragaan_Icon.png"
         }
       ]
     },
@@ -7766,6 +8148,10 @@
           "game": "Monster Hunter World",
           "image": "MHWI-Velkhana_Icon.png",
           "info": "An elder dragon said to freeze all in its path. According to legend, it can control the cold, and use its freezing breath to conjure massive spires of ice out of nowhere."
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Velkhana_Icon.png"
         }
       ]
     },
@@ -7797,6 +8183,10 @@
           "game": "Monster Hunter Stories",
           "image": "MH4U-Velocidrome_Icon.png",
           "info": "Alpha monsters that lead the smaller Velociprey. Note their larger size, impressive frill, and sharper claws."
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Velocidrome_Icon.png"
         }
       ]
     },
@@ -7997,6 +8387,10 @@
           "game": "Monster Hunter Stories",
           "image": "MH4U-White_Monoblos_Icon.png",
           "info": "Fiеrcеr than its cousins, this whitе subspеciеs should bе approachеd with thе utmost caution."
+        },
+        {
+          "game":"Monster Hunter Stories 2",
+          "image": "MHST2-White_Monoblos_Icon.png"
         }
       ]
     },
@@ -8144,6 +8538,10 @@
           "game": "Monster Hunter Stories",
           "image": "MH4U-Yian_Garuga_Icon.png",
           "info": "Bird Wyvern known for their hard shells and long manes. Aggressive, prone to attack unprovoked."
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Yian_Garuga_Icon.png"
         }
       ]
     },
@@ -8184,6 +8582,10 @@
           "game": "Monster Hunter Stories",
           "image": "MH4U-Yian_Kut-Ku_Icon.png",
           "info": "Monsters boasting ample beaks and fan-like ears that splay open when angered. Konchu are a staple food."
+        },
+        {
+          "game":"Monster Hunter Stories 2",
+          "image": "MHST2-Yian_Kut-Ku_Icon.png"
         }
       ]
     },
@@ -8228,7 +8630,7 @@
           "info": "Juvenile Zamtrios that use their sharp teeth to pierce the hide of their prey and then burrow inside to consume them from within; those who are attacked must roll around vigorously to shake the monster off. They can also use a Wirebug or a kunai to help them get free. Zamite grow rapidly after even a single feeding."
         },
         {
-          "game":"Monster Hunter Stories 2",
+          "game": "Monster Hunter Stories 2",
           "image": "MHST2-Zamite_Icon.png"
         }
       ]
@@ -8331,6 +8733,10 @@
           "image": "MHRise-Zinogre_Icon.png",
           "info": "Fanged wyverns whose bodies are streaked with electricity. Sharp claws and strong limbs allow them to thrive in mountainous terrain. During hunts, they gather numerous Thunderbugs to boost their power and enter a supercharged state.",
           "danger": "6"
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Zinogre_Icon.png"
         }
       ]
     },
