@@ -659,7 +659,8 @@
         },
         {
           "game": "Monster Hunter Stories 2",
-          "image": "MHST2-Aptonoth_Icon.png"
+          "image": "MHST2-Aptonoth_Icon.png",
+          "info": "Placid, crested herbivorous monsters. They form herds and raise their young as a community, and become defensive when larger monsters approach. Deep-seated in Rider culture for their nutritious meat and use as pack animals."
         }
       ]
     },
@@ -823,7 +824,8 @@
         },
         {
           "game": "Monster Hunter Stories 2",
-          "image": "MHST2-Azure_Rathalos_Icon.png"
+          "image": "MHST2-Azure_Rathalos_Icon.png",
+          "info": "An azure-colored subspecies of Rathalos. More mobile than their standard cousins, they locate prey from the air and quickly swoop in for the kill."
         }
       ]
     },
@@ -1443,7 +1445,8 @@
         },
         {
           "game": "Monster Hunter Stories 2",
-          "image": "MHST2-Blue_Yian_Kut-Ku_Icon.png"
+          "image": "MHST2-Blue_Yian_Kut-Ku_Icon.png",
+          "info": "A subspecies of Yian Kut-Ku. Their blue coloration and physical prowess set them apart from their pink kin. Unlike their cowardly cousins, they become increasingly dangerous when angered, and should not be underestimated."
         }
       ]
     },
@@ -4024,7 +4027,8 @@
         },
         {
           "game": "Monster Hunter Stories 2",
-          "image": "MHST2-Gypceros_Icon.png"
+          "image": "MHST2-Gypceros_Icon.png",
+          "info": "These Bird Wyverns strike their crests to generate blinding flashes that dazzle their enemies. Their skin has elastic properties similar to rubber, and the volatile venom produced in their mouths can easily disintegrate any surrounding vegetation."
         }
       ]
     },
@@ -4756,7 +4760,8 @@
         },
         {
           "game": "Monster Hunter Stories 2",
-          "image": "MHST2-Kulu-Ya-Ku_Icon.png"
+          "image": "MHST2-Kulu-Ya-Ku_Icon.png",
+          "info": "The wingless Kulu-Ya-Ku use their front claws to grab objects. They dig up rocks to use as a shield, or to throw at their enemies."
         }
       ]
     },
@@ -5933,7 +5938,8 @@
         },
         {
           "game":"Monster Hunter Stories 2",
-          "image": "MHST2-Pink_Rathian_Icon.png"
+          "image": "MHST2-Pink_Rathian_Icon.png",
+          "info": "A subspecies of Rathian with vibrant pink scales. They wield their toxic tails more deftly than normal Rathian, weakening prey with poison before finishing them off."
         }
       ]
     },
@@ -6126,7 +6132,8 @@
         },
         {
           "game": "Monster Hunter Stories 2",
-          "image": "MHST2-Purple_Gypceros_Icon.png"
+          "image": "MHST2-Purple_Gypceros_Icon.png",
+          "info": "A purple-skinned subspecies of Gypceros. When enraged, they become more violent than their standard cousins, stomping wildly over anything that crosses their path. Not only is their venom more potent, but they also store a greater amount of it, making them a much deadlier foe."
         }
       ]
     },
@@ -6430,7 +6437,8 @@
         },
         {
           "game": "Monster Hunter Stories 2",
-          "image": "MHST2-Rathalos_Icon.png"
+          "image": "MHST2-Rathalos_Icon.png",
+          "info": "Fire-breathing male Flying Wyverns, dubbed Kings of the Sky. Form large dens together with a Rathian, which they protect fiercely. They descend upon intruders, attacking with venomous claws."
         }
       ]
     },
@@ -6495,7 +6503,8 @@
         },
         {
           "game": "Monster Hunter Stories 2",
-          "image": "MHST2-Rathian_Icon.png"
+          "image": "MHST2-Rathian_Icon.png",
+          "info": "Female Flying Wyverns, dubbed Queens of the Land. Possess powerful legs and a deadly, poisonous tail. Have been sighted hunting in pairs with ruthless efficiency."
         }
       ]
     },
@@ -8186,7 +8195,8 @@
         },
         {
           "game": "Monster Hunter Stories 2",
-          "image": "MHST2-Velocidrome_Icon.png"
+          "image": "MHST2-Velocidrome_Icon.png",
+          "info": "Alpha monsters that lead packs of Velociprey. Larger than their fellows, with more prominent crests. Velocidrome use their strong hind legs to leap at prey, pinning them down with their sharp claws before calling for assistance."
         }
       ]
     },
@@ -8585,7 +8595,8 @@
         },
         {
           "game":"Monster Hunter Stories 2",
-          "image": "MHST2-Yian_Kut-Ku_Icon.png"
+          "image": "MHST2-Yian_Kut-Ku_Icon.png",
+          "info": "These monsters boast ample beaks and fan-like ears that splay open when angered. A cowardly species, they have dexterous, nimble legs perfect for running away. However, they show little mercy to smaller creatures that encroach on their territory. Konchu are a staple food for Yian Kut-Ku."
         }
       ]
     },
