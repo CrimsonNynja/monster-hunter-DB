@@ -3549,6 +3549,24 @@
     },
     {
       "_id": {
+        "$oid": "608fc50ddc2d8ce1027b5114"
+      },
+      "name": "Heart of a Hero",
+      "client": "Fugen the Elder",
+      "description": "Hey, Hunter! There's a deathmatch raging on in the Arena between a teeny-tiny Tigrex and a dango-droppingly big Diablos! If you can go over and quiet that racket down. I'll give ya some new titles. Sound good? Good! Now go get to it!",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Hunt a Tigrex and a Diablos",
+      "targets": [
+        "Tigrex",
+        "Diablos"
+      ]
+    },
+    {
+      "_id": {
         "$oid": "608fc50ddc2d8ce1017b0113"
       },
       "name": "Beast of the Shadows",
