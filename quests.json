@@ -3619,6 +3619,23 @@
     },
     {
       "_id": {
+        "$oid": "608fc50ddc2dace182aa5114"
+      },
+      "name": "Tempest in the Desert",
+      "client": "Wounded Woman",
+      "description": "I... *wheeze* made it... *gasp* WOO! Listen...! *cough* There's a Kushala...Daora... on the loose... *gasp* You gotta do something *huff* about it...! I... ran through... the night... to warn you *wheeze* Now I need... a bit of a... lie-down...",
+      "map": "Sandy Plains",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Slay a Kushala Daora",
+      "targets": [
+        "Kushala Daora"
+      ]
+    },
+    {
+      "_id": {
         "$oid": "608fc50ddc2d8ce10aab5114"
       },
       "name": "Rising Sun!?",
