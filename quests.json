@@ -3601,6 +3601,24 @@
     },
     {
       "_id": {
+        "$oid": "608fc50ddc2d8ce182aa5114"
+      },
+      "name": "Heart of Rivalry",
+      "client": "Fugen the Elder",
+      "description": "Hey, squirt! An Apex Mizutsune and an Apex Zinogre are goin' at it out in the Flooded Forest. Who's gonna come out on top? Well, my zenny's on you because I'm sendin' ya out there! Take 'em down and I'll give ya some new titles! Now go get to it!",
+      "map": "Flooded Forest",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Slay an Apex Mizutsune and an Apex Zinogre",
+      "targets": [
+        "Apex Mizutsune",
+        "Apex Zinogre"
+      ]
+    },
+    {
+      "_id": {
         "$oid": "608fc50ddc2d8ce10aab5114"
       },
       "name": "Rising Sun!?",
