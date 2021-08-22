@@ -3549,6 +3549,25 @@
     },
     {
       "_id": {
+        "$oid": "608fc50ddc2d8ce1077b511f"
+      },
+      "name": "Rampage: Enchanting Parade",
+      "client": "On-Tour Idol",
+      "description": "Oh my Gog! Those monsters are sooooo cute! But why do they have to be so mean? *pout* If you go out and teach them to behave, I'll teach YOU a new gesture. It's my signature move so I know you'll just love it!",
+      "map": "Red Stronghold",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Defend the final gate",
+      "targets": [
+        "Wroggi",
+        "Mizutsune",
+        "Apex Mizutsune"
+      ]
+    },
+    {
+      "_id": {
         "$oid": "608fc50ddc2d8ce1027b5114"
       },
       "name": "Heart of a Hero",
