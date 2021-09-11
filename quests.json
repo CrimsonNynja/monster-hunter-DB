@@ -3596,9 +3596,26 @@
       "questType": "Challenge",
       "game": "Monster Hunter Rise",
       "difficulty": "6",
-      "objective": "Hunt a Zinogre",
+      "objective": "Slay a Zinogre",
       "targets": [
         "Zinogre"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce402ab5114"
+      },
+      "name": "Challenge Quest 03",
+      "client": "Master Utsushi",
+      "description": "Sup, Ace? Ready for a REAL challenge? Don't think I'm gonna go easy on ya just 'cuz you're my favorite. Nah, it's thrash or BE thrashed, if ya know what I mean. Let's see what you got!",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Challenge",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Slay a Tigrex",
+      "targets": [
+        "Tigrex"
       ]
     },
     {
@@ -3616,6 +3633,57 @@
       "objective": "Hunt a Goss Harag",
       "targets": [
         "Goss Harag"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce182ac5114"
+      },
+      "name": "SF: Ultimate Promotion Exam",
+      "client": "Karate Man in Pink",
+      "description": "Looking to train with the best, I see! Well, you came to the right place! My prized pupil is -- Hold on, there's two of 'em!? And the second one has a dark aura!? *shrug* Anyway, you just need to defeat one!",
+      "map": "Shrine Ruins",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Hunt a Rajang",
+      "targets": [
+        "Rajang"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce187ac5114"
+      },
+      "name": "White Desert Blossom",
+      "client": "Guild Master Hojo",
+      "description": "Ah, Hunter! You can always count on endemic life to help you on hunts! And if you complete my request, johoho, you can count on them to help communicate with your friends! Hop to it-to it and these stickers are yours!",
+      "map": "Sandy Plains",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Hunt a Rakna-Kadaki",
+      "targets": [
+        "Rakna-Kadaki"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce187ac5814"
+      },
+      "name": "Scorching Showdown",
+      "client": "Support Squad Enthusiast",
+      "description": "They may have home advantage but if you take 'em on, we'll cheer for ya! Ready!? OK! *clap* \"We've got the pride! We've got the spirit! Our hunter is the best so let 'em hear it! K-A-M-U-R-A! What's that spell? KAURA! KAMURA! Goooooo Kamura!\" Wooo!",
+      "map": "Sandy Plains",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Slay a Teostra",
+      "targets": [
+        "Teostra"
       ]
     },
     {
