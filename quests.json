@@ -3688,6 +3688,23 @@
     },
     {
       "_id": {
+        "$oid": "608fc50ddc2d8ce182ac5814"
+      },
+      "name": "Boomy Dango",
+      "client": "Guild Master Hojo",
+      "description": "Ah, Hunter! Hinoa asked me to make some dango stickers and, I must say, just looking at them makes my mouth water! Johoho! Complete my request, and they're yours! Now... hop to it-to it!",
+      "map": "Frost Islands",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Hunt a Bazelgeuse",
+      "targets": [
+        "Bazelgeuse"
+      ]
+    },
+    {
+      "_id": {
         "$oid": "608fc50ddc2d8ce182aa5114"
       },
       "name": "Heart of Rivalry",
