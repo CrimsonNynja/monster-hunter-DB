@@ -3714,10 +3714,28 @@
       "isKey": false,
       "questType": "Event",
       "game": "Monster Hunter Rise",
-      "difficulty": "7",
+      "difficulty": "6",
       "objective": "Hunt a Zinogre",
       "targets": [
         "Zinogre"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50cdc2d85e182ac5814"
+      },
+      "name": "Trouble in Paradise",
+      "client": "Fugen the Elder",
+      "description": "An Apex Rathalos and Rathian are hollerin' at each other over in the Shrine Ruins! They say don't get involved in a couple's fight but we better put a stop to this one before it really heats up and burns the whole place down!",
+      "map": "Shrine Ruins",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Slay an Apex Rathalos and an Apex Rathian",
+      "targets": [
+        "Apex Rathalos",
+        "Apex Rathian"
       ]
     },
     {
