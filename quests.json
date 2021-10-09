@@ -3620,6 +3620,23 @@
     },
     {
       "_id": {
+        "$oid": "608fc50ddc2d8cea02ab5114"
+      },
+      "name": "Challenge Quest 04",
+      "client": "Master Utsushi",
+      "description": "Sup, Ace? Ready for a REAL challenge? Don't think I'm gonna go easy on ya just 'cuz you're my favorite. Nah, it's thrash or BE thrashed, if ya know what I mean. Let's see what you got!",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Challenge",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Slay a Magnamalo",
+      "targets": [
+        "Magnamalo"
+      ]
+    },
+    {
+      "_id": {
         "$oid": "608fc50ddc2d8ce182ab5114"
       },
       "name": "An Icy Blade So Bright",
