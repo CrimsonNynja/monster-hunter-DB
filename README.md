@@ -1,6 +1,6 @@
 ## Monster Hunter DB
 
-This repo contains a database of monsters from MH3U, MH4U, MHGU, MHST, MHST2, MHW (plus Iceborne), and MH Rise. It also contains all quests from MH rise and MH world and Iceborne.
+This repo contains a database of monsters from MH3U, MH4U, MHGU, MHST, MHST2, MHW (plus Iceborne), and MH Rise. It also contains all quests from MH rise and MH world and Iceborne, as well as all endemic life from MHW MHIB.
 
 If you have found any errors, would like something added, or wish to help, drop something in the discussion section of the repo.
 
@@ -61,4 +61,19 @@ Quest data structure
         "" // any key monsters which need to be dealt with to finish the quest
     ]
 },
+```
+
+Endemic Life data structure
+
+```js
+{
+      "name": "", //the name of the endemic life
+      "game": [
+        {
+          "game": "", //the game this endemic life appears in
+          "info": "", //the in game description of the endemic life
+          "image": "" //a reference to the endemic life's icon
+        }
+      ]
+    },
 ```
