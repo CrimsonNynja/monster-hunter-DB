@@ -3740,6 +3740,24 @@
     },
     {
       "_id": {
+        "$oid": "608fc50cdc2d85e182ac5814"
+      },
+      "name": "Diablos Deception",
+      "client": "Minoto the Hub Maiden",
+      "description": "Two Apex Diablos have been spotted in the Sandy Plains. Hinoa reports that their sizes differ substantially and they're going wild. Seeing them next to each other, it's hard to tell which one's nearby and which one's far away, so be careful!",
+      "map": "Sandy Plains",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Slay 2 Apex Diablos",
+      "targets": [
+        "Apex Diablos",
+        "Apex Diablos"
+      ]
+    },
+    {
+      "_id": {
         "$oid": "608fc50ddc2d8ce182aa5114"
       },
       "name": "Heart of Rivalry",
