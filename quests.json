@@ -3705,6 +3705,23 @@
     },
     {
       "_id": {
+        "$oid": "608fc50cdc2d8ce182ac5814"
+      },
+      "name": "The Blue Bomber's Best Bud",
+      "client": "Senri the Mailman",
+      "description": "I've got a special quest fur-om the Mega Man series for ya! There's a Zinogre in there that may be small, but I have a bone to pick with. Hunt it, and I'll give you the materials to forge Mega Man's trusty companion!",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Hunt a Zinogre",
+      "targets": [
+        "Zinogre"
+      ]
+    },
+    {
+      "_id": {
         "$oid": "608fc50ddc2d8ce182aa5114"
       },
       "name": "Heart of Rivalry",
