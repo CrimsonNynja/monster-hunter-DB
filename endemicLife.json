@@ -989,6 +989,156 @@
           "image": "MHRise-Golden_Spiribug_Icon.png"
         }
       ]
+    },
+    {
+      "name": "Antidobra",
+      "game": [
+        {
+          "game": "Monster Hunter Rise",
+          "info": "A snake with an unusually developed neck region. Its body is filled with an antidote that works on various poisons. When a hunter absorbs it, ailments are healed, and resistance is heightened temporarily. The pattern on the back of its head resembles a scary human face. Despite its size, it has a timid nature.",
+          "image": "MHRise-Antidobra_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Brewhare",
+      "game": [
+        {
+          "game": "Monster Hunter Rise",
+          "info": "This round rabbit may appear cute and fluffy, but its furry coat is actually made of mold. By allowing bacteria to grow on it, it gains an increased amount of nutrition from its food. Simply keeping this rabbit on their person can ferment a hunter's food for added nutritional value. As they are clever creatures, they usually escape their captors after a period of time.",
+          "image": "MHRise-Brewhare_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Trapbugs",
+      "game": [
+        {
+          "game": "Monster Hunter Rise",
+          "info": "Insects with sharp horns that live in colonies affixed to tree branches. If attacked, their horns will stick out in a defensive position. Their horns are so tough that they can even pierce the thick hide on the bottom of a monster's foot. They are often used by hunters as a natural trap or as a means to slow down or turn away pursuers.",
+          "image": "MHRise-Trapbugs_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Escuregot",
+      "game": [
+        {
+          "game": "Monster Hunter Rise",
+          "info": "A large snail with a green shell. It stores fluids with healing properties in its body, consuming them when food is scarce. When attacked, it emits a type of mist from its shell to blind its attacker. Immune to the mist's blinding effects, they are often used by hunters out in the field as a means to heal.",
+          "image": "MHRise-Escuregot_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Rock Lizard",
+      "game": [
+        {
+          "game": "Monster Hunter Rise",
+          "info": "A small lizard that lives in various locales. To protect itself from predators, Rock Lizards will attach minerals to their body in order to blend in with their surroundings. If attacked, they will shed these minerals and escape. They are popular among hunters as the minerals are have many uses.",
+          "image": "MHRise-Rock_Lizard_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Poisontoad",
+      "game": [
+        {
+          "game": "Monster Hunter Rise",
+          "info": "A large toad with a distinct purple body. It stores a poisonous gas that, when emitted, is powerful enough to instantly poison anything that it comes in contact with, even large monsters.",
+          "image": "MHRise-Poisontoad_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Blastoad",
+      "game": [
+        {
+          "game": "Monster Hunter Rise",
+          "info": "A large toad with a distinct red body. It stores an explosive gas that, when emitted and mixed with the air, can cause an explosion powerful enough to topple even large monsters.",
+          "image": "MHRise-Blastoad_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Firebeetle",
+      "game": [
+        {
+          "game": "Monster Hunter Rise",
+          "info": "A tiny beetle that pushes around a lava rock with its hind legs. The lava rock it pushes has fire properties, and throwing it at a target will inflict it with fireblight. The lava rocks may feel warm to hold, but hold them too long and you may get burned.",
+          "image": "MHRise-Firebeetle_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Mudbeetle",
+      "game": [
+        {
+          "game": "Monster Hunter Rise",
+          "info": "A tiny beetle that pushes around a mud ball with its hind legs. The mud ball has water properties, and throwing it at a target will inflict it with waterblight. The water element makes the mud ball seem wet all the time.",
+          "image": "MHRise-Mudbeetle_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Thunderbeetle",
+      "game": [
+        {
+          "game": "Monster Hunter Rise",
+          "info": "A tiny beetle that pushes around a dirt ball with its hind legs. The dirt ball has thunder properties, and throwing it at a target will inflict it with thunderblight. No one seems to understand why the dirt ball has these properties.",
+          "image": "MHRise-Thunderbeetle_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Snowbeetle",
+      "game": [
+        {
+          "game": "Monster Hunter Rise",
+          "info": "A tiny beetle that pushes around a snowball with its hind legs. The snowball has ice properties, and throwing it at a target will inflict it with iceblight. The snowballs are so cold that you'll get frostbite if you hold them for too long.",
+          "image": "MHRise-Snowbeetle_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Stinkmink",
+      "game": [
+        {
+          "game": "Monster Hunter Rise",
+          "info": "A weasel with distinct snow-white fur that is light and warm. When threatened, it emits a type of pheromone from the scent glands near the base of its tail in the form of a smoke- like cloud. It uses its tail to spread the cloud in an attempt to attract any monster nearby. If a monster is successfully lured to its location, it'll use this chance to escape.",
+          "image": "MHRise-Stinkmink_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Puppet Spider",
+      "game": [
+        {
+          "game": "Monster Hunter Rise",
+          "info": "A spider with a distinct yellow-spotted pattern. It shoots out a sticky web from its abdomen that is robust enough to restrain monsters. When feeding or fleeing from enemies, it uses strings of web to immobilize its target. When feeding in particular, this behavior is reminiscent of a puppeteer manipulating a marionette, which is how its name came about.",
+          "image": "MHRise-Puppet_Spider_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Boulder Lizard",
+      "game": [
+        {
+          "game": "Monster Hunter Rise",
+          "info": "A relative of the Rock Lizard, these lizards can also be found in a number of locales. And like the Rock Lizard, it also attaches a variety of minerals to its body to protect itself. However, these minerals are typically harder than those found on Rock Lizards and are more sought after by hunters.",
+          "image": "MHRise-Boulder_Lizard_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Scale Lizard",
+      "game": [
+        {
+          "game": "Monster Hunter Rise",
+          "info": "Relatives of the Rock Lizard, these lizards can also be found in a number of locales. Unlike the Rock Lizard, they don't attach minerals to their bodies—instead, they tend to use monster scales and claws. Scale Lizards are extremely rare as they inhabit areas seldom traveled. They are prized by hunters as the materials they drop fetch a high price.",
+          "image": "MHRise-Scale_Lizard_Icon.png"
+        }
+      ]
     }
   ]
 }
