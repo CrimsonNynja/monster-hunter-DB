@@ -607,6 +607,11 @@
           "game": "Monster Hunter World",
           "info": "The fluid that it collects in this sac here is...that's right, Vitalily nectar! Its healing properties should be useful in a pinch.",
           "image": "MHW-Vigorwasp_Icon.png"
+        },
+        {
+          "game": "Monster Hunter Rise",
+          "info": "An insect that collects a restorative nectar and stores it in a sac. When struck, the sac releases a healing mist that's sure to be useful for hunters in a pinch.",
+          "image": "MHRise-Vigorwasp_Icon.png"
         }
       ]
     },
@@ -637,6 +642,11 @@
           "game": "Monster Hunter World",
           "info": "Wow, this puppy's BRIGHT! Even a large monster would be stunned by it, I'm sure. It's like a living Flash Bomb...with wings!",
           "image": "MHW-Flashfly_Icon.png"
+        },
+        {
+          "game": "Monster Hunter World",
+          "info": "Winged insects that emit a bright light when struck. To survive, Flashflies live together in a swarm and have a defense mechanism that allows them to emit a blinding flash if threatened, giving them time to flee to safety. The flash is so bright that it's possible to cause a large monster to flinch. Once the threat has disappeared the swarm will gather together again.",
+          "image": "MHRise-Flashfly_Icon.png"
         }
       ]
     },
@@ -857,6 +867,126 @@
           "game": "Monster Hunter World",
           "info": "I wonder if what the Witcher said was true... Do Nekkers really grow vicious when in a swarm? I think there's a place where we can test this...",
           "image": "MHW-Nekker_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Red Spiritbird",
+      "game": [
+        {
+          "game": "Monster Hunter Rise",
+          "info": "A small bird that glows a faint red. This glow comes from pollen that accumulates on its body while drinking nectar. Many mistake this glow for a human soul, hence the name. Petalaces become fragrant and gain an attack boost when imbued with this pollen.",
+          "image": "MHRise-Red_Spiribird_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Green Spiritbird",
+      "game": [
+        {
+          "game": "Monster Hunter Rise",
+          "info": "A small bird that glows a faint green. This glow comes from pollen that accumulates on its body while drinking nectar. Many mistake this glow for a human soul, hence the name. Petalaces become fragrant and gain an attack boost when imbued with this pollen.",
+          "image": "MHRise-Green_Spiribird_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Yellow Spiritbird",
+      "game": [
+        {
+          "game": "Monster Hunter Rise",
+          "info": "A small bird that glows a faint yellow. This glow comes from pollen that accumulates on its body while drinking nectar. Many mistake this glow for a human soul, hence the name. Petalaces become fragrant and gain an attack boost when imbued with this pollen.",
+          "image": "MHRise-Yellow_Spiribird_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Wailnard",
+      "game": [
+        {
+          "game": "Monster Hunter Rise",
+          "info": "A pheasant with a giant red vocal sac. It sounds like a crying child, which it uses to attract large monsters that will, in turn, distract its predators. Hunters capture and use Wailnards to lure large monsters to their vicinity. It is a usually docile creature that spends most of its time in hiding. Despite its wings, it's not very good at flying.",
+          "image": "MHRise-Wailnard_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Wirebug",
+      "game": [
+        {
+          "game": "Monster Hunter Rise",
+          "info": "A beetle native to the Kamura area. The term Wirebug generally refers to the females of the species. It is capable of producing a super-strong silk colloquially known as Ironsilk, which it uses to carry materials to build its nest. For ages, the villagers of Kamura have trained Wirebugs to make use of their mobility. It's skittish when feral, but quite obedient once trained. Loves Jewel Lilies.",
+          "image": "MHRise-Wirebug_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Clothfly",
+      "game": [
+        {
+          "game": "Monster Hunter Rise",
+          "info": "A butterfly with long wings. In flight, it looks like a flowing piece of cloth, giving it its name. When struck, it scatters a dust cloud and flees. The dust has a tightening effect on human skin making it more resistant to injury.",
+          "image": "MHRise-Clothfly_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Butterflame",
+      "game": [
+        {
+          "game": "Monster Hunter Rise",
+          "info": "A butterfly with crimson wings. In flight, they look like dancing flames and in the past, were often mistaken for fire or ghosts. When attacked, they release a type of dust before fleeing. This dust can temporarily boost attack strength if inhaled.",
+          "image": "MHRise-Butterflame_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Peepersects",
+      "game": [
+        {
+          "game": "Monster Hunter Rise",
+          "info": "A butterfly with spotted yellow wings that can be found living in swarms in various locales across the region. In the past they were mistaken for flying eyeballs hence their creepy name. When attacked, they release a type of dust before fleeing. This dust can temporarily boost stamina if inhaled.",
+          "image": "MHRise-Peepersects_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Cutterfly",
+      "game": [
+        {
+          "game": "Monster Hunter Rise",
+          "info": "A dragonfly with a sharp red tail that releases pheromones when under threat. During mating season, it rubs its tail on various surfaces to spread the chemical secretion. This action often cuts through fishing nets. As a result, Cutterflies are shrouded in superstition, particularly amongst fishermen. Breathing in the pheromone grants hunters increased concentration for a higher chance at critical hits.",
+          "image": "MHRise-Cutterfly_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Great Wirebug",
+      "game": [
+        {
+          "game": "Monster Hunter Rise",
+          "info": "A beetle native to the Kamura area. This name refers to male Wirebugs, so called for their larger, more powerful bodies. As they are stronger than female Wirebugs, they are often used for long- distance movement, though they are less nimble and harder to control. They are also far less common than females. Once placed in a patch of Jewel Lilies, it'll never leave.",
+          "image": "MHRise-Wirebug_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Golden Spiribug",
+      "game": [
+        {
+          "game": "Monster Hunter Rise",
+          "info": "A golden beetle. When in flight, the sound of its wings flapping has a relaxing effect. Its diet mostly consists of other tiny insects. The ones that it favors most can be found on the plants that Petalaces are made from. Hunters wearing a Petalace will attract Golden Spiribugs and often return from hunts with their Petalace covered in them. A dye made from this bug is a famous specialty of Kamura Village.",
+          "image": "MHRise-Golden_Spiribug_Icon.png"
+        }
+      ]
+    },
+    {
+      "name": "Gilded Spiribug",
+      "game": [
+        {
+          "game": "Monster Hunter Rise",
+          "info": "A gold beetle related to Golen Spiritbugs. The sound of its wings flapping has a relaxing effect. Its diet mostly consists of other tiny insects that feed on the plants that Petalaces are made from. Hunters wearing a Petalace will attract Gilded Spiritbugs and often return from hunts with their Petalace covered in them. A dye made from this bug is a famous specialty of Kamura Village.",
+          "image": "MHRise-Golden_Spiribug_Icon.png"
         }
       ]
     }
