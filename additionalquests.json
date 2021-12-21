@@ -1,0 +1,51 @@
+{
+    "_id": {
+      "$oid": "tbd"
+    },
+    "name": "Rampage: Kamura Night Hunt",
+    "client": "Fugen the Elder",
+    "description": "A Rampage unlike any before is hurtlin' towards the village, and that fiend Ibushi is leadin' it! Be on the lookout for Magnamalo; there's a good chance it'll show up for a snack. It's up to you to protect the village! Go get to it!",
+    "map": "Red Stronghold",
+    "isKey": false,
+    "questType": "Hub",
+    "game": "Monster Hunter Rise",
+    "difficulty": "8",
+    "objective": "Slay Wind Serpent Ibushi",
+    "special": "High Chance of Magnamalo appearing. No special rewards",
+    "targets": [
+        "Rathian",
+        "Tigrex",
+        "Wind Serpent Ibushi"
+    ]
+  },
+
+
+
+
+Raw Quest List
+E★8 Gales of Ibushi Blow Again ▣ 	Coral Palace	Slay Wind Serpent Ibushi	
+E★8 Clouds of Narwa Rumble Again ▣ 	Coral Palace	Slay Thunder Serpent Narwa	
+E★8 Blazin' Soul of a Warrior ▣ 	Lava Caverns	Hunt Magnamalo	
+E★8 Advanced: Born of Paradise ▣ 	Coral Palace	Slay Wind Serpent Ibushi and Narwa the Allmother	
+E★6 Knight in Shattered Armor ▣ 	Lava Caverns	Hunt all target monsters	
+E★5 Soaring Desire ▣ 	Flooded Forest	Hunt a Royal Ludroth, a Pukei-Pukei and a Bishaten	
+E★7 Kunai Ask You a Favor? ▣ 	Sandy Plains	Hunt a Barroth, a Rathian and a Diablos	
+E★6 Troubled Waters ▣ 	Infernal Springs	Hunt all target monsters	
+E★8 Rajang's Holiday Special ▣ 	Arena	Hunt all target monsters	
+E★8 Heart of an Apex ▣ 	Infernal Springs	Slay all target monsters	
+E★6 Nothing to Sneeze At! ▣ 	Arena	Hunt 2 Bishaten	
+E★8 Frost Bites ▣ 	Frost Islands	Hunt a Lagombi, a Barioth, and a Goss Harag	
+E★5 Dastardly Vile Aknosom Trio ▣ 	Shrine Ruins	Hunt 3 Aknosom	
+E★5 Wrestling with Pain ▣ 	Infernal Springs	Hunt an Arzuros and a Tetranadon	
+E★8 Apex Arzuros Emergency ▣ 	Flooded Forest	Slay an Apex Arzuros	
+E★8 Apex Rathian Emergency ▣ 	Lava Caverns	Slay an Apex Rathian	
+E★8 Apex Mizutsune Emergency ▣ 	Shrine Ruins	Slay an Apex Mizutsune	
+E★8 Apex Rathalos Emergency ▣ 	Shrine Ruins	Slay an Apex Rathalos	
+E★8 Apex Diablos Emergency ▣ 	Sandy Plains	Slay an Apex Diablos	
+E★7 Challenge Quest 05 ▣ 	
+E★7 Challenge Quest 06 ▣ 
+E★8 Challenge Quest 07 ▣ 	
+E★2 Gotta Hoard Fast! ▣ 		
+E★8 Super Shady Look-alike ▣ 		
+E★8 USJ - Arzuros Onslaught! ▣ 	
+E★8 USJ - Shrine Showdown! ▣ 	
