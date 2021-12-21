@@ -1,3 +1,112 @@
+
+  {
+    "_id": {
+      "$oid": "tbd"
+    },
+    "name": "",
+    "client": "",
+    "description": "",
+    "map": "",
+    "isKey": false,
+    "questType": "Hub",
+    "game": "Monster Hunter Rise",
+    "difficulty": "8",
+    "objective": "",
+    "special": "",
+    "targets": [
+        ""
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "tbd"
+    },
+    "name": "",
+    "client": "",
+    "description": "",
+    "map": "",
+    "isKey": false,
+    "questType": "Hub",
+    "game": "Monster Hunter Rise",
+    "difficulty": "8",
+    "objective": "",
+    "special": "",
+    "targets": [
+        ""
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "tbd"
+    },
+    "name": "",
+    "client": "",
+    "description": "",
+    "map": "",
+    "isKey": false,
+    "questType": "Hub",
+    "game": "Monster Hunter Rise",
+    "difficulty": "8",
+    "objective": "",
+    "special": "",
+    "targets": [
+        ""
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "tbd"
+    },
+    "name": "",
+    "client": "",
+    "description": "",
+    "map": "",
+    "isKey": false,
+    "questType": "Hub",
+    "game": "Monster Hunter Rise",
+    "difficulty": "8",
+    "objective": "",
+    "special": "",
+    "targets": [
+        ""
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "tbd"
+    },
+    "name": "",
+    "client": "",
+    "description": "",
+    "map": "",
+    "isKey": false,
+    "questType": "Hub",
+    "game": "Monster Hunter Rise",
+    "difficulty": "8",
+    "objective": "",
+    "special": "",
+    "targets": [
+        ""
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "tbd"
+    },
+    "name": "",
+    "client": "",
+    "description": "",
+    "map": "",
+    "isKey": false,
+    "questType": "Hub",
+    "game": "Monster Hunter Rise",
+    "difficulty": "8",
+    "objective": "",
+    "special": "",
+    "targets": [
+        ""
+    ]
+  },
   {
     "_id": {
       "$oid": "tbd"
@@ -19,16 +128,8 @@
 
 
 Raw Quest List 			
-E★8 Heart of an Apex ▣ 	Infernal Springs	Slay all target monsters	
-E★6 Nothing to Sneeze At! ▣ 	Arena	Hunt 2 Bishaten	
-E★8 Frost Bites ▣ 	Frost Islands	Hunt a Lagombi, a Barioth, and a Goss Harag	
 E★5 Dastardly Vile Aknosom Trio ▣ 	Shrine Ruins	Hunt 3 Aknosom	
-E★5 Wrestling with Pain ▣ 	Infernal Springs	Hunt an Arzuros and a Tetranadon	
-E★8 Apex Arzuros Emergency ▣ 	Flooded Forest	Slay an Apex Arzuros	
-E★8 Apex Rathian Emergency ▣ 	Lava Caverns	Slay an Apex Rathian	
-E★8 Apex Mizutsune Emergency ▣ 	Shrine Ruins	Slay an Apex Mizutsune	
-E★8 Apex Rathalos Emergency ▣ 	Shrine Ruins	Slay an Apex Rathalos	
-E★8 Apex Diablos Emergency ▣ 	Sandy Plains	Slay an Apex Diablos	
+E★5 Wrestling with Pain ▣ 	Infernal Springs	Hunt an Arzuros and a Tetranadon		
 E★7 Challenge Quest 05 ▣ 	
 E★7 Challenge Quest 06 ▣ 
 E★8 Challenge Quest 07 ▣ 	

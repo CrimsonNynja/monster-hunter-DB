@@ -4121,6 +4121,155 @@
         "Great Wroggi"
     ]
   },  
+  {
+    "_id": {
+      "$oid": "tbd"
+    },
+    "name": "Apex Arzuros Emergency",
+    "client": "Hunter's Guild Researcher",
+    "description": "Urgent notice from the Hunter's Guild: Unique Apex sighted, requesting its elimination ASAP. Monster appears to be far more dangerous than any Apex to date. Retreat if deemed too dangerous.",
+    "map": "Flooded Forest",
+    "isKey": false,
+    "questType": "Hub",
+    "game": "Monster Hunter Rise",
+    "difficulty": "8",
+    "objective": "Slay an Apex Arzuros",
+    "special": "Locked large gold crown 745.81 Apex Arzuros, very high damage modifiers.",
+    "targets": [
+        "Apex Arzuros"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "tbd"
+    },
+    "name": "Apex Rathian Emergency",
+    "client": "Hunter's Guild Researcher",
+    "description": "Urgent notice from the Hunter's Guild: Unique Apex sighted, requesting its elimination ASAP. Monster appears to be far more dangerous than any Apex to date. Retreat if deemed too dangerous.",
+    "map": "Lava Caverns",
+    "isKey": false,
+    "questType": "Hub",
+    "game": "Monster Hunter Rise",
+    "difficulty": "8",
+    "objective": "Slay an Apex Rathian",
+    "special": "Locked large gold crown 2,299.98 Apex Rathian, very high damage modifiers.",
+    "targets": [
+        "Apex Rathian"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "tbd"
+    },
+    "name": "Apex Mizutsune Emergency",
+    "client": "Hunter's Guild Researcher",
+    "description": "Urgent notice from the Hunter's Guild: Unique Apex sighted, requesting its elimination ASAP. Monster appears to be far more dangerous than any Apex to date. Retreat if deemed too dangerous.",
+    "map": "Shrine Ruins",
+    "isKey": false,
+    "questType": "Hub",
+    "game": "Monster Hunter Rise",
+    "difficulty": "8",
+    "objective": "Slay an Apex Mizutsune",
+    "special": "Locked large gold crown 2,506.31 Apex Mizutsune, very high damage modifiers.",
+    "targets": [
+        "Apex Mizutsune"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "tbd"
+    },
+    "name": "Apex Rathalos Emergency",
+    "client": "Hunter's Guild Researcher",
+    "description": "Urgent notice from the Hunter's Guild: Unique Apex sighted, requesting its elimination ASAP. Monster appears to be far more dangerous than any Apex to date. Retreat if deemed too dangerous.",
+    "map": "Shrine Ruins",
+    "isKey": false,
+    "questType": "Hub",
+    "game": "Monster Hunter Rise",
+    "difficulty": "8",
+    "objective": "Slay an Apex Rathalos",
+    "special": "Locked large gold crown 2,305.81 Apex Rathalos, very high damage modifiers.",
+    "targets": [
+        "Apex Rathalos"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "tbd"
+    },
+    "name": "Apex Diablos Emergency",
+    "client": "Hunter's Guild Researcher",
+    "description": "Urgent notice from the Hunter's Guild: Unique Apex sighted, requesting its elimination ASAP. Monster appears to be far more dangerous than any Apex to date. Retreat if deemed too dangerous.",
+    "map": "Sandy Plains",
+    "isKey": false,
+    "questType": "Hub",
+    "game": "Monster Hunter Rise",
+    "difficulty": "8",
+    "objective": "Slay an Apex Diablos",
+    "special": "Locked large gold crown 2,793.26 Apex Diablos, very high damage modifiers.",
+    "targets": [
+        "Apex Diablos"
+    ]
+  },
+    
+  {
+    "_id": {
+      "$oid": "tbd"
+    },
+    "name": "Heart of an Apex",
+    "client": "Fugen the Elder",
+    "description": "Hey, Squirt! We've got reports of a buncha Apex toughies gatherin' in one spot! Now normally these baddies would put a hunter in the dirt, but my zenny's on you. Put THEM in the dirt and these Guild Card titles are yours! Bwahaha! Now go get to it!",
+    "map": "Infernal Springs",
+    "isKey": false,
+    "questType": "Hub",
+    "game": "Monster Hunter Rise",
+    "difficulty": "8",
+    "objective": "Slay all target monsters",
+    "special": "Guild Card Titles.",
+    "targets": [
+        "Apex Rathian",
+        "Apex Diablos",
+        "Apex Arzuros"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "tbd"
+    },
+    "name": "Nothing to Sneeze At!",
+    "client": "Sniffling Scholar",
+    "description": "Ah...ah...ACHOO! Sorry... *sniff* Ugh... Caught a cold somewhere between the Frost Islands and Lava Caverns... If I'm ever gonna study Bisha...AH... ACHOOO! *sniff* Bishaten, I'll need your help. In return, I'll teach you some poses that vividly express my misery...",
+    "map": "Arena",
+    "isKey": false,
+    "questType": "Hub",
+    "game": "Monster Hunter Rise",
+    "difficulty": "6",
+    "objective": "Hunt 2 Bishaten",
+    "special": "Hot and Cold Poses, Larga and small crown Bishaten guarenteed",
+    "targets": [
+        "Bishaten"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "tbd"
+    },
+    "name": "Frost Bites",
+    "client": "Stranded Safari Member",
+    "description": "Help us! HELP US! Anyone! Our safari has been surrounded by monsters, and now we're stuck out in the cold! Good thing I wore some- thing warm and I'll give you some materials to make your very own if you get those monsters to scram!",
+    "map": "Frost Islands",
+    "isKey": false,
+    "questType": "Hub",
+    "game": "Monster Hunter Rise",
+    "difficulty": "8",
+    "objective": "Hunt a Lagombi, a Barioth, and a Goss Harag",
+    "special": "Winter Star ticket, to craft Orion layered armor",
+    "targets": [
+        "Lagombi",
+        "Barioth",
+        "Goss Harag"
+    ]
+  },
   
     {
       "_id": {
