@@ -57,12 +57,13 @@ Quest data structure
     "game": "", // which game the quest is from
     "difficulty": "", // the difficult of the quest 1, 7, G1 etc.
     "objective": "", // the key objective of the quest
-    "special: "", // Special characteristics/monster appearances in the quest, if any. Currently only for MH Rise Event Quests.
+    "special: "", // Special characteristics/monster appearances in the quest, if any.
     "targets": [
         "" // any key monsters which need to be dealt with to finish the quest
     ]
 },
 ```
+Special field is currently only for some MH Rise Event Quests, will be added to the rest and to World event quests in the future.
 
 Endemic Life data structure
 
