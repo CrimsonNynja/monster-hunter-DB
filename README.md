@@ -57,6 +57,7 @@ Quest data structure
     "game": "", // which game the quest is from
     "difficulty": "", // the difficult of the quest 1, 7, G1 etc.
     "objective": "", // the key objective of the quest
+    "special: "", // Special characteristics/monster appearances in the quest, if any. Currently only for MH Rise Event Quests.
     "targets": [
         "" // any key monsters which need to be dealt with to finish the quest
     ]
