@@ -1,74 +1,144 @@
-{
-    "_id": {
-      "$oid": "tbd"
-    },
-    "name": "Rampage: Kamura Night Hunt",
-    "client": "Fugen the Elder",
-    "description": "A Rampage unlike any before is hurtlin' towards the village, and that fiend Ibushi is leadin' it! Be on the lookout for Magnamalo; there's a good chance it'll show up for a snack. It's up to you to protect the village! Go get to it!",
-    "map": "Red Stronghold",
-    "isKey": false,
-    "questType": "Hub",
-    "game": "Monster Hunter Rise",
-    "difficulty": "8",
-    "objective": "Slay Wind Serpent Ibushi",
-    "special": "High Chance of Magnamalo appearing. No special rewards",
-    "targets": [
-        "Rathian",
-        "Tigrex",
-        "Wind Serpent Ibushi"
-    ]
-  },
-  
+
   {
     "_id": {
       "$oid": "tbd"
     },
-    "name": "Gales of Ibushi Blow Again",
-    "client": "Guild Master Hojo",
-    "description": "Worrying news indeed... Ibushi has been spotted in the Coral Palace. Fortunately, it has yet to meet up with its queen, but I have a terrible feeling... Hunter, you must leap into action at once. We cannot allow them to reunite!",
-    "map": "Coral Palace",
+    "name": "",
+    "client": "",
+    "description": "",
+    "map": "",
     "isKey": false,
     "questType": "Hub",
     "game": "Monster Hunter Rise",
     "difficulty": "8",
-    "objective": "Slay Wind Serpent Ibushi",
-    "special": "Higher stats than usual. Gives Kamura Tickets.",
+    "objective": "",
+    "special": "",
     "targets": [
-        "Wind Serpent Ibushi"
+        ""
+    ]
+  }, 
+  {
+    "_id": {
+      "$oid": "tbd"
+    },
+    "name": "",
+    "client": "",
+    "description": "",
+    "map": "",
+    "isKey": false,
+    "questType": "Hub",
+    "game": "Monster Hunter Rise",
+    "difficulty": "8",
+    "objective": "",
+    "special": "",
+    "targets": [
+        ""
+    ]
+  },  
+  {
+    "_id": {
+      "$oid": "tbd"
+    },
+    "name": "",
+    "client": "",
+    "description": "",
+    "map": "",
+    "isKey": false,
+    "questType": "Hub",
+    "game": "Monster Hunter Rise",
+    "difficulty": "8",
+    "objective": "",
+    "special": "",
+    "targets": [
+        ""
     ]
   },
   {
     "_id": {
       "$oid": "tbd"
     },
-    "name": "Clouds of Narwa Rumble Again",
-    "client": "Guild Master Hojo",
-    "description": "Worrying news indeed... Narwa has been spotted in the Coral Palace. Fortunately, it has yet to meet up with its king, but I have a terrible feeling... Hunter, you must leap into action at once. We cannot allow them to reunite!",
-    "map": "Coral Palace",
+    "name": "",
+    "client": "",
+    "description": "",
+    "map": "",
     "isKey": false,
     "questType": "Hub",
     "game": "Monster Hunter Rise",
     "difficulty": "8",
-    "objective": "Slay Thunder Serpent Narwa",
-    "special": "Higher stats than usual. Gives Guild Tickets.",
+    "objective": "",
+    "special": "",
     "targets": [
-        "Thunder Serpent Narwa"
+        ""
     ]
   },
   {
     "_id": {
       "$oid": "tbd"
     },
-    "name": "Blazin' Soul of a Warrior",
-    "client": "Fugen the Elder",
-    "description": "They say the soul of a true warrior burns bright like a fire, blazin' a path for the next generation. Magnamalo's soul is a scorchin' inferno of hatred. Tormented by its insatiable hunger... Hunter of Kamura! Go forth and show us whose soul burns brightest!",
-    "map": "Lava Caverns",
+    "name": "",
+    "client": "",
+    "description": "",
+    "map": "",
     "isKey": false,
     "questType": "Hub",
     "game": "Monster Hunter Rise",
     "difficulty": "8",
-    "objective": "Hunt Magnamalo",
-    "special": "Strong Magnamalo, guarenteed largest size 2,239.69. High chance for Friend Vouchers.",
+    "objective": "",
+    "special": "",
+    "targets": [
+        ""
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "tbd"
+    },
+    "name": "",
+    "client": "",
+    "description": "",
+    "map": "",
+    "isKey": false,
+    "questType": "Hub",
+    "game": "Monster Hunter Rise",
+    "difficulty": "8",
+    "objective": "",
+    "special": "",
+    "targets": [
+        ""
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "tbd"
+    },
+    "name": "",
+    "client": "",
+    "description": "",
+    "map": "",
+    "isKey": false,
+    "questType": "Hub",
+    "game": "Monster Hunter Rise",
+    "difficulty": "8",
+    "objective": "",
+    "special": "",
+    "targets": [
+        ""
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "tbd"
+    },
+    "name": "",
+    "client": "",
+    "description": "",
+    "map": "",
+    "isKey": false,
+    "questType": "Hub",
+    "game": "Monster Hunter Rise",
+    "difficulty": "8",
+    "objective": "",
+    "special": "",
     "targets": [
         ""
     ]
@@ -92,15 +162,7 @@
     ]
   },
 
-
-Raw Quest List 			
-E★8 Blazin' Soul of a Warrior ▣ 	Lava Caverns	Hunt Magnamalo	
-E★8 Advanced: Born of Paradise ▣ 	Coral Palace	Slay Wind Serpent Ibushi and Narwa the Allmother	
-E★6 Knight in Shattered Armor ▣ 	Lava Caverns	Hunt all target monsters	
-E★5 Soaring Desire ▣ 	Flooded Forest	Hunt a Royal Ludroth, a Pukei-Pukei and a Bishaten	
-E★7 Kunai Ask You a Favor? ▣ 	Sandy Plains	Hunt a Barroth, a Rathian and a Diablos	
-E★6 Troubled Waters ▣ 	Infernal Springs	Hunt all target monsters	
-E★8 Rajang's Holiday Special ▣ 	Arena	Hunt all target monsters	
+Raw Quest List
 E★8 Heart of an Apex ▣ 	Infernal Springs	Slay all target monsters	
 E★6 Nothing to Sneeze At! ▣ 	Arena	Hunt 2 Bishaten	
 E★8 Frost Bites ▣ 	Frost Islands	Hunt a Lagombi, a Barioth, and a Goss Harag	

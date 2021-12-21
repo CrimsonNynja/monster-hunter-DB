@@ -3929,6 +3929,201 @@
     },
     {
       "_id": {
+        "$oid": "tbd"
+      },
+      "name": "Rampage: Kamura Night Hunt",
+      "client": "Fugen the Elder",
+      "description": "A Rampage unlike any before is hurtlin' towards the village, and that fiend Ibushi is leadin' it! Be on the lookout for Magnamalo; there's a good chance it'll show up for a snack. It's up to you to protect the village! Go get to it!",
+      "map": "Red Stronghold",
+      "isKey": false,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "8",
+      "objective": "Slay Wind Serpent Ibushi",
+      "special": "High Chance of Magnamalo appearing. No special rewards",
+      "targets": [
+          "Rathian",
+          "Tigrex",
+          "Wind Serpent Ibushi"
+      ]
+    },
+    
+    {
+      "_id": {
+        "$oid": "tbd"
+      },
+      "name": "Gales of Ibushi Blow Again",
+      "client": "Guild Master Hojo",
+      "description": "Worrying news indeed... Ibushi has been spotted in the Coral Palace. Fortunately, it has yet to meet up with its queen, but I have a terrible feeling... Hunter, you must leap into action at once. We cannot allow them to reunite!",
+      "map": "Coral Palace",
+      "isKey": false,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "8",
+      "objective": "Slay Wind Serpent Ibushi",
+      "special": "Higher stats than usual. Gives Kamura Tickets.",
+      "targets": [
+          "Wind Serpent Ibushi"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "tbd"
+      },
+      "name": "Clouds of Narwa Rumble Again",
+      "client": "Guild Master Hojo",
+      "description": "Worrying news indeed... Narwa has been spotted in the Coral Palace. Fortunately, it has yet to meet up with its king, but I have a terrible feeling... Hunter, you must leap into action at once. We cannot allow them to reunite!",
+      "map": "Coral Palace",
+      "isKey": false,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "8",
+      "objective": "Slay Thunder Serpent Narwa",
+      "special": "Higher stats than usual. Gives Guild Tickets.",
+      "targets": [
+          "Thunder Serpent Narwa"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "tbd"
+      },
+      "name": "Blazin' Soul of a Warrior",
+      "client": "Fugen the Elder",
+      "description": "They say the soul of a true warrior burns bright like a fire, blazin' a path for the next generation. Magnamalo's soul is a scorchin' inferno of hatred. Tormented by its insatiable hunger... Hunter of Kamura! Go forth and show us whose soul burns brightest!",
+      "map": "Lava Caverns",
+      "isKey": false,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "8",
+      "objective": "Hunt Magnamalo",
+      "special": "Strong Magnamalo, guarenteed largest size 2,239.69. High chance for Friend Vouchers.",
+      "targets": [
+          ""
+      ]
+    },
+    
+  {
+    "_id": {
+      "$oid": "tbd"
+    },
+    "name": "Advanced: Born of Paradise",
+    "client": "Minoto the Hub Maiden",
+    "description": "Wind Serpent Ibushi and Thunder Serpent Narwa...in other words: the Allmother has risen once again in the Coral Palace. And judging by this existential dread I'm feeling right now, with more power than ever before... Please be careful!",
+    "map": "Coral Palace",
+    "isKey": false,
+    "questType": "Hub",
+    "game": "Monster Hunter Rise",
+    "difficulty": "8",
+    "objective": "Slay Wind Serpent Ibushi and Narwa the Allmother",
+    "special": "Ultra strong. Gives Defender Ticket 9.",
+    "targets": [
+        "Wind Serpent Ibushi",
+        "Narwa The Allmother"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "tbd"
+    },
+    "name": "Knight in Shattered Armor",
+    "client": "Senri the Mailman",
+    "description": "I've got a special quest fur-om Ghosts 'n Goblins Resurrection for ya! I need you to hunt three monsters covered in an eerie red aura. Get it done, and I'll give you the materials to forge a courageous knight's armor!",
+    "map": "Lava Caverns",
+    "isKey": false,
+    "questType": "Hub",
+    "game": "Monster Hunter Rise",
+    "difficulty": "6",
+    "objective": "Hunt all target monsters",
+    "special": "Gives Broken Knight Armor item to craft Ghosts and Goblins collab layered armor.",
+    "targets": [
+        "Rathalos",
+        "Basarios",
+        "Volvidon"
+    ]
+  }, 
+  {
+    "_id": {
+      "$oid": "tbd"
+    },
+    "name": "Soaring Desire",
+    "client": "Fashionable Young Hunter",
+    "description": "Sup! Heard you’ve been doin’ it up out there in the field. I’ve been doin’ my thing too, especially after ol’ Hanenaga taught me about the Wirebug. I'd teach you if I didn't have to do this quest... If you take care of it for me, I'll hook you up with some sick Wirebug poses!",
+    "map": "Flooded Forest",
+    "isKey": false,
+    "questType": "Hub",
+    "game": "Monster Hunter Rise",
+    "difficulty": "5",
+    "objective": "Hunt a Royal Ludroth, a Pukei-Pukei and a Bishaten",
+    "special": "Gives Wirebug Poses",
+    "targets": [
+        "Royal Ludroth",
+        "Pukei-Pukei",
+        "Bishaten"
+    ]
+  },  
+  {
+    "_id": {
+      "$oid": "tbd"
+    },
+    "name": "Kunai Ask You a Favor?",
+    "client": "Kunai Hurler Extraordinaire",
+    "description": "I have mastered the kunai! Swords? Bows? Hah! Don't need 'em! ...Well, at least, I thought I didn't until those monsters put me face down, tassets up in a cart back to camp. Avenge my bruised behind and I'll teach you my kunai-accentuated poses!",
+    "map": "Sandy Plains",
+    "isKey": false,
+    "questType": "Hub",
+    "game": "Monster Hunter Rise",
+    "difficulty": "7",
+    "objective": "Hunt a Barroth, a Rathian and a Diablos",
+    "special": "Gives Kunai Poses",
+    "targets": [
+        "Barroth",
+        "Rathian",
+        "Diablos"
+    ]
+  },  
+  {
+    "_id": {
+      "$oid": "tbd"
+    },
+    "name": "Troubled Waters",
+    "client": "Beautiful Treasure Hunter",
+    "description": "I hunt for ancient treasure that lies in the deepest rivers and oceans. Sadly, my next diving spot is swim- ming with monsters. Would you clear them out for me? If you do, I'll give you the materials to make some new layered armor.",
+    "map": "Infernal Springs",
+    "isKey": false,
+    "questType": "Hub",
+    "game": "Monster Hunter Rise",
+    "difficulty": "6",
+    "objective": "Hunt all target monsters",
+    "special": "Gives Diving Ticket, material used to craft Divers Gear layered armor",
+    "targets": [
+        "Jyuratodus",
+        "Somnacanth",
+        "Mizutsune"
+    ]
+  },  
+  {
+    "_id": {
+      "$oid": "tbd"
+    },
+    "name": "Rajang's Holiday Special",
+    "client": "Guild Master Hojo",
+    "description": "Ah, ! I have some johoho-vial news for you! After hearing tales of a distant land where they throw the merriest of parties, I was inspired to make some festive stickers! Complete my request, and they're yours! Now...hop to it-to it!",
+    "map": "Arena",
+    "isKey": false,
+    "questType": "Hub",
+    "game": "Monster Hunter Rise",
+    "difficulty": "8",
+    "objective": "Hunt all target monsters",
+    "special": "Christmas Stickers. The Great Wroggis are Fixed Size, not crowns. Rajang has a (normal) 3% chance to be a crown.",
+    "targets": [
+        "Rajang",
+        "Great Wroggi"
+    ]
+  },  
+  
+    {
+      "_id": {
         "$oid": "5e13275aa180af35ce52d100"
       },
       "name": "Arena Quest 01",
