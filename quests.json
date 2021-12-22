@@ -4271,6 +4271,171 @@
     ]
   },
   
+  {
+    "_id": {
+      "$oid": "tbd"
+    },
+    "name": "Dastardly Vile Aknosom Trio",
+    "client": "Guild Master Hojo",
+    "description": "What's wrong, !? The winter days got you feeling chilly? Well, I've got just the thing to warm your spirits! Johoho! I've made some new stickers and they're wonderfully wintery! Complete my request, and they're yours! Now...hop to it-to it!",
+    "map": "Shrine Ruins",
+    "isKey": false,
+    "questType": "Hub",
+    "game": "Monster Hunter Rise",
+    "difficulty": "5",
+    "objective": "Hunt 3 Aknosom",
+    "special": "Winter stickers. Locked large and small crown aknosom, along with a medium size one. Sizes are 1,048.25, 888.51, 758.73",
+    "targets": [
+        "Aknosom"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "tbd"
+    },
+    "name": "Wrestling with Pain",
+    "client": "Veteran Guild Clerk",
+    "description": "Ow-ow-ow... Sittin' down at work all these years has done a number on my back... Your back's gonna be busted too if you don't learn to sit right! Look at ya slouchin'! Tell you what, do this here quest and I'll teach ya all about posture!",
+    "map": "Infernal Springs",
+    "isKey": false,
+    "questType": "Hub",
+    "game": "Monster Hunter Rise",
+    "difficulty": "5",
+    "objective": "Hunt an Arzuros and a Tetranadon",
+    "special": "Slouching poses.",
+    "targets": [
+        "Arzuros",
+        "Tetranodon"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "tbd"
+    },
+    "name": "Gotta Hoard Fast!",
+    "client": "Young Two-Tailed Fox",
+    "description": "Oh no! Looks like Sonic dropped all of his rings! If you help us collect them all, I'll set you up with some materials for layered armor that will make you look just like us! And there's an extra reward if you do it really fast!",
+    "map": "Shrine Ruins",
+    "isKey": false,
+    "questType": "Hub",
+    "game": "Monster Hunter Rise",
+    "difficulty": "2",
+    "objective": "Deliver 200 Rings",
+    "special": "Gives Buddy Ring, a material to craft Sonic collab Layered armor for buddies. Quest also has an internal timer shown on screen at all times."
+  },
+  {
+    "_id": {
+      "$oid": "tbd"
+    },
+    "name": "Super Shady Look-alike",
+    "client": "Carefree Hedgehog",
+    "description": "I thought that dumb faker was following me around again, but turns out it was something else. I'm getting real bad vibes from it. Send it packing and I'll hook you up with some materials to make some sweet layered armor!",
+    "map": "Flooded Forest",
+    "isKey": false,
+    "questType": "Hub",
+    "game": "Monster Hunter Rise",
+    "difficulty": "8",
+    "objective": "Hunt a Nargacuga",
+    "special": "Gives Hunter Ring, a material to craft Sonic collab layered armor for the hunter.",
+    "targets": [
+        "Nargacuga"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "tbd"
+    },
+    "name": "USJ - Arzuros Onslaught!",
+    "client": "Dapper Crewmate up to No Good",
+    "description": "USJ presents to you a horde of Arzuros closing in like a raging tide! Ride the raging waves and claim the materials to craft Palico gear that gleams like the azure star!",
+    "map": "Red Stronghold",
+    "isKey": false,
+    "questType": "Hub",
+    "game": "Monster Hunter Rise",
+    "difficulty": "8",
+    "objective": "Defend the final gate",
+    "special": "USJ collab. Details tba",
+    "targets": [
+        "Arzuros"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "tbd"
+    },
+    "name": "USJ - Shrine Showdown!",
+    "client": "Dapper Crewmate up to No Good",
+    "description": "USJ presents to you a thrilling battle stage with a ravenous river beast, a sly mud dweller and a beast of pure malice! Leap onto the field of battle and reap materials to craft gear that gleams like the azure star!",
+    "map": "Shrine Ruins",
+    "isKey": false,
+    "questType": "Hub",
+    "game": "Monster Hunter Rise",
+    "difficulty": "8",
+    "objective": "Hunt a Tetranadon, an Almudron, and Magnamalo",
+    "special": "USJ collab. Details tba",
+    "targets": [
+        "Tetranodon",
+        "Almudron",
+        "Magnamalo"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "tbd"
+    },
+    "name": "Challenge Quest 05",
+    "client": "Master Utsushi",
+    "description": "Sup, Ace? Ready for a REAL challenge? Don't think I'm gonna go easy on ya just 'cuz you're my favorite. Nah, it's thrash or BE thrashed, if ya know what I mean. Let's see what you got!",
+    "map": "Arena",
+    "isKey": false,
+    "questType": "Hub",
+    "game": "Monster Hunter Rise",
+    "difficulty": "7",
+    "objective": "Slay a Rakna-Kadaki",
+    "special": "",
+    "targets": [
+        "Rakna-Kadaki"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "tbd"
+    },
+    "name": "Challenge Quest 06",
+    "client": "Master Utsushi",
+    "description": "Sup, Ace? Ready for a REAL challenge? Don't think I'm gonna go easy on ya just 'cuz you're my favorite. Nah, it's thrash or BE thrashed, if ya know what I mean. Let's see what you got!",
+    "map": "Frost Islands",
+    "isKey": false,
+    "questType": "Hub",
+    "game": "Monster Hunter Rise",
+    "difficulty": "7",
+    "objective": "Slay a Somnacanth, a Goss Harag, and Magnamalo",
+    "targets": [
+        "Somnacanth",
+        "Goss Harag",
+        "Magnamalo"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "tbd"
+    },
+    "name": "Challenge Quest 07",
+    "client": "Master Utsushi",
+    "description": "Sup, Ace? Ready for a REAL challenge? Don't think I'm gonna go easy on ya just 'cuz you're my favorite. Nah, it's thrash or BE thrashed, if ya know what I mean. Let's see what you got!",
+    "map": "Infernal Springs",
+    "isKey": false,
+    "questType": "Hub",
+    "game": "Monster Hunter Rise",
+    "difficulty": "8",
+    "objective": "Slay all target monsters",
+    "targets": [
+        "Apex Diablos",
+        "Apex Zinogre",
+        "Apex Mizutsune"
+    ]
+  },
+
     {
       "_id": {
         "$oid": "5e13275aa180af35ce52d100"
