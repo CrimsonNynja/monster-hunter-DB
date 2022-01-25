@@ -4767,7 +4767,9 @@
       "name": "Kulu-Ya-Ku",
       "type": "Bird Wyvern",
       "isLarge": true,
-      "ailments": "Stun",
+      "ailments": [
+        "Stun"
+      ],
       "weakness": [
         "Water"
       ],
