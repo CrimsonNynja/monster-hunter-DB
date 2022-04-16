@@ -3747,7 +3747,7 @@
     },
     {
       "_id": {
-        "$oid": "608fc50ddc2d1ce102db5e14"
+        "$oid": "608fc50ddc2d1ce102db5e15"
       },
       "name": "Challenge Quest 07",
       "client": "Master Utsushi",
@@ -3900,6 +3900,95 @@
       "targets": [
         "Apex Diablos",
         "Apex Diablos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50cdc2d85e1a2ae5814"
+      },
+      "name": "Gales of Ibushi Blow Again",
+      "client": "Guild Master Hojo",
+      "description": "Worrying news indeed... Ibushi has been spotted in the Coral Palace. Fortunately, it has yet to meet up with its queen, but I have a terrible feeling... Hunter, you must leap into action at once. We cannot allow them to reunite!",
+      "map": "Coral Palace",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Slay Wind Serpent Ibushi",
+      "targets": [
+        "Wind Serpent Ibushi"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50cdc2d85e1a2ac5874"
+      },
+      "name": "Clouds of Narwa Rumble Again",
+      "client": "Guild Master Hojo",
+      "description": "Worrying news indeed... Narwa has been spotted in the Coral Palace. Fortunately, it has yet to meet up with its king, but I have a terrible feeling... Hunter, you must leap into action at once. We cannot allow them to reunite!",
+      "map": "Coral Palace",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Slay Thunder Serpent Narwa",
+      "targets": [
+        "Thunder Serpent Narwa"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50cdc2d85f1a2ac5814"
+      },
+      "name": "Knight in Shattered Armor",
+      "client": "Senri the Mailman",
+      "description": "I've got a special quest fur-om Ghosts 'n Goblins Resurrection for ya! I need you to hunt three monsters covered in an eerie red aura. Get it done, and I'll give you the materials to forge a courageous knight's armor!",
+      "map": "Lava Caverns",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter Rise",
+      "difficulty": "6",
+      "objective": "Hunt all target monsters",
+      "targets": [
+        "Volvidon",
+        "Basarios",
+        "Rathalos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50cdc2d95e1a2ac5814"
+      },
+      "name": "Apex Arzuros Emergency",
+      "client": "hunter's Guild Researcher",
+      "description": "Urgent notice from the Hunter's Guild: Unique Apex sighted, requesting its elimination ASAP. Monster appears to be far more dangerous than any Apex to date. Retreat if deemed too dangerous.",
+      "map": "Flooded Forest",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Slay an Apex Arzuros",
+      "targets": [
+        "Apex Arzuros"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50cdc2d85e1a2a85814"
+      },
+      "name": "Soaring Desire",
+      "client": "Fashionable Young Hunter",
+      "description": "Sup! Heard you've been doin' it up out there in the field. I've been doin' my thing too, especially after ol' Hanenaga taught me about the Wirebug. I'd teach you if I didn't have to do this quest... If you take care of it for me, I'll hook you up with some sick Wirebug poses!",
+      "map": "Flooded Forest",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter Rise",
+      "difficulty": "5",
+      "objective": "Slay a Royal Ludroth, a Pukei-Pukei and a Bishaten",
+      "targets": [
+        "Royal Ludroth",
+        "Pukei-Pukei",
+        "Bishaten"
       ]
     },
     {
@@ -8928,7 +9017,7 @@
       "questType": "Optional",
       "game": "Monster Hunter World",
       "difficulty": "MR4",
-      "objective": "Hunt all target monsterss",
+      "objective": "Hunt all target monsters",
       "targets": [
         "Odogaron",
         "Ebony Odogaron"
