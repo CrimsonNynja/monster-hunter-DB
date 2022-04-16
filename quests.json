@@ -3660,6 +3660,42 @@
     },
     {
       "_id": {
+        "$oid": "608fc50ddc2d8ce7027b5114"
+      },
+      "name": "Kunai Ask You a Favor?",
+      "client": "Kunai Hurler Extraordinaire",
+      "description": "I have mastered the kunai! Swords? Bows? Hah! Don't need 'em! ...Well, at least, I thought I didn't until those monsters put me face down, tassets up in the a cart back to camp. Avenge my bruise behind and I'll teach you my kunai-accentuated poses!",
+      "map": "Sandy Plains",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Hunt a Barroth, a Rathian and a Diablos",
+      "targets": [
+        "Barroth",
+        "Rathalos",
+        "Diablos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8cea027b5114"
+      },
+      "name": "Super Shady Look-alike",
+      "client": "Carefree Hedgehog",
+      "description": "I thought that dumb faker was following me around again, but turns out it was something else. I'm getting real bad vibes from it. Send it packing and I'll hook you up with some materials to make some sweet layered armor!",
+      "map": "Flooded Forest",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Hunt a Nargacuga",
+      "targets": [
+        "Nargacuga"
+      ]
+    },
+    {
+      "_id": {
         "$oid": "608fc50ddc2d8ce102ab5114"
       },
       "name": "Challenge Quest 02",
