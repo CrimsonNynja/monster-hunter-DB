@@ -3622,6 +3622,95 @@
     },
     {
       "_id": {
+        "$oid": "608fc50ddced8ce102ab5114"
+      },
+      "name": "Challenge Quest 03",
+      "client": "Master Utsushi",
+      "description": "Sup, Ace? Ready for a REAL challenge? Don't think I'm gonna go easy on ya just 'cuz you're my favorite. Nah, it's thrash or BE thrashed, if ya know what I mean. Let's see what you got!",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Challenge",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Slay a Tigrex",
+      "targets": [
+        "Tigrex"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce102db5114"
+      },
+      "name": "Challenge Quest 04",
+      "client": "Master Utsushi",
+      "description": "Sup, Ace? Ready for a REAL challenge? Don't think I'm gonna go easy on ya just 'cuz you're my favorite. Nah, it's thrash or BE thrashed, if ya know what I mean. Let's see what you got!",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Challenge",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Slay a Magnamalo",
+      "targets": [
+        "Magnamalo"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d1ce102db5114"
+      },
+      "name": "Challenge Quest 05",
+      "client": "Master Utsushi",
+      "description": "Sup, Ace? Ready for a REAL challenge? Don't think I'm gonna go easy on ya just 'cuz you're my favorite. Nah, it's thrash or BE thrashed, if ya know what I mean. Let's see what you got!",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Challenge",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Slay a Rakna-Kadaki",
+      "targets": [
+        "Rakna-Kadaki"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d1ce102db5e14"
+      },
+      "name": "Challenge Quest 06",
+      "client": "Master Utsushi",
+      "description": "Sup, Ace? Ready for a REAL challenge? Don't think I'm gonna go easy on ya just 'cuz you're my favorite. Nah, it's thrash or BE thrashed, if ya know what I mean. Let's see what you got!",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Challenge",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Slay a Somnacanth, a Goss Harag, and Magnamalo",
+      "targets": [
+        "Somnacanth",
+        "Goss Harag",
+        "Magnamalo"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d1ce102db5e14"
+      },
+      "name": "Challenge Quest 07",
+      "client": "Master Utsushi",
+      "description": "Sup, Ace? Ready for a REAL challenge? Don't think I'm gonna go easy on ya just 'cuz you're my favorite. Nah, it's thrash or BE thrashed, if ya know what I mean. Let's see what you got!",
+      "map": "Infernal Springs",
+      "isKey": false,
+      "questType": "Challenge",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Slay all target monsters",
+      "targets": [
+        "Apex Zinogre",
+        "Apex Mizutsune",
+        "Apex Diablos"
+      ]
+    },
+    {
+      "_id": {
         "$oid": "608fc50ddc2d8ce402ab5114"
       },
       "name": "Challenge Quest 03",
