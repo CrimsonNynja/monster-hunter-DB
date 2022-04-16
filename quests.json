@@ -3551,6 +3551,25 @@
       "_id": {
         "$oid": "608fc50ddc2d8ce1077b511f"
       },
+      "name": "Rampage: Kamura Night Hunt",
+      "client": "Fugen the Elder (Urgent)",
+      "description": "A Rampage unlike any before is hurtlin' towards the village, and that fiend Ibushi is leadin' it! Be on the lookout for Magnamalo; there's a good change it'll show up for a snack. It's up to you to protect the village! Go get to it!",
+      "map": "Red Stronghold",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Slay Wind Serpent Ibushi",
+      "targets": [
+        "Rathian",
+        "Tigrex",
+        "Wind Serpent Ibushi"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1077c511f"
+      },
       "name": "Rampage: Enchanting Parade",
       "client": "On-Tour Idol",
       "description": "Oh my Gog! Those monsters are sooooo cute! But why do they have to be so mean? *pout* If you go out and teach them to behave, I'll teach YOU a new gesture. It's my signature move so I know you'll just love it!",
@@ -3564,6 +3583,61 @@
         "Wroggi",
         "Mizutsune",
         "Apex Mizutsune"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce10771511f"
+      },
+      "name": "USJ - Arzuros Onslaught!",
+      "client":"Dapper Crewmate up to No Good",
+      "description": "USJ presents to you a horde of Arzuros closing in like a raging tide! Ride the raging waves and claim the materials to craft Palico gear that gleams like the azure star!",
+      "map": "Red Stronghold",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Defend the final gate",
+      "targets": [
+        "Arzuros",
+        "Bishaten",
+        "Apex Arzuros"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce7077c511f"
+      },
+      "name": "A Good old-Fashioned Rampage",
+      "client": "Hunter Historian",
+      "description": "M-My goodness! All the terrors that hunters fought off in the past have shown up in this Rampage! You're a fresh-faced hunter how, but you'll go down in history if you can defeat them. And if you do, I'll give you some materials to make some layered armor!",
+      "map": "Red Stronghold",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Defend the final gate",
+      "targets": [
+        "Rathalos",
+        "Zinogre"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce1b77c511f"
+      },
+      "name": "Rampage: Rampaging Rajang",
+      "client": "Kamura Village Lookout",
+      "description": "Attention! Rampage incoming! All hunters report to the Stronghold -- Wait wait! You! Come back here! Who taught you to run like....that!? You look like a Gargwa trying to lay an egg! Look, I gotta go warn Kamura, but if you survive this, I'll show you my running techniques.",
+      "map": "Red Stronghold",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Defend the final gate",
+      "targets": [
+        "Rajang",
+        "Rajang"
       ]
     },
     {
