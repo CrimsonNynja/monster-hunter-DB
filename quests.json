@@ -3879,6 +3879,20 @@
     },
     {
       "_id": {
+        "$oid": "608fc50ddc2d8cf10aab5114"
+      },
+      "name": "Gotta Hoard Fast!",
+      "client": "Young Two-Tailed Fox",
+      "description": "Oh no! Looks like Sonic dropped all of his rings! If you help us collect them all, I'll set you up with some materials for layed armor that will make you look just like us! And there's an extra reward if you do it really fast!",
+      "map": "Shrine Ruins",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter Rise",
+      "difficulty": "2",
+      "objective": "Deliver 200 Rings"
+    },
+    {
+      "_id": {
         "$oid": "608fc50ddc2d8ce1017b0113"
       },
       "name": "Beast of the Shadows",
