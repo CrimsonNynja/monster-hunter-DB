@@ -3478,6 +3478,25 @@
     },
     {
       "_id": {
+        "$oid": "608fc50ddc2d8ce1097b0112"
+      },
+      "name": "Arena 06",
+      "client": "Master Utsushi",
+      "description": "Yo, Ace! Ready for some awesome Arena action!? Prove your mettle using the equipment provided here!",
+      "map": "Lava Caverns",
+      "isKey": false,
+      "questType": "Arena",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Slay a Volvidon, a Basarios, and a Bazelgeuse",
+      "targets": [
+        "Volvidon",
+        "Basarios",
+        "Bazelgeuse"
+      ]
+    },
+    {
+      "_id": {
         "$oid": "608fc50ddc2d8ce1077b0113"
       },
       "name": "Bird Wyverns of Ruin?",
