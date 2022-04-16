@@ -3478,25 +3478,6 @@
     },
     {
       "_id": {
-        "$oid": "608fc50ddc2d8ce1097b0112"
-      },
-      "name": "Arena 06",
-      "client": "Master Utsushi",
-      "description": "Yo, Ace! Ready for some awesome Arena action!? Prove your mettle using the equipment provided here!",
-      "map": "Lava Caverns",
-      "isKey": false,
-      "questType": "Arena",
-      "game": "Monster Hunter Rise",
-      "difficulty": "7",
-      "objective": "Slay a Volvidon, a Basarios, and a Bazelgeuse",
-      "targets": [
-        "Volvidon",
-        "Basarios",
-        "Bazelgeuse"
-      ]
-    },
-    {
-      "_id": {
         "$oid": "608fc50ddc2d8ce1077b0113"
       },
       "name": "Bird Wyverns of Ruin?",
@@ -3707,40 +3688,6 @@
         "Apex Zinogre",
         "Apex Mizutsune",
         "Apex Diablos"
-      ]
-    },
-    {
-      "_id": {
-        "$oid": "608fc50ddc2d8ce402ab5114"
-      },
-      "name": "Challenge Quest 03",
-      "client": "Master Utsushi",
-      "description": "Sup, Ace? Ready for a REAL challenge? Don't think I'm gonna go easy on ya just 'cuz you're my favorite. Nah, it's thrash or BE thrashed, if ya know what I mean. Let's see what you got!",
-      "map": "Arena",
-      "isKey": false,
-      "questType": "Challenge",
-      "game": "Monster Hunter Rise",
-      "difficulty": "7",
-      "objective": "Slay a Tigrex",
-      "targets": [
-        "Tigrex"
-      ]
-    },
-    {
-      "_id": {
-        "$oid": "608fc50ddc2d8cea02ab5114"
-      },
-      "name": "Challenge Quest 04",
-      "client": "Master Utsushi",
-      "description": "Sup, Ace? Ready for a REAL challenge? Don't think I'm gonna go easy on ya just 'cuz you're my favorite. Nah, it's thrash or BE thrashed, if ya know what I mean. Let's see what you got!",
-      "map": "Arena",
-      "isKey": false,
-      "questType": "Challenge",
-      "game": "Monster Hunter Rise",
-      "difficulty": "7",
-      "objective": "Slay a Magnamalo",
-      "targets": [
-        "Magnamalo"
       ]
     },
     {
