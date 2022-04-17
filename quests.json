@@ -3679,6 +3679,404 @@
     },
     {
       "_id": {
+        "$oid": "608fc50ddc2d8ce7027c5114"
+      },
+      "name": "Apex Rathian Emergency",
+      "client": "Hunter's Guild Researcher",
+      "description": "Urgent notice from the Hunter's Guild: Unique Apex sighted, requesting its elimination ASAP. Monster appears to be far more dangerous than any Apex to date. Retreat if deemed too dangerous.",
+      "map": "Lava Caverns",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Slay an Apex Rathian",
+      "targets": [
+        "Apex Rathian"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce7017c5114"
+      },
+      "name": "Troubled Waters",
+      "client": "Beautiful Tresure Hunter",
+      "description": "I hunt for ancient tresure that lies in the deepest rivers and oceans. Sadly, my next diving spot is swimming with monsters. Would you clear them out for me? If you o, I'll give you the materials to make some new layered armor.",
+      "map": "Infernal Springs",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter Rise",
+      "difficulty": "6",
+      "objective": "Hunt all target monsters",
+      "targets": [
+        "Jyuratodus",
+        "Somnacanth",
+        "Mizutsune"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce7017c5714"
+      },
+      "name": "Rajang's Holiday Special",
+      "client": "Guild Master Hojo",
+      "description": "Ah, Hunter! I have some johoho-vial news for you! After hearing tales of a distant land where they throw the merriest of parties, I was inspired to make some festive stickers! Complete my request, and they're yours! Now...hop to it-to it!",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Hunt all target monsters",
+      "targets": [
+        "Great Wroggi",
+        "Great Wroggi",
+        "Rajang"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc2d8ce70c7c5714"
+      },
+      "name": "Heart of an Apex",
+      "client": "Fugen the Elder",
+      "description": "Hey, Squirt! We've got reports of a buncha Apex toughies gatherin' in one spot! Now normally these baddies would put a hunter in the dirt, but my zenny's on you. Put THEM in the dirt an these Guild Card titles are yours! Bwahaha! Now go get to it!",
+      "map": "Infernal Springs",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Slay all target monsters",
+      "targets": [
+        "Apex Arzuros",
+        "Apex Rathian",
+        "Apex Diablos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc9d8ce7017c5714"
+      },
+      "name": "Apex Mizustune Emergency",
+      "client": "Hunter's Guild Researcher",
+      "description": "Urgent notice from the Hunter's Guild: Unique Apex sighted, requesting its elimination ASAP. Monster appears to be far more dangerous than any Apex to date. Retreat if deemed too dangerous.",
+      "map": "Shrine Ruins",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Slay an Apex Mizutsune",
+      "targets": [
+        "Apex Mizutsune"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc9d80e7017c5714"
+      },
+      "name": "Nothing to Sneeze At!",
+      "client": "Sniffling Scholar",
+      "description": "Ah...ah...ACHOO! Sorry... *sniff* Ugh... Caught a cold somewhere between the Frost Islands and Lava Caverns... If I'm ever gonna study Bisha...AH...ACHOOO! *sniff* Bishaten, I'll need your help. In return, I'll teach you some poses that vividly express my misery...",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter Rise",
+      "difficulty": "6",
+      "objective": "Hunt 2 Bishaten",
+      "targets": [
+        "Bishaten",
+        "Bishaten"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc9d80e7817c5714"
+      },
+      "name": "Blazin' Soul of a Warrior",
+      "client": "Fugen the Elder",
+      "description": "They say the soul of a true warrior burns bright like a fire, blazin' a path for the next generation. Magnamalo's soul is a scorchin' inferno of hatred. Tormented by its insatiable hunger... Hunter of Kumura! Go forth and show us whose soul burns brightest!",
+      "map": "Lava Caverns",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Hunt a Magnamalo",
+      "targets": [
+        "Magnamalo"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc9d8ce7017c0714"
+      },
+      "name": "Apex Rathalos Emergency",
+      "client": "Hunter's Guild Researcher",
+      "description": "Urgent notice from the Hunter's Guild: Unique Apex sighted, requesting its elimination ASAP. Monster appears to be far more dangerous than any Apex to date. Retreat if deemed too dangerous.",
+      "map": "Shrine Ruins",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Slay an Apex Rathalos",
+      "targets": [
+        "Apex Rathalos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc00ddc9d8ce7017c5714"
+      },
+      "name": "Frost Bites",
+      "client": "Stranded Safari Member",
+      "description": "Help us! HELP US! Anyone! Our safari has been surrounded by monsters, and now we're stuck out in the cold! Good thing I wore something warm and I'll give you some materials to make your very own if you get those monsters to scram!",
+      "map": "Frost Islands",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Hunt a Lagombi, a Barioth, and a Goss Harag",
+      "targets": [
+        "Lagombi",
+        "Barioth",
+        "Goss Harag"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc9d6ce7017c5714"
+      },
+      "name": "Advanced: Born of Paradise",
+      "client": "Minoto the Hub Maiden",
+      "description": "Wind Serpent Ibushi and Thunder Serpent Narwa...in other words: the Allmother has risen once again in the Coral Palace. And judging by this existential dread I'm feeling right now, with more power than ever before... Please be careful!",
+      "map": "Coral Palace",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Slay Wind Serpent Ibushi and Narwa the Allmother",
+      "targets": [
+        "Wind Serpent Ibushi",
+        "Narwa the Allmother"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "608fc50ddc9d6ce7017c3714"
+      },
+      "name": "Dastardly Vile Aknosom Trio",
+      "client": "Guild Master Hojo",
+      "description": "What's wrong, Hunter? The winter days got you feeling chilly? Well, I've got just the thing to warm your spirits! Johoho! I've made some new stickers and they're wonderfully wintery! Complete my request, and they're yours! Now...hop to it-to it!",
+      "map": "Shrine Ruins",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter Rise",
+      "difficulty": "5",
+      "objective": "Hunt 3 Aknosom",
+      "targets": [
+        "Aknosom",
+        "Aknosom",
+        "Aknosom"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "6081c50ddc9d6ce7017c3714"
+      },
+      "name": "Apex Diablos Emergency",
+      "client": "Hunter's Guild Researcher",
+      "description": "Urgent notice from the Hunter's Guild: Unique Apex sighted, requesting its elimination ASAP. Monster appears to be far more dangerous than any Apex to date. Retreat if deemed too dangerous.",
+      "map": "Sandy Plains",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Slay and Apex Diablos",
+      "targets": [
+        "Apex Diablos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "6081c50ddc4d6ce7017c3714"
+      },
+      "name": "Wrestling with Pain",
+      "client": "Veteran Guild Clerk",
+      "description": "Ow-ow-ow... Sittin' down at work all these years has done a number on my back... Your back's gonna be busted too if you don't learn to sit right! Look at ya slouchin'! Tell you what, do this here quest and I'll teach ya all about posture!",
+      "map": "Infernal Springs",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter Rise",
+      "difficulty": "5",
+      "objective": "Hunt an Arzuros and a Tetranadon",
+      "targets": [
+        "Arzuros",
+        "Tetranadon"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "6081c50d8c4d6ce7017c3714"
+      },
+      "name": "USJ - Shrine Showdown!",
+      "client": "Dapper Crewmate up to No Good",
+      "description": "USJ presents to you a thrilling battle stage with a ravenous river beast, a sly mud dweller and a beast of pure malice! Leap onto the field of battle and reap materials to craft gear that gleams like the azure star!",
+      "map": "Shrine Ruins",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Hunt a Tetranadon, an Almudron, and Magnamalo",
+      "targets": [
+        "Tetranadon",
+        "Almudron",
+        "Magnamalo"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "6081c50d8c436ce7017c3714"
+      },
+      "name": "Advance: Crimson Calamity",
+      "client": "Hinoa the Quest Maiden",
+      "description": "The ancient tomes say it is an evil star -- a peculiar comet that glows an ominous red. Each coming day, the crimson hue grows fiercer and soon threatens to sunder the very earth. Only you hold the power to bring down this evil from the sky.",
+      "map": "Infernal Springs",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Slay a Crimson Glow Valstrax",
+      "targets": [
+        "Crimson Glow Valstrax"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "6081c50d8c436ce7f17c3714"
+      },
+      "name": "Princesses' Banquet",
+      "client": "Guild Master Hojo",
+      "description": "Ah, Hunter! There's a custom in a far-off land of giving sweets to express one's feelings. I thought it was such a nice idea that I made stickers about it! If you complete my request, I'll give them to you. Now, hop to it-to it!",
+      "map": "Infernal Springs",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Hunt all target monsters",
+      "targets": [
+        "Rathian",
+        "Somnacanth",
+        "Rakna-Kadaki"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "6081c50dac436ce7017c3714"
+      },
+      "name": "Apex Zinogre Emergency",
+      "client": "Hunter's Guild Researcher",
+      "description": "Urgent notice from the Hunter's Guild: Unique Apex sighted, requesting its elimination ASAP. Monster appears to be far more dangerous than any Apex to date. Retreat if deemed too dangerous.",
+      "map": "Flooded Forest",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Slay an Apex Zinogre",
+      "targets": [
+        "Apex Zinogre"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "6081c50d8c436ce70a7c3714"
+      },
+      "name": "Monster Maniacs",
+      "client": "Lovely ☆ Idol",
+      "description": "I've met some crazy fans before, but these gues are foaming at the mouth to get an autograph! I know it's hard to resist my charm, but I need security to get rid of them, pronto. When they're gona, I'll teach you some super cutesy poses!",
+      "map": "Lava Caverns",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Hunt a Volvidon, an Anjanath and a Tigrex",
+      "targets": [
+        "Volvidon",
+        "Anjanath",
+        "Tigrex"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "6081c50dfc436ce70a7c3714"
+      },
+      "name": "Zin an Yang",
+      "client": "Research Airship Gal",
+      "description": "Oh, great! JUST GREAT. Where'd that stupid paper go!? No need to panic -- why should I panic? *ahem* Could you, um, maybe take care of the quest for me? I'll give you some materials to make layered armor if you do! And... could you keep this just between us?",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Hunt a Zinogre and a Khezu",
+      "targets": [
+        "Zinogre",
+        "Khezu"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "6081c50dfc436ce10a7c3714"
+      },
+      "name": "Heart of Might",
+      "client": "Fugen the Elder",
+      "description": "Hey, Squirt. We got some of the mightiest elder dragons out in the Infernal Springs. Are they too mightly for ya to brawl with? Only one way to find out. Take 'em down and I'll give ya some new titles. Sound good? Now get to it!",
+      "map": "Infernal Springs",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Slay all target monsters",
+      "targets": [
+        "Chameleos",
+        "Kushala Daora",
+        "Teostra"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "6081c50dfc436ce70a7a3714"
+      },
+      "name": "The Tiniest Snowbaron!",
+      "client": "Guild Master Hojo",
+      "description": "Ah, Hunter! Our little Komitsu asked me to illustrate some Bombadgy pictures for her. She loved them so much, I turned them into stickers! Johoho! Complete my request, and they're yours! Now...hop to it-to it!",
+      "map": "Arena",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter Rise",
+      "difficulty": "4",
+      "objective": "Hunt a Lagombi",
+      "targets": [
+        "Lagombi"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "6081c50dfc4a6ce70a7c3714"
+      },
+      "name": "Memories of That Day",
+      "client": "Minoto the Hub Maiden",
+      "description": "(It's actually a request from a certain tailor, but it's written by Minoto...) \"The reward is material for layered armor. And, uh, the armor is kind of...adorable, so...after you make it, I think I'll order another in secret...\"",
+      "map": "Shrine Ruins",
+      "isKey": false,
+      "questType": "Event",
+      "game": "Monster Hunter Rise",
+      "difficulty": "7",
+      "objective": "Hunt a Great Izuchi, a Mizutsune, and Magnamalo",
+      "targets": [
+        "Great Izuchi",
+        "Mizutsune",
+        "Magnamalo"
+      ]
+    },
+    {
+      "_id": {
         "$oid": "608fc50ddc2d8cea027b5114"
       },
       "name": "Super Shady Look-alike",
