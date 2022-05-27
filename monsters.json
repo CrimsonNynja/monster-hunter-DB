@@ -310,7 +310,7 @@
       "_id": {
         "$oid": "5e1424a48a80af35ce52d6ec"
       },
-      "name": "Amastu",
+      "name": "Amatsu",
       "type": "Elder Dragon",
       "isLarge": true,
       "elements": [
