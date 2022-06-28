@@ -7206,6 +7206,9 @@
       "name": "Scorned Magnamalo",
       "type": "Fanged Wyvern",
       "isLarge": true,
+      "ailments": [
+        "Hellfireblight"
+      ],
       "games": [
         {
           "game": "Monster Hunter Rise",
