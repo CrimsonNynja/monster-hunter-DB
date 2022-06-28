@@ -780,6 +780,10 @@
         {
           "game": "Monster Hunter Stories 2",
           "image": "MHST2-Astalos_Icon.png"
+        },
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Astalos_Icon.png"
         }
       ]
     },
@@ -2243,6 +2247,10 @@
         {
           "game": "Monster Hunter Stories 2",
           "image": "MHST2-Daimyo_Hermitaur_Icon.png"
+        },
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Daimyo_Hermitaur_Icon.png"
         }
       ]
     },
@@ -3001,6 +3009,10 @@
           "game": "Monster Hunter World",
           "image": "MHWI-Furious_Rajang_Icon.png",
           "info": "A Rajang variant covered in golden fur. Utilizes severe ranged and wall-based attacks. It enters a glowing golden state when enraged."
+        },
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Furious_Rajang_Icon.png"
         }
       ]
     },
@@ -3590,6 +3602,10 @@
           "image": "MH4U-Gore_Magala_Icon.png",
           "info": "A bizarre wyvern that, when threatened, scatters pollen-like scales that heighten its own senses while causing detrimental effects to any other creatures that inhale them. As elusive as it is mysterious.",
           "danger": "5"
+        },
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Gore_Magala_Icon.png"
         }
       ]
     },
@@ -7131,6 +7147,10 @@
           "game": "Monster Hunter Stories 2",
           "image": "MHST2-Seregios_Icon.png",
           "info": "Flying Wyvеrn known for its lustrous goldеn scalеs. Its scalеs can bе launchеd at prеy in high-spееd attacks."
+        },
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Seregios_Icon.png"
         }
       ]
     },
@@ -7160,6 +7180,10 @@
           "image": "MH4U-Shagaru_Magala_Icon.png",
           "info": "The distinctive radiant light of the mature Gore Magala has been seen in the Sanctuary of Heaven's Mount. Some believe Shagaru Magala was the \"foul wind that withered a mountain,\" a calamity spoken of in ancient texts.",
           "danger": "6"
+        },
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Shagaru_Magala_Icon.png"
         }
       ]
     },
@@ -7283,6 +7307,10 @@
           "image": "MHGen-Shogun_Ceanataur_Icon.png",
           "info": "A large Carapaceon with a giant monster's skull on its back. Its long, sharp pincers allow it to pierce volcanic bedrock and travel along ceilings. Sometimes, a precious and valuable pearl can be found inside its shell.",
           "danger": "4"
+        },
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Shogun_Ceanataur_Icon.png"
         }
       ]
     },
