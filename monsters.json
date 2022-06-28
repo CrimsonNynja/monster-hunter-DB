@@ -789,6 +789,26 @@
     },
     {
       "_id": {
+        "$oid": ""
+      },
+      "name": "Aurora Somnacanth",
+      "type": "Leviathan",
+      "isLarge": true,
+      "elements": [
+        "Ice"
+      ],
+      "ailments": [
+        "Iceblight"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Aurora_Somnacanth_Icon.png"
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e15604e8a80af35ce52d73b"
       },
       "name": "Azure Rathalos",
@@ -1396,6 +1416,26 @@
           "image": "MHGen-Blangonga_Icon.png",
           "info": "Leader of a Blango pack, it is twice as large and recognized by its giant fangs and whiskers. It sends its pack to attack any trespassers. Its jumping power allows it great mobility in its home range of the Arctic Ridge.",
           "danger": "4"
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "name": "Blood Orange Bishaten",
+      "type": "Fanged Beast",
+      "isLarge": true,
+      "elements": [
+        "Fire"
+      ],
+      "ailments": [
+        "Fireblight"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Blood_Orange_Bishaten_Icon.png"
         }
       ]
     },
@@ -2806,6 +2846,30 @@
     },
     {
       "_id": {
+        "$oid": ""
+      },
+      "name": "Espinas",
+      "type": "Flying Wyvern",
+      "isLarge": true,
+      "elements": [
+        "Fire"
+      ],
+      "ailments": [
+        "Poison",
+        "Paralysis"
+      ],
+      "weakness": [
+        "Ice"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Espinas.png"
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e1564268a80af35ce52d741"
       },
       "name": "Fatalis",
@@ -3018,6 +3082,20 @@
     },
     {
       "_id": {
+        "$oid": ""
+      },
+      "name": "Gaismagorm",
+      "type": "Elder Dragon",
+      "isLarge": true,
+      "games": [
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Gaismagorm.png"
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e15c7f98a80af35ce52d7b5"
       },
       "name": "Gajalaka",
@@ -3093,6 +3171,28 @@
         {
           "game": "Monster Hunter Stories 2",
           "image": "MHST2-Gammoth_Icon.png"
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "name": "Garangolm",
+      "type": "Fanged Beast",
+      "isLarge": true,
+      "elements": [
+        "Fire",
+        "Water"
+      ],
+      "ailments": [
+        "Fireblight",
+        "Waterblight"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Garangolm.png"
         }
       ]
     },
@@ -5171,6 +5271,27 @@
     },
     {
       "_id": {
+        "$oid": ""
+      },
+      "name": "Lunagaron",
+      "type": "Fanged Wyvern",
+      "isLarge": true,
+      "elements": [
+        "Ice"
+      ],
+      "ailments": [
+        "Iceblight",
+        "Stun"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Lunagaron_Icon.png"
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e1454d98a80af35ce52d720"
       },
       "name": "Lunastra",
@@ -5211,6 +5332,26 @@
           "image": "MHGen-Maccao_Icon.png",
           "info": "Colorful red and green bird wyverns that live in large packs, they can be found mostly in the Jurassic Frontier. Though they attack prey aggressively with their strong legs, they are known to flee once their leader is in danger.",
           "danger": "2"
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "name": "Magma Almudron",
+      "type": "Leviathan",
+      "isLarge": true,
+      "elements": [
+        "Fire"
+      ],
+      "ailments": [
+        "Fireblight"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Magma_Almudron_Icon.png"
         }
       ]
     },
@@ -5289,6 +5430,27 @@
           "image": "MHGen-Malfestio_Icon.png",
           "info": "A bird wyvern which is most at home in the dark. It catches prey with its wings and talons. Its pivoting neck is characteristic, and it's worth a look to see it turned completely around to look behind itself. Scales in its wings can scatter a pollen that can cause confuse its foes.",
           "danger": "4"
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "name": "Malzeno",
+      "type": "Elder Dragon",
+      "isLarge": true,
+      "elements": [
+        "Dragon"
+      ],
+      "ailments": [
+        "Bloodblight",
+        "Dragonblight"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Malzeon_Icon.png"
         }
       ]
     },
@@ -6227,6 +6389,28 @@
     },
     {
       "_id": {
+        "$oid": ""
+      },
+      "name": "Pyre Rakna-Kadaki",
+      "type": "Temnoceran",
+      "isLarge": true,
+      "elements": [
+        "Fire"
+      ],
+      "ailments": [
+        "Fireblight",
+        "Blastblight",
+        "Webbed"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Pyre_Rakna-Kadaki_Icon.png"
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e15823c8a80af35ce52d778"
       },
       "name": "Qurupeco",
@@ -7012,6 +7196,20 @@
           "game": "Monster Hunter World",
           "image": "MHWI-Scarred_Yian_Garuga_Icon.png",
           "info": "A tempered Yian Garuga that has survived a grueling battle with just a scar on its head. Be careful of its successive breath attacks."
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "name": "Scorned Magnamalo",
+      "type": "Fanged Wyvern",
+      "isLarge": true,
+      "games": [
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Scorned_Magnamalo_Icon.png",
         }
       ]
     },
