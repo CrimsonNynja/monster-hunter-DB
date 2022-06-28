@@ -172,7 +172,7 @@
       "games": [
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Aknosom_Icon.png",
+          "image": "MHR-Aknosom_Icon.png",
           "info": "When this huge Bird Wyvern stands on one leg, its peculiar collar gives it the appearance of a monstrous parasol. It is fiercely territorial, and whenever it finds intruders, it spreads its wings and unfolds the eye-like crest on its head to terrifying effect.",
           "danger": "2"
         }
@@ -247,7 +247,7 @@
       "games": [
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Almudron_Icon.png",
+          "image": "MHR-Almudron_Icon.png",
           "info": "As its name implies, Almudron spends a great deal of time lurking in mud - at least until it emerges to smother approaching prey. From its tail oozes a strange golden fluid, which Almudron uses to dissolve the ground beneath its prey, arresting them in a mire so that it can drag them under. When enraged, it produces more fluid, turning the mud golden. When you see gold, watch out!",
           "danger": "7"
         }
@@ -298,7 +298,7 @@
         },
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Altaroth_Icon.png",
+          "image": "MHR-Altaroth_Icon.png",
           "info": "Insects that widely inhabit many areas. They absorb fruit, mushrooms, and honey, and then carry them back to their nest. Materials can thus be collected from their swollen abdomens, whose color is related to what they're carrying."
         },
         {
@@ -382,7 +382,7 @@
         },
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Anjanath_Icon.png",
+          "image": "MHR-Anjanath_Icon.png",
           "info": "This belligerent monster will attack anything without the hesitation. The membrane along its tail fans out when its provoked - a behavior theorized to be either an act of intimiation or thermoregulation, as it has been known to do so when it breathes fire.",
           "danger": "6"
         },
@@ -481,7 +481,7 @@
       "games": [
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Apex_Arzuros_Icon.png",
+          "image": "MHR-Apex_Arzuros_Icon.png",
           "info": "An Arzuros so mighty, it was crowned an Apex. It is eternally possessed by wrath and terror, possibly due to the myriad wounds that cover its body. Its forelegs are massive, deft removers of any who'd stand in their way. The call of an Apex unleashes its tortured anger on nearby beasts, driving them into a frenzy.",
           "danger": "8"
         }
@@ -503,7 +503,7 @@
       "games": [
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Apex_Diablos_Icon.png",
+          "image": "MHR-Apex_Diablos_Icon.png",
           "info": "A Diablos so mighty, it was crowned an Apex. It is eternally possessed by wrath and terror, possibly due to the myriad wounds that cover its body. Its supremely developed horns add to the lethality of its charge. The call of an Apex unleashes its tortured anger on nearby beasts, driving them into a frenzy.",
           "danger": "10"
         }
@@ -530,7 +530,7 @@
       "games": [
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Apex_Mizutsune_Icon.png",
+          "image": "MHR-Apex_Mizutsune_Icon.png",
           "info": "A Mizutsune so mighty, it was crowned an Apex. It is eternally possessed by wrath and terror, possibly due to the myriad wounds that cover its body. Its bubbles and huge tail have no trouble sending foes packing. The call of an Apex unleashes its tortured anger on nearby beasts, driving them into a frenzy.",
           "danger": "9"
         }
@@ -558,7 +558,7 @@
       "games": [
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Apex_Rathalos_Icon.png",
+          "image": "MHR-Apex_Rathalos_Icon.png",
           "info": "A Rathalos so mighty, it was crowned an Apex. It is eternally possessed by wrath and terror, possibly due to the myriad wounds that cover its body. Its every breath releases flaming jets that singe the very air. The call of an Apex unleashes its tortured anger on nearby beasts, driving them into a frenzy.",
           "danger": "9"
         }
@@ -585,7 +585,7 @@
       "games": [
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Apex_Rathian_Icon.png",
+          "image": "MHR-Apex_Rathian_Icon.png",
           "info": "A Rathian so mighty, it was crowned an Apex. It is eternally possessed by wrath and terror, possibly due to the myriad wounds that cover its body. Its tail oozes a venom far deadlier than any of a normal monster. The call of an Apex unleashes its tortured anger on nearby beasts, driving them into a frenzy.",
           "danger": "8"
         }
@@ -613,7 +613,7 @@
       "games": [
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Apex_Zinogre_Icon.png",
+          "image": "MHR-Apex_Zinogre_Icon.png",
           "info": "A Zinogre so mighty, it was crowned an Apex. Its body is covered in scars and wounds as if it had been caught in a storm, and it's seemingly always dominated by wrath and terror. Its forelegs - and their every strike - brim with ferocious sparks. The call of an Apex unleashes its tortured anger on nearby beasts, driving them into a frenzy.",
           "danger": "10"
         }
@@ -703,7 +703,7 @@
         },
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Arzuros_Icon.png",
+          "image": "MHR-Arzuros_Icon.png",
           "info": "Beasts known to dwell in humid forest and mountain regions. Though known more for fishing and standing upright to collect honey, their thick claws and heavy forearm plating allow them to deliver powerful blows to any aggressor.",
           "danger": "1"
         },
@@ -863,7 +863,7 @@
         },
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Baggi_Icon.png",
+          "image": "MHR-Baggi_Icon.png",
           "info": "Highly intelligent, carnivorous bird wyverns that hunt in packs. Noted for their blue scales and sharp glare. Baggi are feared for their ability to release a tranquilizing fluid; even a grown man can be put to sleep in seconds."
         },
         {
@@ -965,7 +965,7 @@
         },
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Barioth_Icon.png",
+          "image": "MHR-Barioth_Icon.png",
           "info": "Wyverns that rule the eternally frozen Tundra. Barioth use their forelegs, tail and their spiked scales to traverse the slippery ice with ease; this makes them very difficult to keep up with.",
           "danger": "5"
         },
@@ -1041,7 +1041,7 @@
         },
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Barroth_Icon.png",
+          "image": "MHR-Barroth_Icon.png",
           "info": "Barroth usually remain beneath the mud, perhaps to shield themselves from heat; they are even known to attack by flinging mud. They will charge in a frenzy at anything that disturbs their bogs.",
           "danger": "3"
         },
@@ -1095,7 +1095,7 @@
         },
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Basarios_Icon.png",
+          "image": "MHR-Basarios_Icon.png",
           "info": "These juvenile Gravios are famous for their rock-hard carapaces. They often borrow underground, mimicking rocks and savaging oblivious miners. Because their carapaces are tougher than that of a full-grown Gravios, they'll attack a threat by charging at it. They are also known to emit a poisonous gas.",
           "danger": "3"
         },
@@ -1135,7 +1135,7 @@
         },
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Bazelgeuse_Icon.png",
+          "image": "MHR-Bazelgeuse_Icon.png",
           "info": "A nefarious flying wyvern that travels the world in search of prey. It scatters its own explosive scales over a wide area to prey on whatever gets caught in the blast. In some places, this has earned it the nickname \"Bomber Wyvern.\"",
           "danger": "8"
         },
@@ -1242,7 +1242,7 @@
       "games": [
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Bishaten_Icon.png",
+          "image": "MHR-Bishaten_Icon.png",
           "info": "A monster with a distinctive tail. While it is omnivorous, it has a preference for fruit, and keeps various fruits with all kinds of effects in its belly pouch. An incredibly curious beast, it enjoys playing tricks on people, and has been seen to bat fruit at its prey using its tail.",
           "danger": "4"
         }
@@ -1501,7 +1501,7 @@
         },
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Bnahabra_Icon.png",
+          "image": "MHR-Bnahabra_Icon.png",
           "info": "Pervasive flying insects that attack invaders with paralyzing venom and lay eggs in carrion along with a fluid that hastens decomposition. It is best to kill them with poison so that their parts are left ripe for the carving."
         },
         {
@@ -1575,7 +1575,7 @@
       "games": [
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Bombadgy_Icon.png",
+          "image": "MHR-Bombadgy_Icon.png",
           "info": "An omnivorous small monster with a distinct round shape. Its whole body courses with flammable gas, which it expels in defense when threatened. Once expelled, this gas has explosive properties. This trait has led to Bombadgy being used in combat by many crafty hunters throughout history."
         }
       ]
@@ -1733,7 +1733,7 @@
         },
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Bullfango_Icon.png",
+          "image": "MHR-Bullfango_Icon.png",
           "info": "Large, wild boars with a foul temper. Fertile and wide-ranging, they have been known to form large herds. They are so aggressive that they will attack other members of their own herd if they don't recognize them. Those without a particular reason to hunt them are better off keeping their distance."
         },
         {
@@ -1914,7 +1914,7 @@
         },
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Chameleos_Icon.png",
+          "image": "MHR-Chameleos_Icon.png",
           "info": "Precious few sightings of this elder dragon have been recorded, leading to claims it can vanish into its environment like a chameleon -- hence its name. Witnesses report that, when enraged, it can spew a fog-like breath, which seems to come out of nowhere, and enhance its strength by licking the pollen from Petalaces.",
           "danger": "8"
         }
@@ -2160,7 +2160,7 @@
       "games": [
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Crimson_Glow_Valstrax_Icon.png",
+          "image": "MHR-Crimson_Glow_Valstrax_Icon.png",
           "info": "A mutant Valstrax fearsomely dubbed the \"Crimson Glow\". This elder dragon typically secludes itself in the upper atmosphere, but it has been driven mad by its own rampant energy, causing to lash out at anything in its sight. Once it sights its prey, it swoops down, trampling them beneath its shifting wingblades. Several have been sighted all over, so be prepared to encounter one at any time.",
           "danger": "10"
         }
@@ -2344,7 +2344,7 @@
         },
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Delex_Icon.png",
+          "image": "MHR-Delex_Icon.png",
           "info": "Carnivorous desert monsters that travel in schools of four or five. Delex often follow large predators in the hope of scavenging leftovers. They are extremely sensitive to sound.",
           "danger": "2"
         }
@@ -2510,7 +2510,7 @@
         },
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Diablos_Icon.png",
+          "image": "MHR-Diablos_Icon.png",
           "info": "Known as the \"Tyrant of the Desert\". The Diablos is extremely territorial and will use its massive horns to charge at invaders, Diablos have the ability to borrow underground and use this ability to strike from below, however, their sensitive ears make them susceptible to Sonic Bombs. Despite their predatory appearance, they are herbivorous and mostly feed on cactus.",
           "danger": "7"
         },
@@ -2906,7 +2906,7 @@
         },
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Felyne_Icon.png",
+          "image": "MHR-Felyne_Icon.png",
           "info": "Bipedal creatures resembling cats, known for their light hair. Though usually docile, they will attack viciously if provoked. Naturally curious, some try to enter human society, and are often hired by the Guild to cook for and otherwise assist hunters."
         },
         {
@@ -3066,7 +3066,7 @@
         },
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Gajau_Icon.png",
+          "image": "MHR-Gajau_Icon.png",
           "info": "Vicious piscine that forms groups to defend their territory from intruders. Though primarily aquatic creatures, they have been known to chase their prey onto land, before wriggling back to the banks and into the water. Be sure not to venture too closely to their habitat!"
         }
       ]
@@ -3145,7 +3145,7 @@
         },
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Gargwa_Icon.png",
+          "image": "MHR-Gargwa_Icon.png",
           "info": "Flightless bird wyverns with vestigial wings, known to inhabit the Jurassic Frontier. Quite timid, Gargwa have been known to lay eggs when other creatures surprise them from behind. They are raised as livestock in numerous villages."
         },
         {
@@ -3639,7 +3639,7 @@
       "games": [
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Goss_Harag_Icon.png",
+          "image": "MHR-Goss_Harag_Icon.png",
           "info": "A Fanged Beast roaming snowy plains in search of prey. Its body is covered in fur so thick it keeps out the harsh frost. It can inhale the cold air to freeze its own bodily fluids and then spit them out to create icy blades on its arms. When riled up, it turns red and becomes exceedingly dangerous.",
           "danger": "7"
         }
@@ -3717,7 +3717,7 @@
         },
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Great_Baggi_Icon.png",
+          "image": "MHR-Great_Baggi_Icon.png",
           "info": "A carnivorous bird wyvern. Noted for their projecting cranial crests and bluish-white skin that's adapted to snowy climates. Great Baggi craftily command other Baggi to surround their prey and stun them with a tranquilizing fluid.",
           "danger": "1"
         },
@@ -3790,7 +3790,7 @@
       "games": [
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Great_Izuchi_Icon.png",
+          "image": "MHR-Great_Izuchi_Icon.png",
           "info": "The alpha Izuchi of its pack, identified by its larger build, upended white fur and scythe-like tail. A Great Izuchi forms a herd of many smaller Izuchi and selects two from the group to accompany it on territory patrols. Once it spots prey or senses danger, the Great Izuchi issues commands to their fellow Izuchi, and coordinates their movements. Take care that you don't get overwhelmed.",
           "danger": "1"
         }
@@ -3925,7 +3925,7 @@
         },
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Great_Wroggi_Icon.png",
+          "image": "MHR-Great_Wroggi_Icon.png",
           "info": "Wroggi are bird wyverns that travel in packs that are led by largest and most toxic member. Be careful when one raises its head and its poison sac expands—that signals that it's about to spit a cloud of poisonous mist.",
           "danger": "2"
         }
@@ -4318,7 +4318,7 @@
       "games": [
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Izuchi_Icon.png",
+          "image": "MHR-Izuchi_Icon.png",
           "info": "An omnivorous bird wyvern that has a characteristic scythe-shaped tail. It uses this tail to attack, but also to climb trees and chop down fruit. Most Izuchi fall into herd led by a Great Izuchi; in each herd, the two best fighters are selected by the leader to help it hunt prey."
         }
       ]
@@ -4396,7 +4396,7 @@
         },
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Jaggi_Icon.png",
+          "image": "MHR-Jaggi_Icon.png",
           "info": "Highly social, carnivorous bird wyverns that live in large packs. Young Jaggi males hunt in groups when attacking larger animals. Research suggests they operate under orders from a single aplha male."
         },
         {
@@ -4442,7 +4442,7 @@
         },
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Jaggia_Icon.png",
+          "image": "MHR-Jaggia_Icon.png",
           "info": "Female Jaggi that stay in packs, Jaggia generally live near the nest and are responsible for defending it and raising young. Smaller than mature males, but larger and tougher than the pack's countless young males. They also operate under orders from the alpha."
         },
         {
@@ -4471,7 +4471,7 @@
         },
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Jagras_Icon.png",
+          "image": "MHR-Jagras_Icon.png",
           "info": "A smaller monster that travels and hunts in packs. Its hide blends in with its forest environment, and it has characteristic spikes on its back. If you chase a few away, the rest will usually follow suit. They tend to keep their distance when large monsters enter their territory, but sometimes the entire group will attack if they feel particularly threatened."
         }
       ]
@@ -4525,7 +4525,7 @@
         },
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Jyuratodus_Icon.png",
+          "image": "MHR-Jyuratodus_Icon.png",
           "info": "A piscine wyvern that inhabits swamps, utilizing the mud there to hunt and survive. It wallows in the mire to maximize cutaneous respiration and preserve the toughness of its scales. The sludge it spits is highly viscous, so watch where you step, lest you get stuck in it.",
           "danger": "4"
         }
@@ -4620,7 +4620,7 @@
         },
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Kelbi_Icon.png",
+          "image": "MHR-Kelbi_Icon.png",
           "info": "Small herbivores known for their gentle demeanor as well as medicinal properties of their horns. Those wishing to harvest a horn should aim for the head when attacking them."
         },
         {
@@ -4649,7 +4649,7 @@
         },
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Kestodon_Male_Icon.png",
+          "image": "MHR-Kestodon_Male_Icon.png",
           "info": "Female Kestodon will alert the pack of danger, while the males will violently charge would-be threats. Their rushing charges can be blocked, however, leaving them open to attacks. Males are blessed with a stronger physique, and they can easily be told apart from the females by their coloring and head shape."
         }
       ]
@@ -4695,7 +4695,7 @@
         },
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Khezu_Icon.png",
+          "image": "MHR-Khezu_Icon.png",
           "info": "Its long, elastic neck stretching out while it clings to a wall or the ceiling is a sight straight out of a nightmare. Make sure you do not get overwhelmed by its horrific appearance.",
           "danger": "2"
         },
@@ -4818,7 +4818,7 @@
         },
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Kulu-Ya-Ku_Icon.png",
+          "image": "MHR-Kulu-Ya-Ku_Icon.png",
           "info": "A bird wyvern that has developed limbs capable of carrying objects. It has been spotted stealing eggs from nests. If attacked while carrying an egg, it will drop the egg in fright and flee. When engaged, a Kulu-Ya-Ku will dig up a small boulder to shield itself against threats or use it in its attacks.",
           "danger": "2"
         },
@@ -4907,7 +4907,7 @@
         },
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Kushala_Daora_Icon.png",
+          "image": "MHR-Kushala_Daora_Icon.png",
           "info": "It's difficult to even get close to one of these metallic elder dragons, but some claim better odds if the creature is weakened with poison, or has its horn broken, limiting the amount of wind pressure it can muster.",
           "danger": "8"
         },
@@ -5010,7 +5010,7 @@
         },
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Lagombi_Icon.png",
+          "image": "MHR-Lagombi_Icon.png",
           "info": "Fanged, long-eared beasts whose warm pelts and thick layers of fat help them survive in cold climates. Though mainly herbivores, Lagombi occasionally make use of their exceptional hearing and ability to glide on ice to sneak up on prey.",
           "danger": "1"
         },
@@ -5185,7 +5185,7 @@
         },
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Ludroth_Icon.png",
+          "image": "MHR-Ludroth_Icon.png",
           "info": "Aquatic female monsters. Ludroth form \"harems\" around large males, gathering in territories designated as breeding grounds. They're known to be extremely aggressive towards outsiders, so caution is advised when treading in their territory."
         },
         {
@@ -5257,7 +5257,7 @@
       "games": [
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Magnamalo_Icon.png",
+          "image": "MHR-Magnamalo_Icon.png",
           "info": "A monster with a carapace like tempered steel armor. The vapor around it is actually the expelling of trapped gases from the hordes of monsters Magnamalo has consumed. This has earned it the moniker \"Wyvern of Malice.\" Its shrouded swings can inflict hellfireblight, which causes one to combust either spontaneously or when hit. Use a Deodorant or a Wirebug to rid yourself of hellfire.",
           "danger": "7"
         }
@@ -5352,7 +5352,7 @@
         },
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Melynx_Icon.png",
+          "image": "MHR-Melynx_Icon.png",
           "info": "Bipedal creatures resembling cats, known for their dark hair. More curious than Felynes and possessed by kleptomania, Melynxes take what they steal back to their dens."
         }
       ]
@@ -5409,7 +5409,7 @@
         },
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Mizutsune_Icon.png",
+          "image": "MHR-Mizutsune_Icon.png",
           "info": "A specially evolved Leviathan with a sleek, lithe body. Mizutsune can secrete a peculiar fluid that covers its foes in immobilizing bubbles. Once its foe's movement is impaired, it closes in with spry, dance-like movements.",
           "danger": "6"
         },
@@ -5670,7 +5670,7 @@
         },
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Nargacuga_Icon.png",
+          "image": "MHR-Nargacuga_Icon.png",
           "info": "Flying wyverns that have evolved to live in thickly wooded areas. Covered in jet black fur, these cunning predators stalk their prey from the shadows with ferocious speed. Their massive tails are as dexterous as they are deadly, and powerful enough to slay smaller monsters with one strike.",
           "danger": "6"
         },
@@ -5701,7 +5701,7 @@
       "games": [
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Narwa_The_Allmother_Icon.png",
+          "image": "MHR-Narwa_The_Allmother_Icon.png",
           "info": "Having absorbed the lifeforce of her \"king\", Narwa has transformed and become imbued with new power. She now possesses Ibushi's mastery over wind as well as her own control over thunder, and lusts for utter annihilation.",
           "danger": "10"
         }
@@ -6148,7 +6148,7 @@
         },
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Popo_Icon.png",
+          "image": "MHR-Popo_Icon.png",
           "info": "Herd-forming herbivores covered in thick fur to endure the cold. Popo are gentle by nature, so if they are attacke the whole herd will turn tail and run. Popo meat is very nutritious; the tongue is said to be especially palatable."
         },
         {
@@ -6183,7 +6183,7 @@
         },
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Pukei-Pukei_Icon.png",
+          "image": "MHR-Pukei-Pukei_Icon.png",
           "info": "A bird wyvern known to possess poisonous toxins in its body. It uses its toungue like a whip and can stretch or shrink it at will, allowing it to grab up food. As a defense against threats, Pukei-Pukei have numerous toxic attacks. Keep and eye on both its mouth and tail!",
           "danger": "4"
         },
@@ -6315,7 +6315,7 @@
       "games": [
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Rachnoid_Icon.png",
+          "image": "MHR-Rachnoid_Icon.png",
           "info": "The infant form of Rakna-Kadaki. At this stage in their life cycle, they cling to their mother's abdomen, feeding on scraps of her regurgitated prey. From birth, they are instantly able to spit webs that are just as strong as their mother's, which they use to bind prey or swiftly move about at her command."
         }
       ]
@@ -6413,7 +6413,7 @@
         },
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Rajang_Icon.png",
+          "image": "MHR-Rajang_Icon.png",
           "info": "An ultra-aggressive creature that is rarely sighted and seldom survived. Those that have survived report that it exhibits a strange attack. Rajang are said to be loners, and this isolated life has made it difficult to pin down its territorial leanings. When angered, part of its pelt turns a golden color.",
           "danger": "8"
         },
@@ -6445,7 +6445,7 @@
       "games": [
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Rakna-Kadaki_Icon.png",
+          "image": "MHR-Rakna-Kadaki_Icon.png",
           "info": "A Rakna-Kadaki is usually seen covered in sticky webbing. Clinging to its abdomen are its offspring, known as Rachnoid, which it controls using the flammable gas that builds up there. Rachnoid spit fire, capture prey, and support the Rakna-Kadaki's massive body. As their numbers dwindle, the beast will hatch more, at which point it is extremely dangerous.",
           "danger": "7"
         }
@@ -6525,7 +6525,7 @@
         },
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Rathalos_Icon.png",
+          "image": "MHR-Rathalos_Icon.png",
           "info": "Terrible wyverns called the 'Kings of the Skies'. Along with Rathians, they stake wide territories centered around their nests. Rathalos descend on invaders from the sky, attacking with poison claws and breath of fire.",
           "danger": "6"
         },
@@ -6591,7 +6591,7 @@
         },
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Rathian_Icon.png",
+          "image": "MHR-Rathian_Icon.png",
           "info": "Fire-breathing female wyverns, also known as the \"Queens of the Land\". With powerful legs and poison-secreting tails, they hunt mainly on the ground. Sometimes seen preying as a couple, Rathians and Rathalos cooperate well.",
           "danger": "4"
         },
@@ -6695,7 +6695,7 @@
         },
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Remobra_Icon.png",
+          "image": "MHR-Remobra_Icon.png",
           "info": "Small but agile flying wyverns that seek out weakened creatures to attack. Often seen near elder dragons, they're considered a portent of disaster. Originally classified as flying wyverns, after further research they were reclassified as snake wyverns."
         },
         {
@@ -6738,7 +6738,7 @@
         },
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Rhenoplos_Icon.png",
+          "image": "MHR-Rhenoplos_Icon.png",
           "info": "Extremely territorial herbivores with poor vision but acute hearing, Rhenoplos will doggedly pursue any target they sense. They cannot easily stop once they break into a run, a fact confirmed by hunters who foolishly thought they could stop them using a buckler or a shield."
         }
       ]
@@ -6783,7 +6783,7 @@
         },
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Royal_Ludroth_Icon.png",
+          "image": "MHR-Royal_Ludroth_Icon.png",
           "info": "Larger than regular Ludroth, Royal Ludroth use their sponge-like mane to absorb water and keep from drying out on land. Once the sponge loses moisture, they will seek out water to recover. They also spew mucus to trip their prey.",
           "danger": "3"
         },
@@ -7524,7 +7524,7 @@
         },
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Slagtoth_Icon.png",
+          "image": "MHR-Slagtoth_Icon.png",
           "info": "Highly territorial herbivores that live in coastal areas. Their heavy, sagging hides store nutrients and are prized for their heat and water resistance."
         },
         {
@@ -7582,7 +7582,7 @@
       "games": [
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Somnacanth_Icon.png",
+          "image": "MHR-Somnacanth_Icon.png",
           "info": "A formidable aquatic serpent that crests on moonlit nights—likely why it has often been mistaken for a mermaid. Despite its appearance, it is extremely aggressive, and tolerates no trespassers on its turf. It expels an intoxicating sleep powder from an organ on its neck, knocking out prey before it can resist.",
           "danger": "5"
         }
@@ -7766,7 +7766,7 @@
         },
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Teostra_icon.png",
+          "image": "MHR-Teostra_icon.png",
           "info": "Brutal elder dragons wreathed in flames that spew blazing fire. Teostra are of such a fierce and deadly nature that the Guild closely monitors their movements.",
           "danger": "8"
         },
@@ -7797,7 +7797,7 @@
       "games": [
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Tetranadon_Icon.png",
+          "image": "MHR-Tetranadon_Icon.png",
           "info": "An amphibian easily recognized by its gigantic, rotund body. It is extremely gluttonous and swallows everything that moves whole, gravel and all. Once it's done eating, its stomach swells and it becomes slower, but its attacks also become heavier and much more destructive.",
           "danger": "2"
         }
@@ -7864,7 +7864,7 @@
       "games": [
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Thunder_Serpent_Narwa_Icon.png",
+          "image": "MHR-Thunder_Serpent_Narwa_Icon.png",
           "info": "An elder dragon and Wind Serpent Ibushi's \"queen.\" Its thundersacs glow with accumulated electrical charge; it is thought that these organs therefore generate the powerful magnetic field that lifts the creature and anything around it high into the air.",
           "danger": "10"
         }
@@ -7996,7 +7996,7 @@
         },
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Tigrex_Icon.png",
+          "image": "MHR-Tigrex_Icon.png",
           "info": "A Flying Wyvern whose primitive origins are obvious. It displays incredible ferocity with its claws, jaws, and developed limbs. Be wary of its thunderous roar!",
           "danger": "7"
         },
@@ -8034,7 +8034,7 @@
         },
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Tobi-Kadachi_Icon.png",
+          "image": "MHR-Tobi-Kadachi_Icon.png",
           "info": "A fanged wyvern that flies among the treetops. Its penchant to brush against the ground and the trees as it moves around builds up static electricity within its fur. This action allows it to reach a charged state - identified by its glowing fur - in which its head and tail attacks are said to be particularly lethal.",
           "danger": "5"
         },
@@ -8188,7 +8188,7 @@
         },
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Uroktor_Icon.png",
+          "image": "MHR-Uroktor_Icon.png",
           "info": "Leviathans that inhabit volcanoes. Noted for swarming around larger monsters' kills in order to feed. Uroktor rarely hunt for themselves, but stab upward at prey from the ground when they do. Known for being highly aggressive."
         },
         {
@@ -8466,7 +8466,7 @@
         },
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Volvidon_Icon.png",
+          "image": "MHR-Volvidon_Icon.png",
           "info": "Fanged beasts with thick red carapaces that are resistant to lava. Their rounded bodies are perfect for rolling across hot surfaces, and their long tongues are ideal for capturing insect prey. Their saliva emits a paralyzing toxin that should be avoided.",
           "danger": "4"
         }
@@ -8548,7 +8548,7 @@
       "games": [
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Wind_Serpent_Ibushi_Icon.png",
+          "image": "MHR-Wind_Serpent_Ibushi_Icon.png",
           "info": "A male elder dragon that exhibits inexplicable behaviors such as floating upside down midair. Research indicates that the emission of a special gas from all over its body, and the modulation of this gas, is what allows it to move freely. It shows air from gills on its arms and tail to fly, creating its own turbulence and soaring to great heights.",
           "danger": "9"
         }
@@ -8576,7 +8576,7 @@
         },
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Wroggi_Icon.png",
+          "image": "MHR-Wroggi_Icon.png",
           "info": "Small, carnivorous bird wyverns with poison-generating organs that run from their mouths to their throats. They run in packs, often led by a large alpha male. Lesser members of the order are fiercely loyal, and will eagerly lay down their lives to protect the alpha."
         }
       ]
@@ -8762,7 +8762,7 @@
         },
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Zamite_Icon.png",
+          "image": "MHR-Zamite_Icon.png",
           "info": "Juvenile Zamtrios that use their sharp teeth to pierce the hide of their prey and then burrow inside to consume them from within; those who are attacked must roll around vigorously to shake the monster off. They can also use a Wirebug or a kunai to help them get free. Zamite grow rapidly after even a single feeding."
         },
         {
@@ -8872,7 +8872,7 @@
         },
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRise-Zinogre_Icon.png",
+          "image": "MHR-Zinogre_Icon.png",
           "info": "Fanged wyverns whose bodies are streaked with electricity. Sharp claws and strong limbs allow them to thrive in mountainous terrain. During hunts, they gather numerous Thunderbugs to boost their power and enter a supercharged state.",
           "danger": "6"
         },
