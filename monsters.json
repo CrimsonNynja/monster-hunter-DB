@@ -6126,6 +6126,13 @@
       "name": "Oltura",
       "type": "Elder Dragon",
       "isLarge": true,
+      "elements": [
+        "Fire",
+        "Water",
+        "Thunder",
+        "Ice",
+        "Dragon"
+      ],
       "games": [
         {
           "game": "Monster Hunter Stories 2",
