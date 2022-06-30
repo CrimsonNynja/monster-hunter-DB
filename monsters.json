@@ -1443,7 +1443,8 @@
       "games": [
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRS-Blood_Orange_Bishaten_Icon.png"
+          "image": "MHRS-Blood_Orange_Bishaten_Icon.png",
+          "info": "A subspecies named for their auburn fur. Inquisitive by nature, Blood Orange Bishaten can even appear near human habitats. Their belly pouch is stuffed with combustible pinecones, and this subspecies has a distinct and focused fire breath. The breath itself isn't as dangerous as the pinecones it ignites. Reports indicate that it's possible to topple these monsters while they balance on their tails."
         }
       ]
     },
@@ -2298,7 +2299,8 @@
         },
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRS-Daimyo_Hermitaur_Icon.png"
+          "image": "MHRS-Daimyo_Hermitaur_Icon.png",
+          "info": "Large Carapaceons that live in coastal regions and sandy soil. Daimyo Hermitaurs use their massive claws to guard themselves against enemy attacks. These creatures wear wyvern skulls on their backs, unlike the shells carried in their infancy. These shells serve not only as protection, but also as a method of attacking prey. They are highly valued for their materials-their brains in particular."
         }
       ]
     },
