@@ -833,6 +833,10 @@
       "ailments": [
         "Iceblight"
       ],
+      "weakness": [
+        "Fire",
+        "Thunder"
+      ],
       "games": [
         {
           "game": "Monster Hunter Rise",
@@ -3168,6 +3172,10 @@
       "name": "Gaismagorm",
       "type": "Elder Dragon",
       "isLarge": true,
+      "weakness": [
+        "Dragon",
+        "Thunder"
+      ],
       "games": [
         {
           "game": "Monster Hunter Rise",
@@ -3269,6 +3277,12 @@
       "ailments": [
         "Fireblight",
         "Waterblight"
+      ],
+      "weakness": [
+        "Fire",
+        "Water",
+        "Thunder",
+        "Ice"
       ],
       "games": [
         {
@@ -5364,6 +5378,9 @@
         "Iceblight",
         "Stun"
       ],
+      "weakness": [
+        "Fire"
+      ],
       "games": [
         {
           "game": "Monster Hunter Rise",
@@ -5428,6 +5445,10 @@
       ],
       "ailments": [
         "Fireblight"
+      ],
+      "weakness": [
+        "Water",
+        "Ice"
       ],
       "games": [
         {
@@ -5528,10 +5549,15 @@
         "Bloodblight",
         "Dragonblight"
       ],
+      "weakness": [
+        "Dragon",
+        "Fire"
+      ],
       "games": [
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRS-Malzeon_Icon.png"
+          "image": "MHRS-Malzeon_Icon.png",
+          "info": "A dragon covered with elegant silver scales. It appears almost regal to start with, but after draining enough energy it can turn a violent, fresh-blood crimson."
         }
       ]
     },
