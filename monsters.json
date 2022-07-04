@@ -840,7 +840,8 @@
       "games": [
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRS-Aurora_Somnacanth_Icon.png"
+          "image": "MHRS-Aurora_Somnacanth_Icon.png",
+          "info": "Light illuminates the dust scattered around this subspecies, making their fantastical appearance shimmer softly. Aurora Somnacanth sprays icy blasts in place of sleeping powder, attacking all who dare enter their territory. They use the permanent cold emanating from their bodies to freeze the vicinity, and then the frozen surface to move around swiftly."
         }
       ]
     },
@@ -3179,7 +3180,8 @@
       "games": [
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRS-Gaismagorm.png"
+          "image": "MHRS-Gaismagorm.png",
+          "info": "A gargantuan monster living in the darkest depths since ancient times. Gaismagorm's rock-like forearms boast tenacious strength which allows it to burrow underground. It has a symbiotic relationship with the Qurio, and feeds on their life force for energy. Once it has chosen a place to nest, it collapses the surrounding rock bed to create an opening to the surface. The opening forms a massive crater in which it releases the Qurio through."
         }
       ]
     },
@@ -3287,7 +3289,8 @@
       "games": [
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRS-Garangolm.png"
+          "image": "MHRS-Garangolm.png",
+          "info": "A monster characterized by its massive and rigid body. Garangolm are generally placid, living in regions with fertile soil. Their sap-like fluids can promote plant growth, gorging a symbiotic relationship with flora that grows in their bodies. They can also use that sap to harden plants or the surrounding soil, outfitting their bodies and enhancing their attacks."
         }
       ]
     },
@@ -3800,7 +3803,8 @@
         },
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRS-Gore_Magala_Icon.png"
+          "image": "MHRS-Gore_Magala_Icon.png",
+          "info": "Gore Magala possess wings with black, shroud-like membrane. They lack visual receptors, heightening their senses by scattering scales from their wings to ascertain the locations of lifeforms. At the peak of their senses, feelers extend from their head, their wings unfurl, and they become frenzied. They're feared not only for their sinister appearance but also for the mysterious Frenzy virus they carry."
         }
       ]
     },
@@ -5384,7 +5388,8 @@
       "games": [
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRS-Lunagaron_Icon.png"
+          "image": "MHRS-Lunagaron_Icon.png",
+          "info": "Lunagaron have an organ that chills the air they inhale, circulating it throughout their body in a unique form of thermoregulation. They can travel long distances and endure environmental changes, allowing them to occupy a wide range of habitats. They usually walk on all fours, but can stand on two legs by shutting down their cooling mechanism, spiking their body temp to expand their muscles."
         }
       ]
     },
@@ -5453,7 +5458,8 @@
       "games": [
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRS-Magma_Almudron_Icon.png"
+          "image": "MHRS-Magma_Almudron_Icon.png",
+          "info": "Unlike normal Almudron, Magma Almudron live in the Lava Caverns, and can manipulate magma instead of mud. They secrete a special liquid that melts the ground, allowing them to move freely through the earth. Known for their aggressive nature, they become extremely agitated when trespassers set foot on their turf, attacking them relentlessly."
         }
       ]
     },
@@ -5557,7 +5563,7 @@
         {
           "game": "Monster Hunter Rise",
           "image": "MHRS-Malzeon_Icon.png",
-          "info": "A dragon covered with elegant silver scales. It appears almost regal to start with, but after draining enough energy it can turn a violent, fresh-blood crimson."
+          "info": "A dragon covered with elegant silver scales. It uses the Qurio to drain the life energy of other living creatures, creeping around at night and attacking its prey from behind. It appears almost regal to start with, but after draining enough energy, it can turn a violent, fresh-blood crimson. This form is known as the \"Bloodening\" and is widely feared."
         }
       ]
     },
