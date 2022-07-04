@@ -1582,6 +1582,21 @@
     },
     {
       "_id": {
+        "$oid": ""
+      },
+      "name": "Boggi",
+      "type": "Bird Wyvern",
+      "isLarge": false,
+      "games": [
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Boggi_Icon.png",
+          "info": "Bird Wyverns living in the highlands of the Citadel. These calculating creatures hunt their prey with cunning, often waiting for them to grow weak before striking. They're dangerous creatures that surround their prey in packs with their sizeable claws ready to strike, so don't approach them carelessly."
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e15b9848a80af35ce52d79b"
       },
       "name": "Boltreaver Astalos",
@@ -1838,6 +1853,11 @@
           "image": "MHGen-Ceanataur_Icon.png",
           "info": "An adolescent Carapaceon with an organic shell firmly placed on its back. Once grown, this shell will be replaced by a giant monster's skull. Mainly living in volcanic zones, it is very aggressive, and not to be underestimated.",
           "danger": "2"
+        },
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Ceanataur_Icon.png",
+          "info": "The juvenile form of Shogun Ceanataur, these small Carapaceons live around volcanoes and in the Flooded Forest. Like Hermitaurs, Ceanataurs usually hide underground, surfacing to attack intruders with a discharge of toxic fluids. Their quick little legs make these critters a real pain in a hunter's coil. Carapaceon Brains from Ceanataurs are also in high demand."
         }
       ]
     },
@@ -3766,6 +3786,21 @@
     },
     {
       "_id": {
+        "$oid": ""
+      },
+      "name": "Gowngoat",
+      "type": "Herbivore",
+      "isLarge": false,
+      "games": [
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Gowngoat_Icon.png",
+          "info": "Herbivorous monsters with fluffy tails. Their tails are mostly composed of slate gray hair; some scholars surmise that this trait lets them roll into balls to disguise themselves as rocks. Others believe their tails serve to hide and protect newborn offspring. Gentle by nature, they tend to live in herds. They are easily frightened, and the entire group will flee when attacked."
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e155e018a80af35ce52d735"
       },
       "name": "Gravios",
@@ -4275,6 +4310,11 @@
           "info": "Small hard-shelled Carapaceons. Their brains are regarded as a delicacy in some regions."
         },
         {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Hermitaur_Icon.png",
+          "info": "The juvenile form of Daimyo Hermitaur, these small Carapaceons live around coastal areas and sandy soil. They often hide in sand, popping out of their hidey-holes only to claw at nearby intruders. The sizable shells they carry protect their vitals; as they grow in size, they'll move to larger dwellings to accomomodate, such as monster skulls. The Carapaceon Brains they yield are quite the delicacy."
+        },
+        {
           "game": "Monster Hunter Stories 2",
           "image": "MHST2-Hermitaur_Icon.png"
         }
@@ -4303,6 +4343,11 @@
           "image": "MHW-Hornetaur_Icon.png",
           "info": "Small insects that are found primarily on land. They're highly territorial and will attack anything that approaches them. Gather their materials by attacking them with the slinger.",
           "danger": "1"
+        },
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Hornetaur_Icon.png",
+          "info": "Small Neopterons found primarily on land, featuring two developed horns and legs peppered with sharp thorns. Extremely territorial, Hornetaurs attack any who approach without mercy. When processed, the shells around their bodies boast impressive strength; in their current state, however, too much \"uhmph\" when attacking can easily obliterate them, rendering them useless. Collect those materials with care!"
         }
       ]
     },
@@ -6427,6 +6472,21 @@
           "game": "Monster Hunter Stories 2",
           "image": "MHST2-Purple_Ludroth_Icon.png",
           "info": "A subspеciеs of Royal Ludroth. Poison is storеd in thеir spongy purplе manеs."
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "name": "Pyrantula",
+      "type": "Temnoceran",
+      "isLarge": false,
+      "games": [
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Pyrantula_Icon.png",
+          "info": "Offspring of the Pyre Rakna-Kadaki. Pyrantula usually stay put, relying on their progenitor for almost all movement. On the other hand, they treat all who approach as threats, eagerly attacking all invaders they detect. Their bodies contain explosive gasses that the Pyre Rakna-Kadaki can detonate through webs, generating small explosions."
         }
       ]
     },
@@ -8569,6 +8629,11 @@
           "info": "Carnivorous monsters with vivid blue scales. They hunt in packs using a deadly mix of strength and cunning."
         },
         {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Velociprey_Icon.png",
+          "info": "Small Bird Wyverns inhabiting the jungle. Velociprey are well-known for their yellow beaks, accenting bodies of black and blue stripes. They form packs, often engaging in communal behavior. These slender creatures can and will attack with sharp movements and sharper claws, so best be on your guard to avoid the pointy ends."
+        },
+        {
           "game": "Monster Hunter Stories 2",
           "image": "MHST2-Velociprey_Icon.png"
         }
@@ -8622,6 +8687,11 @@
           "game": "Monster Hunter Stories",
           "image": "MHGen-Vespoid_Icon.png",
           "info": "Giant Wasp-like Neopeterons with paralyzing stingers, which they use on any who stray too close."
+        },
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Vespoid_Icon.png",
+          "info": "Neopterons with paralyzing poison stingers on their abdomen. Vespoids adapt to almost any environment, and have been observed in many regions. Their sharp stingers are powerful enough to let them relentlessly jab any outsiders with a paralytic agent. They are delicate, weak to impacts, and make great materials for toxic weaponry."
         },
         {
           "game": "Monster Hunter Stories 2",
