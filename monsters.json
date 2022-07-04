@@ -3813,6 +3813,21 @@
     },
     {
       "_id": {
+        "$oid": ""
+      },
+      "name": "Gowngoat",
+      "type": "Herbivore",
+      "isLarge": false,
+      "games": [
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Gowngoat_Icon.png",
+          "info": "Herbivorous monsters with fluffy tails. Their tails are mostly composed of slate gray hair; some scholars surmise that this trait lets them roll into balls to disguise themselves as rocks. Others believe their tails serve to hide and protect newborn offspring. Gentle by nature, they tend to live in herds. They are easily frightened, and the entire group will flee when attacked."
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e155e018a80af35ce52d735"
       },
       "name": "Gravios",
@@ -4322,6 +4337,11 @@
           "info": "Small hard-shelled Carapaceons. Their brains are regarded as a delicacy in some regions."
         },
         {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Hermitaur_Icon.png",
+          "info": "The juvenile form of Daimyo Hermitaur, these small Carapaceons live around coastal areas and sandy soil. They often hide in sand, popping out of their hidey-holes only to claw at nearby intruders. The sizable shells they carry protect their vitals; as they grow in size, they'll move to larger dwellings to accomomodate, such as monster skulls. The Carapaceon Brains they yield are quite the delicacy."
+        },
+        {
           "game": "Monster Hunter Stories 2",
           "image": "MHST2-Hermitaur_Icon.png"
         }
@@ -4350,6 +4370,11 @@
           "image": "MHW-Hornetaur_Icon.png",
           "info": "Small insects that are found primarily on land. They're highly territorial and will attack anything that approaches them. Gather their materials by attacking them with the slinger.",
           "danger": "1"
+        },
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Hornetaur_Icon.png",
+          "info": "Small Neopterons found primarily on land, featuring two developed horns and legs peppered with sharp thorns. Extremely territorial, Hornetaurs attack any who approach without mercy. When processed, the shells around their bodies boast impressive strength; in their current state, however, too much \"uhmph\" when attacking can easily obliterate them, rendering them useless. Collect those materials with care!"
         }
       ]
     },
