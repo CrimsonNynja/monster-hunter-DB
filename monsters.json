@@ -790,7 +790,8 @@
         },
         {
           "game": "Monster Hunter Stories 2",
-          "image": "MHST2-Astalos_Icon.png"
+          "image": "MHST2-Astalos_Icon.png",
+          "info": "Astalos can generate high-voltage electricity within their bodies. They shudder violently to charge up whatever body part they plan to attack with. A naturally aggressive species, they fiercely defend their territories."
         }
       ]
     },
@@ -3238,7 +3239,8 @@
         },
         {
           "game": "Monster Hunter Stories 2",
-          "image": "MHST2-Gammoth_Icon.png"
+          "image": "MHST2-Gammoth_Icon.png",
+          "info": "These massive beasts with piercing tusks are native to polar regions. Fiercely protective of their territories, they attack trespassers with their strong trunks or simply crush them under their weight."
         }
       ]
     },
@@ -3315,7 +3317,8 @@
         },
         {
           "game": "Monster Hunter Stories 2",
-          "image": "MHST2-Gargwa_Icon.png"
+          "image": "MHST2-Gargwa_Icon.png",
+          "info": "Placid Bird Wyverns raised as livestock. Their vestigial wings make them flightless. Remarkably cowardly by nature, they will make a slow getaway when startled by anything that approaches from behind."
         }
       ]
     },
@@ -3411,7 +3414,8 @@
         },
         {
           "game": "Monster Hunter Stories 2",
-          "image": "MHST2-Genprey_Icon.png"
+          "image": "MHST2-Genprey_Icon.png",
+          "info": "Green-and-orange Bird Wyverns that hunt in packs. They make good use of the paralyzing venom from their large fangs and claws."
         }
       ]
     },
@@ -3566,7 +3570,8 @@
         },
         {
           "game": "Monster Hunter Stories 2",
-          "image": "MHST2-Glacial_Agnaktor_Icon.png"
+          "image": "MHST2-Glacial_Agnaktor_Icon.png",
+          "info": "A subspecies of Agnaktor. With their tough scales, even the tundra presents no obstacle with their movements. They burrow into the permafrost and clad themselves in a layer of icy armor to protect themselves. Their frosty breath attacks are chillingly powerful."
         }
       ]
     },
@@ -3609,7 +3614,8 @@
         },
         {
           "game": "Monster Hunter Stories 2",
-          "image": "MHST2-Glavenus_Icon.png"
+          "image": "MHST2-Glavenus_Icon.png",
+          "info": "Brute Wyverns with long, sword-like tails, sharpened on their fearsome fangs. Their well-developed hind legs allow them to effortlessly chase down prey, which they then slash at with their monstrous tails."
         }
       ]
     },
@@ -3930,7 +3936,8 @@
         },
         {
           "game": "Monster Hunter Stories 2",
-          "image": "MHST2-Great_Dracophage_Bug_Icon.png"
+          "image": "MHST2-Great_Dracophage_Bug_Icon.png",
+          "info": "Large Dracophage Bugs. Dragon Element energy is said to lie dormant within their bodies. These glimmering creatures still hold many secrets yet to be discovered."
         }
       ]
     },
@@ -4078,7 +4085,8 @@
         },
         {
           "game": "Monster Hunter Stories 2",
-          "image": "MHST2-Great_Thunderbug_Icon.png"
+          "image": "MHST2-Great_Thunderbug_Icon.png",
+          "info": "These gigantic Thunderbugs are raised in the bellies of Elder Dragons, and are electrifyingly lethal. Their presence indicates that the area used to be an Elder Dragon's territory."
         }
       ]
     },
@@ -4170,7 +4178,8 @@
         },
         {
           "game": "Monster Hunter Stories 2",
-          "image": "MHST2-Green_Plesioth_Icon.png"
+          "image": "MHST2-Green_Plesioth_Icon.png",
+          "info": "A subspecies of Plesioth named for their jade-green scales. Astonishingly agile and tenacious, they aggressively pursue their target on land or in water, destroying everything in their path untill they catch their prey."
         }
       ]
     },
@@ -4212,7 +4221,8 @@
         },
         {
           "game": "Monster Hunter Stories 2",
-          "image": "MHST2-Grimclaw_Tigrex_Icon.png"
+          "image": "MHST2-Grimclaw_Tigrex_Icon.png",
+          "info": "The strength of these Tigrex Deviants is truly devastating. Their raw power overwhelms the so-called technological strengths of humans, leaving any who encounter the beasts overcome with fear."
         }
       ]
     },
@@ -4304,7 +4314,8 @@
         },
         {
           "game": "Monster Hunter Stories 2",
-          "image": "MHST2-Hellblade_Glavenus_Icon.png"
+          "image": "MHST2-Hellblade_Glavenus_Icon.png",
+          "info": "Glavenus Deviants that burn with an infernal fire within. Their breath can melt solid rock, and their tail-blades can cut through mountains like hot knifes through butter. When angered, they burn all around them to ashes."
         }
       ]
     },
@@ -4343,7 +4354,8 @@
         },
         {
           "game": "Monster Hunter Stories 2",
-          "image": "MHST2-Hermitaur_Icon.png"
+          "image": "MHST2-Hermitaur_Icon.png",
+          "info": "These small, hard-shelled Carapaceons are common in the desert, where they lie in wait under the sand, lashing out, when prey wanders past them. Their brains are prized as a delicacy."
         }
       ]
     },
@@ -4450,7 +4462,8 @@
         },
         {
           "game": "Monster Hunter Stories 2",
-          "image": "MHST2-Ioprey_Icon.png"
+          "image": "MHST2-Ioprey_Icon.png",
+          "info": "A vivid red species of Bird Wyvern often found in subtropical zones. Sacs in their throats contain a powerful poison that slowly drains the health of their prey."
         }
       ]
     },
@@ -4585,7 +4598,8 @@
         },
         {
           "game": "Monster Hunter Stories 2",
-          "image": "MHST2-Jaggi_Icon.png"
+          "image": "MHST2-Jaggi_Icon.png",
+          "info": "Carnivorous Bird Wyverns. They hunt in large packs, and the young males are typically smaller than the females. Research suggests they operate under orders from a single alpha male, and they are known to steal wyvern eggs."
         }
       ]
     },
@@ -4630,7 +4644,8 @@
         },
         {
           "game": "Monster Hunter Stories 2",
-          "image": "MHST2-Jaggia_Icon.png"
+          "image": "MHST2-Jaggia_Icon.png",
+          "info": "Female Jaggi that live in packs, generally responsible for protecting the nest and raising the young. Larger than young males, and known for their robust skin. They also operate under orders from the alpha."
         }
       ]
     },
@@ -4807,7 +4822,8 @@
         },
         {
           "game": "Monster Hunter Stories 2",
-          "image": "MHST2-Kelbi_Icon.png"
+          "image": "MHST2-Kelbi_Icon.png",
+          "info": "Diminutive herbivorous monsters known for their kind nature. Their horns are said to be rich in nutrients."
         }
       ]
     },
@@ -4973,7 +4989,8 @@
         },
         {
           "game": "Monster Hunter Stories 2",
-          "image": "MHST2-Konchu_Icon.png"
+          "image": "MHST2-Konchu_Icon.png",
+          "info": "Neopterons that roam in search of food. Coloration varies based on habitat-this variety is sandy yellow/ an icy blue/ a rusty red/ verdant green. Without a sharp enough weapon, it is nigh impossible to scratch the robust carapace that encases them. Curls into a ball when threatened and rolls at speed into their attacker."
         }
       ]
     },
@@ -5034,7 +5051,8 @@
         },
         {
           "game": "Monster Hunter Stories 2",
-          "image": "MHST2-Kulve_Taroth_Icon.png"
+          "image": "MHST2-Kulve_Taroth_Icon.png",
+          "info": "Elder Dragons that protect themselves with a glittering coat of metal over their scales. Some of the precious metal comes from the weapons of defeated Hunters who once tried to slay them."
         }
       ]
     },
@@ -5092,7 +5110,8 @@
         },
         {
           "game": "Monster Hunter Stories 2",
-          "image": "MHST2-Kushala_Daora_Icon.png"
+          "image": "MHST2-Kushala_Daora_Icon.png",
+          "info": "Giant Elder Dragons clad in metal plating. Enrobed in gale-strength winds, they whip up storms wherever they go. When enraged, they unleash devastating vortexes that send foes flying. Getting close to one is no mean feat."
         }
       ]
     },
@@ -5237,7 +5256,8 @@
         },
         {
           "game": "Monster Hunter Stories 2",
-          "image": "MHST2-Larinoth_Icon.png"
+          "image": "MHST2-Larinoth_Icon.png",
+          "info": "Giant herbivores with unique sound-producing organs on their heads, which they use to produce their distinctive calls. They are gentle creatures that only attack if their young are threatened."
         }
       ]
     },
@@ -5299,7 +5319,8 @@
         },
         {
           "game": "Monster Hunter Stories 2",
-          "info": "MHST2-Legiana_Icon.png"
+          "image": "MHST2-Legiana_Icon.png",
+          "info": "Not even the strongest winds can take away from the gracefulness with which Legiana soar high in the skies. These swift, kite-like Flying Wyverns emit a chilling wind from their bodies, which dull their prey's ability to escape."
         }
       ]
     },
@@ -5366,7 +5387,8 @@
         },
         {
           "game": "Monster Hunter Stories 2",
-          "image": "MHST2-Ludroth_Icon.png"
+          "image": "MHST2-Ludroth_Icon.png",
+          "info": "Aquatic female monsters. They form harems around large males, aggressively attacking interlopers that dare to enter into their territory."
         }
       ]
     },
@@ -5666,7 +5688,8 @@
         },
         {
           "game": "Monster Hunter Stories 2",
-          "image": "MHST2-Mizutsune_Icon.png"
+          "image": "MHST2-Mizutsune_Icon.png",
+          "info": "These beautiful monsters with white and purple scales exude a magical aura, yet they are far from harmless. They secrete a peculiar fluid that cover their foes in immobilizing bubbles. Once their prey's movement is impaired, it closes in with spry, dance-like movements."
         }
       ]
     },
