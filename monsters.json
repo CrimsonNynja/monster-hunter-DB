@@ -778,13 +778,13 @@
           "danger": "5"
         },
         {
-          "game": "Monster Hunter Stories 2",
-          "image": "MHST2-Astalos_Icon.png"
-        },
-        {
           "game": "Monster Hunter Rise",
           "image": "MHRS-Astalos_Icon.png",
           "info": "Large Flying Wyverns with crest-shaped organs that let them control vast amounts of electricity. Astalos vibrate these organs on their head, forked tail, and brilliant wings to charge the respective body part with electricity, yielding tremendous strength and an amplified attack range. Violent to a fault, witnesses have observed them using all their might to drive intruders from their territory."
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Astalos_Icon.png"
         }
       ]
     },
@@ -7394,14 +7394,14 @@
           "info": "Flying Wyvern known for its lustrous golden scales. Its scales can be launched at prey in high-speed attacks."
         },
         {
-          "game": "Monster Hunter Stories 2",
-          "image": "MHST2-Seregios_Icon.png",
-          "info": "Flying Wyvеrn known for its lustrous goldеn scalеs. Its scalеs can bе launchеd at prеy in high-spееd attacks."
-        },
-        {
           "game": "Monster Hunter Rise",
           "image": "MHRS-Seregios_Icon.png",
           "info": "Large Flying Wyverns with sharp, blade-like scales covering their body. Seregios are well-known as extremely territorial and belligerent creatures, wielding their mobility and powerful hind leg attacks in intense combat against other large monsters. Reports have confirmed that Seregios have the ability to launch the scales from their body, inflicting their victims with the Bleeding status."
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Seregios_Icon.png",
+          "info": "Flying Wyvеrn known for its lustrous goldеn scalеs. Its scalеs can bе launchеd at prеy in high-spееd attacks."
         }
       ]
     },
