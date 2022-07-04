@@ -790,33 +790,7 @@
         },
         {
           "game": "Monster Hunter Stories 2",
-          "image": "MHST2-Astalos_Icon.png",
-          "info": "Astalos can generate high-voltage electricity within their bodies. They shudder violently to charge up whatever body part they plan to attack with. A naturally aggressive species, they fiercely defend their territories."
-        }
-      ]
-    },
-    {
-      "_id": {
-        "$oid": ""
-      },
-      "name": "Aurora Somnacanth",
-      "type": "Leviathan",
-      "isLarge": true,
-      "elements": [
-        "Ice"
-      ],
-      "ailments": [
-        "Iceblight"
-      ],
-      "weakness": [
-        "Fire",
-        "Thunder"
-      ],
-      "games": [
-        {
-          "game": "Monster Hunter Rise",
-          "image": "MHRS-Aurora_Somnacanth_Icon.png",
-          "info": "Light illuminates the dust scattered around this subspecies, making their fantastical appearance shimmer softly. Aurora Somnacanth sprays icy blasts in place of sleeping powder, attacking all who dare enter their territory. They use the permanent cold emanating from their bodies to freeze the vicinity, and then the frozen surface to move around swiftly."
+          "image": "MHST2-Astalos_Icon.png"
         }
       ]
     },
