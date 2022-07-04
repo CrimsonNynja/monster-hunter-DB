@@ -3147,6 +3147,9 @@
       "name": "Gaismagorm",
       "type": "Elder Dragon",
       "isLarge": true,
+      "ailments": [
+        "Blastblight"
+      ],
       "weakness": [
         "Dragon",
         "Thunder"
