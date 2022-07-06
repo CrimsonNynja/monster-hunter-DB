@@ -7325,7 +7325,8 @@
       "games": [
         {
           "game": "Monster Hunter Rise",
-          "image": "MHRS-Scorned_Magnamalo_Icon.png"
+          "image": "MHRS-Scorned_Magnamalo_Icon.png",
+          "info": "A Magnamalo variant that achieves an even more twisted, malevolent form. Filled with hatred, they are known as \"Scorned Magnamalo.\" Shrouded in Hellfire at all times, they also boast larger arm blades and harder armor plating. During battles, they have been spotted focusing their Hellfire and swinging it like a blade."
         }
       ]
     },
