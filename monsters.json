@@ -6235,9 +6235,6 @@
       "name": "Purple Ludroth",
       "type": "Leviathan",
       "isLarge": true,
-      "subSpecies": [
-        "Glacial Agnaktor"
-      ],
       "ailments": [
         "Poison",
         "Noxious Poison"
