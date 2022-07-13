@@ -6,7 +6,7 @@ If you have found any errors, would like something added, or wish to help, drop 
 
 The data is provided in both a `.json` and `.ndjson` file, with the data sorted alphabetically on the monsters name.
 
-In its current state, it contains info on each monster from the games, with the following information (if it exists for the given monster), as well as all quests from MH World, MH:IB and MH rise, as well asll all MH World, MH:IB endemic life
+In its current state, it contains info on each monster from the games, with the following information (if it exists for the given monster), as well as all quests from MH World, MH:IB and MH rise, as well as all MH World, MH:IB endemic life
 
 All icons are provided in the 'icons' folder that the DB references.
 
