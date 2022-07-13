@@ -5504,6 +5504,9 @@
       "name": "Magnamalo",
       "type": "Fanged Wyvern",
       "isLarge": true,
+      "subSpecies": [
+        "Scorned Magnamalo"
+      ],
       "ailments": [
         "Hellfireblight"
       ],
@@ -6755,6 +6758,9 @@
       "name": "Rakna-Kadaki",
       "type": "Temnoceran",
       "isLarge": true,
+      "subSpecies": [
+        "Rakna-Kadaki"
+      ],
       "elements": [
         "Fire"
       ],
@@ -7933,6 +7939,9 @@
       "name": "Somnacanth",
       "type": "Leviathan",
       "isLarge": true,
+      "subSpecies": [
+        "Aurora Somnacanth"
+      ],
       "ailments": [
         "Sleep",
         "Stun",
