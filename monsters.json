@@ -5069,7 +5069,7 @@
       "type": "Elder Dragon",
       "isLarge": true,
       "subSpecies": [
-        "Rusted Jushala Daora"
+        "Rusted Kushala Daora"
       ],
       "elements": [
         "Dragon",
@@ -6513,9 +6513,6 @@
       "name": "Purple Ludroth",
       "type": "Leviathan",
       "isLarge": true,
-      "subSpecies": [
-        "Glacial Agnaktor"
-      ],
       "ailments": [
         "Poison",
         "Noxious Poison"
