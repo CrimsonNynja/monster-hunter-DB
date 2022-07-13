@@ -881,6 +881,16 @@
       ]
     },
     {
+      "name": "Orange Spiritbird",
+      "game": [
+        {
+          "game": "Monster Hunter Rise",
+          "info": "A small bird that glows a faint orange. This glow comes from pollen that accumulates on its body while drinking nectar. Many mistake this glow for a human soul, hence the name. Petalaces become fragrant and gain an attack boost when imbued with this pollen.",
+          "image": "MHRise-Orange_Spiribird_Icon.png"
+        }
+      ]
+    },
+    {
       "name": "Green Spiritbird",
       "game": [
         {
