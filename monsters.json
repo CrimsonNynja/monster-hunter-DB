@@ -233,6 +233,9 @@
       "name": "Almudron",
       "type": "Leviathan",
       "isLarge": true,
+      "subSpecies": [
+        "Magma Almudron"
+      ],
       "elements": [
         "Water"
       ],
@@ -781,9 +784,39 @@
           "danger": "5"
         },
         {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Astalos_Icon.png",
+          "info": "Large Flying Wyverns with crest-shaped organs that let them control vast amounts of electricity. Astalos vibrate these organs on their head, forked tail, and brilliant wings to charge the respective body part with electricity, yielding tremendous strength and an amplified attack range. Violent to a fault, witnesses have observed them using all their might to drive intruders from their territory."
+        },
+        {
           "game": "Monster Hunter Stories 2",
           "image": "MHST2-Astalos_Icon.png",
           "info": "Astalos can generate high-voltage electricity within their bodies. They shudder violently to charge up whatever body part they plan to attack with. A naturally aggressive species, they fiercely defend their territories."
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "name": "Aurora Somnacanth",
+      "type": "Leviathan",
+      "isLarge": true,
+      "elements": [
+        "Ice"
+      ],
+      "ailments": [
+        "Iceblight"
+      ],
+      "weakness": [
+        "Fire",
+        "Thunder"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Aurora_Somnacanth_Icon.png",
+          "info": "Light illuminates the dust scattered around this subspecies, making their fantastical appearance shimmer softly. Aurora Somnacanth sprays icy blasts in place of sleeping powder, attacking all who dare enter their territory. They use the permanent cold emanating from their bodies to freeze the vicinity, and then the frozen surface to move around swiftly."
         }
       ]
     },
@@ -1230,6 +1263,9 @@
       "name": "Bishaten",
       "type": "Fanged Beast",
       "isLarge": true,
+      "subSpecies": [
+        "Blood Orange Bishaten"
+      ],
       "ailments": [
         "Poison",
         "Stun",
@@ -1403,6 +1439,31 @@
     },
     {
       "_id": {
+        "$oid": ""
+      },
+      "name": "Blood Orange Bishaten",
+      "type": "Fanged Beast",
+      "isLarge": true,
+      "elements": [
+        "Fire"
+      ],
+      "ailments": [
+        "Fireblight"
+      ],
+      "weakness": [
+        "Water",
+        "Thunder"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Blood_Orange_Bishaten_Icon.png",
+          "info": "A subspecies named for their auburn fur. Inquisitive by nature, Blood Orange Bishaten can even appear near human habitats. Their belly pouch is stuffed with combustible pinecones, and this subspecies has a distinct and focused fire breath. The breath itself isn't as dangerous as the pinecones it ignites. Reports indicate that it's possible to topple these monsters while they balance on their tails."
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e15bc6e8a80af35ce52d7a3"
       },
       "name": "Bloodbath Diablos",
@@ -1530,6 +1591,21 @@
         {
           "game": "Monster Hunter World",
           "image": "MHWI-Boaboa_Icon.png"
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "name": "Boggi",
+      "type": "Bird Wyvern",
+      "isLarge": false,
+      "games": [
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Boggi_Icon.png",
+          "info": "Bird Wyverns living in the highlands of the Citadel. These calculating creatures hunt their prey with cunning, often waiting for them to grow weak before striking. They're dangerous creatures that surround their prey in packs with their sizeable claws ready to strike, so don't approach them carelessly."
         }
       ]
     },
@@ -1793,6 +1869,11 @@
           "image": "MHGen-Ceanataur_Icon.png",
           "info": "An adolescent Carapaceon with an organic shell firmly placed on its back. Once grown, this shell will be replaced by a giant monster's skull. Mainly living in volcanic zones, it is very aggressive, and not to be underestimated.",
           "danger": "2"
+        },
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Ceanataur_Icon.png",
+          "info": "The juvenile form of Shogun Ceanataur, these small Carapaceons live around volcanoes and in the Flooded Forest. Like Hermitaurs, Ceanataurs usually hide underground, surfacing to attack intruders with a discharge of toxic fluids. Their quick little legs make these critters a real pain in a hunter's coil. Carapaceon Brains from Ceanataurs are also in high demand."
         }
       ]
     },
@@ -2253,9 +2334,19 @@
           "info": "These armored Carapaceons use their hardened pincers like shields to fend off the attacks of their enemies."
         },
         {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Daimyo_Hermitaur_Icon.png",
+          "info": "Large Carapaceons that live in coastal regions and sandy soil. Daimyo Hermitaurs use their massive claws to guard themselves against enemy attacks. These creatures wear wyvern skulls on their backs, unlike the shells carried in their infancy. These shells serve not only as protection, but also as a method of attacking prey. They are highly valued for their materials-their brains in particular."
+        },
+        {
           "game": "Monster Hunter Stories 2",
           "image": "MHST2-Daimyo_Hermitaur_Icon.png",
           "info": "These armored Carapaceons use their hardened pincers like shields to fend off the attacks of their enemies. They often use a large monster's skull for a shell. Quite docile, they seem to spend most of their time just happily scuttling around."
+        },
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Daimyo_Hermitaur_Icon.png",
+          "info": "Large Carapaceons that live in coastal regions and sandy soil. Daimyo Hermitaurs use their massive claws to guard themselves against enemy attacks. These creatures wear wyvern skulls on their backs, unlike the shells carried in their infancy. These shells serve not only as protection, but also as a method of attacking prey. They are highly valued for their materials-their brains in particular."
         }
       ]
     },
@@ -2816,6 +2907,31 @@
     },
     {
       "_id": {
+        "$oid": ""
+      },
+      "name": "Espinas",
+      "type": "Flying Wyvern",
+      "isLarge": true,
+      "elements": [
+        "Fire"
+      ],
+      "ailments": [
+        "Poison",
+        "Paralysis"
+      ],
+      "weakness": [
+        "Ice"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Espinas.png",
+          "info": "Flying Wyverns known for the red spikes on their tough green frame, forming both a means of attack and defense, thus generally keeping foes at bay. As a result, they are often seen sprawled out and relaxing in their domain. Once they sense danger, however, they expand their blood vessels to turn their hide and wing membranes a bright red, and they will run riot with noteworthy brutality."
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e1564268a80af35ce52d741"
       },
       "name": "Fatalis",
@@ -3022,6 +3138,33 @@
           "game": "Monster Hunter World",
           "image": "MHWI-Furious_Rajang_Icon.png",
           "info": "A Rajang variant covered in golden fur. Utilizes severe ranged and wall-based attacks. It enters a glowing golden state when enraged."
+        },
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Furious_Rajang_Icon.png",
+          "info": "Furious Rajang are Rajang variants that are covered in golden fur. Normally Rajang return to their black-furred state after being agitated for a time to conserve energy, but these beasts have lost the ability to curb their anger. Outclassing the standard Rajang's attack power, they assault with seething rage. At the apex of their fury they become enraged and turn into destructive demons with electrified manes."
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "name": "Gaismagorm",
+      "type": "Elder Dragon",
+      "isLarge": true,
+      "ailments": [
+        "Blastblight"
+      ],
+      "weakness": [
+        "Dragon",
+        "Thunder"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Gaismagorm.png",
+          "info": "A gargantuan monster living in the darkest depths since ancient times. Gaismagorm's rock-like forearms boast tenacious strength which allows it to burrow underground. It has a symbiotic relationship with the Qurio, and feeds on their life force for energy. Once it has chosen a place to nest, it collapses the surrounding rock bed to create an opening to the surface. The opening forms a massive crater in which it releases the Qurio through."
         }
       ]
     },
@@ -3103,6 +3246,35 @@
           "game": "Monster Hunter Stories 2",
           "image": "MHST2-Gammoth_Icon.png",
           "info": "These massive beasts with piercing tusks are native to polar regions. Fiercely protective of their territories, they attack trespassers with their strong trunks or simply crush them under their weight."
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "name": "Garangolm",
+      "type": "Fanged Beast",
+      "isLarge": true,
+      "elements": [
+        "Fire",
+        "Water"
+      ],
+      "ailments": [
+        "Fireblight",
+        "Waterblight"
+      ],
+      "weakness": [
+        "Fire",
+        "Water",
+        "Thunder",
+        "Ice"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Garangolm.png",
+          "info": "A monster characterized by its massive and rigid body. Garangolm are generally placid, living in regions with fertile soil. Their sap-like fluids can promote plant growth, gorging a symbiotic relationship with flora that grows in their bodies. They can also use that sap to harden plants or the surrounding soil, outfitting their bodies and enhancing their attacks."
         }
       ]
     },
@@ -3616,6 +3788,11 @@
           "image": "MH4U-Gore_Magala_Icon.png",
           "info": "A bizarre wyvern that, when threatened, scatters pollen-like scales that heighten its own senses while causing detrimental effects to any other creatures that inhale them. As elusive as it is mysterious.",
           "danger": "5"
+        },
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Gore_Magala_Icon.png",
+          "info": "Gore Magala possess wings with black, shroud-like membrane. They lack visual receptors, heightening their senses by scattering scales from their wings to ascertain the locations of lifeforms. At the peak of their senses, feelers extend from their head, their wings unfurl, and they become frenzied. They're feared not only for their sinister appearance but also for the mysterious Frenzy virus they carry."
         }
       ]
     },
@@ -3642,6 +3819,21 @@
           "image": "MHRise-Goss_Harag_Icon.png",
           "info": "A Fanged Beast roaming snowy plains in search of prey. Its body is covered in fur so thick it keeps out the harsh frost. It can inhale the cold air to freeze its own bodily fluids and then spit them out to create icy blades on its arms. When riled up, it turns red and becomes exceedingly dangerous.",
           "danger": "7"
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "name": "Gowngoat",
+      "type": "Herbivore",
+      "isLarge": false,
+      "games": [
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Gowngoat_Icon.png",
+          "info": "Herbivorous monsters with fluffy tails. Their tails are mostly composed of slate gray hair; some scholars surmise that this trait lets them roll into balls to disguise themselves as rocks. Others believe their tails serve to hide and protect newborn offspring. Gentle by nature, they tend to live in herds. They are easily frightened, and the entire group will flee when attacked."
         }
       ]
     },
@@ -4161,6 +4353,11 @@
           "info": "Small hard-shelled Carapaceons. Their brains are regarded as a delicacy in some regions."
         },
         {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Hermitaur_Icon.png",
+          "info": "The juvenile form of Daimyo Hermitaur, these small Carapaceons live around coastal areas and sandy soil. They often hide in sand, popping out of their hidey-holes only to claw at nearby intruders. The sizable shells they carry protect their vitals; as they grow in size, they'll move to larger dwellings to accomomodate, such as monster skulls. The Carapaceon Brains they yield are quite the delicacy."
+        },
+        {
           "game": "Monster Hunter Stories 2",
           "image": "MHST2-Hermitaur_Icon.png",
           "info": "These small, hard-shelled Carapaceons are common in the desert, where they lie in wait under the sand, lashing out, when prey wanders past them. Their brains are prized as a delicacy."
@@ -4190,6 +4387,11 @@
           "image": "MHW-Hornetaur_Icon.png",
           "info": "Small insects that are found primarily on land. They're highly territorial and will attack anything that approaches them. Gather their materials by attacking them with the slinger.",
           "danger": "1"
+        },
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Hornetaur_Icon.png",
+          "info": "Small Neopterons found primarily on land, featuring two developed horns and legs peppered with sharp thorns. Extremely territorial, Hornetaurs attack any who approach without mercy. When processed, the shells around their bodies boast impressive strength; in their current state, however, too much \"uhmph\" when attacking can easily obliterate them, rendering them useless. Collect those materials with care!"
         }
       ]
     },
@@ -5197,6 +5399,31 @@
     },
     {
       "_id": {
+        "$oid": ""
+      },
+      "name": "Lunagaron",
+      "type": "Fanged Wyvern",
+      "isLarge": true,
+      "elements": [
+        "Ice"
+      ],
+      "ailments": [
+        "Iceblight",
+        "Stun"
+      ],
+      "weakness": [
+        "Fire"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Lunagaron_Icon.png",
+          "info": "Lunagaron have an organ that chills the air they inhale, circulating it throughout their body in a unique form of thermoregulation. They can travel long distances and endure environmental changes, allowing them to occupy a wide range of habitats. They usually walk on all fours, but can stand on two legs by shutting down their cooling mechanism, spiking their body temp to expand their muscles."
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e1454d98a80af35ce52d720"
       },
       "name": "Lunastra",
@@ -5237,6 +5464,31 @@
           "image": "MHGen-Maccao_Icon.png",
           "info": "Colorful red and green bird wyverns that live in large packs, they can be found mostly in the Jurassic Frontier. Though they attack prey aggressively with their strong legs, they are known to flee once their leader is in danger.",
           "danger": "2"
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "name": "Magma Almudron",
+      "type": "Leviathan",
+      "isLarge": true,
+      "elements": [
+        "Fire"
+      ],
+      "ailments": [
+        "Fireblight"
+      ],
+      "weakness": [
+        "Water",
+        "Ice"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Magma_Almudron_Icon.png",
+          "info": "Unlike normal Almudron, Magma Almudron live in the Lava Caverns, and can manipulate magma instead of mud. They secrete a special liquid that melts the ground, allowing them to move freely through the earth. Known for their aggressive nature, they become extremely agitated when trespassers set foot on their turf, attacking them relentlessly."
         }
       ]
     },
@@ -5315,6 +5567,32 @@
           "image": "MHGen-Malfestio_Icon.png",
           "info": "A bird wyvern which is most at home in the dark. It catches prey with its wings and talons. Its pivoting neck is characteristic, and it's worth a look to see it turned completely around to look behind itself. Scales in its wings can scatter a pollen that can cause confuse its foes.",
           "danger": "4"
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "name": "Malzeno",
+      "type": "Elder Dragon",
+      "isLarge": true,
+      "elements": [
+        "Dragon"
+      ],
+      "ailments": [
+        "Bloodblight",
+        "Dragonblight"
+      ],
+      "weakness": [
+        "Dragon",
+        "Fire"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Malzeon_Icon.png",
+          "info": "A dragon covered with elegant silver scales. It uses the Qurio to drain the life energy of other living creatures, creeping around at night and attacking its prey from behind. It appears almost regal to start with, but after draining enough energy, it can turn a violent, fresh-blood crimson. This form is known as the \"Bloodening\" and is widely feared."
         }
       ]
     },
@@ -6264,6 +6542,48 @@
     },
     {
       "_id": {
+        "$oid": ""
+      },
+      "name": "Pyrantula",
+      "type": "Temnoceran",
+      "isLarge": false,
+      "games": [
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Pyrantula_Icon.png",
+          "info": "Offspring of the Pyre Rakna-Kadaki. Pyrantula usually stay put, relying on their progenitor for almost all movement. On the other hand, they treat all who approach as threats, eagerly attacking all invaders they detect. Their bodies contain explosive gasses that the Pyre Rakna-Kadaki can detonate through webs, generating small explosions."
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "name": "Pyre Rakna-Kadaki",
+      "type": "Temnoceran",
+      "isLarge": true,
+      "elements": [
+        "Fire"
+      ],
+      "ailments": [
+        "Fireblight",
+        "Blastblight",
+        "Webbed"
+      ],
+      "weakness": [
+        "Water",
+        "Ice"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Pyre_Rakna-Kadaki_Icon.png",
+          "info": "A subspecies of Rakna-Kadaki filled with explosive material, their bodies are covered in a dark red, explosion-resistant webbing. An advanced chain of command lets them direct their offspring with a special sound-producing organ. On offense, they strike their forelimbs like flints to induce explosions. Connecting special detonation threads to offspring in the area lets them expand the explosive area to their positions."
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e15823c8a80af35ce52d778"
       },
       "name": "Qurupeco",
@@ -7052,6 +7372,28 @@
     },
     {
       "_id": {
+        "$oid": ""
+      },
+      "name": "Scorned Magnamalo",
+      "type": "Fanged Wyvern",
+      "isLarge": true,
+      "ailments": [
+        "Hellfireblight"
+      ],
+      "weakness": [
+        "Water",
+        "Thunder"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Scorned_Magnamalo_Icon.png",
+          "info": "A Magnamalo variant that achieves an even more twisted, malevolent form. Filled with hatred, they are known as \"Scorned Magnamalo.\" Shrouded in Hellfire at all times, they also boast larger arm blades and harder armor plating. During battles, they have been spotted focusing their Hellfire and swinging it like a blade."
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e15c0438a80af35ce52d7ab"
       },
       "name": "Seething Bazelgeuse",
@@ -7181,6 +7523,11 @@
           "info": "Flying Wyvern known for its lustrous golden scales. Its scales can be launched at prey in high-speed attacks."
         },
         {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Seregios_Icon.png",
+          "info": "Large Flying Wyverns with sharp, blade-like scales covering their body. Seregios are well-known as extremely territorial and belligerent creatures, wielding their mobility and powerful hind leg attacks in intense combat against other large monsters. Reports have confirmed that Seregios have the ability to launch the scales from their body, inflicting their victims with the Bleeding status."
+        },
+        {
           "game": "Monster Hunter Stories 2",
           "image": "MHST2-Seregios_Icon.png",
           "info": "Flying Wyvеrn known for its lustrous goldеn scalеs. Its scalеs can bе launchеd at prеy in high-spееd attacks."
@@ -7213,6 +7560,11 @@
           "image": "MH4U-Shagaru_Magala_Icon.png",
           "info": "The distinctive radiant light of the mature Gore Magala has been seen in the Sanctuary of Heaven's Mount. Some believe Shagaru Magala was the \"foul wind that withered a mountain,\" a calamity spoken of in ancient texts.",
           "danger": "6"
+        },
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Shagaru_Magala_Icon.png",
+          "info": "The form taken by Gore Magala once they mature and molt. Gorgeous, glittering scales cover Shagaru Magala, and their divine wings are large enough to wrap around their entire body. According to records, one was once said to have scattered its black scales over an area the size of a mountain, annhiliating any and all lifeforms inhabiting that region."
         }
       ]
     },
@@ -7337,6 +7689,11 @@
           "image": "MHGen-Shogun_Ceanataur_Icon.png",
           "info": "A large Carapaceon with a giant monster's skull on its back. Its long, sharp pincers allow it to pierce volcanic bedrock and travel along ceilings. Sometimes, a precious and valuable pearl can be found inside its shell.",
           "danger": "4"
+        },
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Shogun_Ceanataur_Icon.png",
+          "info": "These large Carapaceons can be found around volcanoes and in the Flooded Forest. Shogun Ceanataur wield long, developed claws that are usually folded away, but unfurl into terrifying blades when enraged. Shogun Ceanataur, like the Daimyo Hermitaur, are also known to use wyvern skulls as shells. Specimens that do, have been observed using a water jet-like attack."
         }
       ]
     },
@@ -8348,6 +8705,11 @@
           "info": "Carnivorous monsters with vivid blue scales. They hunt in packs using a deadly mix of strength and cunning."
         },
         {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Velociprey_Icon.png",
+          "info": "Small Bird Wyverns inhabiting the jungle. Velociprey are well-known for their yellow beaks, accenting bodies of black and blue stripes. They form packs, often engaging in communal behavior. These slender creatures can and will attack with sharp movements and sharper claws, so best be on your guard to avoid the pointy ends."
+        },
+        {
           "game": "Monster Hunter Stories 2",
           "image": "MHST2-Velociprey_Icon.png",
           "info": "Carnivorous monsters with vivid blue scales. They hunt in packs, using aggression and strength to surround and overwhelm prey."
@@ -8402,6 +8764,11 @@
           "game": "Monster Hunter Stories",
           "image": "MHGen-Vespoid_Icon.png",
           "info": "Giant Wasp-like Neopeterons with paralyzing stingers, which they use on any who stray too close."
+        },
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Vespoid_Icon.png",
+          "info": "Neopterons with paralyzing poison stingers on their abdomen. Vespoids adapt to almost any environment, and have been observed in many regions. Their sharp stingers are powerful enough to let them relentlessly jab any outsiders with a paralytic agent. They are delicate, weak to impacts, and make great materials for toxic weaponry."
         },
         {
           "game": "Monster Hunter Stories 2",
