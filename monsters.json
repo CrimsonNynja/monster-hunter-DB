@@ -6557,8 +6557,7 @@
         {
           "game": "Monster Hunter Rise",
           "image": "MHRS-Pyrantula_Icon.png",
-          "info": "Offspring of the Pyre Rakna-Kadaki. Pyrantula usually stay put, relying on their progenitor for almost all movement. On the other hand, they treat all who approach as threats, eagerly attacking all invaders they detect. Their bodies contain explosive gasses that the Pyre Rakna-Kadaki can detonate through webs, generating small explosions.",
-          "danger": "7"
+          "info": "Offspring of the Pyre Rakna-Kadaki. Pyrantula usually stay put, relying on their progenitor for almost all movement. On the other hand, they treat all who approach as threats, eagerly attacking all invaders they detect. Their bodies contain explosive gasses that the Pyre Rakna-Kadaki can detonate through webs, generating small explosions."
         }
       ]
     },
@@ -6585,7 +6584,8 @@
         {
           "game": "Monster Hunter Rise",
           "image": "MHRS-Pyre_Rakna-Kadaki_Icon.png",
-          "info": "A subspecies of Rakna-Kadaki filled with explosive material, their bodies are covered in a dark red, explosion-resistant webbing. An advanced chain of command lets them direct their offspring with a special sound-producing organ. On offense, they strike their forelimbs like flints to induce explosions. Connecting special detonation threads to offspring in the area lets them expand the explosive area to their positions."
+          "info": "A subspecies of Rakna-Kadaki filled with explosive material, their bodies are covered in a dark red, explosion-resistant webbing. An advanced chain of command lets them direct their offspring with a special sound-producing organ. On offense, they strike their forelimbs like flints to induce explosions. Connecting special detonation threads to offspring in the area lets them expand the explosive area to their positions.",
+          "danger": "7"
         }
       ]
     },
