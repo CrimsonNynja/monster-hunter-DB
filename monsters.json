@@ -1441,7 +1441,7 @@
     },
     {
       "_id": {
-        "$oid": ""
+        "$oid": "607a666674aba1e230b18b14"
       },
       "name": "Blood Orange Bishaten",
       "type": "Fanged Beast",
@@ -1599,7 +1599,7 @@
     },
     {
       "_id": {
-        "$oid": ""
+        "$oid": "5e15c88b8a80af3ace52d7b7"
       },
       "name": "Boggi",
       "type": "Bird Wyvern",
@@ -2906,7 +2906,7 @@
     },
     {
       "_id": {
-        "$oid": ""
+        "$oid": "5dff27fd9dabf81e7717cec1"
       },
       "name": "Espinas",
       "type": "Flying Wyvern",
@@ -3149,7 +3149,7 @@
     },
     {
       "_id": {
-        "$oid": ""
+        "$oid": "5e157e328a80af359e52d770"
       },
       "name": "Gaismagorm",
       "type": "Elder Dragon",
@@ -3253,7 +3253,7 @@
     },
     {
       "_id": {
-        "$oid": ""
+        "$oid": "5e1423ee8a80af35ce52d6eb"
       },
       "name": "Garangolm",
       "type": "Fanged Beast",
@@ -3827,7 +3827,7 @@
     },
     {
       "_id": {
-        "$oid": ""
+        "$oid": "607e89e01c899e0a3acd409c"
       },
       "name": "Gowngoat",
       "type": "Herbivore",
@@ -5402,7 +5402,7 @@
     },
     {
       "_id": {
-        "$oid": ""
+        "$oid": "607e89e01c399e0f3acd409c"
       },
       "name": "Lunagaron",
       "type": "Fanged Wyvern",
@@ -5473,7 +5473,7 @@
     },
     {
       "_id": {
-        "$oid": ""
+        "$oid": "607e89e01c899e0f3acd4092"
       },
       "name": "Magma Almudron",
       "type": "Leviathan",
@@ -5580,7 +5580,7 @@
     },
     {
       "_id": {
-        "$oid": ""
+        "$oid": "607e89e01c899e0f3aca409c"
       },
       "name": "Malzeno",
       "type": "Elder Dragon",
@@ -6551,7 +6551,7 @@
     },
     {
       "_id": {
-        "$oid": ""
+        "$oid": "607a89e01c899e0f3acd409c"
       },
       "name": "Pyrantula",
       "type": "Temnoceran",
@@ -6566,7 +6566,7 @@
     },
     {
       "_id": {
-        "$oid": ""
+        "$oid": "607e89e01c829e0f3acd409c"
       },
       "name": "Pyre Rakna-Kadaki",
       "type": "Temnoceran",
@@ -7385,7 +7385,7 @@
     },
     {
       "_id": {
-        "$oid": ""
+        "$oid": "607e89e01c869e0f3acd409c"
       },
       "name": "Scorned Magnamalo",
       "type": "Fanged Wyvern",
