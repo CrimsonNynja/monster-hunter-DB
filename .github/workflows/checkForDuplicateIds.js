@@ -4,7 +4,7 @@ const { monsters } = JSON.parse(fs.readFileSync('monsters.json'));
 
 let ids = {};
 monsters.forEach((item) => {
-  if (!item._id) {
+  if (!item._id['$oid']) {
     throw `id is missing on : ${item.name}`;
   }
 
