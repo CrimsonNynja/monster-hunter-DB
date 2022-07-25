@@ -5356,7 +5356,11 @@
     },
     {
       "_id": {
+<<<<<<< HEAD
         "$oid": "5e157b318a80af35ce52d788"
+=======
+        "$oid": ""
+>>>>>>> 0e434d4 (Add Lucent Nargacuga)
       },
       "name": "Lucent Nargacuga",
       "type": "Flying Wyverns",
