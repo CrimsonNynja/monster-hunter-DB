@@ -5355,6 +5355,28 @@
     },
     {
       "_id": {
+        "$oid": ""
+      },
+      "name": "Lucent Nargacuga",
+      "type": "Flying Wyverns",
+      "isLarge": true,
+      "ailments": [
+        "Poison"
+      ],
+      "weakness": [
+        "Ice",
+        "Dragon"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter 3 Ultimate",
+          "image": "MH3U-Lucent_Nargacuga_Icon.png",
+          "info": "A rare species of Nargacuga whose behavior and habitat are shrouded in mystery. Legend claims it appears on foggy nights at a remote and well-hidden location, but the veracity of this claim is still being researched by the guild."
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e1583ba8a80af35ce52d77b"
       },
       "name": "Ludroth",
