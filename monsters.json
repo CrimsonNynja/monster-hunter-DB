@@ -5377,6 +5377,11 @@
           "game": "Monster Hunter 3 Ultimate",
           "image": "MH3U-Lucent_Nargacuga_Icon.png",
           "info": "A rare species of Nargacuga whose behavior and habitat are shrouded in mystery. Legend claims it appears on foggy nights at a remote and well-hidden location, but the veracity of this claim is still being researched by the guild."
+        },
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Lucent_Nargacuga_Icon.png",
+          "info": ""
         }
       ]
     },
@@ -7454,6 +7459,11 @@
           "game": "Monster Hunter World",
           "image": "MHWI-Seething_Bazelgeuse_Icon.png",
           "info": "The scales of this Bazelgeuse variant burn hotter than normal, increasing in number and explosion radius as time passes."
+        },
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Seething_Bazelgeuse_Icon.png",
+          "info": ""
         }
       ]
     },
