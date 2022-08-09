@@ -3730,6 +3730,11 @@
           "info": "A rare Rathian subspecies. Its majestic golden sheen resembles the glow of the full moon."
         },
         {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Gold_Rathian_Icon.png",
+          "info": ""
+        },
+        {
           "game": "Monster Hunter Stories 2",
           "image": "MHST2-Gold_Rathian_Icon.png",
           "info": "A rare Rathian subspecies. Its majestic golden sheen resembles the glow of the full moon."
@@ -7858,6 +7863,11 @@
           "game": "Monster Hunter Stories",
           "image": "MH4U-Silver_Rathalos_Icon.png",
           "info": "A rare Rathalos subspecies. Its piercing silver shimmer resembles the blazing sun."
+        },
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Silver_Rathalos_Icon.png",
+          "info": ""
         },
         {
           "game": "Monster Hunter Stories 2",
