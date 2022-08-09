@@ -3732,7 +3732,8 @@
         {
           "game": "Monster Hunter Rise",
           "image": "MHRS-Gold_Rathian_Icon.png",
-          "info": ""
+          "info": "",
+          "danger": ""
         },
         {
           "game": "Monster Hunter Stories 2",
@@ -5386,7 +5387,8 @@
         {
           "game": "Monster Hunter Rise",
           "image": "MHRS-Lucent_Nargacuga_Icon.png",
-          "info": ""
+          "info": "",
+          "danger": ""
         }
       ]
     },
@@ -7468,7 +7470,8 @@
         {
           "game": "Monster Hunter Rise",
           "image": "MHRS-Seething_Bazelgeuse_Icon.png",
-          "info": ""
+          "info": "",
+          "danger": ""
         }
       ]
     },
@@ -7867,7 +7870,8 @@
         {
           "game": "Monster Hunter Rise",
           "image": "MHRS-Silver_Rathalos_Icon.png",
-          "info": ""
+          "info": "",
+          "danger": ""
         },
         {
           "game": "Monster Hunter Stories 2",
