@@ -5369,7 +5369,7 @@
 >>>>>>> 0e434d4 (Add Lucent Nargacuga)
       },
       "name": "Lucent Nargacuga",
-      "type": "Flying Wyverns",
+      "type": "Flying Wyvern",
       "isLarge": true,
       "ailments": [
         "Poison"
