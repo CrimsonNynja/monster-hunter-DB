@@ -7470,8 +7470,8 @@
         {
           "game": "Monster Hunter Rise",
           "image": "MHRS-Seething_Bazelgeuse_Icon.png",
-          "info": "",
-          "danger": ""
+          "info": "A Bazelgeuse variant whose body seems to smolder, like it could go critical at any moment. The heat of their explosive scales have grown, their pale blue glow worthy of the \"Seething\" moniker. Their scales are blisteringly hot in this state, capable of scorching the very earth with their volatile force.",
+          "danger": "9"
         }
       ]
     },
