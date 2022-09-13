@@ -3057,6 +3057,31 @@
     },
     {
       "_id": {
+        "$oid": ""
+      },
+      "name": "Flaming Espinas",
+      "type": "Flying Wyvern",
+      "isLarge": true,
+      "elements": [
+        "Fire"
+      ],
+      "ailments": [
+        "Fireblight",
+        "Poison"
+      ],
+      "weakness": [
+        "Water"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Flaming_Espinas_Icon.png",
+          "info": ""
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5f0dc6a7e1dab80a94e21619"
       },
       "name": "Frostfang Barioth",
