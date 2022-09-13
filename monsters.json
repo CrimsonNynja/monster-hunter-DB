@@ -2911,6 +2911,9 @@
       "name": "Espinas",
       "type": "Flying Wyvern",
       "isLarge": true,
+      "subSpecies": [
+        "Flaming Espinas"
+      ],
       "elements": [
         "Fire"
       ],
