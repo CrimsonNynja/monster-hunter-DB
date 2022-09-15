@@ -3079,7 +3079,8 @@
         {
           "game": "Monster Hunter Rise",
           "image": "MHRS-Flaming_Espinas_Icon.png",
-          "info": ""
+          "info": "",
+          "danger": ""
         }
       ]
     },
@@ -5724,7 +5725,8 @@
       "isLarge": true,
       "subSpecies": [
         "Soulseer Mizutsune",
-        "Apex Mizutsune"
+        "Apex Mizutsune",
+        "Violet Mizutsune"
       ],
       "elements": [
         "Water"
@@ -8843,6 +8845,22 @@
           "game": "Monster Hunter Stories 2",
           "image": "MHST2-Vespoid_Icon.png",
           "info": "Giant Wasp-like Neopterons with paralyzing stingers, which they use on any who stray too close."
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "name": "Violet Mizutsune",
+      "type": "Leviathan",
+      "isLarge": true,
+      "games": [
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Violet_Mizutsune_Icon.png",
+          "info": "",
+          "danger": ""
         }
       ]
     },
