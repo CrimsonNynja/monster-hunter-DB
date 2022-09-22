@@ -1977,7 +1977,8 @@
         "Dragon"
       ],
       "ailments": [
-        "Poison"
+        "Poison",
+        "Noxious Poison"
       ],
       "weakness": [
         "Dragon",
