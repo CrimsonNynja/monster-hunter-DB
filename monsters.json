@@ -1973,6 +1973,9 @@
       "name": "Chameleos",
       "type": "Elder Dragon",
       "isLarge": true,
+      "subSpecies": [
+        "Risen Chameleos"
+      ],
       "elements": [
         "Dragon"
       ],
@@ -7135,6 +7138,22 @@
           "game": "Monster Hunter Rise",
           "image": "MHRise-Rhenoplos_Icon.png",
           "info": "Extremely territorial herbivores with poor vision but acute hearing, Rhenoplos will doggedly pursue any target they sense. They cannot easily stop once they break into a run, a fact confirmed by hunters who foolishly thought they could stop them using a buckler or a shield."
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "name": "Risen Chameleos",
+      "type": "Elder Dragon",
+      "isLarge": true,
+      "games": [
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Risen_Chameleos_Icon.png",
+          "info": "",
+          "danger": ""
         }
       ]
     },
