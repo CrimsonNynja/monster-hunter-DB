@@ -1980,7 +1980,8 @@
         "Dragon"
       ],
       "ailments": [
-        "Poison"
+        "Poison",
+        "Noxious Poison"
       ],
       "weakness": [
         "Dragon",
@@ -3761,6 +3762,12 @@
           "info": "A rare Rathian subspecies. Its majestic golden sheen resembles the glow of the full moon."
         },
         {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Gold_Rathian_Icon.png",
+          "info": "A rare species of Rathian covered in shimmering golden scales. Known as the Gold Fire Wyvern, or alternatively the Golden Moon, as inspired by their divine appearance. These wyverns are infamous for their strong scales and attacks with their reinforced tails, giving these beasts exceptional combat ability. In battle, their attacks grow only more intense when in their Incandescent state.",
+          "danger": "9"
+        },
+        {
           "game": "Monster Hunter Stories 2",
           "image": "MHST2-Gold_Rathian_Icon.png",
           "info": "A rare Rathian subspecies. Its majestic golden sheen resembles the glow of the full moon."
@@ -5390,7 +5397,7 @@
         "$oid": "5e157b318a80af35ce52d788"
       },
       "name": "Lucent Nargacuga",
-      "type": "Flying Wyverns",
+      "type": "Flying Wyvern",
       "isLarge": true,
       "ailments": [
         "Poison"
@@ -5404,6 +5411,12 @@
           "game": "Monster Hunter 3 Ultimate",
           "image": "MH3U-Lucent_Nargacuga_Icon.png",
           "info": "A rare species of Nargacuga whose behavior and habitat are shrouded in mystery. Legend claims it appears on foggy nights at a remote and well-hidden location, but the veracity of this claim is still being researched by the guild."
+        },
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Lucent_Nargacuga_Icon.png",
+          "info": "Nargacuga clad in radiant fur that live in fog-shrouded lands. Lucent Nargacuga hide in the night's fog and moonlight, springing assaults with neither shape nor shadow. Astounding agility and marvelous mobility make them difficult to capture with the naked eye. The throng of toxic tailspikes they launch make these wyverns perilous beasts indeed.",
+          "danger": "9"
         }
       ]
     },
@@ -7491,13 +7504,20 @@
         "Fireblight"
       ],
       "weakness": [
-        "Ice"
+        "Ice",
+        "Thunder"
       ],
       "games": [
         {
           "game": "Monster Hunter World",
           "image": "MHWI-Seething_Bazelgeuse_Icon.png",
           "info": "The scales of this Bazelgeuse variant burn hotter than normal, increasing in number and explosion radius as time passes."
+        },
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Seething_Bazelgeuse_Icon.png",
+          "info": "A Bazelgeuse variant whose body seems to smolder, like it could go critical at any moment. The heat of their explosive scales have grown, their pale blue glow worthy of the \"Seething\" moniker. Their scales are blisteringly hot in this state, capable of scorching the very earth with their volatile force.",
+          "danger": "9"
         }
       ]
     },
@@ -7892,6 +7912,12 @@
           "game": "Monster Hunter Stories",
           "image": "MH4U-Silver_Rathalos_Icon.png",
           "info": "A rare Rathalos subspecies. Its piercing silver shimmer resembles the blazing sun."
+        },
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Silver_Rathalos_Icon.png",
+          "info": "A rare species of Rathalos covered in shimmering silver scales. Known as the Silver Fire Wyvern, or alternatively the Silver Sun, as inspired by their majestic appearance. These wyverns are known for their fierce breath and even fiercer claws, giving these threatening beasts exceptional combat ability. In battle, their attacks grow only more intense when in their Incandescent state.",
+          "danger": "9"
         },
         {
           "game": "Monster Hunter Stories 2",
