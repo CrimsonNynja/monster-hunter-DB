@@ -13530,6 +13530,656 @@
       "targets": [
         "Brute Tigrex"
       ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275aa180af35ce82d31a"
+      },
+      "name": "Tetranadon Blockade",
+      "client": "Dame Fiorayne",
+      "description": "As I said previously, there's a Tetranadon making a nuisance of itself in the Jungle. This mission is essential for securing safe passage between Elgado and Kamura. Now then, , the Fierce! Show me what you're made of!",
+      "map": "Jungle",
+      "isKey": true,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "MR1",
+      "objective": "Hunt a Tetranadon",
+      "targets": [
+        "Tetranadon"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275a3180af35ce82d31a"
+      },
+      "name": "Barroth to a Great Start",
+      "client": "Striking Farmer",
+      "description": "Ta-daaah! I invented this revolutionary fertilizer by mixing all sorts of stuff with a Barroth tail! I'll make a killin' if I can mass-produce this, but I ran outta tail! Can ya go hunt a Barroth for me?",
+      "map": "Sandy Plains",
+      "isKey": true,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "MR1",
+      "objective": "Hunt a Barroth",
+      "targets": [
+        "Barroth"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13275a3180a935ce82d31a"
+      },
+      "name": "You Had Me at Poofy",
+      "client": "Excited Entrepreneur",
+      "description": "OK, picture this: Royal Ludroth stuffed animals. Eh? EH? You can totally see it, right? With their little poofy mane, they'd be a hit! And why stop there? Kitchen sponges, bath sponges!? All we need is a little...\"product research.\"",
+      "map": "Jungle",
+      "isKey": true,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "MR1",
+      "objective": "Hunt a Royal Ludroth",
+      "targets": [
+        "Royal Ludroth"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13279a3180a935ce82d31a"
+      },
+      "name": "A Sinking Feeling",
+      "client": "Newbie Captain",
+      "description": "After getting my first ship, I was tasked with ferrying knights to the Jungle, but Hermitaur and Velociprey roam the shores! I don't like the look of this... I JUST became captain! I'm not ready to go down with the ship!",
+      "map": "Jungle",
+      "isKey": true,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "MR1",
+      "objective": "Slay a total of 15 Hermitaur or Velociprey",
+      "targets": [
+        "Hermitaur",
+        "Velociprey"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13279a3180a938ce82631a"
+      },
+      "name": "Need a Hunter, ASAP!",
+      "client": "Serious Researcher",
+      "description": "es, yes. Greetings. Now if you don't mind, I didn't come all this way for formalities. I came here to research monsters. And I intend to do just that! I require that you hunt a Kulu-Ya-Ku immediately. Well... What are you waiting for?",
+      "map": "Jungle",
+      "isKey": true,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "MR1",
+      "objective": "Hunt a Kulu-Ya-Ku",
+      "targets": [
+        "Kulu-Ya-Ku"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e1327fa3180a935ce82d31a"
+      },
+      "name": "Buggin' Out!",
+      "client": "Entomophobic Hunter",
+      "description": "Ew! EW! Get them away from me! Gross, gross, GROSS! Like, why didn't someone tell me the Jungle would be literally CRAWLING with bugs? Monsters? OK. But, bugs? BUGS? HELLO! I did NOT sign up for this, OK? Yuck.",
+      "map": "Jungle",
+      "isKey": false,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "MR1",
+      "objective": "Slay a total of 20 Vespoid or Hornetaur",
+      "targets": [
+        "Vespoid",
+        "Hornetaur"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13279a3b80a935ce82d31a"
+      },
+      "name": "Reap What You Saw",
+      "client": "Clumsy Farmer",
+      "description": "I was having the darndest time trying to cut my grass—'bout cut my dang hand off—when I seen the darndest thing! This darn monster did one li'l twirl and mowed down just about everything around it! Maybe if I watch you hunt one, I can figure out how it does that.",
+      "map": "Shrine Ruins",
+      "isKey": false,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "MR1",
+      "objective": "Hunt a Great Izuchi",
+      "targets": [
+        "Great Izuchi"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13279a3180a915ce82d31a"
+      },
+      "name": "The Red Rolling Terror",
+      "client": "Treetop Traveler",
+      "description": "omeone! Help pleeeeeeease! I crossed paths with a Volvidon and it chased me up a tree! You gotta hurry! It keeps spittin' at me and lickin' the bottom of my boots! I'm sendin' this message via bug— sorry for the bug goo in advance!",
+      "map": "Sandy Plains",
+      "isKey": true,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "MR1",
+      "objective": "Hunt a Volvidon",
+      "targets": [
+        "Volvidon"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13279a3180a935cec2d31b"
+      },
+      "name": "It Could be Worse...",
+      "client": "Prone Hunter",
+      "description": "So funny story, I get barbequed by an Aknosom so I stop, drop, and roll, right? But I keep rolling and rolling...and rolling...and roll— Anyway, I'm all dizzy now and my buns are toasted. Think you can go and finish the job for me?",
+      "map": "Frost Islands",
+      "isKey": true,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "MR1",
+      "objective": "Hunt an Aknosom",
+      "targets": [
+        "Aknosom"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13279a3180a945cec2d31a"
+      },
+      "name": "[REDACTED]",
+      "client": "Shady Man in Black",
+      "description": "A certain VIP may or may not be set to visit the Outpost, but two Great Wroggi may or may not have appeared on the road in. We may or may not need you to hunt it.",
+      "map": "Jungle",
+      "isKey": true,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "MR1",
+      "objective": "Hunt 2 Great Wroggi",
+      "targets": [
+        "Great Wroggi",
+        "Great Wroggi"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13279a3180a935ce32d31a"
+      },
+      "name": "BRRRR Plus ZZZzzz Equals?",
+      "client": "Unintelligible Fisherman",
+      "description": "Help! I was fishin' in the Frost Islands, when bam! a Lagombi was all like RAWR with a snow- ball, and I was all BRRRR, and then boom! A Great Baggi went all BAAARFFF, and I was all ZZZzzzzz...",
+      "map": "Frost Islands",
+      "isKey": true,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "MR1",
+      "objective": "Hunt a Lagombi and a Great Baggi",
+      "targets": [
+        "Lagombi",
+        "Great Baggi"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13279a3180a935cec2d31a"
+      },
+      "name": "The Good, the Bad, and Lagombi",
+      "client": "Linguistic Researcher",
+      "description": "Hunter, good... Lagombi, bad... Wirebugs, good... Snowball, bad... Big ears, good... Sonic Bomb, bad... Many bombs, good... Forget bombs, bad...",
+      "map": "Frost Islands",
+      "isKey": false,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "MR1",
+      "objective": "Hunt a Lagombi",
+      "targets": [
+        "Lagombi"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13279a31e0a935cec2d31a"
+      },
+      "name": "The Jungle Guidebook",
+      "client": "Young Editor",
+      "description": "For the sake of my publication, I need you to hunt three monsters. I wish to record the nitty-gritty details of these fearsome beasts! Once complete, merchants and travelers will be able to navigate the Jungle safely!",
+      "map": "Jungle",
+      "isKey": false,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "MR1",
+      "objective": "Hunt all target monsters",
+      "targets": [
+        "Royal Ludroth",
+        "Daimyo Hermitaur",
+        "Tetranadon"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13279a3180f935cec2d31a"
+      },
+      "name": "Supply Line Shell Game",
+      "client": "Azuki the Cook",
+      "description": "I came up with the pur-fect recipe to help meow-t hunters and researchers in the field, but the ingredients can only be found in Daimyo Hermitaur territory! Can you help me secure my supplies by removing those crabs from the culinary equation?",
+      "map": "Jungle",
+      "isKey": false,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "MR1",
+      "objective": "Hunt 2 Daimyo Hermitaur",
+      "targets": [
+        "Daimyo Hermitaur",
+        "Daimyo Hermitaur"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13279a3180a935cec2e31a"
+      },
+      "name": "Uninvited Guest",
+      "client": "Fugen the Elder",
+      "description": "So a Daimyo Hermitaur found its way into the Shrine Ruins, huh? Well, time for a little Kamura welcome. But be careful, I hear that shell of theirs is darn near impossible to penetrate. Not a problem for a smart hunter like you! Bwahaha! Now go get to it!",
+      "map": "Shrine Ruins",
+      "isKey": false,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "MR1",
+      "objective": "Hunt a Daimyo Hermitaur",
+      "targets": [
+        "Daimyo Hermitaur"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13279b3180a935cec2e31a"
+      },
+      "name": "Catnap Ruined",
+      "client": "Cat-Napping Felyne",
+      "description": "All the shade in the Shrine Ruins makes it purr-fect fur napping, but two Arzuros are making such a ruckus with their tussling, I can't catch a wink! I need you to get back my mew-ty sleep, Hunter!",
+      "map": "Shrine Ruins",
+      "isKey": true,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "MR1",
+      "objective": "Hunt 2 Arzuros",
+      "targets": [
+        "Arzuros",
+        "Arzuros"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13279a3a80a935cec2e31a"
+      },
+      "name": "Provoking an Anjanath's Wrath",
+      "client": "Dame Fiorayne",
+      "description": "A Wyverian researcher has taken it upon himself to venture out in the Flooded Forest alone. It comes as no surprise that going out there by himself was a stupid idea. And now he's in danger. My apologies, but could I ask you to rescue him?",
+      "map": "Flooded Forest",
+      "isKey": false,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "MR2",
+      "objective": "Hunt an Anjanath",
+      "targets": [
+        "Anjanath"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13279a3180a93ecec2e31a"
+      },
+      "name": "A Dangerous Dare ♪",
+      "client": "Pingarh the Sailor",
+      "description": "Nothing wrong with peaceful days, but a guy needs excitement from time to time. Want to do a test of courage tonight at the Shrine Ruins? Oh, I won't be going, of course. Tell me how it went, and I'll give you an armor recipe!",
+      "map": "Shrine Ruins",
+      "isKey": false,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "MR2",
+      "objective": "Hunt a Rathian and a Bishaten",
+      "targets": [
+        "Rathian",
+        "Bishaten"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13279a3180a935cec2ed1a"
+      },
+      "name": "Pinecone Pelting Panic",
+      "client": "Azuki the Cook",
+      "description": "I've been thinking of creating some nourishing dango for all you brave hunters. I hear that the pinecones hoarded by Blood Orange Bishaten contain a healthy sap. Could you keep the monkeys busy while I purr-ocure the pinecones? Thanks!",
+      "map": "Sandy Plains",
+      "isKey": false,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "MR2",
+      "objective": "Hunt 2 Blood Orange Bishaten",
+      "targets": [
+        "Blood Orange Bishaten",
+        "Blood Orange Bishaten"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e13279f3180a935cec2e31a"
+      },
+      "name": "Bird Wyvern Jamboree",
+      "client": "Lance-Wielding Knight",
+      "description": "We've gotten word of a merchant lost deep in the Shrine Ruins. We have a bead on their location, but we've also gotten word of an Aknosom and a Kulu-Ya-Ku there. Hunt down both, and we'll rescue the merchant.",
+      "map": "Shrine Ruins",
+      "isKey": true,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "MR2",
+      "objective": "Hunt an Aknosom and a Kulu-Ya-Ku",
+      "targets": [
+        "Aknosom",
+        "Kulu-Ya-Ku"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5a13279a3180a935cec2e31a"
+      },
+      "name": "The Assault of the Scarlet Tengu",
+      "client": "Dame Fiorayne",
+      "description": "A Blood Orange Bishaten has been frequently attacking other monsters in the Shrine Ruins. They are fiercely territorial species and if this one makes its nest here, I'm afraid it will attract more of them. Deal with the beast at once!",
+      "map": "Shrine Ruins",
+      "isKey": false,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "MR2",
+      "objective": "Hunt a Blood Orange Bishaten",
+      "targets": [
+        "Blood Orange Bishaten"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5213279a3180a935cec2e31a"
+      },
+      "name": "A Shocking, Sloppy Synthesis",
+      "client": "Filthy Trembling Hunter",
+      "description": "One locks you up, one knocks you out—mud and lightning's a scary combo, ain't it! Maybe it wouldn't faze a fierce hunter, but... Heh, as if! Anyway, I got a double-header request here, right up your alley.",
+      "map": "Flooded Forest",
+      "isKey": false,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "MR2",
+      "objective": "Hunt a Jyuratodus and a Tobi-Kadachi",
+      "targets": [
+        "Jyuratodus",
+        "Tobi-Kadachi"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5313279a3180a935cec2e31a"
+      },
+      "name": "BZZZZZ or ZZZZzzzz Pt. 2",
+      "client": "Fussy Girlfriend",
+      "description": "Ugh! My soon to be ex-boyfriend has done lost his mind! He thinks Somnacanth are longer than Khezu. HELLO! The stretchy necks!? Duh! I've had it with him. I'm SO done... Anyway, can you go out there and give Khezzy my number? Thanks!",
+      "map": "Frost Islands",
+      "isKey": false,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "MR2",
+      "objective": "Hunt a Khezu and a Somnacanth",
+      "targets": [
+        "Khezu",
+        "Somnacanth"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5313279a3180d935cec2e31a"
+      },
+      "name": "Skulking Among the Sand",
+      "client": "A-purr-entice Palico",
+      "description": "Heeelp! I went hunting in the Sandy Purr-lains with my meowster, but we can't handle a single monster—much less THREE! I hate to say it, but we aren't up to scratch for this! We need a veteran to take the reins!",
+      "map": "Sandy Plains",
+      "isKey": false,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "MR2",
+      "objective": "Hunt all target monsters",
+      "targets": [
+        "Volvidon",
+        "Basarios",
+        "Blood Orange Bishaten"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "531d279a3180a935cec2e31a"
+      },
+      "name": "In Pursuit of the Khezuit",
+      "client": "Fruit Researcher",
+      "description": "Have you heard of Khezuits? White fruit rarely found in arctic regions where Khezu live. It even looks like one! Wouldn't you know it, one's just about to ripen! I'll grab the fruit, you handle the Khezu.",
+      "map": "Frost Islands",
+      "isKey": false,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "MR2",
+      "objective": "Hunt 2 Khezu",
+      "targets": [
+        "Khezu",
+        "Khezu"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5313279a3180a935cec2e3da"
+      },
+      "name": "A Fond Fur-Well",
+      "client": "Thoughtful Felyne",
+      "description": "Soon my fur-iend's moving away across the sea and I wanna send 'em some flowers from the Jungle, but two monsters are stomping up the place! Hope there's enough left fur a bouquet...",
+      "map": "Jungle",
+      "isKey": false,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "MR2",
+      "objective": "Hunt a Tobi-Kadachi and a Tetranadon",
+      "targets": [
+        "Tobi-Kadachi",
+        "Tetranadon"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5313279aa180a935cec2e31a"
+      },
+      "name": "Plant Probe Pests",
+      "client": "Fed-Up Botanist",
+      "description": "I'm trying to conduct a botanical survey in the Flooded Forest, but monsters keep getting in my way, ESPECIALLY those Gajau and Ludroth. I'm sick of this! Please, I just want to finish my work! Get rid of 'em so I can do my job already!",
+      "map": "Flooded Forest",
+      "isKey": false,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "MR2",
+      "objective": "Slay a total of 15 Gajau or Ludroth",
+      "targets": [
+        "Gajau",
+        "Ludroth"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5313279a31807935cec2e31a"
+      },
+      "name": "Now That's What I Call Great!",
+      "client": "Enthusiastic Commentator",
+      "description": "Welcome to the Arena, folks! And boy do we have a show for you tonight! The Greatest of the Greats are all here and it's about to GO DOWN! These monsters are ready to fight tooth and nail for the title! Let's rumble!",
+      "map": "Arena",
+      "isKey": true,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "MR2",
+      "objective": "Hunt all target monsters",
+      "targets": [
+        "Great Izuchi",
+        "Great Baggi",
+        "Great Wroggi"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5313279fa180a935cec2e31a"
+      },
+      "name": "Shrine Ruined",
+      "client": "Relic-Loving Woman",
+      "description": "I went to the Shrine Ruins to take in the ancient architecture, but these two beasties started goin' at it! A fight between those two would bring down all the old buildings. Go tell 'em to take it somewhere else!",
+      "map": "Shrine Ruins",
+      "isKey": true,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "MR2",
+      "objective": "Hunt a Great Izuchi and a Rathian",
+      "targets": [
+        "Great Izuchi",
+        "Rathian"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5313279aa180e935cec2e31a"
+      },
+      "name": "Messed Up Situation",
+      "client": "Swanky Salesman",
+      "description": "This is a nightmare... This Jyuratodus jumped out of the sludge and attacked me and now my stuff's all caked in mud! This is my best suit, too! I'm gonna go take a bath, can you take that punk to the cleaners?",
+      "map": "Flooded Forest",
+      "isKey": true,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "MR2",
+      "objective": "Hunt a Jyuratodus",
+      "targets": [
+        "Jyuratodus"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5813279aa180a935cec2e31a"
+      },
+      "name": "Pent-Up Frustrations",
+      "client": "Awkward Hawker",
+      "description": " commute through the Sandy Plains to trade at the Outpost, but when night falls, there's this weird rock wall blocking my route. What gives? Now I have to take the long way around... Argh! Somebody do something!",
+      "map": "Sandy Plains",
+      "isKey": true,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "MR2",
+      "objective": "Hunt a Basarios",
+      "targets": [
+        "Basarios"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5013279aa180a935cec2e31a"
+      },
+      "name": "Rumble in the Jungle",
+      "client": "Curious Coward",
+      "description": "I've been hearing this sound from the Jungle lately—a kind of electric buzzing? I admit I'm curious, but I get shivers thinking about what awaits at the source. Think you could take a look, Hunter?",
+      "map": "Jungle",
+      "isKey": true,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "MR2",
+      "objective": "Hunt a Tobi-Kadachi",
+      "targets": [
+        "Tobi-Kadachi"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5313279aa100a935cec2e31a"
+      },
+      "name": "Poison Drops in the Sand",
+      "client": "Nature-loving Lass",
+      "description": "Wowzers! A Pukei-Pukei in the Sandy Plains! They're cute an' all with their googly eyes and colorful feathers, but what's NOT cute is all that poison they drip everywhere! It gets all over everything! Even other critters!",
+      "map": "Sandy Plains",
+      "isKey": true,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "MR2",
+      "objective": "Hunt a Pukei-Pukei",
+      "targets": [
+        "Pukei-Pukei"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5313279aa180a935cec2e01a"
+      },
+      "name": "Somnacanth Sleep Aid",
+      "client": "Drowsy Man",
+      "description": "*yawn* I'm a sleeping fiend, so I wanna make a pillow that's up to the nappy task. Getting *yawn* knocked out by a Somnacanth's like a gift from the sandman himself. If you hunt one for me, it'd really *yawn* help my snooze cruise.",
+      "map": "Frost Islands",
+      "isKey": true,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "MR2",
+      "objective": "Hunt a Somnacanth",
+      "targets": [
+        "Somnacanth"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5313209aa180a935cec2e31a"
+      },
+      "name": "The Alabaster Devourer",
+      "client": "Terror-Stricken Poet Girl",
+      "description": "Feet trudge through falling snow. Naught but my footsteps, no sound, alone? I turn my gaze to the crunchy crunch—wet, gaping maw, to make me its lunch! I run, run, to no avail. Someone, uh, out...me...bail?",
+      "map": "Frost Islands",
+      "isKey": true,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "MR2",
+      "objective": "Hunt a Khezu",
+      "targets": [
+        "Khezu"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5313279aa180a945cec2e31a"
+      },
+      "name": "The Queen's Garden",
+      "client": "Precocious Girl",
+      "description": "I aspire to charming conduct becoming of a lovely lady. That's why I want to observe the graciousness of the queen inhabiting the Jungle. I'll observe from the flowers. You'll protect me, won't you?",
+      "map": "Jungle",
+      "isKey": true,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "MR2",
+      "objective": "Hunt a Rathian",
+      "targets": [
+        "Rathian"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5113279aa180a935cec2e31a"
+      },
+      "name": "Sour Grapes",
+      "client": "Fruit Merchant",
+      "description": "I've been searching for fruit in the Jungle, but keep coming up short. Blue fur and tail marks tells me this is the work of a Bishaten. This can't go on forever, so I need you to hunt me into a better harvest!",
+      "map": "Jungle",
+      "isKey": false,
+      "questType": "Hub",
+      "game": "Monster Hunter Rise",
+      "difficulty": "MR2",
+      "objective": "Hunt a Bishaten",
+      "targets": [
+        "Bishaten"
+      ]
     }
   ]
 }
