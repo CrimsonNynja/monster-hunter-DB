@@ -7152,8 +7152,8 @@
         {
           "game": "Monster Hunter Rise",
           "image": "MHRS-Risen_Chameleos_Icon.png",
-          "info": "",
-          "danger": ""
+          "info": "Risen Chameleos are elder dragons that have found a way to overcome their affliction. By suppressing the Qurio virus, they have gained great strength and new abilities. They now boast superior poison and physicality, sending you off into a toxic nightmare if you lose sight of them. When their anger reaches its peak, they'll enter into their Risen state and their body will being to glow.",
+          "danger": "10"
         }
       ]
     },
