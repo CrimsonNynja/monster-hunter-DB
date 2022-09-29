@@ -7148,6 +7148,12 @@
       "name": "Risen Chameleos",
       "type": "Elder Dragon",
       "isLarge": true,
+      "ailments": [
+        "Noxious Poison"
+      ],
+      "weakness": [
+        "Fire"
+      ],
       "games": [
         {
           "game": "Monster Hunter Rise",
@@ -8900,6 +8906,17 @@
       "name": "Violet Mizutsune",
       "type": "Leviathan",
       "isLarge": true,
+      "elements": [
+        "Fire"
+      ],
+      "ailments": [
+        "Bubble",
+        "Fireblight"
+      ],
+      "weakness": [
+        "Ice",
+        "Thunder"
+      ],
       "games": [
         {
           "game": "Monster Hunter Rise",
