@@ -3064,7 +3064,7 @@
     },
     {
       "_id": {
-        "$oid": ""
+        "$oid": "5e15040e8a80af35ce52d75f"
       },
       "name": "Flaming Espinas",
       "type": "Flying Wyvern",
@@ -7143,7 +7143,7 @@
     },
     {
       "_id": {
-        "$oid": ""
+        "$oid": "5e15740e8a80af3cce52d75f"
       },
       "name": "Risen Chameleos",
       "type": "Elder Dragon",
@@ -8901,7 +8901,7 @@
     },
     {
       "_id": {
-        "$oid": ""
+        "$oid": "5e15740e8a80af3ace52d75f"
       },
       "name": "Violet Mizutsune",
       "type": "Leviathan",
