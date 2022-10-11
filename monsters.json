@@ -1864,7 +1864,8 @@
         "Poison"
       ],
       "weakness": [
-        "Thunder"
+        "Thunder",
+        "Fire"
       ],
       "games": [
         {
@@ -7338,7 +7339,7 @@
       ],
       "weakness": [
         "Thunder",
-        "Ice"
+        "Fire"
       ],
       "games": [
         {
@@ -7793,7 +7794,7 @@
       ],
       "weakness": [
         "Thunder",
-        "Ice"
+        "Fire"
       ],
       "games": [
         {
