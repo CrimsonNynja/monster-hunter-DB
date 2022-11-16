@@ -2027,6 +2027,12 @@
         {
           "game": "Monster Hunter 4 Ultimate",
           "image": "MH4U-Chaotic_Gore_Magala_Icon.png"
+        },
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Chaotic_Gore_Magala_Icon.png",
+          "info": "",
+          "danger": "10"
         }
       ]
     },
@@ -5112,7 +5118,8 @@
       "type": "Elder Dragon",
       "isLarge": true,
       "subSpecies": [
-        "Rusted Kushala Daora"
+        "Rusted Kushala Daora",
+        "Risen Kushala Daora"
       ],
       "elements": [
         "Dragon",
@@ -7167,6 +7174,62 @@
     },
     {
       "_id": {
+        "$oid": ""
+      },
+      "name": "Risen Kushala Daora",
+      "type": "Elder Dragon",
+      "isLarge": true,
+      "elements": [
+        "Dragon",
+        "Ice"
+      ],
+      "ailments": [
+        "Iceblight",
+        "Dragonblight"
+      ],
+      "weakness": [
+        "Dragon",
+        "Thunder"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Risen_Kushala_Daora_Icon.png",
+          "info": "",
+          "danger": "10"
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e157add8a80af35ce52d769"
+      },
+      "name": "Risen Teostra",
+      "type": "Elder Dragon",
+      "isLarge": true,
+      "elements": [
+        "Fire"
+      ],
+      "ailments": [
+        "Fireblight",
+        "Blastblight"
+      ],
+      "weakness": [
+        "Dragon",
+        "Water",
+        "Ice"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Risen_Teostra_Icon.png",
+          "info": "",
+          "danger": "10"
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e141a5b8a80af35ce52d6e2"
       },
       "name": "Royal Ludroth",
@@ -8205,6 +8268,9 @@
       "name": "Teostra",
       "type": "Elder Dragon",
       "isLarge": true,
+      "subSpecies": [
+        "Risen Teostra"
+      ],
       "elements": [
         "Fire",
         "Dragon"
