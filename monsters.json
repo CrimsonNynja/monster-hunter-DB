@@ -2031,7 +2031,7 @@
         {
           "game": "Monster Hunter Rise",
           "image": "MHRS-Chaotic_Gore_Magala_Icon.png",
-          "info": "",
+          "info": "Gore Magala that have fallen into chaos, having been denied their evolution into Shagaru Magala. They maintain their original power, while possessing the potential of Shagaru Magala, making them incredibly unstable. Sometimes this leads them to fall into a state of anguish and violence. When attacking their prey, they repeatedly fold and unfurl their wings, as if to show their internal struggle with their own form.",
           "danger": "10"
         }
       ]
@@ -7167,7 +7167,7 @@
         {
           "game": "Monster Hunter Rise",
           "image": "MHRS-Risen_Chameleos_Icon.png",
-          "info": "Risen Chameleos are elder dragons that have found a way to overcome their affliction. By suppressing the Qurio virus, they have gained great strength and new abilities. They now boast superior poison and physicality, sending you off into a toxic nightmare if you lose sight of them. When their anger reaches its peak, they'll enter into their Risen state and their body will being to glow.",
+          "info": "Risen Chameleos are elder dragons that have found a way to overcome their affliction. By suppressing the Qurio virus, they have gained great strength and new abilities. They now boast superior poison and physicality, sending you off into a toxic nightmare if you lose sight of them. When their anger reaches its peak, they'll enter into their Risen state and their body will begin to glow.",
           "danger": "10"
         }
       ]
@@ -7188,14 +7188,14 @@
         "Dragonblight"
       ],
       "weakness": [
-        "Dragon",
-        "Thunder"
+        "Thunder",
+        "Dragon"
       ],
       "games": [
         {
           "game": "Monster Hunter Rise",
           "image": "MHRS-Risen_Kushala_Daora_Icon.png",
-          "info": "",
+          "info": "Risen Kushala Daora are elder dragons that have found a way to overcome their affliction. By suppressing the Qurio virus, they have gained great strength and new abilities. They command destructive storms easily cornering their prey with a more varied arsenal of attacks than their regular counterparts. When their anger reaches its peak, they'll enter into their Risen state and their body will begin to glow.",
           "danger": "10"
         }
       ]
@@ -7215,7 +7215,6 @@
         "Blastblight"
       ],
       "weakness": [
-        "Dragon",
         "Water",
         "Ice"
       ],
@@ -7223,7 +7222,7 @@
         {
           "game": "Monster Hunter Rise",
           "image": "MHRS-Risen_Teostra_Icon.png",
-          "info": "",
+          "info": "Risen Teostra are elder dragons that have found a way to overcome their affliction. By suppressing the Qurio virus, they have gained great strength and new abilities. While clad in flame, Risen Teostra unleash more dust creating a non-stop barrage of explosions until everything in the vicinity has been turned to ashes. When their anger reaches its peak, they'll enter into their Risen state and their body will begin to glow.",
           "danger": "10"
         }
       ]
