@@ -7174,7 +7174,7 @@
     },
     {
       "_id": {
-        "$oid": ""
+        "$oid": "5e15740e8a80af3aae52d75f"
       },
       "name": "Risen Kushala Daora",
       "type": "Elder Dragon",
@@ -7202,7 +7202,7 @@
     },
     {
       "_id": {
-        "$oid": "5e157add8a80af35ce52d769"
+        "$oid": "5e157add8a80ff35ce52d769"
       },
       "name": "Risen Teostra",
       "type": "Elder Dragon",
