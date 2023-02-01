@@ -7229,6 +7229,34 @@
     },
     {
       "_id": {
+        "$oid": ""
+      },
+      "name": "Risen Crimson Glow Valstrax",
+      "type": "Elder Dragon",
+      "isLarge": true,
+      "elements": [
+        "Dragon"
+      ],
+      "ailments": [
+        "Dragonblight"
+      ],
+      "weakness": [
+        "Fire",
+        "Water",
+        "Thunder",
+        "Ice"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Risen_Crimson_Glow_Valstrax_Icon.png",
+          "info": "",
+          "danger": ""
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e141a5b8a80af35ce52d6e2"
       },
       "name": "Royal Ludroth",
@@ -8774,7 +8802,8 @@
       "type": "Elder Dragon",
       "isLarge": true,
       "subSpecies": [
-        "Crimson Glow Valstrax"
+        "Crimson Glow Valstrax",
+        "Risen Crimson Glow Valstrax"
       ],
       "elements": [
         "Dragon"
@@ -8825,6 +8854,12 @@
           "game": "Monster Hunter Stories 2",
           "image": "MHST2-Velkhana_Icon.png",
           "info": "Elder Dragons said to freeze all in their path. According to legend, they can controll the cold, and use its freezing breath to conjure massive spires of ice out of nowhere."
+        },
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Velkhana_Icon.png",
+          "info": "",
+          "danger": ""
         }
       ]
     },
