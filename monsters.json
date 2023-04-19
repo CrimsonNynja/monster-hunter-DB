@@ -334,6 +334,12 @@
           "image": "MHGen-Amatsu_Icon.png",
           "info": "A legendary elder dragon spotted on Sacred Pinnacle. An avatar of storms in the folklore of Yukumo Village, Amatsu's appearance is accompanied by furious cyclones and horrific storms. Its fearsome power is said to outscale that of natural disasters.",
           "danger": "8"
+        },
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Amatsu_Icon.png",
+          "info": "",
+          "danger": ""
         }
       ]
     },
@@ -7202,6 +7208,29 @@
     },
     {
       "_id": {
+        "$oid": ""
+      },
+      "name": "Risen Shagaru Magala",
+      "type": "Elder Dragon",
+      "isLarge": true,
+      "ailments": [
+        "Frenzy Virus"
+      ],
+      "weakness": [
+        "Dragon",
+        "Fire"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Risen_Shagaru_Magala_Icon.png",
+          "info": "",
+          "danger": ""
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e157add8a80ff35ce52d769"
       },
       "name": "Risen Teostra",
@@ -7745,6 +7774,9 @@
       "name": "Shagaru Magala",
       "type": "Elder Dragon",
       "isLarge": true,
+      "subSpecies": [
+        "Risen Shagaru Magala"
+      ],
       "ailments": [
         "Frenzy Virus"
       ],
