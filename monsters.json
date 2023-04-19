@@ -7768,7 +7768,8 @@
         {
           "game": "Monster Hunter Rise",
           "image": "MHRS-Shagaru_Magala_Icon.png",
-          "info": "The form taken by Gore Magala once they mature and molt. Gorgeous, glittering scales cover Shagaru Magala, and their divine wings are large enough to wrap around their entire body. According to records, one was once said to have scattered its black scales over an area the size of a mountain, annhiliating any and all lifeforms inhabiting that region."
+          "info": "The form taken by Gore Magala once they mature and molt. Gorgeous, glittering scales cover Shagaru Magala, and their divine wings are large enough to wrap around their entire body. According to records, one was once said to have scattered its black scales over an area the size of a mountain, annhiliating any and all lifeforms inhabiting that region.",
+          "danger": "8"
         }
       ]
     },
