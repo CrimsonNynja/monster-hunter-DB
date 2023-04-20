@@ -338,8 +338,8 @@
         {
           "game": "Monster Hunter Rise",
           "image": "MHRS-Amatsu_Icon.png",
-          "info": "",
-          "danger": ""
+          "info": "Elder dragons that can manipulate the weather and are able to conjure up unrelenting gales. Amatsu glide through the air on currents they create using their wing membrane, making it look as if they're dancing in the sky. The storms they summon are extremely destructive and can lay entire cities to waste, thus they are known as the \"Looming Calamity.\" When enraged, their storms become even more violent, enveloping the area with unrelenting lighting strikes.",
+          "danger": "10"
         }
       ]
     },
@@ -7224,8 +7224,8 @@
         {
           "game": "Monster Hunter Rise",
           "image": "MHRS-Risen_Shagaru_Magala_Icon.png",
-          "info": "",
-          "danger": ""
+          "info": "Risen Shagaru Magala are elder dragons that have found a way to overcome their affliction. By suppressing the Qurio virus, they have gained great strength and new abilities. They release larger quantities of the Frenzy virus, resulting in viral explosions with increased radius. Anything that gets in their way will fall prey to their powerful wingarms. When their anger reaches its peak, they'll enter into their Risen state and their body will begin to glow.",
+          "danger": "10"
         }
       ]
     },
