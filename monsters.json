@@ -5666,6 +5666,9 @@
       "name": "Malzeno",
       "type": "Elder Dragon",
       "isLarge": true,
+      "subSpecies": [
+        "Primordial Malzeno"
+      ],
       "elements": [
         "Dragon"
       ],
@@ -6524,6 +6527,25 @@
           "game": "Monster Hunter Stories 2",
           "image": "MHST2-Popo_Icon.png",
           "info": "Herd-forming Herbivores covered in long, thick fur. Popo meat is nutritious and prized by gourmands."
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "name": "Primordial Malzeno",
+      "type": "Elder Dragon",
+      "isLarge": true,
+      "elements": [],
+      "ailments": [],
+      "weakness": [],
+      "games": [
+        {
+          "game": "Monster Hunter Rise",
+          "image": "MHRS-Primordial_Malzeno_Icon.png",
+          "info": "",
+          "danger": ""
         }
       ]
     },
