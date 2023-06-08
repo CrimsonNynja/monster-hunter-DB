@@ -6537,15 +6537,22 @@
       "name": "Primordial Malzeno",
       "type": "Elder Dragon",
       "isLarge": true,
-      "elements": [],
-      "ailments": [],
-      "weakness": [],
+      "elements": [
+        "Dragon"
+      ],
+      "ailments": [
+        "Bloodblight",
+        "Dragonblight"
+      ],
+      "weakness": [
+        "Dragon"
+      ],
       "games": [
         {
           "game": "Monster Hunter Rise",
           "image": "MHRS-Primordial_Malzeno_Icon.png",
-          "info": "",
-          "danger": ""
+          "info": "Malzeno's original form before it was tainted by the Qurio. Ordinarily, it uses its wings and tail with the elegance of a knight, but under the Qurio's influence, it uses underhanded means of cornering its prey, and in its \"Bloodlust\" state it wields tremendous power. Because of the explosive energy corrupting its body, it sometimes shows behavior as if its struggling against an overwhelming force.",
+          "danger": "10"
         }
       ]
     },
