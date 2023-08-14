@@ -18,7 +18,7 @@ This repo contains a database of:
 
 If you have found any errors, would like something added, or wish to help, drop something in the discussion section of the repo.
 
-The data is provided in both a `.json` and `.ndjson` file, with the data sorted alphabetically on the monsters name.
+The data is provided in a `.json` file, with the data sorted alphabetically on the monsters name.
 
 All icons are provided in the 'icons' folder that the DB references.
 In its current state, it contains info on each monster from the games, with the following information:
