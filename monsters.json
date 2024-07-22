@@ -3537,6 +3537,7 @@
       "type": "Flying Wyvern",
       "isLarge": false,
       "ailments": [
+        "Life Drain",
         "Poison"
       ],
       "games": [
@@ -9418,7 +9419,8 @@
         "Ice"
       ],
       "ailments": [
-        "Iceblight"
+        "Iceblight",
+        "Life Drain"
       ],
       "weakness": [
         "Thunder",
