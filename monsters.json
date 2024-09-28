@@ -679,6 +679,25 @@
     },
     {
       "_id": {
+        "$oid": ""
+      },
+      "name": "Arkveld",
+      "type": "",
+      "isLarge": true,
+      "elements": [],
+      "ailments": [],
+      "weakness": [],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "",
+          "info": "",
+          "danger": ""
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e1570f48a80af35ce52d757"
       },
       "name": "Arzuros",
@@ -911,6 +930,25 @@
           "game": "Monster Hunter Stories 2",
           "image": "MHST2-Baggi_Icon.png",
           "info": "Intelligent Bird Wyverns that hunt in packs and use special bodily fluids to tranquilize their prey. Noted for their pale-blue scales and sharp glare."
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "name": "Balahara",
+      "type": "Leviathan",
+      "isLarge": true,
+      "elements": [],
+      "ailments": [],
+      "weakness": [],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "",
+          "info": "",
+          "danger": ""
         }
       ]
     },
@@ -2049,6 +2087,25 @@
     },
     {
       "_id": {
+        "$oid": ""
+      },
+      "name": "Chatacabra",
+      "type": "",
+      "isLarge": true,
+      "elements": [],
+      "ailments": [],
+      "weakness": [],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "",
+          "info": "",
+          "danger": ""
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5dfc951f9dabf81e7717cea4"
       },
       "name": "Conga",
@@ -2683,6 +2740,25 @@
           "game": "Monster Hunter World",
           "image": "MHW-Dodogama_Icon.png",
           "info": "A monster that devours rock as its primary diet. The Crystals it devours mix with its saliva to produce explosive minerals that it can spit at its enemies."
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "name": "Doshaguma",
+      "type": "Fanged Beast",
+      "isLarge": true,
+      "elements": [],
+      "ailments": [],
+      "weakness": [],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "",
+          "info": "",
+          "danger": ""
         }
       ]
     },
@@ -5293,6 +5369,25 @@
     },
     {
       "_id": {
+        "$oid": ""
+      },
+      "name": "Lala Barina",
+      "type": "Temnoceran",
+      "isLarge": true,
+      "elements": [],
+      "ailments": [],
+      "weakness": [],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "",
+          "info": "",
+          "danger": ""
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e1558798a80af35ce52d72d"
       },
       "name": "Lao-Shan Lung",
@@ -6717,6 +6812,25 @@
     },
     {
       "_id": {
+        "$oid": ""
+      },
+      "name": "Quematrice",
+      "type": "Brute Wyvern",
+      "isLarge": true,
+      "elements": [],
+      "ailments": [],
+      "weakness": [],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "",
+          "info": "",
+          "danger": ""
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e15823c8a80af35ce52d778"
       },
       "name": "Qurupeco",
@@ -7161,6 +7275,25 @@
           "game": "Monster Hunter Stories 2",
           "image": "MHST2-Remobra_Icon.png",
           "info": "Snake Wyverns that have mastered flight, and soar in search of weakened prey to swoop down upon. They are often seen in places where Elder Dragons appear, giving them a bad reputation as ill omens."
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "name": "Rey Dau",
+      "type": "Flying Wyvern",
+      "isLarge": true,
+      "elements": [],
+      "ailments": [],
+      "weakness": [],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "",
+          "info": "",
+          "danger": ""
         }
       ]
     },
@@ -8846,6 +8979,25 @@
           "game": "Monster Hunter Stories 2",
           "image": "MHST2-Uroktor_Icon.png",
           "info": "Young Leviathans that dwell in volcanoes. Scavengers by nature, they preferably feed of the scraps left behind by others. They rarely hunt for themselves, but stab upward at prey from the ground when they do."
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "name": "Uth Duna",
+      "type": "Leviathan",
+      "isLarge": true,
+      "elements": [],
+      "ailments": [],
+      "weakness": [],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "",
+          "info": "",
+          "danger": ""
         }
       ]
     },
