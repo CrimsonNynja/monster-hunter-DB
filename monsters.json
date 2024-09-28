@@ -295,14 +295,14 @@
           "danger": "1"
         },
         {
-          "game": "Monster Hunter Stories",
-          "image": "MH4U-Altaroth_Icon.png",
-          "info": "Neopterons found in many habitats. They forage for fruit, mushrooms, and honey to take back to their nests"
-        },
-        {
           "game": "Monster Hunter Rise",
           "image": "MHRise-Altaroth_Icon.png",
           "info": "Insects that widely inhabit many areas. They absorb fruit, mushrooms, and honey, and then carry them back to their nest. Materials can thus be collected from their swollen abdomens, whose color is related to what they're carrying."
+        },
+        {
+          "game": "Monster Hunter Stories",
+          "image": "MH4U-Altaroth_Icon.png",
+          "info": "Neopterons found in many habitats. They forage for fruit, mushrooms, and honey to take back to their nests"
         },
         {
           "game": "Monster Hunter Stories 2",
@@ -706,15 +706,15 @@
           "danger": "3"
         },
         {
-          "game": "Monster Hunter Stories",
-          "image": "MHST-Arzuros_Icon.png",
-          "info": "Bear-like monsters found in warm, damp environments. Can often be found catching fish from rivers."
-        },
-        {
           "game": "Monster Hunter Rise",
           "image": "MHRise-Arzuros_Icon.png",
           "info": "Beasts known to dwell in humid forest and mountain regions. Though known more for fishing and standing upright to collect honey, their thick claws and heavy forearm plating allow them to deliver powerful blows to any aggressor.",
           "danger": "1"
+        },
+        {
+          "game": "Monster Hunter Stories",
+          "image": "MHST-Arzuros_Icon.png",
+          "info": "Bear-like monsters found in warm, damp environments. Can often be found catching fish from rivers."
         },
         {
           "game": "Monster Hunter Stories 2",
@@ -898,14 +898,14 @@
           "danger": "2"
         },
         {
-          "game": "Monster Hunter Stories",
-          "image": "MHST-Baggi_Icon.png",
-          "info": "Intelligent Bird Wyverns that hunt in packs, and use special bodily fluids to tranquilize their prey."
-        },
-        {
           "game": "Monster Hunter Rise",
           "image": "MHRise-Baggi_Icon.png",
           "info": "Highly intelligent, carnivorous bird wyverns that hunt in packs. Noted for their blue scales and sharp glare. Baggi are feared for their ability to release a tranquilizing fluid; even a grown man can be put to sleep in seconds."
+        },
+        {
+          "game": "Monster Hunter Stories",
+          "image": "MHST-Baggi_Icon.png",
+          "info": "Intelligent Bird Wyverns that hunt in packs, and use special bodily fluids to tranquilize their prey."
         },
         {
           "game": "Monster Hunter Stories 2",
@@ -1000,15 +1000,15 @@
           "info": "The snow-white flying wyvern with huge tusks found in the frozen tundra. It uses its forelegs and tail to traverse ice with ease."
         },
         {
-          "game": "Monster Hunter Stories",
-          "image": "MHGU-Barioth_Icon.png",
-          "info": "Flying Wyverns that rule the frozen wastes. Spikily scaled wings and tail allow them to run effortlessly across ice."
-        },
-        {
           "game": "Monster Hunter Rise",
           "image": "MHRise-Barioth_Icon.png",
           "info": "Wyverns that rule the eternally frozen Tundra. Barioth use their forelegs, tail and their spiked scales to traverse the slippery ice with ease; this makes them very difficult to keep up with.",
           "danger": "5"
+        },
+        {
+          "game": "Monster Hunter Stories",
+          "image": "MHGU-Barioth_Icon.png",
+          "info": "Flying Wyverns that rule the frozen wastes. Spikily scaled wings and tail allow them to run effortlessly across ice."
         },
         {
           "game": "Monster Hunter Stories 2",
@@ -1076,15 +1076,15 @@
           "info": "Barroth seek out ants, their favorite snack, and mark their territory with mud. They attack potential rivals with their devastating charging attack."
         },
         {
-          "game": "Monster Hunter Stories",
-          "image": "MHGU-Barroth_Icon.png",
-          "info": "Barroth bury themselves in mud, but will not hesitate to attack those who disturb them in their bogs."
-        },
-        {
           "game": "Monster Hunter Rise",
           "image": "MHRise-Barroth_Icon.png",
           "info": "Barroth usually remain beneath the mud, perhaps to shield themselves from heat; they are even known to attack by flinging mud. They will charge in a frenzy at anything that disturbs their bogs.",
           "danger": "3"
+        },
+        {
+          "game": "Monster Hunter Stories",
+          "image": "MHGU-Barroth_Icon.png",
+          "info": "Barroth bury themselves in mud, but will not hesitate to attack those who disturb them in their bogs."
         },
         {
           "game": "Monster Hunter Stories 2",
@@ -1130,15 +1130,15 @@
           "danger": "4"
         },
         {
-          "game": "Monster Hunter Stories",
-          "image": "MH4U-Basarios_Icon.png",
-          "info": "Juvenile form of a Gravios. Its most distinctive feature is the rock-hard carapace on its back."
-        },
-        {
           "game": "Monster Hunter Rise",
           "image": "MHRise-Basarios_Icon.png",
           "info": "These juvenile Gravios are famous for their rock-hard carapaces. They often borrow underground, mimicking rocks and savaging oblivious miners. Because their carapaces are tougher than that of a full-grown Gravios, they'll attack a threat by charging at it. They are also known to emit a poisonous gas.",
           "danger": "3"
+        },
+        {
+          "game": "Monster Hunter Stories",
+          "image": "MH4U-Basarios_Icon.png",
+          "info": "Juvenile form of a Gravios. Its most distinctive feature is the rock-hard carapace on its back."
         },
         {
           "game": "Monster Hunter Stories 2",
@@ -1565,14 +1565,14 @@
           "danger": "2"
         },
         {
-          "game": "Monster Hunter Stories",
-          "image": "MH4U-Bnahabra_Icon.png",
-          "info": "Versatile Neopterons whose coloration and abilities differ according to habitat. This one is a hardy green/ a sturdy brown/ a lively red/ a deep blue."
-        },
-        {
           "game": "Monster Hunter Rise",
           "image": "MHRise-Bnahabra_Icon.png",
           "info": "Pervasive flying insects that attack invaders with paralyzing venom and lay eggs in carrion along with a fluid that hastens decomposition. It is best to kill them with poison so that their parts are left ripe for the carving."
+        },
+        {
+          "game": "Monster Hunter Stories",
+          "image": "MH4U-Bnahabra_Icon.png",
+          "info": "Versatile Neopterons whose coloration and abilities differ according to habitat. This one is a hardy green/ a sturdy brown/ a lively red/ a deep blue."
         },
         {
           "game": "Monster Hunter Stories 2",
@@ -1747,14 +1747,14 @@
           "danger": "5"
         },
         {
-          "game": "Monster Hunter Stories",
-          "image": "MH4U-Brute_Tigrex_Icon.png",
-          "info": "A black Tigrex subspecies. The force and range of its howl is even more fearsome than that of its cousins."
-        },
-        {
           "game": "Monster Hunter World",
           "image": "MHWI-Brute_Tigrex_Icon.png",
           "info": "Blackish brown scales and a stronger roar set this Tigrex subspecies apart. Extremely aggressive, even by Tigrex standards."
+        },
+        {
+          "game": "Monster Hunter Stories",
+          "image": "MH4U-Brute_Tigrex_Icon.png",
+          "info": "A black Tigrex subspecies. The force and range of its howl is even more fearsome than that of its cousins."
         },
         {
           "game": "Monster Hunter Stories 2",
@@ -1817,14 +1817,14 @@
           "danger": "2"
         },
         {
-          "game": "Monster Hunter Stories",
-          "image": "MHST-Bullfango_Icon.png",
-          "info": "Small, aggressive Fanged Beasts that attack humans on sight. An acquired taste, but the meat is in demand."
-        },
-        {
           "game": "Monster Hunter Rise",
           "image": "MHRise-Bullfango_Icon.png",
           "info": "Large, wild boars with a foul temper. Fertile and wide-ranging, they have been known to form large herds. They are so aggressive that they will attack other members of their own herd if they don't recognize them. Those without a particular reason to hunt them are better off keeping their distance."
+        },
+        {
+          "game": "Monster Hunter Stories",
+          "image": "MHST-Bullfango_Icon.png",
+          "info": "Small, aggressive Fanged Beasts that attack humans on sight. An acquired taste, but the meat is in demand."
         },
         {
           "game": "Monster Hunter Stories 2",
@@ -2354,15 +2354,15 @@
           "danger": "3"
         },
         {
-          "game": "Monster Hunter Stories",
-          "image": "MH4U-Daimyo_Hermitaur_Icon.png",
-          "info": "These armored Carapaceons use their hardened pincers like shields to fend off the attacks of their enemies."
-        },
-        {
           "game": "Monster Hunter Rise",
           "image": "MHRS-Daimyo_Hermitaur_Icon.png",
           "info": "Large Carapaceons that live in coastal regions and sandy soil. Daimyo Hermitaurs use their massive claws to guard themselves against enemy attacks. These creatures wear wyvern skulls on their backs, unlike the shells carried in their infancy. These shells serve not only as protection, but also as a method of attacking prey. They are highly valued for their materials-their brains in particular.",
           "danger": "5"
+        },
+        {
+          "game": "Monster Hunter Stories",
+          "image": "MH4U-Daimyo_Hermitaur_Icon.png",
+          "info": "These armored Carapaceons use their hardened pincers like shields to fend off the attacks of their enemies."
         },
         {
           "game": "Monster Hunter Stories 2",
@@ -2616,15 +2616,15 @@
           "info": "The apex monster of the Wildspire Waste. A menacing, territorial beast that lurks underground. Loud noises will cause it to lunge out from the sand in search of prey."
         },
         {
-          "game": "Monster Hunter Stories",
-          "image": "MH4U-Diablos_Icon.png",
-          "info": "Feared as tyrants of the deserts, these Flying Wyverns attack any who stray into their territory."
-        },
-        {
           "game": "Monster Hunter Rise",
           "image": "MHRise-Diablos_Icon.png",
           "info": "Known as the \"Tyrant of the Desert\". The Diablos is extremely territorial and will use its massive horns to charge at invaders, Diablos have the ability to borrow underground and use this ability to strike from below, however, their sensitive ears make them susceptible to Sonic Bombs. Despite their predatory appearance, they are herbivorous and mostly feed on cactus.",
           "danger": "7"
+        },
+        {
+          "game": "Monster Hunter Stories",
+          "image": "MH4U-Diablos_Icon.png",
+          "info": "Feared as tyrants of the deserts, these Flying Wyverns attack any who stray into their territory."
         },
         {
           "game": "Monster Hunter Stories 2",
@@ -2992,14 +2992,14 @@
           "danger": "8"
         },
         {
-          "game": "Monster Hunter Stories",
-          "image": "MH4U-Unknown_Icon.png",
-          "info": "Legendary black dragon shrouded in mystery. Many sought to challenge it, few lived to tell the tale..."
-        },
-        {
           "game": "Monster Hunter World",
           "image": "MHWI-Fatalis_Icon.png",
           "info": "A legendary black dragon known only as Fatalis. Rumored to have destroyed a kingdom in a single night, and has taken its castle for a roost."
+        },
+        {
+          "game": "Monster Hunter Stories",
+          "image": "MH4U-Unknown_Icon.png",
+          "info": "Legendary black dragon shrouded in mystery. Many sought to challenge it, few lived to tell the tale..."
         },
         {
           "game": "Monster Hunter Stories 2",
@@ -3041,14 +3041,14 @@
           "danger": "1"
         },
         {
-          "game": "Monster Hunter Stories",
-          "image": "MH4U-Felyne_Icon.png",
-          "info": "Trapped in barrels and unable to free themselves, these Felynes await rescue."
-        },
-        {
           "game": "Monster Hunter Rise",
           "image": "MHRise-Felyne_Icon.png",
           "info": "Bipedal creatures resembling cats, known for their light hair. Though usually docile, they will attack viciously if provoked. Naturally curious, some try to enter human society, and are often hired by the Guild to cook for and otherwise assist hunters."
+        },
+        {
+          "game": "Monster Hunter Stories",
+          "image": "MH4U-Felyne_Icon.png",
+          "info": "Trapped in barrels and unable to free themselves, these Felynes await rescue."
         },
         {
           "game": "Monster Hunter Stories 2",
@@ -3364,14 +3364,14 @@
           "danger": "1"
         },
         {
-          "game": "Monster Hunter Stories",
-          "image": "MH4U-Gargwa_Icon.png",
-          "info": "Placid Bird Wyverns raised as livestock. Their vestigial wings make them flightless."
-        },
-        {
           "game": "Monster Hunter Rise",
           "image": "MHRise-Gargwa_Icon.png",
           "info": "Flightless bird wyverns with vestigial wings, known to inhabit the Jurassic Frontier. Quite timid, Gargwa have been known to lay eggs when other creatures surprise them from behind. They are raised as livestock in numerous villages."
+        },
+        {
+          "game": "Monster Hunter Stories",
+          "image": "MH4U-Gargwa_Icon.png",
+          "info": "Placid Bird Wyverns raised as livestock. Their vestigial wings make them flightless."
         },
         {
           "game": "Monster Hunter Stories 2",
@@ -3775,15 +3775,15 @@
           "info": "A rare gleaming gold-scaled Rathian species. When wreathed in hellfire, its breath grows more lethal and its tail swipes broader."
         },
         {
-          "game": "Monster Hunter Stories",
-          "image": "MH4U-Gold_Rathian_Icon.png",
-          "info": "A rare Rathian subspecies. Its majestic golden sheen resembles the glow of the full moon."
-        },
-        {
           "game": "Monster Hunter Rise",
           "image": "MHRS-Gold_Rathian_Icon.png",
           "info": "A rare species of Rathian covered in shimmering golden scales. Known as the Gold Fire Wyvern, or alternatively the Golden Moon, as inspired by their divine appearance. These wyverns are infamous for their strong scales and attacks with their reinforced tails, giving these beasts exceptional combat ability. In battle, their attacks grow only more intense when in their Incandescent state.",
           "danger": "9"
+        },
+        {
+          "game": "Monster Hunter Stories",
+          "image": "MH4U-Gold_Rathian_Icon.png",
+          "info": "A rare Rathian subspecies. Its majestic golden sheen resembles the glow of the full moon."
         },
         {
           "game": "Monster Hunter Stories 2",
@@ -3963,15 +3963,15 @@
           "danger": "3"
         },
         {
-          "game": "Monster Hunter Stories",
-          "image": "MHST-Great_Baggi_Icon.png",
-          "info": "Bluish-white, crested Bird Wyverns. Their ruthless cunning makes them natural leaders of Baggi packs."
-        },
-        {
           "game": "Monster Hunter Rise",
           "image": "MHRise-Great_Baggi_Icon.png",
           "info": "A carnivorous bird wyvern. Noted for their projecting cranial crests and bluish-white skin that's adapted to snowy climates. Great Baggi craftily command other Baggi to surround their prey and stun them with a tranquilizing fluid.",
           "danger": "1"
+        },
+        {
+          "game": "Monster Hunter Stories",
+          "image": "MHST-Great_Baggi_Icon.png",
+          "info": "Bluish-white, crested Bird Wyverns. Their ruthless cunning makes them natural leaders of Baggi packs."
         },
         {
           "game": "Monster Hunter Stories 2",
@@ -4408,14 +4408,14 @@
           "danger": "2"
         },
         {
-          "game": "Monster Hunter Stories",
-          "image": "MH4U-Hermitaur_Icon.png",
-          "info": "Small hard-shelled Carapaceons. Their brains are regarded as a delicacy in some regions."
-        },
-        {
           "game": "Monster Hunter Rise",
           "image": "MHRS-Hermitaur_Icon.png",
           "info": "The juvenile form of Daimyo Hermitaur, these small Carapaceons live around coastal areas and sandy soil. They often hide in sand, popping out of their hidey-holes only to claw at nearby intruders. The sizable shells they carry protect their vitals; as they grow in size, they'll move to larger dwellings to accomomodate, such as monster skulls. The Carapaceon Brains they yield are quite the delicacy."
+        },
+        {
+          "game": "Monster Hunter Stories",
+          "image": "MH4U-Hermitaur_Icon.png",
+          "info": "Small hard-shelled Carapaceons. Their brains are regarded as a delicacy in some regions."
         },
         {
           "game": "Monster Hunter Stories 2",
@@ -4652,14 +4652,14 @@
           "danger": "2"
         },
         {
-          "game": "Monster Hunter Stories",
-          "image": "MHST-Jaggi_Icon.png",
-          "info": "Carnivorous Bird Wyverns. They hunt in packs, and the young males are typically smaller than the females."
-        },
-        {
           "game": "Monster Hunter Rise",
           "image": "MHRise-Jaggi_Icon.png",
           "info": "Highly social, carnivorous bird wyverns that live in large packs. Young Jaggi males hunt in groups when attacking larger animals. Research suggests they operate under orders from a single aplha male."
+        },
+        {
+          "game": "Monster Hunter Stories",
+          "image": "MHST-Jaggi_Icon.png",
+          "info": "Carnivorous Bird Wyverns. They hunt in packs, and the young males are typically smaller than the females."
         },
         {
           "game": "Monster Hunter Stories 2",
@@ -4698,14 +4698,14 @@
           "danger": "2"
         },
         {
-          "game": "Monster Hunter Stories",
-          "image": "MH4U-Jaggia_Icon.png",
-          "info": "Female Jaggi that live in packs, generally responsible for protecting the nest and raising the young."
-        },
-        {
           "game": "Monster Hunter Rise",
           "image": "MHRise-Jaggia_Icon.png",
           "info": "Female Jaggi that stay in packs, Jaggia generally live near the nest and are responsible for defending it and raising young. Smaller than mature males, but larger and tougher than the pack's countless young males. They also operate under orders from the alpha."
+        },
+        {
+          "game": "Monster Hunter Stories",
+          "image": "MH4U-Jaggia_Icon.png",
+          "info": "Female Jaggi that live in packs, generally responsible for protecting the nest and raising the young."
         },
         {
           "game": "Monster Hunter Stories 2",
@@ -4876,14 +4876,14 @@
           "info": "Small herbivores known for their gentle demeanor and the medicinal properties of their horns. Those wishing to harvest a horn should aim for the head when attacking them."
         },
         {
-          "game": "Monster Hunter Stories",
-          "image": "MH4U-Kelbi_Icon.png",
-          "info": "Diminutive herbivorous monsters known for their kind nature. Their horns are said to be rich in nutrients."
-        },
-        {
           "game": "Monster Hunter Rise",
           "image": "MHRise-Kelbi_Icon.png",
           "info": "Small herbivores known for their gentle demeanor as well as medicinal properties of their horns. Those wishing to harvest a horn should aim for the head when attacking them."
+        },
+        {
+          "game": "Monster Hunter Stories",
+          "image": "MH4U-Kelbi_Icon.png",
+          "info": "Diminutive herbivorous monsters known for their kind nature. Their horns are said to be rich in nutrients."
         },
         {
           "game": "Monster Hunter Stories 2",
@@ -4951,15 +4951,15 @@
           "danger": "4"
         },
         {
-          "game": "Monster Hunter Stories",
-          "image": "MH4U-Khezu_Icon.png",
-          "info": "Loathsome Flying Wyverns dwelling mainly in caves. They generate and release electricity to deadly effect."
-        },
-        {
           "game": "Monster Hunter Rise",
           "image": "MHRise-Khezu_Icon.png",
           "info": "Its long, elastic neck stretching out while it clings to a wall or the ceiling is a sight straight out of a nightmare. Make sure you do not get overwhelmed by its horrific appearance.",
           "danger": "2"
+        },
+        {
+          "game": "Monster Hunter Stories",
+          "image": "MH4U-Khezu_Icon.png",
+          "info": "Loathsome Flying Wyverns dwelling mainly in caves. They generate and release electricity to deadly effect."
         },
         {
           "game": "Monster Hunter Stories 2",
@@ -5164,15 +5164,15 @@
           "info": "An elder dragon that shields itself with fierce winds, preventing anyone from approaching it. Its skins consist of hard, metallic scales."
         },
         {
-          "game": "Monster Hunter Stories",
-          "image": "MH4U-Kushala_Daora_Icon.png",
-          "info": "Elder Dragon clad in metal plating. Generates storms wherever it goes. Getting close to it is no mean feat."
-        },
-        {
           "game": "Monster Hunter Rise",
           "image": "MHRise-Kushala_Daora_Icon.png",
           "info": "It's difficult to even get close to one of these metallic elder dragons, but some claim better odds if the creature is weakened with poison, or has its horn broken, limiting the amount of wind pressure it can muster.",
           "danger": "8"
+        },
+        {
+          "game": "Monster Hunter Stories",
+          "image": "MH4U-Kushala_Daora_Icon.png",
+          "info": "Elder Dragon clad in metal plating. Generates storms wherever it goes. Getting close to it is no mean feat."
         },
         {
           "game": "Monster Hunter Stories 2",
@@ -5267,15 +5267,15 @@
           "danger": "3"
         },
         {
-          "game": "Monster Hunter Stories",
-          "image": "MH4U-Lagombi_Icon.png",
-          "info": "White Fanged Beasts with acute hearing. They slide on the ice at high speeds to chase down their prey."
-        },
-        {
           "game": "Monster Hunter Rise",
           "image": "MHRise-Lagombi_Icon.png",
           "info": "Fanged, long-eared beasts whose warm pelts and thick layers of fat help them survive in cold climates. Though mainly herbivores, Lagombi occasionally make use of their exceptional hearing and ability to glide on ice to sneak up on prey.",
           "danger": "1"
+        },
+        {
+          "game": "Monster Hunter Stories",
+          "image": "MH4U-Lagombi_Icon.png",
+          "info": "White Fanged Beasts with acute hearing. They slide on the ice at high speeds to chase down their prey."
         },
         {
           "game": "Monster Hunter Stories 2",
@@ -5470,14 +5470,14 @@
           "danger": "2"
         },
         {
-          "game": "Monster Hunter Stories",
-          "image": "MHST-Ludroth_Icon.png",
-          "info": "Aquatic female monsters. They form harems around large males, aggressively attacking interlopers."
-        },
-        {
           "game": "Monster Hunter Rise",
           "image": "MHRise-Ludroth_Icon.png",
           "info": "Aquatic female monsters. Ludroth form \"harems\" around large males, gathering in territories designated as breeding grounds. They're known to be extremely aggressive towards outsiders, so caution is advised when treading in their territory."
+        },
+        {
+          "game": "Monster Hunter Stories",
+          "image": "MHST-Ludroth_Icon.png",
+          "info": "Aquatic female monsters. They form harems around large males, aggressively attacking interlopers."
         },
         {
           "game": "Monster Hunter Stories 2",
@@ -6041,15 +6041,15 @@
           "info": "Extremely agile, especially on the ground, this obsidian-furred flying wyvern moves with explosive bursts of speed."
         },
         {
-          "game": "Monster Hunter Stories",
-          "image": "MHST-Nargacuga_Icon.png",
-          "info": "Flying Wyverns residing in wooded areas. Fearfully fast, persistent, and sly, they excel at hunting prey."
-        },
-        {
           "game": "Monster Hunter Rise",
           "image": "MHRise-Nargacuga_Icon.png",
           "info": "Flying wyverns that have evolved to live in thickly wooded areas. Covered in jet black fur, these cunning predators stalk their prey from the shadows with ferocious speed. Their massive tails are as dexterous as they are deadly, and powerful enough to slay smaller monsters with one strike.",
           "danger": "6"
+        },
+        {
+          "game": "Monster Hunter Stories",
+          "image": "MHST-Nargacuga_Icon.png",
+          "info": "Flying Wyverns residing in wooded areas. Fearfully fast, persistent, and sly, they excel at hunting prey."
         },
         {
           "game": "Monster Hunter Stories 2",
@@ -6519,14 +6519,14 @@
           "info": "Long furred herbivores native to the tundra. Gentle in nature, they flee when attacked, though grown males will defend their young."
         },
         {
-          "game": "Monster Hunter Stories",
-          "image": "MH4U-Popo_Icon.png",
-          "info": "Herd-forming Herbivores covered in long, thick fur. Popo meat is nutritious and prized by gourmands."
-        },
-        {
           "game": "Monster Hunter Rise",
           "image": "MHRise-Popo_Icon.png",
           "info": "Herd-forming herbivores covered in thick fur to endure the cold. Popo are gentle by nature, so if they are attacke the whole herd will turn tail and run. Popo meat is very nutritious; the tongue is said to be especially palatable."
+        },
+        {
+          "game": "Monster Hunter Stories",
+          "image": "MH4U-Popo_Icon.png",
+          "info": "Herd-forming Herbivores covered in long, thick fur. Popo meat is nutritious and prized by gourmands."
         },
         {
           "game": "Monster Hunter Stories 2",
@@ -6850,15 +6850,15 @@
           "info": "An ultra-aggressive creature that few have a chance of surviving against. Sports powerful arms that pack a punch, and turns gold when angry."
         },
         {
-          "game": "Monster Hunter Stories",
-          "image": "MH4U-Rajang_Icon.png",
-          "info": "Ultra-aggressive Fanged Beasts. Widely regarded as the pinnacle in unparalleled physical prowess."
-        },
-        {
           "game": "Monster Hunter Rise",
           "image": "MHRise-Rajang_Icon.png",
           "info": "An ultra-aggressive creature that is rarely sighted and seldom survived. Those that have survived report that it exhibits a strange attack. Rajang are said to be loners, and this isolated life has made it difficult to pin down its territorial leanings. When angered, part of its pelt turns a golden color.",
           "danger": "8"
+        },
+        {
+          "game": "Monster Hunter Stories",
+          "image": "MH4U-Rajang_Icon.png",
+          "info": "Ultra-aggressive Fanged Beasts. Widely regarded as the pinnacle in unparalleled physical prowess."
         },
         {
           "game": "Monster Hunter Stories 2",
@@ -6965,15 +6965,15 @@
           "info": "The apex monster of the Ancient Forest, also known as the \"King of the Skies.\" A terrible wyvern that descends upon invaders, attacking with poison claws and fiery breath."
         },
         {
-          "game": "Monster Hunter Stories",
-          "image": "MH4U-Rathalos_Icon.png",
-          "info": "Dubbed the King of the Skies, it dominates battle with its powerful wings and poison-tipped claws."
-        },
-        {
           "game": "Monster Hunter Rise",
           "image": "MHRise-Rathalos_Icon.png",
           "info": "Terrible wyverns called the 'Kings of the Skies'. Along with Rathians, they stake wide territories centered around their nests. Rathalos descend on invaders from the sky, attacking with poison claws and breath of fire.",
           "danger": "6"
+        },
+        {
+          "game": "Monster Hunter Stories",
+          "image": "MH4U-Rathalos_Icon.png",
+          "info": "Dubbed the King of the Skies, it dominates battle with its powerful wings and poison-tipped claws."
         },
         {
           "game": "Monster Hunter Stories 2",
@@ -7031,15 +7031,15 @@
           "info": "Wyverns known as the \"Queens of the Land.\" Terrestrial predators, they overpower prey with their venomous tails and powerful legs."
         },
         {
-          "game": "Monster Hunter Stories",
-          "image": "MH4U-Rathian_Icon.png",
-          "info": "Female Flying Wyverns dubbed Queens of the Land. Possess powerful legs, and deadly, poisonous tails."
-        },
-        {
           "game": "Monster Hunter Rise",
           "image": "MHRise-Rathian_Icon.png",
           "info": "Fire-breathing female wyverns, also known as the \"Queens of the Land\". With powerful legs and poison-secreting tails, they hunt mainly on the ground. Sometimes seen preying as a couple, Rathians and Rathalos cooperate well.",
           "danger": "4"
+        },
+        {
+          "game": "Monster Hunter Stories",
+          "image": "MH4U-Rathian_Icon.png",
+          "info": "Female Flying Wyverns dubbed Queens of the Land. Possess powerful legs, and deadly, poisonous tails."
         },
         {
           "game": "Monster Hunter Stories 2",
@@ -7135,14 +7135,14 @@
           "danger": "2"
         },
         {
-          "game": "Monster Hunter Stories",
-          "image": "MH4U-Remobra_Icon.png",
-          "info": "Snake Wyverns that have mastered flight, and which soar in search of weakened prey to swoop upon."
-        },
-        {
           "game": "Monster Hunter Rise",
           "image": "MHRise-Remobra_Icon.png",
           "info": "Small but agile flying wyverns that seek out weakened creatures to attack. Often seen near elder dragons, they're considered a portent of disaster. Originally classified as flying wyverns, after further research they were reclassified as snake wyverns."
+        },
+        {
+          "game": "Monster Hunter Stories",
+          "image": "MH4U-Remobra_Icon.png",
+          "info": "Snake Wyverns that have mastered flight, and which soar in search of weakened prey to swoop upon."
         },
         {
           "game": "Monster Hunter Stories 2",
@@ -7352,15 +7352,15 @@
           "danger": "3"
         },
         {
-          "game": "Monster Hunter Stories",
-          "image": "MHGen-Royal_Ludroth_Icon.png",
-          "info": "Royal Ludroth use their sponge-like neck scales to absorb water and prevent dehydration."
-        },
-        {
           "game": "Monster Hunter Rise",
           "image": "MHRise-Royal_Ludroth_Icon.png",
           "info": "Larger than regular Ludroth, Royal Ludroth use their sponge-like mane to absorb water and keep from drying out on land. Once the sponge loses moisture, they will seek out water to recover. They also spew mucus to trip their prey.",
           "danger": "3"
+        },
+        {
+          "game": "Monster Hunter Stories",
+          "image": "MHGen-Royal_Ludroth_Icon.png",
+          "info": "Royal Ludroth use their sponge-like neck scales to absorb water and prevent dehydration."
         },
         {
           "game": "Monster Hunter Stories 2",
@@ -7784,15 +7784,15 @@
           "danger": "5"
         },
         {
-          "game": "Monster Hunter Stories",
-          "image": "MH4U-Seregios_Icon.png",
-          "info": "Flying Wyvern known for its lustrous golden scales. Its scales can be launched at prey in high-speed attacks."
-        },
-        {
           "game": "Monster Hunter Rise",
           "image": "MHRS-Seregios_Icon.png",
           "info": "Large Flying Wyverns with sharp, blade-like scales covering their body. Seregios are well-known as extremely territorial and belligerent creatures, wielding their mobility and powerful hind leg attacks in intense combat against other large monsters. Reports have confirmed that Seregios have the ability to launch the scales from their body, inflicting their victims with the Bleeding status.",
           "danger": "7"
+        },
+        {
+          "game": "Monster Hunter Stories",
+          "image": "MH4U-Seregios_Icon.png",
+          "info": "Flying Wyvern known for its lustrous golden scales. Its scales can be launched at prey in high-speed attacks."
         },
         {
           "game": "Monster Hunter Stories 2",
@@ -8074,15 +8074,15 @@
           "info": "A rare silver-scaled Rathalos species. When wreathed in hellfire, its breath grows more lethal and it gains a new set of attacks."
         },
         {
-          "game": "Monster Hunter Stories",
-          "image": "MH4U-Silver_Rathalos_Icon.png",
-          "info": "A rare Rathalos subspecies. Its piercing silver shimmer resembles the blazing sun."
-        },
-        {
           "game": "Monster Hunter Rise",
           "image": "MHRS-Silver_Rathalos_Icon.png",
           "info": "A rare species of Rathalos covered in shimmering silver scales. Known as the Silver Fire Wyvern, or alternatively the Silver Sun, as inspired by their majestic appearance. These wyverns are known for their fierce breath and even fiercer claws, giving these threatening beasts exceptional combat ability. In battle, their attacks grow only more intense when in their Incandescent state.",
           "danger": "9"
+        },
+        {
+          "game": "Monster Hunter Stories",
+          "image": "MH4U-Silver_Rathalos_Icon.png",
+          "info": "A rare Rathalos subspecies. Its piercing silver shimmer resembles the blazing sun."
         },
         {
           "game": "Monster Hunter Stories 2",
@@ -8150,14 +8150,14 @@
           "danger": "1"
         },
         {
-          "game": "Monster Hunter Stories",
-          "image": "MH4U-Slagtoth_Icon.png",
-          "info": "A green\\brown variety of Slagtoth. They store nutrients in the thick layers of skin that hang from their bodies."
-        },
-        {
           "game": "Monster Hunter Rise",
           "image": "MHRise-Slagtoth_Icon.png",
           "info": "Highly territorial herbivores that live in coastal areas. Their heavy, sagging hides store nutrients and are prized for their heat and water resistance."
+        },
+        {
+          "game": "Monster Hunter Stories",
+          "image": "MH4U-Slagtoth_Icon.png",
+          "info": "A green\\brown variety of Slagtoth. They store nutrients in the thick layers of skin that hang from their bodies."
         },
         {
           "game": "Monster Hunter Stories 2",
@@ -8398,15 +8398,15 @@
           "info": "Brutal elder dragons wreathed in flames that spit blazing fire. Teostra are of such a fierce and deadly nature that the guild closely monitors their movements."
         },
         {
-          "game": "Monster Hunter Stories",
-          "image": "MH4U-Teostra_Icon.png",
-          "info": "Wreathed in flame and wielding blistering breath attacks, the Guild monitors its movements and moods."
-        },
-        {
           "game": "Monster Hunter Rise",
           "image": "MHRise-Teostra_icon.png",
           "info": "Brutal elder dragons wreathed in flames that spew blazing fire. Teostra are of such a fierce and deadly nature that the Guild closely monitors their movements.",
           "danger": "8"
+        },
+        {
+          "game": "Monster Hunter Stories",
+          "image": "MH4U-Teostra_Icon.png",
+          "info": "Wreathed in flame and wielding blistering breath attacks, the Guild monitors its movements and moods."
         },
         {
           "game": "Monster Hunter Stories 2",
@@ -8628,15 +8628,15 @@
           "info": "A flying wyvern straight out of prehistory, known for its deafening roar and powerful legs that drive its overwhelming charge."
         },
         {
-          "game": "Monster Hunter Stories",
-          "image": "MH4U-Tigrex_Icon.png",
-          "info": "Primeval in appearance, these Flying Wyverns are possessed of fearsome limbs, jaws and claws."
-        },
-        {
           "game": "Monster Hunter Rise",
           "image": "MHRise-Tigrex_Icon.png",
           "info": "A Flying Wyvern whose primitive origins are obvious. It displays incredible ferocity with its claws, jaws, and developed limbs. Be wary of its thunderous roar!",
           "danger": "7"
+        },
+        {
+          "game": "Monster Hunter Stories",
+          "image": "MH4U-Tigrex_Icon.png",
+          "info": "Primeval in appearance, these Flying Wyverns are possessed of fearsome limbs, jaws and claws."
         },
         {
           "game": "Monster Hunter Stories 2",
@@ -8820,14 +8820,14 @@
           "danger": "2"
         },
         {
-          "game": "Monster Hunter Stories",
-          "image": "MHST-Uroktor_Icon.png",
-          "info": "Young Leviathans dwelling in volcanoes. Scavengers by nature, they feed off the scraps left behind by others."
-        },
-        {
           "game": "Monster Hunter Rise",
           "image": "MHRise-Uroktor_Icon.png",
           "info": "Leviathans that inhabit volcanoes. Noted for swarming around larger monsters' kills in order to feed. Uroktor rarely hunt for themselves, but stab upward at prey from the ground when they do. Known for being highly aggressive."
+        },
+        {
+          "game": "Monster Hunter Stories",
+          "image": "MHST-Uroktor_Icon.png",
+          "info": "Young Leviathans dwelling in volcanoes. Scavengers by nature, they feed off the scraps left behind by others."
         },
         {
           "game": "Monster Hunter Stories 2",
@@ -8918,15 +8918,15 @@
           "info": "An elder dragon said to freeze all in its path. According to legend, it can control the cold, and use its freezing breath to conjure massive spires of ice out of nowhere."
         },
         {
-          "game": "Monster Hunter Stories 2",
-          "image": "MHST2-Velkhana_Icon.png",
-          "info": "Elder Dragons said to freeze all in their path. According to legend, they can controll the cold, and use its freezing breath to conjure massive spires of ice out of nowhere."
-        },
-        {
           "game": "Monster Hunter Rise",
           "image": "MHRS-Velkhana_Icon.png",
           "info": "Known as the \"Ice Dragons that Freeze All\" or the \"Iceborne Wyvern,\" there exist few records of Velkhana, as such, they remain shrouded in mystery. Their icy breath is so cold it can form massive spires and walls of ice out of nowhere, and is even powerful enough to freeze other monsters. Some reports indicate that Velkhana will freeze their rivals in order to establish their domain.",
           "danger": "9"
+        },
+        {
+          "game": "Monster Hunter Stories 2",
+          "image": "MHST2-Velkhana_Icon.png",
+          "info": "Elder Dragons said to freeze all in their path. According to legend, they can controll the cold, and use its freezing breath to conjure massive spires of ice out of nowhere."
         }
       ]
     },
@@ -8991,14 +8991,14 @@
           "danger": "2"
         },
         {
-          "game": "Monster Hunter Stories",
-          "image": "MH4U-Velociprey_Icon.png",
-          "info": "Carnivorous monsters with vivid blue scales. They hunt in packs using a deadly mix of strength and cunning."
-        },
-        {
           "game": "Monster Hunter Rise",
           "image": "MHRS-Velociprey_Icon.png",
           "info": "Small Bird Wyverns inhabiting the jungle. Velociprey are well-known for their yellow beaks, accenting bodies of black and blue stripes. They form packs, often engaging in communal behavior. These slender creatures can and will attack with sharp movements and sharper claws, so best be on your guard to avoid the pointy ends."
+        },
+        {
+          "game": "Monster Hunter Stories",
+          "image": "MH4U-Velociprey_Icon.png",
+          "info": "Carnivorous monsters with vivid blue scales. They hunt in packs using a deadly mix of strength and cunning."
         },
         {
           "game": "Monster Hunter Stories 2",
@@ -9052,14 +9052,14 @@
           "info": "Insects that paralyze their targets with their long stingers. They break easily, so attack them with poison or slinger ammo if you want to carve them."
         },
         {
-          "game": "Monster Hunter Stories",
-          "image": "MHGen-Vespoid_Icon.png",
-          "info": "Giant Wasp-like Neopeterons with paralyzing stingers, which they use on any who stray too close."
-        },
-        {
           "game": "Monster Hunter Rise",
           "image": "MHRS-Vespoid_Icon.png",
           "info": "Neopterons with paralyzing poison stingers on their abdomen. Vespoids adapt to almost any environment, and have been observed in many regions. Their sharp stingers are powerful enough to let them relentlessly jab any outsiders with a paralytic agent. They are delicate, weak to impacts, and make great materials for toxic weaponry."
+        },
+        {
+          "game": "Monster Hunter Stories",
+          "image": "MHGen-Vespoid_Icon.png",
+          "info": "Giant Wasp-like Neopeterons with paralyzing stingers, which they use on any who stray too close."
         },
         {
           "game": "Monster Hunter Stories 2",
@@ -9438,14 +9438,14 @@
           "danger": "2"
         },
         {
-          "game": "Monster Hunter Stories",
-          "image": "MH4U-Zamite_Icon.png",
-          "info": "A young Zamtrios. Uses its sharp teeth to bore into its prey before devouring it from the inside out."
-        },
-        {
           "game": "Monster Hunter Rise",
           "image": "MHRise-Zamite_Icon.png",
           "info": "Juvenile Zamtrios that use their sharp teeth to pierce the hide of their prey and then burrow inside to consume them from within; those who are attacked must roll around vigorously to shake the monster off. They can also use a Wirebug or a kunai to help them get free. Zamite grow rapidly after even a single feeding."
+        },
+        {
+          "game": "Monster Hunter Stories",
+          "image": "MH4U-Zamite_Icon.png",
+          "info": "A young Zamtrios. Uses its sharp teeth to bore into its prey before devouring it from the inside out."
         },
         {
           "game": "Monster Hunter Stories 2",
@@ -9548,15 +9548,15 @@
           "info": "Lightning courses through the fur and unique plating of this fanged wyvern. It is most deadly in its supercharged state."
         },
         {
-          "game": "Monster Hunter Stories",
-          "image": "MH4U-Zinogre_Icon.png",
-          "info": "Fanged Wyverns that store the electrical energy of the countless Thunderbugs that they gather."
-        },
-        {
           "game": "Monster Hunter Rise",
           "image": "MHRise-Zinogre_Icon.png",
           "info": "Fanged wyverns whose bodies are streaked with electricity. Sharp claws and strong limbs allow them to thrive in mountainous terrain. During hunts, they gather numerous Thunderbugs to boost their power and enter a supercharged state.",
           "danger": "6"
+        },
+        {
+          "game": "Monster Hunter Stories",
+          "image": "MH4U-Zinogre_Icon.png",
+          "info": "Fanged Wyverns that store the electrical energy of the countless Thunderbugs that they gather."
         },
         {
           "game": "Monster Hunter Stories 2",
