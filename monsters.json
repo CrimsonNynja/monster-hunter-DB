@@ -2122,6 +2122,12 @@
           "danger": "2"
         },
         {
+          "game": "Monster Hunter Wilds",
+          "image": "",
+          "info": "",
+          "danger": ""
+        },
+        {
           "game": "Monster Hunter Stories",
           "image": "MH4U-Congalala_Icon.png",
           "info": "Pink-furred Fanged Beasts. They let rip with almighty farts, the stench of which overwhelms opponents."
@@ -9401,6 +9407,12 @@
           "image": "MH4U-Yian_Kut-Ku_Icon.png",
           "info": "A bird wyvern with a huge beak and large ears that splay open when it is angered. Quick on its feet, and known to be territorial. It's known for its love of Konchu, and has been observed digging them up out of the ground to swallow them whole.",
           "danger": "3"
+        },
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "",
+          "info": "",
+          "danger": ""
         },
         {
           "game": "Monster Hunter Stories",
