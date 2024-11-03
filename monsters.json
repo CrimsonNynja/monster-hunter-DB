@@ -1206,6 +1206,24 @@
     },
     {
       "_id": {
+        "$oid": ""
+      },
+      "name": "Baunos",
+      "type": "Wingdrake",
+      "isLarge": false,
+      "elements": [],
+      "ailments": [],
+      "weakness": [],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "",
+          "info": ""
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e1568ef8a80af35ce52d74b"
       },
       "name": "Bazelgeuse",
@@ -1822,6 +1840,24 @@
     },
     {
       "_id": {
+        "$oid": ""
+      },
+      "name": "Bulaqchi",
+      "type": "Neopteron",
+      "isLarge": false,
+      "elements": [],
+      "ailments": [],
+      "weakness": [],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "",
+          "info": ""
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5dfda5a09dabf81e7717cea9"
       },
       "name": "Bulldrome",
@@ -2032,6 +2068,24 @@
           "game": "Monster Hunter Stories 2",
           "image": "MHST2-Cephalos_Icon.png",
           "info": "Piscine Wyverns with acute hearing that makes them sensitive to loud noises. They swim freely in the desert sands that their scales so resemble, and getting them to rise to the surface can be troublesome. A shock to their eardrums might just do the trick, though..."
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "name": "Ceranoth",
+      "type": "Herbivore",
+      "isLarge": false,
+      "elements": [],
+      "ailments": [],
+      "weakness": [],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "",
+          "info": ""
         }
       ]
     },
@@ -2475,6 +2529,24 @@
           "image": "MH4U-Dalamadur-Head_Icon.png",
           "info": "A huge elder dragon, massive beyond human comprehension. The only mention of its existence is found in fairy tales, which claim it can warp the very surface of the world and level mountains with a single twitch.",
           "danger": "6"
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "name": "Dalthydon",
+      "type": "Herbivore",
+      "isLarge": false,
+      "elements": [],
+      "ailments": [],
+      "weakness": [],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "",
+          "info": ""
         }
       ]
     },
@@ -3365,6 +3437,24 @@
           "game": "Monster Hunter Rise",
           "image": "MHRise-Gajau_Icon.png",
           "info": "Vicious piscine that forms groups to defend their territory from intruders. Though primarily aquatic creatures, they have been known to chase their prey onto land, before wriggling back to the banks and into the water. Be sure not to venture too closely to their habitat!"
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "name": "Gajios",
+      "type": "Leviathan",
+      "isLarge": false,
+      "elements": [],
+      "ailments": [],
+      "weakness": [],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "",
+          "info": ""
         }
       ]
     },
@@ -8536,6 +8626,24 @@
           "game": "Monster Hunter Stories 2",
           "image": "MHST2-Stygian_Zinogre_Icon.png",
           "info": "Feeding on Dracophage Bugs has given this subspecies access to unheard of brute strength."
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "name": "Talioth",
+      "type": "Bird Wyvern",
+      "isLarge": false,
+      "elements": [],
+      "ailments": [],
+      "weakness": [],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "",
+          "info": ""
         }
       ]
     },
