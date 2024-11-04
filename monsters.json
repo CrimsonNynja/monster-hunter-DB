@@ -119,6 +119,25 @@
     },
     {
       "_id": {
+        "$oid": ""
+      },
+      "name": "Ajarakan",
+      "type": "Fanged Beast",
+      "isLarge": true,
+      "elements": [],
+      "ailments": [],
+      "weakness": [],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "",
+          "info": "",
+          "danger": ""
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e143dab8a80af35ce52d706"
       },
       "name": "Akantor",
@@ -679,6 +698,25 @@
     },
     {
       "_id": {
+        "$oid": ""
+      },
+      "name": "Arkveld",
+      "type": "",
+      "isLarge": true,
+      "elements": [],
+      "ailments": [],
+      "weakness": [],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "",
+          "info": "",
+          "danger": ""
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e1570f48a80af35ce52d757"
       },
       "name": "Arzuros",
@@ -916,6 +954,25 @@
     },
     {
       "_id": {
+        "$oid": ""
+      },
+      "name": "Balahara",
+      "type": "Leviathan",
+      "isLarge": true,
+      "elements": [],
+      "ailments": [],
+      "weakness": [],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "",
+          "info": "",
+          "danger": ""
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e1433468a80af35ce52d6f8"
       },
       "name": "Baleful Gigginox",
@@ -1144,6 +1201,24 @@
           "game": "Monster Hunter Stories 2",
           "image": "MHST2-Basarios_Icon.png",
           "info": "Juvenile form of a Gravios. Its most distinctive feature is the rock-hard carapace on its back."
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "name": "Baunos",
+      "type": "Wingdrake",
+      "isLarge": false,
+      "elements": [],
+      "ailments": [],
+      "weakness": [],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "",
+          "info": ""
         }
       ]
     },
@@ -1765,6 +1840,24 @@
     },
     {
       "_id": {
+        "$oid": ""
+      },
+      "name": "Bulaqchi",
+      "type": "Neopteron",
+      "isLarge": false,
+      "elements": [],
+      "ailments": [],
+      "weakness": [],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "",
+          "info": ""
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5dfda5a09dabf81e7717cea9"
       },
       "name": "Bulldrome",
@@ -1980,6 +2073,24 @@
     },
     {
       "_id": {
+        "$oid": ""
+      },
+      "name": "Ceranoth",
+      "type": "Herbivore",
+      "isLarge": false,
+      "elements": [],
+      "ailments": [],
+      "weakness": [],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "",
+          "info": ""
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e1456b28a80af35ce52d723"
       },
       "name": "Chameleos",
@@ -2044,6 +2155,25 @@
           "image": "MHRS-Chaotic_Gore_Magala_Icon.png",
           "info": "Gore Magala that have fallen into chaos, having been denied their evolution into Shagaru Magala. They maintain their original power, while possessing the potential of Shagaru Magala, making them incredibly unstable. Sometimes this leads them to fall into a state of anguish and violence. When attacking their prey, they repeatedly fold and unfurl their wings, as if to show their internal struggle with their own form.",
           "danger": "10"
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "name": "Chatacabra",
+      "type": "",
+      "isLarge": true,
+      "elements": [],
+      "ailments": [],
+      "weakness": [],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "",
+          "info": "",
+          "danger": ""
         }
       ]
     },
@@ -2120,6 +2250,12 @@
           "image": "MH4U-Congalala_Icon.png",
           "info": "A large fanged beast with pink fur, often found in warm, damp regions. Fond of mushrooms, Congalalas possess either poisonous or flaming breath, depending on the food available in their local habitat.",
           "danger": "2"
+        },
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "",
+          "info": "",
+          "danger": ""
         },
         {
           "game": "Monster Hunter Stories",
@@ -2393,6 +2529,24 @@
           "image": "MH4U-Dalamadur-Head_Icon.png",
           "info": "A huge elder dragon, massive beyond human comprehension. The only mention of its existence is found in fairy tales, which claim it can warp the very surface of the world and level mountains with a single twitch.",
           "danger": "6"
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "name": "Dalthydon",
+      "type": "Herbivore",
+      "isLarge": false,
+      "elements": [],
+      "ailments": [],
+      "weakness": [],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "",
+          "info": ""
         }
       ]
     },
@@ -2677,6 +2831,25 @@
           "game": "Monster Hunter World",
           "image": "MHW-Dodogama_Icon.png",
           "info": "A monster that devours rock as its primary diet. The Crystals it devours mix with its saliva to produce explosive minerals that it can spit at its enemies."
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "name": "Doshaguma",
+      "type": "Fanged Beast",
+      "isLarge": true,
+      "elements": [],
+      "ailments": [],
+      "weakness": [],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "",
+          "info": "",
+          "danger": ""
         }
       ]
     },
@@ -3264,6 +3437,24 @@
           "game": "Monster Hunter Rise",
           "image": "MHRise-Gajau_Icon.png",
           "info": "Vicious piscine that forms groups to defend their territory from intruders. Though primarily aquatic creatures, they have been known to chase their prey onto land, before wriggling back to the banks and into the water. Be sure not to venture too closely to their habitat!"
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "name": "Gajios",
+      "type": "Leviathan",
+      "isLarge": false,
+      "elements": [],
+      "ailments": [],
+      "weakness": [],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "",
+          "info": ""
         }
       ]
     },
@@ -5287,6 +5478,25 @@
     },
     {
       "_id": {
+        "$oid": ""
+      },
+      "name": "Lala Barina",
+      "type": "Temnoceran",
+      "isLarge": true,
+      "elements": [],
+      "ailments": [],
+      "weakness": [],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "",
+          "info": "",
+          "danger": ""
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e1558798a80af35ce52d72d"
       },
       "name": "Lao-Shan Lung",
@@ -6711,6 +6921,25 @@
     },
     {
       "_id": {
+        "$oid": ""
+      },
+      "name": "Quematrice",
+      "type": "Brute Wyvern",
+      "isLarge": true,
+      "elements": [],
+      "ailments": [],
+      "weakness": [],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "",
+          "info": "",
+          "danger": ""
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e15823c8a80af35ce52d778"
       },
       "name": "Qurupeco",
@@ -6972,6 +7201,12 @@
           "danger": "6"
         },
         {
+          "game": "Monster Hunter Wilds",
+          "image": "",
+          "info": "",
+          "danger": ""
+        },
+        {
           "game": "Monster Hunter Stories",
           "image": "MH4U-Rathalos_Icon.png",
           "info": "Dubbed the King of the Skies, it dominates battle with its powerful wings and poison-tipped claws."
@@ -7154,6 +7389,25 @@
     },
     {
       "_id": {
+        "$oid": ""
+      },
+      "name": "Rey Dau",
+      "type": "Flying Wyvern",
+      "isLarge": true,
+      "elements": [],
+      "ailments": [],
+      "weakness": [],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "",
+          "info": "",
+          "danger": ""
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e15740e8a80af35ce52d75f"
       },
       "name": "Rhenoplos",
@@ -7316,6 +7570,25 @@
           "image": "MHRS-Risen_Crimson_Glow_Valstrax_Icon.png",
           "info": "Risen Crimson Glow Valstrax are elder dragons that have found a way to overcome their affliction. By suppressing the Qurio virus, they have gained great strength and new abilities. Their abundance of dragon energy has granted them greater agility, and even more devastating explosive powers. Very few will be able to withstand their ferocious attacks. When their anger reaches its peak, they'll enter into their Risen state and their body will begin to glow.",
           "danger": "10"
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "name": "Rompopolo",
+      "type": "Brute Wyvern",
+      "isLarge": true,
+      "elements": [],
+      "ailments": [],
+      "weakness": [],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "",
+          "info": "",
+          "danger": ""
         }
       ]
     },
@@ -8358,6 +8631,24 @@
     },
     {
       "_id": {
+        "$oid": ""
+      },
+      "name": "Talioth",
+      "type": "Bird Wyvern",
+      "isLarge": false,
+      "elements": [],
+      "ailments": [],
+      "weakness": [],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "",
+          "info": ""
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e157add8a80af35ce52d769"
       },
       "name": "Teostra",
@@ -8834,6 +9125,25 @@
           "game": "Monster Hunter Stories 2",
           "image": "MHST2-Uroktor_Icon.png",
           "info": "Young Leviathans that dwell in volcanoes. Scavengers by nature, they preferably feed of the scraps left behind by others. They rarely hunt for themselves, but stab upward at prey from the ground when they do."
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "name": "Uth Duna",
+      "type": "Leviathan",
+      "isLarge": true,
+      "elements": [],
+      "ailments": [],
+      "weakness": [],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "",
+          "info": "",
+          "danger": ""
         }
       ]
     },
@@ -9395,6 +9705,12 @@
           "image": "MH4U-Yian_Kut-Ku_Icon.png",
           "info": "A bird wyvern with a huge beak and large ears that splay open when it is angered. Quick on its feet, and known to be territorial. It's known for its love of Konchu, and has been observed digging them up out of the ground to swallow them whole.",
           "danger": "3"
+        },
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "",
+          "info": "",
+          "danger": ""
         },
         {
           "game": "Monster Hunter Stories",
