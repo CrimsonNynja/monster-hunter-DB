@@ -1514,7 +1514,7 @@
           "game": "Monster Hunter Wilds",
           "image": "",
           "info": ""
-        },
+        }
       ]
     },
     {
@@ -3975,7 +3975,7 @@
           "game": "Monster Hunter Wilds",
           "image": "",
           "info": ""
-        },
+        }
       ]
     },
     {
@@ -4932,7 +4932,7 @@
           "info": ""
         }
       ]
-    }
+    },
     {
       "_id": {
         "$oid": "5e1419a88a80af35ce52d6e1"
