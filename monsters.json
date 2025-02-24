@@ -124,8 +124,12 @@
       "name": "Ajarakan",
       "type": "Fanged Beast",
       "isLarge": true,
-      "elements": [],
-      "ailments": [],
+      "elements": [
+        "Fire"
+      ],
+      "ailments": [
+        "Blastblight"
+      ],
       "weakness": [],
       "games": [
         {
@@ -703,7 +707,9 @@
       "name": "Arkveld",
       "type": "",
       "isLarge": true,
-      "elements": [],
+      "elements": [
+        "Dragon"
+      ],
       "ailments": [],
       "weakness": [],
       "games": [
@@ -959,8 +965,12 @@
       "name": "Balahara",
       "type": "Leviathan",
       "isLarge": true,
-      "elements": [],
-      "ailments": [],
+      "elements": [
+        "Water"
+      ],
+      "ailments": [
+        "Muddy"
+      ],
       "weakness": [],
       "games": [
         {
@@ -1201,24 +1211,6 @@
           "game": "Monster Hunter Stories 2",
           "image": "MHST2-Basarios_Icon.png",
           "info": "Juvenile form of a Gravios. Its most distinctive feature is the rock-hard carapace on its back."
-        }
-      ]
-    },
-    {
-      "_id": {
-        "$oid": ""
-      },
-      "name": "Baunos",
-      "type": "Wingdrake",
-      "isLarge": false,
-      "elements": [],
-      "ailments": [],
-      "weakness": [],
-      "games": [
-        {
-          "game": "Monster Hunter Wilds",
-          "image": "",
-          "info": ""
         }
       ]
     },
@@ -1517,7 +1509,12 @@
           "image": "MHGen-Blangonga_Icon.png",
           "info": "Leader of a Blango pack, it is twice as large and recognized by its giant fangs and whiskers. It sends its pack to attack any trespassers. Its jumping power allows it great mobility in its home range of the Arctic Ridge.",
           "danger": "4"
-        }
+        },
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "",
+          "info": ""
+        },
       ]
     },
     {
@@ -1840,24 +1837,6 @@
     },
     {
       "_id": {
-        "$oid": ""
-      },
-      "name": "Bulaqchi",
-      "type": "Neopteron",
-      "isLarge": false,
-      "elements": [],
-      "ailments": [],
-      "weakness": [],
-      "games": [
-        {
-          "game": "Monster Hunter Wilds",
-          "image": "",
-          "info": ""
-        }
-      ]
-    },
-    {
-      "_id": {
         "$oid": "5dfda5a09dabf81e7717cea9"
       },
       "name": "Bulldrome",
@@ -2073,24 +2052,6 @@
     },
     {
       "_id": {
-        "$oid": ""
-      },
-      "name": "Ceranoth",
-      "type": "Herbivore",
-      "isLarge": false,
-      "elements": [],
-      "ailments": [],
-      "weakness": [],
-      "games": [
-        {
-          "game": "Monster Hunter Wilds",
-          "image": "",
-          "info": ""
-        }
-      ]
-    },
-    {
-      "_id": {
         "$oid": "5e1456b28a80af35ce52d723"
       },
       "name": "Chameleos",
@@ -2163,7 +2124,7 @@
         "$oid": ""
       },
       "name": "Chatacabra",
-      "type": "",
+      "type": "Amphibian",
       "isLarge": true,
       "elements": [],
       "ailments": [],
@@ -2529,24 +2490,6 @@
           "image": "MH4U-Dalamadur-Head_Icon.png",
           "info": "A huge elder dragon, massive beyond human comprehension. The only mention of its existence is found in fairy tales, which claim it can warp the very surface of the world and level mountains with a single twitch.",
           "danger": "6"
-        }
-      ]
-    },
-    {
-      "_id": {
-        "$oid": ""
-      },
-      "name": "Dalthydon",
-      "type": "Herbivore",
-      "isLarge": false,
-      "elements": [],
-      "ailments": [],
-      "weakness": [],
-      "games": [
-        {
-          "game": "Monster Hunter Wilds",
-          "image": "",
-          "info": ""
         }
       ]
     },
@@ -3442,24 +3385,6 @@
     },
     {
       "_id": {
-        "$oid": ""
-      },
-      "name": "Gajios",
-      "type": "Leviathan",
-      "isLarge": false,
-      "elements": [],
-      "ailments": [],
-      "weakness": [],
-      "games": [
-        {
-          "game": "Monster Hunter Wilds",
-          "image": "",
-          "info": ""
-        }
-      ]
-    },
-    {
-      "_id": {
         "$oid": "5e1423e98a80af35ce52d6eb"
       },
       "name": "Gammoth",
@@ -4045,7 +3970,12 @@
           "image": "MHRS-Gore_Magala_Icon.png",
           "info": "Gore Magala possess wings with black, shroud-like membrane. They lack visual receptors, heightening their senses by scattering scales from their wings to ascertain the locations of lifeforms. At the peak of their senses, feelers extend from their head, their wings unfurl, and they become frenzied. They're feared not only for their sinister appearance but also for the mysterious Frenzy virus they carry.",
           "danger": "7"
-        }
+        },
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "",
+          "info": ""
+        },
       ]
     },
     {
@@ -4121,6 +4051,11 @@
           "image": "MH4U-Gravios_Icon.png",
           "info": "Large wyverns found in volcanic areas. They possess a fiery breath attack and the ability to emit sleeping gas. Their bony carapaces are extremely tough, but expose a surprisingly brittle interior once destroyed.",
           "danger": "5"
+        },
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "",
+          "info": ""
         },
         {
           "game": "Monster Hunter Stories",
@@ -4514,6 +4449,11 @@
           "danger": "3"
         },
         {
+          "game": "Monster Hunter Wilds",
+          "image": "",
+          "info": ""
+        },
+        {
           "game": "Monster Hunter Stories",
           "image": "MH4U-Gypceros_Icon.png",
           "info": "Crested Bird Wyverns. They strike their crests to generate blinding flashes and dazzle their enemies."
@@ -4613,6 +4553,26 @@
           "game": "Monster Hunter Stories 2",
           "image": "MHST2-Hermitaur_Icon.png",
           "info": "These small, hard-shelled Carapaceons are common in the desert, where they lie in wait under the sand, lashing out, when prey wanders past them. Their brains are prized as a delicacy."
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "name": "Hirabami",
+      "type": "Leviathan",
+      "isLarge": true,
+      "elements": [
+        "Ice"
+      ],
+      "ailments": [],
+      "weakness": [],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "",
+          "info": ""
         }
       ]
     },
@@ -4953,6 +4913,26 @@
         }
       ]
     },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "name": "Jin Dahaad",
+      "type": "",
+      "isLarge": true,
+      "elements": [
+        "Ice"
+      ],
+      "ailments": [],
+      "weakness": [],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "",
+          "info": ""
+        }
+      ]
+    }
     {
       "_id": {
         "$oid": "5e1419a88a80af35ce52d6e1"
@@ -5484,7 +5464,9 @@
       "type": "Temnoceran",
       "isLarge": true,
       "elements": [],
-      "ailments": [],
+      "ailments": [
+        "Paralysis"
+      ],
       "weakness": [],
       "games": [
         {
@@ -6002,6 +5984,11 @@
           "danger": "6"
         },
         {
+          "game": "Monster Hunter Wilds",
+          "image": "",
+          "info": ""
+        },
+        {
           "game": "Monster Hunter Stories 2",
           "image": "MHST2-Mizutsune_Icon.png",
           "info": "These beautiful monsters with white and purple scales exude a magical aura, yet they are far from harmless. They secrete a peculiar fluid that cover their foes in immobilizing bubbles. Once their prey's movement is impaired, it closes in with spry, dance-like movements."
@@ -6355,6 +6342,11 @@
           "danger": "4"
         },
         {
+          "game": "Monster Hunter Wilds",
+          "image": "",
+          "info": ""
+        },
+        {
           "game": "Monster Hunter Stories",
           "image": "MH4U-Nerscylla_Icon.png",
           "info": "Temnocerans that build nests of sticky webbing to ensnare prey, which they rend with their mandibles."
@@ -6456,6 +6448,26 @@
           "game": "Monster Hunter World",
           "image": "MHW-Noios_Icon.png",
           "info": "Wingdrakes that will produce a sound similar to screamer pods when startled. Use meat to get their attention, and then hunt them for materials, or use them as transportation"
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "name": "Nu Udra",
+      "type": "Cephalopod",
+      "isLarge": true,
+      "elements": [
+        "Fire"
+      ],
+      "ailments": [],
+      "weakness": [],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "",
+          "info": ""
         }
       ]
     },
@@ -6605,6 +6617,11 @@
           "game": "Monster Hunter World",
           "image": "MHW-Pink_Rathian_Icon.png",
           "info": "A subspecies with vibrant pink scales. Pink Rathians wield their toxic tails more deftly than normal Rathians, weakening prey with poison before moving in for the kill."
+        },
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "",
+          "info": ""
         },
         {
           "game": "Monster Hunter Stories",
@@ -6926,7 +6943,9 @@
       "name": "Quematrice",
       "type": "Brute Wyvern",
       "isLarge": true,
-      "elements": [],
+      "elements": [
+        "Fire"
+      ],
       "ailments": [],
       "weakness": [],
       "games": [
@@ -7394,7 +7413,9 @@
       "name": "Rey Dau",
       "type": "Flying Wyvern",
       "isLarge": true,
-      "elements": [],
+      "elements": [
+        "Thunder"
+      ],
       "ailments": [],
       "weakness": [],
       "games": [
@@ -7581,7 +7602,9 @@
       "type": "Brute Wyvern",
       "isLarge": true,
       "elements": [],
-      "ailments": [],
+      "ailments": [
+        "Poison"
+      ],
       "weakness": [],
       "games": [
         {
@@ -8631,24 +8654,6 @@
     },
     {
       "_id": {
-        "$oid": ""
-      },
-      "name": "Talioth",
-      "type": "Bird Wyvern",
-      "isLarge": false,
-      "elements": [],
-      "ailments": [],
-      "weakness": [],
-      "games": [
-        {
-          "game": "Monster Hunter Wilds",
-          "image": "",
-          "info": ""
-        }
-      ]
-    },
-    {
-      "_id": {
         "$oid": "5e157add8a80af35ce52d769"
       },
       "name": "Teostra",
@@ -9135,7 +9140,9 @@
       "name": "Uth Duna",
       "type": "Leviathan",
       "isLarge": true,
-      "elements": [],
+      "elements": [
+        "Water"
+      ],
       "ailments": [],
       "weakness": [],
       "games": [
