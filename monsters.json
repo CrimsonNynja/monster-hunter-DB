@@ -134,9 +134,8 @@
       "games": [
         {
           "game": "Monster Hunter Wilds",
-          "image": "",
-          "info": "",
-          "danger": ""
+          "image": "MHWs-Ajarakan_Icon.png",
+          "info": ""
         }
       ]
     },
@@ -715,9 +714,8 @@
       "games": [
         {
           "game": "Monster Hunter Wilds",
-          "image": "",
-          "info": "",
-          "danger": ""
+          "image": "MHWs-Arkveld_Icon.png",
+          "info": ""
         }
       ]
     },
@@ -975,9 +973,8 @@
       "games": [
         {
           "game": "Monster Hunter Wilds",
-          "image": "",
-          "info": "",
-          "danger": ""
+          "image": "MHWs-Balahara_Icon.png",
+          "info": ""
         }
       ]
     },
@@ -1512,7 +1509,7 @@
         },
         {
           "game": "Monster Hunter Wilds",
-          "image": "",
+          "image": "MHWs-Blangonga_Icon.png",
           "info": ""
         }
       ]
@@ -2132,9 +2129,8 @@
       "games": [
         {
           "game": "Monster Hunter Wilds",
-          "image": "",
-          "info": "",
-          "danger": ""
+          "image": "MHWs-Chatacabra_Icon.png",
+          "info": ""
         }
       ]
     },
@@ -2214,9 +2210,8 @@
         },
         {
           "game": "Monster Hunter Wilds",
-          "image": "",
-          "info": "",
-          "danger": ""
+          "image": "MHWs-Congalala_Icon.png",
+          "info": ""
         },
         {
           "game": "Monster Hunter Stories",
@@ -2790,9 +2785,8 @@
       "games": [
         {
           "game": "Monster Hunter Wilds",
-          "image": "",
-          "info": "",
-          "danger": ""
+          "image": "MHWs-Doshaguma_Icon.png",
+          "info": ""
         }
       ]
     },
@@ -3973,7 +3967,7 @@
         },
         {
           "game": "Monster Hunter Wilds",
-          "image": "",
+          "image": "MHWs-Gore_Magala_Icon.png",
           "info": ""
         }
       ]
@@ -4054,7 +4048,7 @@
         },
         {
           "game": "Monster Hunter Wilds",
-          "image": "",
+          "image": "MHWs-Gravios_Icon.png",
           "info": ""
         },
         {
@@ -4450,7 +4444,7 @@
         },
         {
           "game": "Monster Hunter Wilds",
-          "image": "",
+          "image": "MHWs-Gypceros_Icon.png",
           "info": ""
         },
         {
@@ -4571,7 +4565,7 @@
       "games": [
         {
           "game": "Monster Hunter Wilds",
-          "image": "",
+          "image": "MHWs-Hirabami_Icon.png",
           "info": ""
         }
       ]
@@ -4918,7 +4912,7 @@
         "$oid": ""
       },
       "name": "Jin Dahaad",
-      "type": "",
+      "type": "Leviathan",
       "isLarge": true,
       "elements": [
         "Ice"
@@ -4928,7 +4922,7 @@
       "games": [
         {
           "game": "Monster Hunter Wilds",
-          "image": "",
+          "image": "MHWs-Jin_Dahaad_Icon.png",
           "info": ""
         }
       ]
@@ -5471,9 +5465,8 @@
       "games": [
         {
           "game": "Monster Hunter Wilds",
-          "image": "",
-          "info": "",
-          "danger": ""
+          "image": "MHWs-Lala_Barina_Icon.png",
+          "info": ""
         }
       ]
     },
@@ -5984,11 +5977,6 @@
           "danger": "6"
         },
         {
-          "game": "Monster Hunter Wilds",
-          "image": "",
-          "info": ""
-        },
-        {
           "game": "Monster Hunter Stories 2",
           "image": "MHST2-Mizutsune_Icon.png",
           "info": "These beautiful monsters with white and purple scales exude a magical aura, yet they are far from harmless. They secrete a peculiar fluid that cover their foes in immobilizing bubbles. Once their prey's movement is impaired, it closes in with spry, dance-like movements."
@@ -6343,7 +6331,7 @@
         },
         {
           "game": "Monster Hunter Wilds",
-          "image": "",
+          "image": "MHWs-Nerscylla_Icon.png",
           "info": ""
         },
         {
@@ -6466,7 +6454,7 @@
       "games": [
         {
           "game": "Monster Hunter Wilds",
-          "image": "",
+          "image": "MHWs-Nu_Udra_Icon.png",
           "info": ""
         }
       ]
@@ -6617,11 +6605,6 @@
           "game": "Monster Hunter World",
           "image": "MHW-Pink_Rathian_Icon.png",
           "info": "A subspecies with vibrant pink scales. Pink Rathians wield their toxic tails more deftly than normal Rathians, weakening prey with poison before moving in for the kill."
-        },
-        {
-          "game": "Monster Hunter Wilds",
-          "image": "",
-          "info": ""
         },
         {
           "game": "Monster Hunter Stories",
@@ -6951,9 +6934,8 @@
       "games": [
         {
           "game": "Monster Hunter Wilds",
-          "image": "",
-          "info": "",
-          "danger": ""
+          "image": "MHWs-Quematrice_Icon.png",
+          "info": ""
         }
       ]
     },
@@ -7221,9 +7203,8 @@
         },
         {
           "game": "Monster Hunter Wilds",
-          "image": "",
-          "info": "",
-          "danger": ""
+          "image": "MHWs-Rathalos_Icon.png",
+          "info": ""
         },
         {
           "game": "Monster Hunter Stories",
@@ -7290,6 +7271,11 @@
           "image": "MHRise-Rathian_Icon.png",
           "info": "Fire-breathing female wyverns, also known as the \"Queens of the Land\". With powerful legs and poison-secreting tails, they hunt mainly on the ground. Sometimes seen preying as a couple, Rathians and Rathalos cooperate well.",
           "danger": "4"
+        },
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWs-Rathian_Icon.png",
+          "info": ""
         },
         {
           "game": "Monster Hunter Stories",
@@ -7421,9 +7407,8 @@
       "games": [
         {
           "game": "Monster Hunter Wilds",
-          "image": "",
-          "info": "",
-          "danger": ""
+          "image": "MHWs-Rey_Dau_Icon.png",
+          "info": ""
         }
       ]
     },
@@ -7609,9 +7594,8 @@
       "games": [
         {
           "game": "Monster Hunter Wilds",
-          "image": "",
-          "info": "",
-          "danger": ""
+          "image": "MHWs-Rompopolo_Icon.png",
+          "info": ""
         }
       ]
     },
@@ -9148,9 +9132,8 @@
       "games": [
         {
           "game": "Monster Hunter Wilds",
-          "image": "",
-          "info": "",
-          "danger": ""
+          "image": "MHWs-Uth_Duna_Icon.png",
+          "info": ""
         }
       ]
     },
@@ -9715,9 +9698,8 @@
         },
         {
           "game": "Monster Hunter Wilds",
-          "image": "",
-          "info": "",
-          "danger": ""
+          "image": "MHWs-Yian_Kut-Ku_Icon.png",
+          "info": ""
         },
         {
           "game": "Monster Hunter Stories",
