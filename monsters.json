@@ -3337,7 +3337,7 @@
       },
       "name": "Gargwa",
       "type": "Bird Wyvern",
-      "isLarge": true,
+      "isLarge": false,
       "weakness": [
         "Water",
         "Fire",
@@ -4845,7 +4845,7 @@
       },
       "name": "Kelbi",
       "type": "Herbivore",
-      "isLarge": true,
+      "isLarge":false,
       "weakness": [
         "Fire",
         "Water",
