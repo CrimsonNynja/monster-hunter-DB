@@ -130,12 +130,15 @@
       "ailments": [
         "Blastblight"
       ],
-      "weakness": [],
+      "weakness": [
+        "Water",
+        "Ice"
+      ],
       "games": [
         {
           "game": "Monster Hunter Wilds",
           "image": "MHWs-Ajarakan_Icon.png",
-          "info": ""
+          "info": "Characteristic by their highly developed carapaces, Ajarakan wrap themselves in molten metal that they rub together to heat up and create explosions. Presumably due to the friction of the metal, they can reach high enough temperatures to melt even the ground or bullets. They can also use their strong limbs to grip onto the ceiling and move around freely, so a hunter must watch out from every angle, including above."
         }
       ]
     },
@@ -704,18 +707,22 @@
         "$oid": ""
       },
       "name": "Arkveld",
-      "type": "",
+      "type": "Flying Wyvern",
       "isLarge": true,
       "elements": [
         "Dragon"
       ],
-      "ailments": [],
-      "weakness": [],
+      "ailments": [
+        "Dragonblight"
+      ],
+      "weakness": [
+        "Dragon"
+      ],
       "games": [
         {
           "game": "Monster Hunter Wilds",
           "image": "MHWs-Arkveld_Icon.png",
-          "info": ""
+          "info": "A flying wyvern that was considered extinct according to documents left behind by the Guild. Their wings have a unique, chain-like blade that can extend and retract freely to reap their prey. They feed on elemental energy absorbed through these chainblades, and are able to convert the energy to unleash dragon element attacks."
         }
       ]
     },
@@ -969,12 +976,14 @@
       "ailments": [
         "Muddy"
       ],
-      "weakness": [],
+      "weakness": [
+        "Thunder"
+      ],
       "games": [
         {
           "game": "Monster Hunter Wilds",
           "image": "MHWs-Balahara_Icon.png",
-          "info": ""
+          "info": "Desert-dwelling leviathans that build carapaces out of fulgurite formed by lightning strikes. They use their flexible skeletons and serpentine bodies to create quicksand traps for unwary prey. Inside their mouths are multiple eye-like sensory organs. The mucus they secret contains luminous bacteria and is believed to aid visibility while they are submerged and other low-light conditions like sandstorms."
         }
       ]
     },
@@ -2125,12 +2134,15 @@
       "isLarge": true,
       "elements": [],
       "ailments": [],
-      "weakness": [],
+      "weakness": [
+        "Ice",
+        "Thunder"
+      ],
       "games": [
         {
           "game": "Monster Hunter Wilds",
           "image": "MHWs-Chatacabra_Icon.png",
-          "info": ""
+          "info": "Amphibians that use their long tongues to seize and devour prey such as Bulaqchi. Their evolved forelimbs store a sticky mucus-like substance. When agitated, Chatacabra rub their forelimbs against the ground to collect stone and ore, widening the range and destructiveness of their blows."
         }
       ]
     },
@@ -2193,7 +2205,8 @@
         "Paralysis"
       ],
       "weakness": [
-        "Fire"
+        "Fire",
+        "Ice"
       ],
       "games": [
         {
@@ -2781,12 +2794,15 @@
       "isLarge": true,
       "elements": [],
       "ailments": [],
-      "weakness": [],
+      "weakness": [
+        "Fire",
+        "Thunder"
+      ],
       "games": [
         {
           "game": "Monster Hunter Wilds",
           "image": "MHWs-Doshaguma_Icon.png",
-          "info": ""
+          "info": "Fanged beasts that are sometimes seen traveling in packs. Ruggedly built and extremely aggressive, Doshaguma won't hesitate to throw everything they've got at enemies - even other small monsters. They have been known to take prey back to their dens, which sometimes leads to violent disputes."
         }
       ]
     },
@@ -4560,13 +4576,18 @@
       "elements": [
         "Ice"
       ],
-      "ailments": [],
-      "weakness": [],
+      "ailments": [
+        "Iceblight"
+      ],
+      "weakness": [
+        "Fire",
+        "Thunder"
+      ],
       "games": [
         {
           "game": "Monster Hunter Wilds",
           "image": "MHWs-Hirabami_Icon.png",
-          "info": ""
+          "info": "Leviathans that inhabit the Iceshard Cliffs. They have sharp, pincer-like tails and peculiar membrans on their necks that catch the wind and keep them aloft. Hirabami can sometimes be sighted nesting in groups along the cliffs, using their scales or foreclaws to cling to walls or ceiling while they sleep."
         }
       ]
     },
@@ -4917,13 +4938,17 @@
       "elements": [
         "Ice"
       ],
-      "ailments": [],
-      "weakness": [],
+      "ailments": [
+        "Iceblight"
+      ],
+      "weakness": [
+        "Fire"
+      ],
       "games": [
         {
           "game": "Monster Hunter Wilds",
           "image": "MHWs-Jin_Dahaad_Icon.png",
-          "info": ""
+          "info": "A leviathan that sits at the peak of the Iceshard Cliffs' ecosystem. It surrounds its massive form in cold temperatures via ridge-like cooling organs across its body; the frost its limbs produce doubles as a potent weapon and a way to travel along walls and floating rocks."
         }
       ]
     },
@@ -5461,12 +5486,14 @@
       "ailments": [
         "Paralysis"
       ],
-      "weakness": [],
+      "weakness": [
+        "Fire"
+      ],
       "games": [
         {
           "game": "Monster Hunter Wilds",
           "image": "MHWs-Lala_Barina_Icon.png",
-          "info": ""
+          "info": "Temnocerans native to the Scarlet Forest with distinctive, pirouette-like movements. Their fluids contain a neuroplegic agent which they mix with water to produce red, petal-like bristles on their abdomens. When agitated, Lala Barina open these bristles like a deadly, blossoming flower and release them as florets that paralyze whatever they come into contact with."
         }
       ]
     },
@@ -6449,13 +6476,17 @@
       "elements": [
         "Fire"
       ],
-      "ailments": [],
-      "weakness": [],
+      "ailments": [
+        "Fireblight"
+      ],
+      "weakness": [
+        "Water"
+      ],
       "games": [
         {
           "game": "Monster Hunter Wilds",
           "image": "MHWs-Nu_Udra_Icon.png",
-          "info": ""
+          "info": "The cephalopod that reigns supreme over Oilwell Basin's ecosystem. Usually, when sighted, Nu Udra is covered in oilsilt, but when enraged it will ignite the coating, transfiguring itself into a horror of flame. The oculi that appear on its body and mant arms are presumed to be sensory organs, but the truth is still being investigated."
         }
       ]
     },
@@ -6929,13 +6960,17 @@
       "elements": [
         "Fire"
       ],
-      "ailments": [],
-      "weakness": [],
+      "ailments": [
+        "Fireblight"
+      ],
+      "weakness": [
+        "Water"
+      ],
       "games": [
         {
           "game": "Monster Hunter Wilds",
           "image": "MHWs-Quematrice_Icon.png",
-          "info": ""
+          "info": "Brute wyverns with disproportionately long tails. They spread a flammable substance which vaporizes quickly, then ignite it by dragging their tails along the ground. By nature, Quematrice rarely hunt their own prey, and instead scavenge herbivore carrion left behind by other predators. This often leads to confrontations with other, smaller carnivores."
         }
       ]
     },
@@ -7402,13 +7437,18 @@
       "elements": [
         "Thunder"
       ],
-      "ailments": [],
-      "weakness": [],
+      "ailments": [
+        "Thunderblight"
+      ],
+      "weakness": [
+        "Water",
+        "Ice"
+      ],
       "games": [
         {
           "game": "Monster Hunter Wilds",
           "image": "MHWs-Rey_Dau_Icon.png",
-          "info": ""
+          "info": "The flying wyvern that reigns supreme over the Windward Plains' ecosystem. It has adapted to the Sandtide - when it most frequently appears - and is able to store, amplify and discharge the storm's heavy lightning to lethal effect. Rey Dau is highly territorial and will attack any and all intruders on sight. The fulgurite against its carapace emits a sound that puts every monster in the region on guard."
         }
       ]
     },
@@ -7590,12 +7630,14 @@
       "ailments": [
         "Poison"
       ],
-      "weakness": [],
+      "weakness": [
+        "Water"
+      ],
       "games": [
         {
           "game": "Monster Hunter Wilds",
           "image": "MHWs-Rompopolo_Icon.png",
-          "info": ""
+          "info": "Dappled brute wyverns that prowl Oilwell Basin. They use their tails to inject gas into the ground and detonate it, then feed on the small creatures that are unearthed. The toxic gas they spray from their tongues serve to weaken prey, which they then finish off with the blasts. Rompopolo are extremely territorial and will readily engage their own kind."
         }
       ]
     },
@@ -9127,13 +9169,17 @@
       "elements": [
         "Water"
       ],
-      "ailments": [],
-      "weakness": [],
+      "ailments": [
+        "Waterblight"
+      ],
+      "weakness": [
+        "Thunder"
+      ],
       "games": [
         {
           "game": "Monster Hunter Wilds",
           "image": "MHWs-Uth_Duna_Icon.png",
-          "info": ""
+          "info": "The leviathan that reigns supreme over the Scarlet Forest's ecosystem. It has adapted to water-rich environments and is sighted most often during the Downpour. Uth Duna's secretions when combined with water form a protective veil that not only absorbs hostile blows but also adds weight, which it slams down with enough force to sweep away surrounding threats in the resulting wave."
         }
       ]
     },
