@@ -709,6 +709,9 @@
       "name": "Arkveld",
       "type": "Flying Wyvern",
       "isLarge": true,
+      "subSpecies": [
+        "Guardian Arkveld"
+      ],
       "elements": [
         "Dragon"
       ],
@@ -2792,6 +2795,9 @@
       "name": "Doshaguma",
       "type": "Fanged Beast",
       "isLarge": true,
+      "subSpecies": [
+        "Guardian Doshaguma"
+      ],
       "elements": [],
       "ailments": [],
       "weakness": [
@@ -2939,6 +2945,9 @@
       "name": "Ebony Odogaron",
       "type": "Fanged Wyvern",
       "isLarge": true,
+      "subSpecies": [
+        "Guardian Ebony Odogaron"
+      ],
       "elements": [
         "Dragon"
       ],
@@ -3263,6 +3272,9 @@
       "name": "Fulgur Anjanath",
       "type": "Brute Wyvern",
       "isLarge": true,
+      "subSpecies": [
+        "Guardian Fulgur Anjanath"
+      ],
       "elements": [
         "Thunder"
       ],
@@ -4425,6 +4437,130 @@
           "game": "Monster Hunter Stories 2",
           "image": "MHST2-Grimclaw_Tigrex_Icon.png",
           "info": "The strength of these Tigrex Deviants is truly devastating. Their raw power overwhelms the so-called technological strengths of humans, leaving any who encounter the beasts overcome with fear."
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "name": "Guardian Arkveld",
+      "type": "Construct",
+      "isLarge": true,
+      "elements": [
+        "Dragon"
+      ],
+      "ailments": [
+        "Dragonblight"
+      ],
+      "weakness": [
+        "Dragon"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWs-Guardian_Arkveld_Icon.png",
+          "info": "An artificial species created by an ancient civilization and imbued with the power of a monster called Arkveld. It cannot reproduce and does not require food, relying instead on Wyvern Milk for energy. In addition to absorbing and discharging energy the way other Guardians do, Guardian Arkveld can also absorb elemental energy through the chainblades on its wings and use it for sustenance."
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "name": "Guardian Doshaguma",
+      "type": "Construct",
+      "isLarge": true,
+      "elements": [],
+      "ailments": [],
+      "weakness": [
+        "Fire",
+        "Ice",
+        "Thunder",
+        "Dragon"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWs-Guardian_Doshaguma_Icon.png",
+          "info": "An artificial monster species created by an ancient civilization and imbued with Doshaguma's power. Guardian Doshaguma cannot reproduce and do not require food, relying instead on Wyvern Milk for energy. While anything but agile, they're tough enough to charge right through attacks without flinching, making them extremely dangerous."
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "name": "Guardian Ebony Odogaron",
+      "type": "Construct",
+      "isLarge": true,
+      "elements": [
+        "Dragon"
+      ],
+      "ailments": [
+        "Bleeding",
+        "Dragonblight"
+      ],
+      "weakness": [
+        "Water"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWs-Guardian_Ebony_Odogaron_Icon.png",
+          "info": "An artificial monster species created by an ancient civilization and imbued with Ebony Odogaron's power. Guardian Ebony Odogaron cannot reproduce and do not require food, relying instead on Wyvern Milk for energy. They will attempt to corner targets with flurries of attacks from their well-developed claws and tails."
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "name": "Guardian Fulgur Anjanath",
+      "type": "Construct",
+      "isLarge": true,
+      "elements": [
+        "Thunder"
+      ],
+      "ailments": [
+        "Thunderblight"
+      ],
+      "weakness": [
+        "Water",
+        "Ice",
+        "Dragon"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWs-Guardian_Fulgur_Anjanath_Icon.png",
+          "info": "An artificial monster species created by an ancient civilization and imbued with Fulgur Anjanath's power. Guardian Fulgur Anjanath cannot reproduce and do not require food, relying instead on Wyvern Milk for energy. Not only can the lightning charged in their bodies be released as an attack, they can also use it to empower themselves and perform vicious biting attacks."
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "name": "Guardian Rathalos",
+      "type": "Construct",
+      "isLarge": true,
+      "elements": [
+        "Fire"
+      ],
+      "ailments": [
+        "Fireblight",
+        "Poison"
+      ],
+      "weakness": [
+        "Thunder",
+        "Dragon"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWs-Guardian_Rathalos_Icon.png",
+          "info": "An artificial monster species created by an ancient civilization and imbued with Rathalos's power. Guardian Rathalos cannot reproduce and do not require food, relying instead on Wyvern Milk for energy. Just like the original Rathalos, they are superior fliers and will attack more violently with their claws while airborne."
         }
       ]
     },
@@ -7192,7 +7328,8 @@
         "Azure Rathalos",
         "Silver Rathalos",
         "Dreadking Rathalos",
-        "Apex Rathalos"
+        "Apex Rathalos",
+        "Guardian Rathalos"
       ],
       "elements": [
         "Fire"
@@ -9660,6 +9797,26 @@
     },
     {
       "_id": {
+        "$oid": ""
+      },
+      "name": "Xu Wu",
+      "type": "Cephalopod",
+      "isLarge": true,
+      "elements": [],
+      "ailments": [],
+      "weakness": [
+        "Ice"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWs-Xu_Wu_Icon.png",
+          "info": "Cephalopod predators whose prey include Guardian monsters. The mucus secreted from their tentacles hardens quickly into sharp edges that resemble blades or spears, which is why some call Xu Wu the \"Piercing Assassin\". The sizable mouth hidden on their underside allows them to devour even rather large prey."
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e1559948a80af35ce52d72f"
       },
       "name": "Yian Garuga",
@@ -9915,6 +10072,32 @@
           "game": "Monster Hunter Stories 2",
           "image": "MHST2-Zinogre_Icon.png",
           "info": "Fanged Wyverns that store the electrical energy of the countless Thunderbugs that they gather."
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "name": "Zoh Shia",
+      "type": "Construct",
+      "isLarge": true,
+      "elements": [
+        "Fire",
+        "Thunder"
+      ],
+      "ailments": [
+        "Fireblight",
+        "Thunderblight"
+      ],
+      "weakness": [
+        "Dragon"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWs-Xu_Wu_Icon.png",
+          "info": "A massive Guardian that has been feeding off the Dragontorch's energy. Its body is encased in crystallized Wyvern Milk, allowing it to regenerate. Zoh Shia, like other Guardians, excels at energy attacks and can produce repeated explosions to crystallize the whole area. Beneath its white Guardian coat, its body pulses with dark recollection - which you may see, should it reveal its full power from the days of yore."
         }
       ]
     },
