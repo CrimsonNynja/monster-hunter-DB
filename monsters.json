@@ -1510,7 +1510,7 @@
         {
           "game": "Monster Hunter Wilds",
           "image": "MHWs-Blangonga_Icon.png",
-          "info": ""
+          "info": "Large, white fanged beasts that rule over other Blango, attacking intruders as a pack. Its muscularity and mobility allows it to strike swiftly, even on fresh snow, and pounce from long distances—so hunters with long-range weapons still need to stay on guard. Large tusks are the mark of a powerful leader."
         }
       ]
     },
@@ -2211,7 +2211,7 @@
         {
           "game": "Monster Hunter Wilds",
           "image": "MHWs-Congalala_Icon.png",
-          "info": ""
+          "info": "Large fanged beasts with pink fur and a distinct crest, which the males sculpt with plant oils and juices as a sign of virility. Congalala are common in temperate forests and are therefore well researched. They're big eaters and love mushrooms, which they absorb and then exhale as a variety of potent breaths that inflict poison, blast, paralysis, and more."
         },
         {
           "game": "Monster Hunter Stories",
@@ -3933,7 +3933,7 @@
         "$oid": "5e15ba038a80af35ce52d79c"
       },
       "name": "Gore Magala",
-      "type": "???",
+      "type": "Demi Elder",
       "isLarge": true,
       "subSpecies": [
         "Chaotic Gore Magala"
@@ -3968,7 +3968,7 @@
         {
           "game": "Monster Hunter Wilds",
           "image": "MHWs-Gore_Magala_Icon.png",
-          "info": ""
+          "info": "Monsters that drape themselves in their great wings, like a black overcoat. They have no eye sensory organs, so instead they use a scattering of fine scales from their wings to locate prey. When their sensory capacity increases, antennae appear on their heads and they unfurl their wings, entering the aggressive Frenzy State. Their black scales can Frenzy other creatures as well, making them fearsome adversaries."
         }
       ]
     },
@@ -4049,7 +4049,7 @@
         {
           "game": "Monster Hunter Wilds",
           "image": "MHWs-Gravios_Icon.png",
-          "info": ""
+          "info": "Large wyverns found in Oilwell Basin. They have a developed physique, powerful heat rays, and a host of gases they can emit from their body. Their bony carapaces are famously tough but expose a surprisingly brittle interior once destroyed."
         },
         {
           "game": "Monster Hunter Stories",
@@ -4445,7 +4445,7 @@
         {
           "game": "Monster Hunter Wilds",
           "image": "MHWs-Gypceros_Icon.png",
-          "info": ""
+          "info": "Wyverns that can stun enemies by striking their prominent crests to produce powerful flashes of light. Their stretchy, rubbery hide resists blunt impacts and reduces the effectiveness of shock traps. A smart hunter knows to maneuver carefully around the poisonous filth they spew, which drips from ceilings or down slopes."
         },
         {
           "game": "Monster Hunter Stories",
@@ -6332,7 +6332,7 @@
         {
           "game": "Monster Hunter Wilds",
           "image": "MHWs-Nerscylla_Icon.png",
-          "info": ""
+          "info": "Temnocerans that inhabit the Iceshard Cliffs. They weave vast, sticky webs across their territory, using them and various status ailments to corner prey before utilizing pincer-like jaws to finish it off. Sometimes dead Gypceros can be found in the webs, the hides of which Nerscylla are known to adorn themselves with after devouring the rest of the carcass."
         },
         {
           "game": "Monster Hunter Stories",
@@ -7204,7 +7204,7 @@
         {
           "game": "Monster Hunter Wilds",
           "image": "MHWs-Rathalos_Icon.png",
-          "info": ""
+          "info": "Fearsome male wyverns known as the \"Kings of the Skies.\" Alongside the Rathian, they stake out a wide territory around their nests, and it is the male's role to watch from above. Armed with powerful poisonous claws and fiery breath, Rathalos use their aerial prowess to descend on invaders."
         },
         {
           "game": "Monster Hunter Stories",
@@ -7275,7 +7275,7 @@
         {
           "game": "Monster Hunter Wilds",
           "image": "MHWs-Rathian_Icon.png",
-          "info": ""
+          "info": "Fire-breathing female wyverns known as the \"Queens of the Land.\" Their powerful legs and venomous tails make them efficient ground hunters. At times, Rathian and Rathalos can be sighted hunting as a couple. After laying eggs, Rathian are extremely watchful of their nests. Proceed with extra caution, as a mother will move swiftly to protect her young."
         },
         {
           "game": "Monster Hunter Stories",
@@ -9699,7 +9699,7 @@
         {
           "game": "Monster Hunter Wilds",
           "image": "MHWs-Yian_Kut-Ku_Icon.png",
-          "info": ""
+          "info": "Bird wyverns with impressive beaks and large ears. They tend to be skittish but will sometimes initiate attacks on a perceived threat. Yian Kut-Ku arrive in large groups during the season of Plenty in the Scarlet Forest. The absence of eggs or young suggests that the purpose of this is not to breed, but rather to seek out mates and nourishment."
         },
         {
           "game": "Monster Hunter Stories",
