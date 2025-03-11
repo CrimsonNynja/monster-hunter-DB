@@ -1225,6 +1225,39 @@
     },
     {
       "_id": {
+        "$oid": "5e25a0247cc58343965ed7e9"
+      },
+      "name": "Versa Pietru",
+      "type": "Elder Dragon",
+      "isLarge": true,
+      "weakness": [
+        "Fire"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Stories",
+          "image": "MHST-Versa_Pietru_Icon.png",
+          "info": "Legendary White Dragon. Lights up the skies, pierces through darkness; the very embodiment of hope."
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "name": "Baunos",
+      "type": "Wingdrake",
+      "isLarge": false,
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWs-Baunos_Icon.png",
+          "info": "Winged wyverns that inhabit the Windward Plains. Rather than do their own hunting, they use their high vantage to scavenge carrion. Baunos take shelter to avoid the lightning during an Inclemency. When a little intimidation is called for, they vibrate their thorax feathers to create a deafening roar. You can get screamer pods from them with the Hook Slinger."
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e1568ef8a80af35ce52d74b"
       },
       "name": "Bazelgeuse",
@@ -1880,6 +1913,21 @@
     },
     {
       "_id": {
+        "$oid": ""
+      },
+      "name": "Bulaqchi",
+      "type": "Neopteron",
+      "isLarge": false,
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWs-Bulaqchi_Icon.png",
+          "info": "Neopterons that inhabit the Windward Plains. They use their needle-like mouths to pour digestive juices into carrion to dissolve it into easily consumed fluids. Feeding makes them bloated and sluggish, so they have to rest on walls or ceilings. Their forelegs double as sensory organs that they use to assess their surroundings, but they are quite sensitive, so a loud noise is usually enough to immobilize a Bulaqchi."
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e1557f58a80af35ce52d72c"
       },
       "name": "Bullfango",
@@ -2066,6 +2114,21 @@
     },
     {
       "_id": {
+        "$oid": ""
+      },
+      "name": "Ceratonoth",
+      "type": "Herbivore",
+      "isLarge": false,
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWs-Ceratonoth_Icon.png",
+          "info": "Male Ceratonoth, known for their large herds. During sandstorms, they use their large spikes to channel any lightning strikes. This process sometimes causes fulgurite to form on parts of their bodies. A male responds quickly when a large predator attacks and makes an effort to lead his herd to safety."
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e1456b28a80af35ce52d723"
       },
       "name": "Chameleos",
@@ -2140,8 +2203,6 @@
       "name": "Chatacabra",
       "type": "Amphibian",
       "isLarge": true,
-      "elements": [],
-      "ailments": [],
       "weakness": [
         "Ice",
         "Thunder"
@@ -2151,6 +2212,21 @@
           "game": "Monster Hunter Wilds",
           "image": "MHWs-Chatacabra_Icon.png",
           "info": "Amphibians that use their long tongues to seize and devour prey such as Bulaqchi. Their evolved forelimbs store a sticky mucus-like substance. When agitated, Chatacabra rub their forelimbs against the ground to collect stone and ore, widening the range and destructiveness of their blows."
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "name": "Comaqchi",
+      "type": "Neopteron",
+      "isLarge": false,
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWs-Comaqchi_Icon.png",
+          "info": "Neopterons that inhabit the Iceshard Cliffs. Comaqchi rarely move around, staying adhered to the walls most of the time in large colonies. Their forelegs are well adapted to striking, and they can use their well-developed tail stingers to inject a sleeping agent that make targets easier to prey upon."
         }
       ]
     },
@@ -2516,6 +2592,21 @@
     },
     {
       "_id": {
+        "$oid": ""
+      },
+      "name": "Daltyhdon",
+      "type": "Herbivore",
+      "isLarge": false,
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWs-Dalthydon_Icon.png",
+          "info": "Herbivores that live in herds and move between habitats in response to environmental changes. Dalthydon are bred as livestock and play an important role in human life. Although they are docile in general, when the herd is in danger, they assume a group defensive formation and use their evolved cranial plating as a weapon."
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e158d2e8a80af35ce52d78e"
       },
       "name": "Deadeye Yian Garuga",
@@ -2808,8 +2899,6 @@
       "subSpecies": [
         "Guardian Doshaguma"
       ],
-      "elements": [],
-      "ailments": [],
       "weakness": [
         "Fire",
         "Thunder"
@@ -3417,6 +3506,21 @@
     },
     {
       "_id": {
+        "$oid": ""
+      },
+      "name": "Gajios",
+      "type": "Leviathan",
+      "isLarge": false,
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWs-Gajios_Icon.png",
+          "info": "Leviathans with distinct snouts that live near water. If the water is deep enough, a Gajios will stay submerged with only the tip of its nose exposed, waiting for prey to wander by. You can obtain bleeding pods with the Hook Slinger—but not without a fight."
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e1423e98a80af35ce52d6eb"
       },
       "name": "Gammoth",
@@ -3543,6 +3647,21 @@
           "game": "Monster Hunter World",
           "image": "MHW-Gastodon_Icon.png",
           "info": "Pack monsters that inhabit the Elder's Recess. They are easily angered by intruders, and will charge at monsters twice their size."
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "name": "Gelidron",
+      "type": "Amphibian",
+      "isLarge": false,
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWs-Gelidron_Icon.png",
+          "info": "Amphibians commonly found in Oilwell Basin. Subcutaneous slime protects them from getting burned. Gelidron lay ambushes, waiting to snap up prey with their big, meaty tongues. Fine hairs on their digits, combined with sharp claws, allow them to climb straight up walls. Unfortunately for the Gelidron, their edible parts are delicious, putting them in high demand with carnivores in the wild...as well as in Azuz."
         }
       ]
     },
@@ -4481,8 +4600,6 @@
       "name": "Guardian Doshaguma",
       "type": "Construct",
       "isLarge": true,
-      "elements": [],
-      "ailments": [],
       "weakness": [
         "Fire",
         "Ice",
@@ -4576,6 +4693,21 @@
     },
     {
       "_id": {
+        "$oid": ""
+      },
+      "name": "Guardian Seikret",
+      "type": "Construct",
+      "isLarge": false,
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWs-Guardian_Seikret_Icon.png",
+          "info": "Artificial wyverns created by an ancient civilization. They dash through the Ruins of Wyveria in search of Wyvern Milk, their source of energy. Unlike the original Seikret, the Guardian types are aggressive and have sharp, dangerous claws on their unique forelegs. They generally travel in packs of two or three, but if threatened, they may call for more help and try to surround the adversary."
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e1416d58a80af35ce52d6de"
       },
       "name": "Gypceros",
@@ -4618,6 +4750,21 @@
           "game": "Monster Hunter Stories 2",
           "image": "MHST2-Gypceros_Icon.png",
           "info": "Crested Bird Wyverns. They strike their crests to generate blinding flashes and dazzle their enemies."
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "name": "Harpios",
+      "type": "Wingdrake",
+      "isLarge": false,
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWs-Harpios_Icon.png",
+          "info": "Winged wyverns that are identifiable by the long, sharp horn on their heads—which just so happen to make great Slinger ammo. Large as the Harpios may be, they never attack hunters, choosing instead to stay by the water and prey on fish. On occasions when large fish scare the smaller ones to the surface, you might even get to see a bona fide Harpios feeding frenzy."
         }
       ]
     },
@@ -4940,7 +5087,7 @@
         "$oid": "5e13318a25d9c11597488ae2"
       },
       "name": "Jaggi",
-      "type": "Bird Wyverjn",
+      "type": "Bird Wyvern",
       "isLarge": false,
       "weakness": [
         "Fire"
@@ -5398,6 +5545,21 @@
     },
     {
       "_id": {
+        "$oid": ""
+      },
+      "name": "Kranodath",
+      "type": "Bird Wyvern",
+      "isLarge": false,
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWs-Kranodath_Icon.png",
+          "info": "Carnivores that prowl Oilwell Basin. Their skulls have evolved in a way that lets them expand and contract the plating, and lunge at prey with hammer-like blows. They hunt Gelidron and keep their packs small. There have been accounts of Kranodath engaging larger monsters while feeding, where they cling to the enemy's skull and stun it with repeated head bashes."
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5dfda8049dabf81e7717ceac"
       },
       "name": "Kulu-Ya-Ku",
@@ -5628,7 +5790,6 @@
       "name": "Lala Barina",
       "type": "Temnoceran",
       "isLarge": true,
-      "elements": [],
       "ailments": [
         "Paralysis"
       ],
@@ -6521,6 +6682,21 @@
     },
     {
       "_id": {
+        "$oid": ""
+      },
+      "name": "Nerscylla Hatchling",
+      "type": "Temnoceran",
+      "isLarge": false,
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWs-Nerscylla_Hatchling_Icon.png",
+          "info": "The larval form of a temnoceran that inhabits the Iceshard Cliffs. At this stage they cannot use webbing or status ailments like adult Nerscylla, but these little fellows like to gang up. surround prey, and then pounce all at once."
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e13444d25d9c11597488ae8"
       },
       "name": "Nibelsnarf",
@@ -6797,6 +6973,21 @@
     },
     {
       "_id": {
+        "$oid": ""
+      },
+      "name": "Piragill",
+      "type": "Leviathan",
+      "isLarge": false,
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWs_Piragill_Icon.png",
+          "info": "Leviathans whose bodies are covered with beautiful scales and sharp blades. As a pack, they work together to surround prey, but since most Piragill are too timid to make the kill, they usually wait for an opening and lunge all at once. Don't underestimate them; on water, their speed is unmatched, and those blades will make mincemeat of a hunter that wanders too close."
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e1455af8a80af35ce52d721"
       },
       "name": "Plesioth",
@@ -6920,6 +7111,21 @@
           "game": "Monster Hunter Stories 2",
           "image": "MHST2-Popo_Icon.png",
           "info": "Herd-forming Herbivores covered in long, thick fur. Popo meat is nutritious and prized by gourmands."
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "name": "Porkeplume",
+      "type": "Bird Wyvern",
+      "isLarge": false,
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWs-Porkeplume_Icon.png",
+          "info": "Bird wyverns that live in herds at the heart of the Ruins of Wyveria. Porkeplumes are extremely timid and will protect themselves against threats by puffing out the bristles on their heads. If the situation escalates, a member of the herd will slam into the foe with its bristles, giving the other members a window to escape. The head bristles can be used as bleeding pods for the Slinger."
         }
       ]
     },
@@ -7194,6 +7400,21 @@
           "game": "Monster Hunter World",
           "image": "MHW-Radobaan_Icon.png",
           "info": "A gigantic brute wyvern that eats the bones of carcasses found in the Rotten Vale, using some of it as armor. It also rolls into a ball as a form of attack and transportation."
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "name": "Rafma",
+      "type": "Herbivore",
+      "isLarge": false,
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWs-Rafma_Icon.png",
+          "info": "Herbivores that live primarily in cold regions. Rafma form herds with a large alpha at the head. When threatened, the alpha discharges static energy stored in its horn to shock foes and defend the herd. This horn can also be targeted with the Hook Slinger to get paralytic ammo. Rafma have been sighted moving along dizzyingly steep cliffsides, to the wonderment of observers."
         }
       ]
     },
@@ -7773,7 +7994,6 @@
       "name": "Rompopolo",
       "type": "Brute Wyvern",
       "isLarge": true,
-      "elements": [],
       "ailments": [
         "Poison"
       ],
@@ -8827,6 +9047,21 @@
     },
     {
       "_id": {
+        "$oid": ""
+      },
+      "name": "Talioth",
+      "type": "Bird Wyvern",
+      "isLarge": false,
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWs-Talioth_Icon.png",
+          "info": "Carnivores that prowl the Windward Plains. Their distinct jaw is designed to grab prey and not let go, and they excel at working together to hunt and deal with intruders. It's not uncommon to see a pack of Talioth take on a bigger monster and win by sheer numbers; a clever hunter will take advantage of this and use Talioth to distract or weaken their main target."
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e157add8a80af35ce52d769"
       },
       "name": "Teostra",
@@ -9817,8 +10052,6 @@
       "name": "Xu Wu",
       "type": "Cephalopod",
       "isLarge": true,
-      "elements": [],
-      "ailments": [],
       "weakness": [
         "Ice"
       ],
