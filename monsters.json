@@ -1492,6 +1492,11 @@
           "image": "MHGen-Blango_Icon.png",
           "info": "A Pelagus covered in entirely in white fur. Known to move in packs and led by a Blangonga. The Blangonga exerts tight control over the group, and any call to gather will be met immediately by the rank and file Blangos.",
           "danger": "2"
+        },
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWs-Blango_Icon.png",
+          "info": "Fanged beasts with snow-white pelts. Blango generally travel in groups with a Blangonga leading them. As a pack, they work together efficiently to eliminate threats to their territory, responding instantly to their leader's commands."
         }
       ]
     },
@@ -2174,6 +2179,11 @@
           "image": "MH4U-Conga_Icon.png",
           "info": "Ape-like fanged beasts with pink fur. Conga prefer to live in smalls groups as oppposed to large packs and primarily inhabit warm, humid environments.",
           "danger": "2"
+        },
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWs-Conga_Icon.png",
+          "info": "Fanged beasts with pink fur. Packs typically consist of females and juveniles. An adult male Congalala may occasionally be sighted within a pack, but these are non-social creatures that don't establish a chain of command. Beware their terrific flatulence, as they will use it to inflict stench on perceived threats."
         },
         {
           "game": "Monster Hunter Stories",
@@ -9541,8 +9551,13 @@
           "info": "Neopterons with paralyzing poison stingers on their abdomen. Vespoids adapt to almost any environment, and have been observed in many regions. Their sharp stingers are powerful enough to let them relentlessly jab any outsiders with a paralytic agent. They are delicate, weak to impacts, and make great materials for toxic weaponry."
         },
         {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWs-Vespoid_Icon.png",
+          "info": "Neopterons with paralyzing poison stingers on their abdomens. Since Vespoids are attracted to light, hunters can use brightmoss to mark large monsters, which Vespoid will then attack and paralyze. To finish off a Vespoid without damaging its delicate materials, a hunter must avoid blunt trauma and use attacks that gradually drain its health. Vespoid fluids are useful for crafting with monster bones."
+        },
+        {
           "game": "Monster Hunter Stories",
-          "image": "MHGen-Vespoid_Icon.png",
+          "image": "MHST-Vespoid_Icon.png",
           "info": "Giant Wasp-like Neopeterons with paralyzing stingers, which they use on any who stray too close."
         },
         {
