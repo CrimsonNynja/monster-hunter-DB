@@ -7,6 +7,7 @@ This repo contains a database of:
    - MHGU
    - MHW (with Iceborne)
    - MH Rise (with Sunbreak)
+   - MH Wilds
    - MHST
    - MHST2
  - Endemic Life
