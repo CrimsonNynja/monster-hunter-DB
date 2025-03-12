@@ -14628,1567 +14628,1564 @@
         "Remobra"
       ]
     },
-      {
-          "_id": {
-              "$oid": "1" 
-          },
-          "name": "Harvset Shroom",
-          "client": "Long-haired Girl", 
-          "description": "I'mad! I hate this mushroom diet, I hate it! Please hunter, could you fetch me 10 Unique Mushrooms form the Misty Peaks?", 
-          "reward": 300 ,
-          "map": "Peacks<D>", 
-          "isKey": false, 
-          "questType": "Village", 
-          "game": "Monster Hunter Portable 3rd", 
-          "difficulty": "1", 
-          "objective": "Deliver 10 Unique Mushrooms" 
-
-      },
-      {
-          "_id": {
-              "$oid": "2" 
-          },
-          "name": "Prescription Pick-Up",
-          "client": "Shy Brother", 
-          "description": "It's my annoying sister's birthday. She wants a necklace made from Kelby Horns as a gift! She's selfish, but I love her. Please, could you bring me 3 Kelby Horns?", 
-          "reward": 300 ,
-          "map": "Peacks<D>", 
-          "isKey": false, 
-          "questType": "Village", 
-          "game": "Monster Hunter Portable 3rd", 
-          "difficulty": "1", 
-          "objective": "Deliver 3 Kelbi Horns"
-          
-      },{
-          "_id": {
-              "$oid": "3" 
-          },
-          "name": "Jaggi Takedown",
-          "client": "Resting Felyne", 
-          "description": "Nya! When I was resting in the Misty Peaks, a Great Jaggi appeared from nowhere, and  tried to eat me. Nyaaa! Hunter, take down that beast for me!", 
-          "reward": 300 ,
-          "map": "Peacks<D>", 
-          "isKey": true, 
-          "questType": "Village", 
-          "game": "Monster Hunter Portable 3rd", 
-          "difficulty": "1", 
-          "objective": "Slay 5 Jaggi", 
-          "targets": [
-              "Jaggi"
-          ]
-      },
-      {
-          "_id": {
-              "$oid": "4" 
-          },
-          "name": "Bully the Bullfango",
-          "client": "Gatekeeper", 
-          "description": "I was picking some mushrooms when suddenly a pack of Bullfango appeared behind me! They ran me down and hurt my back. It's painful! Please go and get revenge for me.", 
-          "reward": 300 ,
-          "map": "Peacks<D>", 
-          "isKey": true, 
-          "questType": "Village", 
-          "game": "Monster Hunter Portable 3rd", 
-          "difficulty": "1", 
-          "objective": "Slay 3 Bullfangos", 
-          "targets": [
-              "Bullfango"
-          ]
-      },
-      {
-          "_id": {
-              "$oid": "5" 
-          },
-          "name": "Harbinger of Terror",
-          "client": "Worried Old Traveller", 
-          "description": "I regularly visit the Misty Peaks to collect Royal Honey. Recently I heard a scary sound approaching behind me. I ran and hid! I can't go out again until the culprit has been found.", 
-          "reward": 300 ,
-          "map": "Peacks<D>", 
-          "isKey": true,
-          "questType": "Village", 
-          "game": "Monster Hunter Portable 3rd", 
-          "difficulty": "1", 
-          "objective": "Deliver 5 Royal Honey"
-      },{
-          "_id": {
-              "$oid": "6" 
-          },
-          "name": "Blue Bear: Arzuros",
-          "client": "Village Chief", 
-          "description": "Arzuros is a common monster to the village. However, it's terrorizing the children. This can't happen any longer! Hunter, please eradicate this threat!", 
-          "reward": 1200 ,
-          "map": "Peacks<D>", 
-          "isKey": true, 
-          "questType": "Village", 
-          "game": "Monster Hunter Portable 3rd", 
-          "difficulty": "2", 
-          "objective": "Hunt the Arzuros", 
-          "targets": [
-              "Arzuros"
-          ]
-      },
-      {
-          "_id": {
-              "$oid": "7" 
-          },
-          "name": "Harvest Tour: Misty Peaks",
-          "client": "Village Chief", 
-          "description": "Materials can be collected from the Misty Peaks. As I worked hard, I can give you the expenses to your trip. If you deliver the paw pass ticket to the supply box, the quest is clear!", 
-          "reward": 12 ,
-          "map": "Peacks", 
-          "isKey": false, 
-          "questType": "Village", 
-          "game": "Monster Hunter Portable 3rd", 
-          "difficulty": "2", 
-          "objective": "Survive until Time Over or Deliver the Paw Pass Ticket" 
-          
-      },{
-          "_id": {
-              "$oid": "8" 
-          },
-          "name": "Harvest Tour: Sandy Plains",
-          "client": "Village Chief", 
-          "description": "Materials can be collected from the Sandy Plains. As I worked hard, I can give you the expenses to your trip. If you deliver the paw pass ticket to the supply box, the quest is clear!", 
-          "reward": 12 ,
-          "map": "Plains", 
-          "isKey": false, 
-          "questType": "Village", 
-          "game": "Monster Hunter Portable 3rd", 
-          "difficulty": "2", 
-          "objective": "Survive until Time Over or Deliver the Paw Pass Ticket"
-          
-      },{
-          "_id": {
-              "$oid": "9" 
-          },
-          "name": "Harvest Tour: Flooded Forest",
-          "client": "Village Chief", 
-          "description": "Materials can be collected from the Flooded Forest. As I worked hard, I can give you the expenses to your trip. If you deliver the paw pass ticket to the supply box, the quest is clear!", 
-          "reward": 12 ,
-          "map": "Forest", 
-          "isKey": false, 
-          "questType": "Village", 
-          "game": "Monster Hunter Portable 3rd", 
-          "difficulty": "2", 
-          "objective": "Survive until Time Over or Deliver the Paw Pass Ticket" 
-          
-      },
-      {
-          "_id": {
-              "$oid": "10" 
-          },
-          "name": "Forest Murmur",
-          "client": "Family-minded youth", 
-          "description": "From the depths of the forest, the Bulldrome ruins my bamboo plants and it never grows back. Can you confront this monster for me?", 
-          "reward": 1200 ,
-          "map": "Peacks", 
-          "isKey": true, 
-          "questType": "Village", 
-          "game": "Monster Hunter Portable 3rd", 
-          "difficulty": "2", 
-          "objective": "Hunt Bulldrome", 
-          "targets": [
-              "Bulldrome"
-          ]
-      },
-      {
-          "_id": {
-              "$oid": "11" 
-          },
-          "name": "Field Trip",
-          "client": "Excited Teacher", 
-          "description": "My students want to watch a brave fight between a hunter and a monster. Please show them a wonderful brawl. A Great Jaggi is close by!", 
-          "reward": 900 ,
-          "map": "Peacks", 
-          "isKey": true, 
-          "questType": "Village", 
-          "game": "Monster Hunter Portable 3rd", 
-          "difficulty": "2", 
-          "objective": "Hunt the Great Jaggi", 
-          "targets": [
-              "Great_Jaggi"
-          ]
-      },
-      {
-          "_id": {
-              "$oid": "12" 
-          },
-          "name": "Jaggia Extermination!",
-          "client": "Concerned villager", 
-          "description": "Do you think Jaggia can increase their population? No way! Our field got damaged recently because of the. They must be killed. Please hunter, do it right now", 
-          "reward": 900 ,
-          "map": "Peacks", 
-          "isKey": false, 
-          "questType": "Village", 
-          "game": "Monster Hunter Portable 3rd", 
-          "difficulty": "2", 
-          "objective": "Slay 3 Jaggia", 
-          "targets": [
-              "Jaggia"
-          ]
-      },{
-          "_id": {
-              "$oid": "13" 
-          },
-          "name": "Under the Yolk",
-          "client": "Loving mother", 
-          "description": "Today is the birthday of my daughter. I want to surprise her and prepare her a lot of egg dishes. By the way, she loves Gargwa eggs. Would you mind helping me out?", 
-          "reward":  900,
-          "map": "Peacks", 
-          "isKey": false, 
-          "questType": "Village", 
-          "game": "Monster Hunter Portable 3rd", 
-          "difficulty": "2", 
-          "objective": "Deliver 3 Gargwa Eggs"
-      },
-      {
-          "_id": {
-              "$oid": "14" 
-          },
-          "name": "An Afternoon in the Forest",
-          "client": "Good daughter", 
-          "description": "The mushroom I was looking for is different form the others. When I asked my mom, she said it can be found in an insect. I feel likde i can't do it. Could you help me  with this?", 
-          "reward": 900 ,
-          "map": "Peacks", 
-          "isKey": false, 
-          "questType": "Village", 
-          "game": "Monster Hunter Portable 3rd", 
-          "difficulty": "2", 
-          "objective": "Deliver 5 Ripened Mushrooms"
-      },
-      {
-          "_id": {
-              "$oid": "15" 
-          },
-          "name": "Pain in the Plains",
-          "client": "Injured Villager", 
-          "description": "A Great Jaggi accompanied by its minions were walking around in a lordly manner. It is best to let a professional hunter to do the job!", 
-          "reward":  900,
-          "map": "Plains", 
-          "isKey": false, 
-          "questType": "Village", 
-          "game": "Monster Hunter Portable 3rd", 
-          "difficulty": "2", 
-          "objective": "Hunt the Great Jaggi", 
-          "targets": [
-              "Great_Jaggi"
-          ]
-      },{
-          "_id": {
-              "$oid": "16" 
-          },
-          "name": "Bring Peace to the Sandy Plains!",
-          "client": "Retired hunter", 
-          "description": "Absence of their leader is a good thing. But we do not want those Jaggis to stroll around the Sandy Plains. Somebody must take this quest and exterminate them.", 
-          "reward":  900,
-          "map": "Plains", 
-          "isKey": false, 
-          "questType": "Village", 
-          "game": "Monster Hunter Portable 3rd", 
-          "difficulty": "2", 
-          "objective": "Slay 10 Jaggi", 
-          "targets": [
-              "Jaggi"
-          ]
-      },{
-          "_id": {
-              "$oid": "17" 
-          },
-          "name": "Ancient? Crystal Bone!",
-          "client": "Governmet Researcher", 
-          "description": "I'd like some wyvern ore for research. But it's too dangerous for me. Please get me 5 of them if you can. Use a Pickaxe on a mining spot to gather them.", 
-          "reward": 900 ,
-          "map": "Plains", 
-          "isKey": false, 
-          "questType": "Village", 
-          "game": "Monster Hunter Portable 3rd", 
-          "difficulty": "2", 
-          "objective": "Deliver 5 Crystal Bones"
-      },
-      {
-          "_id": {
-              "$oid": "18" 
-          },
-          "name": "Quick and Strong Bulldrome!",
-          "client": "Feudal Lord", 
-          "description": "A dangerous monster called the Bulldrome is attacking people indiscriminately. It has become a huge menace in the forest. I want you to remove this threat. Thank you!", 
-          "reward": 1200 ,
-          "map": "Forest", 
-          "isKey": false, 
-          "questType": "Village", 
-          "game": "Monster Hunter Portable 3rd", 
-          "difficulty": "2", 
-          "objective": "Hunt the Bulldrome", 
-          "targets": [
-              "Bulldrome"
-          ]
-      },{
-          "_id": {
-              "$oid": "19" 
-          },
-          "name": "Fanged Beast Taking a Bath",
-          "client": "Sopping-wet Felyne", 
-          "description": "Oh my god! There is a rampaging bear in the Flooded Forest! Please help us!", 
-          "reward":  1200,
-          "map": "Forest", 
-          "isKey": false, 
-          "questType": "Village", 
-          "game": "Monster Hunter Portable 3rd", 
-          "difficulty": "2", 
-          "objective": "Hunt the Arzuros", 
-          "targets": [
-              "Arzuros"
-          ]
-      },{
-          "_id": {
-              "$oid": "20" 
-          },
-          "name": "No Love for Ludroth",
-          "client": "Old Lady", 
-          "description": "The bedwetting of my son needs to be cured. He just keeps on doing it everyday. But it seems an absorbent material from a Ludroth can probably help. I need it right away!", 
-          "reward":  900,
-          "map": "Forest", 
-          "isKey": true, 
-          "questType": "Village", 
-          "game": "Monster Hunter Portable 3rd", 
-          "difficulty": "2", 
-          "objective": "Slay 5 Ludroth", 
-          "targets": [
-              "Ludroth"
-          ]
-      },{
-          "_id": {
-              "$oid": "21" 
-          },
-          "name": "Poisonous Wroggi",
-          "client": "Youth", 
-          "description": "When I arrived in my village, both the crops and the villagers were suffering from a venom. These Wroggi need to be killed. Please hepl us! Saly at least 10 Wroggi!", 
-          "reward":  900,
-          "map": "Forest", 
-          "isKey": true, 
-          "questType": "Village", 
-          "game": "Monster Hunter Portable 3rd", 
-          "difficulty": "2", 
-          "objective": "Slay 10 Wroggi", 
-          "targets": [
-              "Wroggi"
-          ]
-      },{
-          "_id": {
-              "$oid": "22" 
-          },
-          "name": "Hair of the Dog",
-          "client": "Barkeeper`s Daughter", 
-          "description": "My dad is suffering from a headache but it's not a hangover! I found a cure, bu I don't have the neccessary materials to complete the medicine", 
-          "reward": 900 ,
-          "map": "Forest", 
-          "isKey": false, 
-          "questType": "Village", 
-          "game": "Monster Hunter Portable 3rd", 
-          "difficulty": "2", 
-          "objective": "Deliver 5 Slagtoth Oils"
-      },
-      {
-          "_id": {
-              "$oid": "23" 
-          },
-          "name": "Dancing Qurupeco",
-          "client": "Village Chief", 
-          "description": "Qurupeco can call another companion. Using its unique dance that somehow inspire the other monsters! Expect that an unusual monster will appear! Be more cautious.", 
-          "reward": 1500 ,
-          "map": "Peacks", 
-          "isKey": true, 
-          "questType": "Village", 
-          "game": "Monster Hunter Portable 3rd", 
-          "difficulty": "3", 
-          "objective": "Hunt the Qurupeco", 
-          "targets": [
-              "Qurupeco"
-          ]
-      },
-      {
-
-        "_id": {
-            "$oid": "24" 
-        },
-        "name": "Harvest Tour: Deserted Island",
-        "client": "Village Chief", 
-        "description": "Materials can be collected from the Deserted Island. As I I fully worked hard, I can give you the expenses to your trip. If you deliver the paw pass ticket to the supply box, the quest is clear!", 
-        "reward": 12 ,
-        "map": "Island", 
-        "isKey": false, 
-        "questType": "Village", 
-        "game": "Monster Hunter Portable 3rd", 
-        "difficulty": "3", 
-        "objective": "Survive until Time Over or Deliver the Paw Pass Ticket" 
-    }, 
     {
-
       "_id": {
-          "$oid": "25" 
+        "$oid": "1"
+      },
+      "name": "Harvset Shroom",
+      "client": "Long-haired Girl",
+      "description": "I'mad! I hate this mushroom diet, I hate it! Please hunter, could you fetch me 10 Unique Mushrooms form the Misty Peaks?",
+      "reward": 300,
+      "map": "Peacks<D>",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "1",
+      "objective": "Deliver 10 Unique Mushrooms"
+    },
+    {
+      "_id": {
+        "$oid": "2"
+      },
+      "name": "Prescription Pick-Up",
+      "client": "Shy Brother",
+      "description": "It's my annoying sister's birthday. She wants a necklace made from Kelby Horns as a gift! She's selfish, but I love her. Please, could you bring me 3 Kelby Horns?",
+      "reward": 300,
+      "map": "Peacks<D>",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "1",
+      "objective": "Deliver 3 Kelbi Horns"
+    },
+    {
+      "_id": {
+        "$oid": "3"
+      },
+      "name": "Jaggi Takedown",
+      "client": "Resting Felyne",
+      "description": "Nya! When I was resting in the Misty Peaks, a Great Jaggi appeared from nowhere, and  tried to eat me. Nyaaa! Hunter, take down that beast for me!",
+      "reward": 300,
+      "map": "Peacks<D>",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "1",
+      "objective": "Slay 5 Jaggi",
+      "targets": [
+        "Jaggi"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "4"
+      },
+      "name": "Bully the Bullfango",
+      "client": "Gatekeeper",
+      "description": "I was picking some mushrooms when suddenly a pack of Bullfango appeared behind me! They ran me down and hurt my back. It's painful! Please go and get revenge for me.",
+      "reward": 300,
+      "map": "Peacks<D>",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "1",
+      "objective": "Slay 3 Bullfangos",
+      "targets": [
+        "Bullfango"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5"
+      },
+      "name": "Harbinger of Terror",
+      "client": "Worried Old Traveller",
+      "description": "I regularly visit the Misty Peaks to collect Royal Honey. Recently I heard a scary sound approaching behind me. I ran and hid! I can't go out again until the culprit has been found.",
+      "reward": 300,
+      "map": "Peacks<D>",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "1",
+      "objective": "Deliver 5 Royal Honey"
+    },
+    {
+      "_id": {
+        "$oid": "6"
+      },
+      "name": "Blue Bear: Arzuros",
+      "client": "Village Chief",
+      "description": "Arzuros is a common monster to the village. However, it's terrorizing the children. This can't happen any longer! Hunter, please eradicate this threat!",
+      "reward": 1200,
+      "map": "Peacks<D>",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "2",
+      "objective": "Hunt the Arzuros",
+      "targets": [
+        "Arzuros"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "7"
+      },
+      "name": "Harvest Tour: Misty Peaks",
+      "client": "Village Chief",
+      "description": "Materials can be collected from the Misty Peaks. As I worked hard, I can give you the expenses to your trip. If you deliver the paw pass ticket to the supply box, the quest is clear!",
+      "reward": 12,
+      "map": "Peacks",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "2",
+      "objective": "Survive until Time Over or Deliver the Paw Pass Ticket"
+    },
+    {
+      "_id": {
+        "$oid": "8"
+      },
+      "name": "Harvest Tour: Sandy Plains",
+      "client": "Village Chief",
+      "description": "Materials can be collected from the Sandy Plains. As I worked hard, I can give you the expenses to your trip. If you deliver the paw pass ticket to the supply box, the quest is clear!",
+      "reward": 12,
+      "map": "Plains",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "2",
+      "objective": "Survive until Time Over or Deliver the Paw Pass Ticket"
+    },
+    {
+      "_id": {
+        "$oid": "9"
+      },
+      "name": "Harvest Tour: Flooded Forest",
+      "client": "Village Chief",
+      "description": "Materials can be collected from the Flooded Forest. As I worked hard, I can give you the expenses to your trip. If you deliver the paw pass ticket to the supply box, the quest is clear!",
+      "reward": 12,
+      "map": "Forest",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "2",
+      "objective": "Survive until Time Over or Deliver the Paw Pass Ticket"
+    },
+    {
+      "_id": {
+        "$oid": "10"
+      },
+      "name": "Forest Murmur",
+      "client": "Family-minded youth",
+      "description": "From the depths of the forest, the Bulldrome ruins my bamboo plants and it never grows back. Can you confront this monster for me?",
+      "reward": 1200,
+      "map": "Peacks",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "2",
+      "objective": "Hunt Bulldrome",
+      "targets": [
+        "Bulldrome"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "11"
+      },
+      "name": "Field Trip",
+      "client": "Excited Teacher",
+      "description": "My students want to watch a brave fight between a hunter and a monster. Please show them a wonderful brawl. A Great Jaggi is close by!",
+      "reward": 900,
+      "map": "Peacks",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "2",
+      "objective": "Hunt the Great Jaggi",
+      "targets": [
+        "Great_Jaggi"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "12"
+      },
+      "name": "Jaggia Extermination!",
+      "client": "Concerned villager",
+      "description": "Do you think Jaggia can increase their population? No way! Our field got damaged recently because of the. They must be killed. Please hunter, do it right now",
+      "reward": 900,
+      "map": "Peacks",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "2",
+      "objective": "Slay 3 Jaggia",
+      "targets": [
+        "Jaggia"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "13"
+      },
+      "name": "Under the Yolk",
+      "client": "Loving mother",
+      "description": "Today is the birthday of my daughter. I want to surprise her and prepare her a lot of egg dishes. By the way, she loves Gargwa eggs. Would you mind helping me out?",
+      "reward": 900,
+      "map": "Peacks",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "2",
+      "objective": "Deliver 3 Gargwa Eggs"
+    },
+    {
+      "_id": {
+        "$oid": "14"
+      },
+      "name": "An Afternoon in the Forest",
+      "client": "Good daughter",
+      "description": "The mushroom I was looking for is different form the others. When I asked my mom, she said it can be found in an insect. I feel likde i can't do it. Could you help me  with this?",
+      "reward": 900,
+      "map": "Peacks",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "2",
+      "objective": "Deliver 5 Ripened Mushrooms"
+    },
+    {
+      "_id": {
+        "$oid": "15"
+      },
+      "name": "Pain in the Plains",
+      "client": "Injured Villager",
+      "description": "A Great Jaggi accompanied by its minions were walking around in a lordly manner. It is best to let a professional hunter to do the job!",
+      "reward": 900,
+      "map": "Plains",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "2",
+      "objective": "Hunt the Great Jaggi",
+      "targets": [
+        "Great_Jaggi"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "16"
+      },
+      "name": "Bring Peace to the Sandy Plains!",
+      "client": "Retired hunter",
+      "description": "Absence of their leader is a good thing. But we do not want those Jaggis to stroll around the Sandy Plains. Somebody must take this quest and exterminate them.",
+      "reward": 900,
+      "map": "Plains",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "2",
+      "objective": "Slay 10 Jaggi",
+      "targets": [
+        "Jaggi"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "17"
+      },
+      "name": "Ancient? Crystal Bone!",
+      "client": "Governmet Researcher",
+      "description": "I'd like some wyvern ore for research. But it's too dangerous for me. Please get me 5 of them if you can. Use a Pickaxe on a mining spot to gather them.",
+      "reward": 900,
+      "map": "Plains",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "2",
+      "objective": "Deliver 5 Crystal Bones"
+    },
+    {
+      "_id": {
+        "$oid": "18"
+      },
+      "name": "Quick and Strong Bulldrome!",
+      "client": "Feudal Lord",
+      "description": "A dangerous monster called the Bulldrome is attacking people indiscriminately. It has become a huge menace in the forest. I want you to remove this threat. Thank you!",
+      "reward": 1200,
+      "map": "Forest",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "2",
+      "objective": "Hunt the Bulldrome",
+      "targets": [
+        "Bulldrome"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "19"
+      },
+      "name": "Fanged Beast Taking a Bath",
+      "client": "Sopping-wet Felyne",
+      "description": "Oh my god! There is a rampaging bear in the Flooded Forest! Please help us!",
+      "reward": 1200,
+      "map": "Forest",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "2",
+      "objective": "Hunt the Arzuros",
+      "targets": [
+        "Arzuros"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "20"
+      },
+      "name": "No Love for Ludroth",
+      "client": "Old Lady",
+      "description": "The bedwetting of my son needs to be cured. He just keeps on doing it everyday. But it seems an absorbent material from a Ludroth can probably help. I need it right away!",
+      "reward": 900,
+      "map": "Forest",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "2",
+      "objective": "Slay 5 Ludroth",
+      "targets": [
+        "Ludroth"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "21"
+      },
+      "name": "Poisonous Wroggi",
+      "client": "Youth",
+      "description": "When I arrived in my village, both the crops and the villagers were suffering from a venom. These Wroggi need to be killed. Please hepl us! Saly at least 10 Wroggi!",
+      "reward": 900,
+      "map": "Forest",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "2",
+      "objective": "Slay 10 Wroggi",
+      "targets": [
+        "Wroggi"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "22"
+      },
+      "name": "Hair of the Dog",
+      "client": "Barkeeper`s Daughter",
+      "description": "My dad is suffering from a headache but it's not a hangover! I found a cure, bu I don't have the neccessary materials to complete the medicine",
+      "reward": 900,
+      "map": "Forest",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "2",
+      "objective": "Deliver 5 Slagtoth Oils"
+    },
+    {
+      "_id": {
+        "$oid": "23"
+      },
+      "name": "Dancing Qurupeco",
+      "client": "Village Chief",
+      "description": "Qurupeco can call another companion. Using its unique dance that somehow inspire the other monsters! Expect that an unusual monster will appear! Be more cautious.",
+      "reward": 1500,
+      "map": "Peacks",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "3",
+      "objective": "Hunt the Qurupeco",
+      "targets": [
+        "Qurupeco"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "24"
+      },
+      "name": "Harvest Tour: Deserted Island",
+      "client": "Village Chief",
+      "description": "Materials can be collected from the Deserted Island. As I I fully worked hard, I can give you the expenses to your trip. If you deliver the paw pass ticket to the supply box, the quest is clear!",
+      "reward": 12,
+      "map": "Island",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "3",
+      "objective": "Survive until Time Over or Deliver the Paw Pass Ticket"
+    },
+    {
+      "_id": {
+        "$oid": "25"
       },
       "name": "Harvest Tour: Tundra",
-      "client": "Village Chief", 
-      "description": "Materials can be collected from the Tundra. As I I fully worked hard, I can give you the expenses to your trip. If you deliver the paw pass ticket to the supply box, the quest is clear!", 
-      "reward":  12,
-      "map": "Tundra", 
-      "isKey": false, 
-      "questType": "Village", 
-      "game": "Monster Hunter Portable 3rd", 
-      "difficulty": "3", 
+      "client": "Village Chief",
+      "description": "Materials can be collected from the Tundra. As I I fully worked hard, I can give you the expenses to your trip. If you deliver the paw pass ticket to the supply box, the quest is clear!",
+      "reward": 12,
+      "map": "Tundra",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "3",
       "objective": "Survive until Time Over or Deliver the Paw Pass Ticket"
-  }, 
-  {
-
-    "_id": {
-        "$oid": "26" 
     },
-    "name": "Violent Carnival!",
-    "client": "Investigator", 
-    "description": "Speed... The fastest... I wnat them to stop at any rate. Come back safe.", 
-    "reward": 900 ,
-    "map": "Peacks", 
-    "isKey": false, 
-    "questType": "Village", 
-    "game": "Monster Hunter Portable 3rd", 
-    "difficulty": "3", 
-    "objective": "Slay 10 Bullfango", 
-    "targets": [
-        "Bullfango"
-    ]
-}, 
-{
-
-            "_id": {
-                "$oid": "27" 
-            },
-            "name": "Leading th Charge!",
-            "client": "Badly-bruised hunter", 
-            "description": "Anyway, I was too obstinate. A single blow on the head is not enough. Instead my bultt got blown sky high. Its to unpleasant to accept a twice defeat. Would you challenge it for me ?", 
-            "reward": 1500 ,
-            "map": "Plains", 
-            "isKey": true, 
-            "questType": "Village", 
-            "game": "Monster Hunter Portable 3rd", 
-            "difficulty": "3", 
-            "objective": "Hunt the Barroth", 
-            "targets": [
-                "Barroth"
-            ]
-        },
-        {
-
-          "_id": {
-              "$oid": "28" 
-          },
-          "name": "Chasing th Trickster!",
-          "client": "Women Hunter", 
-          "description": "Oh, I still hearing that pounding! Its a strange very loud voice. After that, another monster suddenly appear. Please kill it!", 
-          "reward": 1500 ,
-          "map": "Plains", 
-          "isKey": false, 
-          "questType": "Village", 
-          "game": "Monster Hunter Portable 3rd", 
-          "difficulty": "3", 
-          "objective": "Hunt the Qurupeco", 
-          "targets": [
-              "Qurupeco"
-          ]
-      },  {
-
-        "_id": {
-            "$oid": "29" 
-        },
-        "name": "Rhenoplos Rampage",
-        "client": "Chief of Sandy Plains", 
-        "description": "Greetings hunte! A monster is hittin the village wall from the outside. If we not get rid of it. The wall would probably collapsed. Do something else!", 
-        "reward": 900 ,
-        "map": "Plains", 
-        "isKey": false, 
-        "questType": "Village", 
-        "game": "Monster Hunter Portable 3rd", 
-        "difficulty": "3", 
-        "objective": "Slay 8 Rhenoplos", 
-        "targets": [
-            "Rhenoplos"
-        ]
-    },{
-
+    {
       "_id": {
-          "$oid": "30" 
+        "$oid": "26"
+      },
+      "name": "Violent Carnival!",
+      "client": "Investigator",
+      "description": "Speed... The fastest... I wnat them to stop at any rate. Come back safe.",
+      "reward": 900,
+      "map": "Peacks",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "3",
+      "objective": "Slay 10 Bullfango",
+      "targets": [
+        "Bullfango"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "27"
+      },
+      "name": "Leading the Charge!",
+      "client": "Badly-bruised hunter",
+      "description": "Anyway, I was too obstinate. A single blow on the head is not enough. Instead my bultt got blown sky high. Its to unpleasant to accept a twice defeat. Would you challenge it for me ?",
+      "reward": 1500,
+      "map": "Plains",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "3",
+      "objective": "Hunt the Barroth",
+      "targets": [
+        "Barroth"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "28"
+      },
+      "name": "Chasing the Trickster!!",
+      "client": "Women Hunter",
+      "description": "Oh, I still hearing that pounding! Its a strange very loud voice. After that, another monster suddenly appear. Please kill it!",
+      "reward": 1500,
+      "map": "Plains",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "3",
+      "objective": "Hunt the Qurupeco",
+      "targets": [
+        "Qurupeco"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "29"
+      },
+      "name": "Rhenoplos Rampage",
+      "client": "Chief of Sandy Plains",
+      "description": "Greetings hunte! A monster is hittin the village wall from the outside. If we not get rid of it. The wall would probably collapsed. Do something else!",
+      "reward": 900,
+      "map": "Plains",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "3",
+      "objective": "Slay 8 Rhenoplos",
+      "targets": [
+        "Rhenoplos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "30"
       },
       "name": "Delicious Swimmer on Desert!?",
-      "client": "Whimsical epicure", 
-      "description": "A light liver. Its the best luxury there is. I prefer those that come from flying fish. That intense aroma!", 
-      "reward": 1200 ,
-      "map": "Plains", 
-      "isKey": false, 
-      "questType": "Village", 
-      "game": "Monster Hunter Portable 3rd", 
-      "difficulty": "3", 
+      "client": "Whimsical epicure",
+      "description": "A light liver. Its the best luxury there is. I prefer those that come from flying fish. That intense aroma!",
+      "reward": 1200,
+      "map": "Plains",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "3",
       "objective": "Deliver 5 Monster Guts"
-  },  {
-
-    "_id": {
-        "$oid": "31" 
     },
-    "name": "Toxic Troublemaker",
-    "client": "Reckless Explorer", 
-    "description": "I removed some thick grass on the ground when someone stepped onto it. He was so orange in color and especially big. I wasn't able to deal with it. So I hand it over to you. I'm praying for you luck", 
-    "reward": 1500 ,
-    "map": "Forest", 
-    "isKey": true, 
-    "questType": "Village", 
-    "game": "Monster Hunter Portable 3rd", 
-    "difficulty": "3", 
-    "objective": "Hunt the Great Wroggi", 
-    "targets": [
+    {
+      "_id": {
+        "$oid": "31"
+      },
+      "name": "Toxic Troublemaker",
+      "client": "Reckless Explorer",
+      "description": "I removed some thick grass on the ground when someone stepped onto it. He was so orange in color and especially big. I wasn't able to deal with it. So I hand it over to you. I'm praying for you luck",
+      "reward": 1500,
+      "map": "Forest",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "3",
+      "objective": "Hunt the Great Wroggi",
+      "targets": [
         "Great_Wroggi"
-    ]
-  },{
-
-    "_id": {
-        "$oid": "32" 
+      ]
     },
-    "name": "Save our Boat",
-    "client": "Fisherman", 
-    "description": "They were hit by its water. They can't recover much of their stamina. It's something like their stamina is unstable! Be careful of this purple monster!", 
-    "reward": 1500 ,
-    "map": "Forest", 
-    "isKey": false, 
-    "questType": "Village", 
-    "game": "Monster Hunter Portable 3rd", 
-    "difficulty": "3", 
-    "objective": "Hunt the Royal Ludroth", 
-    "targets": [
+    {
+      "_id": {
+        "$oid": "32"
+      },
+      "name": "Save our Boat",
+      "client": "Fisherman",
+      "description": "They were hit by its water. They can't recover much of their stamina. It's something like their stamina is unstable! Be careful of this purple monster!",
+      "reward": 1500,
+      "map": "Forest",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "3",
+      "objective": "Hunt the Royal Ludroth",
+      "targets": [
         "Royal_Ludroth"
-    ]
-}, {
-
-  "_id": {
-      "$oid": "33" 
-  },
-  "name": "Facing Delicacy",
-  "client": "Whimsical epicure", 
-  "description": "From a foreign country this is their best delicacy. Insects stew! It was really delicious, but too expensive. Well, because its to dangerous to hunt.", 
-  "reward":  900,
-  "map": "Forest", 
-  "isKey": false, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "3", 
-  "objective": "Slay 20 Bnahabra", 
-  "targets": [
-      "Bnahabra"
-  ]
-}, {
-
-  "_id": {
-      "$oid": "34" 
-  },
-  "name": "Big Game Hunting",
-  "client": "Village vigilante", 
-  "description": "Villagers are attacked recently. By this frightful and ferocious Great Jaggi. Village cannot get rid of it by themselves. So please take this job and helped them", 
-  "reward": 900 ,
-  "map": "Island", 
-  "isKey": false, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "3", 
-  "objective": "Hunt the Great Jaggi", 
-  "targets": [
-      "Great_Jaggi"
-  ]
-}, {
-
-  "_id": {
-      "$oid": "35" 
-  },
-  "name": "Current Events",
-  "client": "Mystery Girl", 
-  "description": "Mystery. Oh my. I saw this person drowning in the wate. I ask him why. He replied - a yellow monster. That's intriguing, eh? Solve this mystery, hunter", 
-  "reward":  1500,
-  "map": "Island", 
-  "isKey": true, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "3", 
-  "objective": "Hunt the Royal Ludroth", 
-  "targets": [
-      "Royal_Ludroth"
-  ]
-}, 
-{
-
-  "_id": {
-      "$oid": "36" 
-  },
-  "name": "Pirates on a Deserted Island",
-  "client": "Fisherman", 
-  "description": "Oh dear! This freaky guys just steal the fish that I've caught. I needd to teach them a lesson. I hand it over to you hunter!", 
-  "reward":900  ,
-  "map": "Island", 
-  "isKey": false, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "3", 
-  "objective": "Slay 10 Ludroth", 
-  "targets": [
-      "Ludroth"
-  ]
-}, {
-
-  "_id": {
-      "$oid": "37" 
-  },
-  "name": "Unique Mushrooms Make Future",
-  "client": "Villagers", 
-  "description": "Mushrooms are in different taste in different region. On my dinner later, I want to make a special mushroom soup. But I need 20 Unique Mushrooms from the forest. Would you gather them for me?", 
-  "reward": 900 ,
-  "map": "Island", 
-  "isKey": false, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "3", 
-  "objective": "Deliver 15 Unique Mushrooms" 
-}, 
-{
-
-  "_id": {
-      "$oid": "38" 
-  },
-  "name": "Bulldrome Onslaught",
-  "client": "Tundra's research Team", 
-  "description": "Among the people living on a frozen ground. SUch a legend is flying around. This must be discovered at once! I ask you hunter to help us!", 
-  "reward": 2400 ,
-  "map": "Tundra", 
-  "isKey": false, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "3", 
-  "objective": "Hunt 2 Bulldrome", 
-  "targets": [
-      "Bulldrome"
-  ]
-}, 
-{
-
-  "_id": {
-      "$oid": "39" 
-  },
-  "name": "The Snowbound Slider",
-  "client": "Diligent Observer", 
-  "description": "I have a report from the Tundra region! A white rabbit just appeared! Please hunt it and take it down. I was covered with snow and I couldn't move. I was only here in my observatory", 
-  "reward": 1500 ,
-  "map": "Tundra", 
-  "isKey": true, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "3", 
-  "objective": "Hunt the Lagombi", 
-  "targets": [
-      "Lagombi"
-  ]
-},
-{
-
-  "_id": {
-      "$oid": "40" 
-  },
-  "name": "Hypnotic Blue",
-  "client": "Mystery Girl", 
-  "description": "A mystery! From the tundra zone area, A research team just suddenly slept without knowing, or they just becoming mentally weak? Well, what are you doing hunter solve and clarify this mystery!", 
-  "reward":  900,
-  "map": "Tundra", 
-  "isKey": false, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "3", 
-  "objective": "Slay 10 Baggi", 
-  "targets": [
-      "Baggi"
-  ]
-},  {
-
-  "_id": {
-      "$oid": "41" 
-  },
-  "name": "Designer Antlers",
-  "client": "Good Student", 
-  "description": "To finish the interior decoration insede my house. I need to add this large decoration. But I need the materials. 5 anteka antlers if enough. It should be easy to gather it from an anteka.", 
-  "reward":  900,
-  "map": "Tundra", 
-  "isKey": false, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "3", 
-  "objective": "Deliver 5 Anteka Antlers"
-}, {
-
-  "_id": {
-      "$oid": "42" 
-  },
-  "name": "Dancing at Misty Peaks!?!",
-  "client": "Village Chief", 
-  "description": "I want to get the attention of hunters for while. Recently a Rathian appeared in the Misty Peaks, and the security of the village is bothering me. Pleae remove the threat.", 
-  "reward": 3000 ,
-  "map": "Peacks", 
-  "isKey": true, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "4", 
-  "objective": "Hunt the Rathian", 
-  "targets": [
-      "Rathian"
-  ]
-},{
-
-  "_id": {
-      "$oid": "43" 
-  },
-  "name": "Harvest Tour: Volcano",
-  "client": "Village Chief", 
-  "description": "Materials can be collected from the Volcano. As I I fully worked hard, I can give you the expenses to your trip. If you deliver the paw pass ticket to the supply box, the quest is clear!", 
-  "reward": 12 ,
-  "map": "Volcano", 
-  "isKey": false, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "4", 
-  "objective": "Survive until Time Over or Deliver the Paw Pass Ticket"
-}, {
-
-  "_id": {
-      "$oid": "44" 
-  },
-  "name": "Rockslide",
-  "client": "Peddler", 
-  "description": "Amazing! Do you think a mosnter can glow and roll lke  a rock? Surely, its a strange monster. Somebody should stop this crazy and lazy monster.", 
-  "reward": 2400 ,
-  "map": "Plains", 
-  "isKey": false, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "4", 
-  "objective": "Hunt the Volvidon", 
-  "targets": [
-      "Volvidon"
-  ]
-}, {
-
-  "_id": {
-      "$oid": "45" 
-  },
-  "name": "Sand Table Manners",
-  "client": "Skilled Craftsman", 
-  "description": "A train of carts went to the desert for a delivery. When we got halfway, a roar hit us from behind. Each cart suddenly disappeared. I was the only survivor.", 
-  "reward":  2700,
-  "map": "Plains", 
-  "isKey": true, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "4", 
-  "objective": "Hunt the Nibelsnarf", 
-  "targets": [
-      "Nibelsnarf"
-  ]
-}, {
-
-  "_id": {
-      "$oid": "46" 
-  },
-  "name": "Queen's Challenge",
-  "client": "Princess Maid", 
-  "description": "It is a serious matter, my princess is in danger. She perfomed to challenge the rathian, buts that's to impossible for her. Please hunt the monster before the princess arrives. Goodluck!", 
-  "reward": 3000 ,
-  "map": "Plains", 
-  "isKey": false, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "4", 
-  "objective": "Hunt the Rathian", 
-  "targets": [
-      "Rathian"
-  ]
-}, {
-
-  "_id": {
-      "$oid": "47" 
-  },
-  "name": "Qurupeco Bird Hunting!",
-  "client": "Young Hunter", 
-  "description": "Oh, I still hearing that pounding! Its a strange very loud voice. After that, another monster suddenly appear. Please kill it!", 
-  "reward": 1500 ,
-  "map": "Island", 
-  "isKey": false, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "4", 
-  "objective": "Hunt the Qurupeco", 
-  "targets": [
-      "Qurupeco"
-  ]
-}, {
-
-  "_id": {
-      "$oid": "48" 
-  },
-  "name": "Deserted Island Dustup",
-  "client": "Wandering Person", 
-  "description": "I'm reporting from an Island. Two Arzuros just appeared recently. Standing in the middle of the Deserted Island. Please come here quickly.", 
-  "reward": 2400 ,
-  "map": "Island", 
-  "isKey": false, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "4", 
-  "objective": "Hunt 2 Arzuros", 
-  "targets": [
-      "Arzuros"
-  ]
-}, {
-
-  "_id": {
-      "$oid": "49" 
-  },
-  "name": "Sleep Traps",
-  "client": "Guard Captain", 
-  "description": "All the people on my village suddenly just faint. We don't know the reason, that's why we handed it to you hunter. Please solve this matter.", 
-  "reward": 1500 ,
-  "map": "Tundra", 
-  "isKey": true, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "4", 
-  "objective": "Hunt the Great Baggi", 
-  "targets": [
-      "Great_Baggi"
-  ]
-}, {
-
-  "_id": {
-      "$oid": "50" 
-  },
-  "name": "The Creeping Venom",
-  "client": "Proud Hunter", 
-  "description": "When I saw it for the first time, it seemed nice. It alwais hide in the caves. But something happened. It just vanished.", 
-  "reward": 2700 ,
-  "map": "Tundra", 
-  "isKey": true, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "4", 
-  "objective": "Hunt the Gigginox", 
-  "targets": [
-      "Gigginox"
-  ]
-}, {
-
-  "_id": {
-      "$oid": "51" 
-  },
-  "name": "On Thin Ice",
-  "client": "Wandering Person", 
-  "description": "Reporting live from Tundra. Two Lagombi just appeared recently at the top of the ice mountain. They are magnificent in theiir moves. Wow! I'm amazed.", 
-  "reward":3000  ,
-  "map": "Tundra", 
-  "isKey": false, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "4", 
-  "objective": "Hunt 2 Lagombi", 
-  "targets": [
-      "Lagombi"
-  ]
-}, {
-
-  "_id": {
-      "$oid": "52" 
-  },
-  "name": "Advance! Tundra Expedition",
-  "client": "Research Team captain", 
-  "description": "We are investigating someting about the fossils of an acient dragon. But this baggi's is ditubing us on out mission. Help us to get rid of them, so we can continue our work. Thank you!", 
-  "reward": 1200 ,
-  "map": "Tundra", 
-  "isKey": false, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "4", 
-  "objective": "Slay 20 Baggi", 
-  "targets": [
-      "Baggi"
-  ]
-}, {
-
-  "_id": {
-      "$oid": "53" 
-  },
-  "name": "Cold Stones",
-  "client": "Women Geologist", 
-  "description": "Frozen and fascinating land! Geologist like me, want to explore this areas. But I can't do it on my own, as its too dangerous! Could you bring me 8 bloodstones! Thank you and nice to meet you!", 
-  "reward":1200  ,
-  "map": "Tundra", 
-  "isKey": false, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "4", 
-  "objective": "Deliver 8 Bloodstones"
-}, {
-
-  "_id": {
-      "$oid": "54" 
-  },
-  "name": "Walk 'N' Roll",
-  "client": "Village Storyteller", 
-  "description": "Rounded body, four-legged, its all in red. It appears that it is the ferocious Volvidon from a volcanic region. Conquer this quest hunter!", 
-  "reward":  2400,
-  "map": "Volcano", 
-  "isKey": true, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "4", 
-  "objective": "Hunt the Volvidon", 
-  "targets": [
-      "Volvidon"
-  ]
-}, {
-
-  "_id": {
-      "$oid": "55" 
-  },
-  "name": "Field Study",
-  "client": "Medical Researcher", 
-  "description": "Studying is my daily life. Right now, I'm working on an anidote. So hunting two Great Wroggi would help me to come up a good medicene output. The problem is I can't do it on my own.", 
-  "reward":3000  ,
-  "map": "Volcano", 
-  "isKey": false, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "4", 
-  "objective": "Hunt 2 Great Wroggi", 
-  "targets": [
-      "Great_Wroggi"
-  ]
-}, {
-
-  "_id": {
-      "$oid": "56" 
-  },
-  "name": "Roll the Uroktor",
-  "client": "Government Researchers", 
-  "description": "This Uroktor disturbed my excavation at the volcanic region. Its digginf underground and attack me on a random place, that's annoying. Please do something about it!", 
-  "reward": 1200 ,
-  "map": "Volcano", 
-  "isKey": false, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "4", 
-  "objective": "Slay 8 Uroktor", 
-  "targets": [
-      "Uroktor"
-  ]
-}, {
-
-  "_id": {
-      "$oid": "57" 
-  },
-  "name": "Poison Rain",
-  "client": "Botanist", 
-  "description": "Many Wroggi appeard in the volcanic region. Their number is increasing, and spouting their venom is in danger. Reduce their numbers hunter! Thank you!", 
-  "reward":  1200,
-  "map": "Volcano", 
-  "isKey": false, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "4", 
-  "objective": "Slay 20 Wroggi", 
-  "targets": [
-      "Wroggi"
-  ]
-}, {
-
-  "_id": {
-      "$oid": "58" 
-  },
-  "name": "Hidden Coal",
-  "client": "Chef's residence", 
-  "description": "I'm cooking with my special dishes, but I run out of coal. Please hurry and grab some in the volcano. Use a pickax, if you don't have it! Combine a bone with a stone!", 
-  "reward": 1200 ,
-  "map": "Volcano", 
-  "isKey": false, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "4", 
-  "objective": "Deliver 15 Coal"
-},{
-
-  "_id": {
-      "$oid": "59" 
-  },
-  "name": "Howl at the Moon",
-  "client": "Village Chief", 
-  "description": "It seems that Zinogre's victims are increasing day by day, most them are childrens from our village. This kind of information should not be tolerated. Please hunter help the village!", 
-  "reward":3600  ,
-  "map": "Peacks", 
-  "isKey": true, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "5", 
-  "objective": "Hunt the Zinogre", 
-  "targets": [
-      "Zinogre"
-  ]
-},{
-
-  "_id": {
-      "$oid": "60" 
-  },
-  "name": "Hungry Eyes",
-  "client": "Wounded Man", 
-  "description": "I spend my time looking the stars above. Suddenly 2 red stars appeared, and they are moving towards a certain direction. At first they are amazing but when I see its drifted tail. I passed out!", 
-  "reward": 3300 ,
-  "map": "Peacks", 
-  "isKey": false, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "5", 
-  "objective": "Hunt the Nargacuga", 
-  "targets": [
-      "Nargacuga"
-  ]
-},{
-
-  "_id": {
-      "$oid": "61" 
-  },
-  "name": "Jumping At Shadows",
-  "client": "Young Man", 
-  "description": "I saw a big shadow limping on a huge tree in the middle of the forest! I'm scared, because it may struck the village at anytime. Please protect the village!", 
-  "reward": 3300 ,
-  "map": "Forest", 
-  "isKey": true, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "5", 
-  "objective": "Hunt the Nargacuga", 
-  "targets": [
-      "Nargacuga"
-  ]
-}, {
-
-  "_id": {
-      "$oid": "62" 
-  },
-  "name": "Terrible Twosome",
-  "client": "Forest Observatory", 
-  "description": "Two Royal Ludroth's appeared from the forest. You're lucky they're just the normal ones! Please be careful hunter!", 
-  "reward": 4200 ,
-  "map": "Forest", 
-  "isKey": false, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "5", 
-  "objective": "Hunt 2 Royal Ludroth", 
-  "targets": [
-      "Royal_Ludroth"
-  ]
-}, {
-
-  "_id": {
-      "$oid": "63" 
-  },
-  "name": "King of the Sky",
-  "client": "Ship Captain", 
-  "description": "A huge shadow is flying around the Island. But I really saw what it looks like. Its the Rathalos, that said to be king of the sky. That's why I ask you hunter, we are all depending on you!", 
-  "reward": 3600 ,
-  "map": "Island", 
-  "isKey": true, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "5", 
-  "objective": "Hunt the Rathalos", 
-  "targets": [
-      "Rathalos"
-  ]
-}, {
-
-  "_id": {
-      "$oid": "64" 
-  },
-  "name": "Stop the Intruder",
-  "client": "Rookie Soldier", 
-  "description": "I got my special training on an isolated. But when I got there. My confidence just went down. I'm scared when saw him, Its really him! I can't manage to do it again, please do it for me!", 
-  "reward": 3600 ,
-  "map": "Island", 
-  "isKey": false, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "5", 
-  "objective": "Hunt the Zinogre", 
-  "targets": [
-      "Zinogre"
-  ]
-}, {
-
-  "_id": {
-      "$oid": "65" 
-  },
-  "name": "The Lost Expedition",
-  "client": "Wandering Person", 
-  "description": "I heard rumors about a dragon's vision on its early age, On my journey, I successfully discovered this. It is a dragon indeed. His favorite placce is in cold region.", 
-  "reward": 3300 ,
-  "map": "Tundra", 
-  "isKey": true, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "5", 
-  "objective": "Hunt the Barioth", 
-  "targets": [
-      "Barioth"
-  ]
-}, {
-
-  "_id": {
-      "$oid": "66" 
-  },
-  "name": "A fight Agains Sleep",
-  "client": "Research Team captain", 
-  "description": "We finaly found the location of the dragon. Its on the frozen ground! But something is blocking our way. We need some help here!", 
-  "reward": 3600 ,
-  "map": "Tundra", 
-  "isKey": false, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "5", 
-  "objective": "Hunt 2 Great Baggi", 
-  "targets": [
-      "Great_Baggi"
-  ]
-}, {
-
-  "_id": {
-      "$oid": "67" 
-  },
-  "name": "The  Volcano's Fury",
-  "client": "Wounded Hunter", 
-  "description": "A moment ago, we depart on a quest but we failed! It is a mosnter from the volcanic region, please get rid of it for us. Be careful on its rocky attacks, its dangerous!", 
-  "reward": 3600 ,
-  "map": "Volcano", 
-  "isKey": true, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "5", 
-  "objective": "Hunt the Uragaan", 
-  "targets": [
-      "Uragaan"
-  ]
-}, {
-
-  "_id": {
-      "$oid": "68" 
-  },
-  "name": "In Need of a Hero",
-  "client": "Former Princess", 
-  "description": "Brave Hunter, don't swallow your couragem face this monster, the king of the sky! If you manage to. You will receive and endless fame, and a fine reward as well!", 
-  "reward":  3600,
-  "map": "Volcano", 
-  "isKey": false, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "5", 
-  "objective": "Hunt the Rathalos", 
-  "targets": [
-      "Rathalos"
-  ]
-}, {
-
-  "_id": {
-      "$oid": "69" 
-  },
-  "name": "Knuckle Balls of the Volcano",
-  "client": "Wandering Person", 
-  "description": "I have a report from the volcanic region! When the magma got blow up through the sky, there is this huge rock. As soon as its reach the ground. It was splitted into two!", 
-  "reward": 4800 ,
-  "map": "Volcano", 
-  "isKey": false, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "5", 
-  "objective": "Hunt 2 Volvidon", 
-  "targets": [
-      "Volvidon"
-  ]
-}, {
-
-  "_id": {
-      "$oid": "70" 
-  },
-  "name": "Watch Your Step",
-  "client": "Unlucky Villager", 
-  "description": "I went to volcano to collect my goods. Suddenlu a red monster just appeared from the ground! I got blow away when he spit something towards me. Revenged me hunter!", 
-  "reward": 1500 ,
-  "map": "Volcano", 
-  "isKey": false, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "5", 
-  "objective": "Slay 15 Uroktor", 
-  "targets": [
-      "Uroktor"
-  ]
-}, {
-
-  "_id": {
-      "$oid": "71" 
-  },
-  "name": "A Flood of Queens",
-  "client": "Fisherman", 
-  "description": "In an isolated island, multiple rathian is residing there. It look like that island is now their territory! They causing havoc all over the place. Please If you can reduce number!", 
-  "reward": 3600 ,
-  "map": "Island", 
-  "isKey": false, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "5", 
-  "objective": "Hunt 3 Rathian consecutively", 
-  "targets": [
-      "Rathian"
-  ]
-}, {
-
-  "_id": {
-      "$oid": "72" 
-  },
-  "name": "Embraced by Silver",
-  "client": "Searching Team", 
-  "description": "We are asigned to search our previous team. Luckily we managed to find them. They are covered in snow along with sharp fangs and bones. But we don't have a clue who did this. Please investigate the cause!", 
-  "reward":4200  ,
-  "map": "Tundra", 
-  "isKey": false, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "5", 
-  "objective": "Hunt the Main Monsters", 
-  "targets": [
-      "Bulldrome",
-      "Great_Baggi",
-      "Lagombi"
-  ]
-}, {
-
-  "_id": {
-      "$oid": "73" 
-  },
-  "name": "Aggressive Pair",
-  "client": "Reckless Young Lady", 
-  "description": "When I was walking in the sandy plains. Monsters suddenly amazed with my beuty, that's why they chase me. I ran until my stamina got run our and nowhere to hide. Please do something about it, would you?", 
-  "reward":  4800,
-  "map": "Plains", 
-  "isKey": false, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "5", 
-  "objective": "Hunt the Main Monsters", 
-  "targets": [
-      "Volvidon",
-      "Nibelsnarf"
-  ]
-}, {
-
-  "_id": {
-      "$oid": "74" 
-  },
-  "name": "I Fight Without honor!",
-  "client": "Mistress", 
-  "description": "This main monsters are submerged inside the forest, and will remain as a threat to the village. So we immediately calling hunters to make it stop! Hey hunter would you be our hero?", 
-  "reward":  3600,
-  "map": "Forest", 
-  "isKey": false, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "5", 
-  "objective": "Hunt the Main Monsters", 
-  "targets": [
-      "Great_Wroggi",
-      "Royal_Ludroth"
-  ]
-}, {
-
-  "_id": {
-      "$oid": "75" 
-  },
-  "name": "Island Visitor",
-  "client": "Geological Employee", 
-  "description": "I came over here in order to study an isolated Island. But I wasn't expecting this two monsters. If I investigate more properly! I shouldon't been injured! Its your turn to get rid of them!", 
-  "reward":4200  ,
-  "map": "Island", 
-  "isKey": false, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "5", 
-  "objective": "Hunt the Main Monsters", 
-  "targets": [
-      "Arzuros",
-      "Rathian"
-  ]
-}, {
-
-  "_id": {
-      "$oid": "76" 
-  },
-  "name": "Hammer Time",
-  "client": "Village Chief", 
-  "description": "A wyvern with a hammer-like tail is threatening the whole area. Make preparations and please face this monster at once!", 
-  "reward": 3900 ,
-  "map": "Peacks", 
-  "isKey": true, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "6", 
-  "objective": "Hunt the Duramboros", 
-  "targets": [
-      "Duramboros"
-  ]
-},{
-
-  "_id": {
-      "$oid": "77" 
-  },
-  "name": "Horned Wyvern Hunt",
-  "client": "Watchtower Guard", 
-  "description": "Two horned wyvern is appeared in the middle of the desert! Indeed! Your right, it was a Diablos. A black skinny guy. Be careful when it goes to berserk.", 
-  "reward":4200,
-  "map": "Plains", 
-  "isKey": true, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "6", 
-  "objective": "hunt the Diablos", 
-  "targets": [
-      "Diablos"
-  ]
-}, {
-
-  "_id": {
-      "$oid": "78" 
-  },
-  "name": "Tigrex Interception",
-  "client": "Village Elder", 
-  "description": "Help me! I'm coming now to village but a Tigrex is chasing me. I'm still at the sandy plains. Please help me hunter! Take me out from here.", 
-  "reward": 4200 ,
-  "map": "Plains", 
-  "isKey": true, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "6", 
-  "objective": "Hunt the Tigrex", 
-  "targets": [
-      "Tigrex"
-  ]
-}, {
-
-  "_id": {
-      "$oid": "79" 
-  },
-  "name": "Duramboros Watershed",
-  "client": "Villagers", 
-  "description": "A river on my village overflowed. The dike protecting it is now broken. Now, our village is buried in water. It seems that a Duramboros is a cause of this problem.", 
-  "reward":3900  ,
-  "map": "Forest", 
-  "isKey": false, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "6", 
-  "objective": "Hunt the Duramboros", 
-  "targets": [
-      "Duramboros"
-  ]
-}, {
-
-  "_id": {
-      "$oid": "80" 
-  },
-  "name": "Mountain Storm Flooding",
-  "client": "Confuse Hunter", 
-  "description": "I saw this two monster in the flooded forest. But no one beliebes me, they think I'm a crazy person, but I'm not. Please prve to them that its true!", 
-  "reward":  6000,
-  "map": "Forest", 
-  "isKey": false, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "6", 
-  "objective": "Hunt the Duramboros and Royal Ludroth", 
-  "targets": [
-      "Duramboros",
-      "Royal_Ludroth"
-  ]
-}, {
-
-  "_id": {
-      "$oid": "81" 
-  },
-  "name": "Dancing White Wind",
-  "client": "Imperial Guard", 
-  "description": "Two ice devil is confirmed at the same time. So a team was dispatched in order to kill them. They came back alive in severe shock. We need a help from a hunter!", 
-  "reward": 6600 ,
-  "map": "Tundra", 
-  "isKey": false, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "6", 
-  "objective": "Hunt 2 Barioth", 
-  "targets": [
-      "Barioth"
-  ]
-}, {
-
-  "_id": {
-      "$oid": "82" 
-  },
-  "name": "Battle of the Tundra",
-  "client": "Princess Maid", 
-  "description": "It is a serious matter, my princess is in danger. She performed to challenge this monsters, buts that's to impossible for her. Please hunt the monsters before th princess arrives. Goodluck!", 
-  "reward": 6900 ,
-  "map": "Tundra", 
-  "isKey": false, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "6", 
-  "objective": "Hunt the Tigrex and Gigginox", 
-  "targets": [
-      "Tigrex",
-      "Gigginox"
-  ]
-}, {
-
-  "_id": {
-      "$oid": "83" 
-  },
-  "name": "Leviathan in the Fire!",
-  "client": "Village Elder", 
-  "description": "Our country is  partially destroyed for the past years. People are panicking because of the monster! We don't want it to be destroyed even more. Please save my people and the village.", 
-  "reward": 3900 ,
-  "map": "Volcano", 
-  "isKey": true, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "6", 
-  "objective": "Hunt the Agnaktor", 
-  "targets": [
-      "Agnaktor"
-  ]
-}, {
-
-  "_id": {
-      "$oid": "84" 
-  },
-  "name": "Rumbling Volcano",
-  "client": "Land of fire Princess", 
-  "description": "God become angry, so does the earth is now trembling. The mountains are crying with fire! Please make it calm, eventhough its not possible! Make a way hunter.", 
-  "reward": 7200 ,
-  "map": "Volcano", 
-  "isKey": false, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "6", 
-  "objective": "Hunt 2 Uragaan", 
-  "targets": [
-      "Uragaan"
-  ]
-}, {
-
-  "_id": {
-      "$oid": "85" 
-  },
-  "name": "Heaven and Earth",
-  "client": "---", 
-  "description": "Two wyvern appeared, it was a dangerous task. But its time to prove your skills hunter! Make it happen for me!", 
-  "reward":  8400,
-  "map": "Island", 
-  "isKey": false, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "6", 
-  "objective": "Hunt the Rathalos and Rathian", 
-  "targets": [
-      "Rathalos",
-      "Rathian"
-  ]
-}, {
-
-  "_id": {
-      "$oid": "86" 
-  },
-  "name": "Fast Lighting Defense",
-  "client": "Young Warrior", 
-  "description": "It will also serve as a testing ground. However this monster are tough, so don't understimate them. Depart now and make a scene!", 
-  "reward": 6900 ,
-  "map": "Peacks", 
-  "isKey": false, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "6", 
-  "objective": "Hunt the Main Monsters", 
-  "targets": [
-      "Nargacuga",
-      "Zinogre"
-  ]
-}, {
-
-  "_id": {
-      "$oid": "87" 
-  },
-  "name": "Sandy Plains Aid Request",
-  "client": "Pedlar Leader", 
-  "description": "After my business on a village. I meet two dragons, I run as fast as I can, now I'm here hiding behind a rock. It's a cold night! Please save me and kill those monster.", 
-  "reward": 6300 ,
-  "map": "Plains", 
-  "isKey": false, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "6", 
-  "objective": "Hunt the Main Monsters", 
-  "targets": [
-      "Barroth",
-      "Diablos"
-  ]
-}, {
-
-  "_id": {
-      "$oid": "88" 
-  },
-  "name": "The Twin Flame",
-  "client": "Hunter with a Curly Hair", 
-  "description": "Their was a rampage both from the sky and the ground. Rathalos is responsible above, and Aganktor for the ground. Please do something about it.", 
-  "reward": 7500 ,
-  "map": "Volcano", 
-  "isKey": false, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "6", 
-  "objective": "Hunt the Main Monsters", 
-  "targets": [
-      "Rathalos",
-      "Agnaktor"
-  ]
-}, {
-
-  "_id": {
-      "$oid": "89" 
-  },
-  "name": "The Desert Feast!",
-  "client": "Guild Master", 
-  "description": "Come, quickly! Hunters, the Guild will be mobilized to erase this very large monster from the face of the desert. Use any strategies to defend the ship. Be cooperative! The ultimate hunt begins!", 
-  "reward": 9000 ,
-  "map": "Desert", 
-  "isKey": true, 
-  "questType": "Village", 
-  "game": "Monster Hunter Portable 3rd", 
-  "difficulty": "6", 
-  "objective": "Slay the Jhen Mohran", 
-  "targets": [
-      "Jhen_Mohran"
-  ]
-}
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "33"
+      },
+      "name": "Facing Delicacy",
+      "client": "Whimsical epicure",
+      "description": "From a foreign country this is their best delicacy. Insects stew! It was really delicious, but too expensive. Well, because its to dangerous to hunt.",
+      "reward": 900,
+      "map": "Forest",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "3",
+      "objective": "Slay 20 Bnahabra",
+      "targets": [
+        "Bnahabra"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "34"
+      },
+      "name": "Big Game Hunting",
+      "client": "Village vigilante",
+      "description": "Villagers are attacked recently. By this frightful and ferocious Great Jaggi. Village cannot get rid of it by themselves. So please take this job and helped them",
+      "reward": 900,
+      "map": "Island",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "3",
+      "objective": "Hunt the Great Jaggi",
+      "targets": [
+        "Great_Jaggi"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "35"
+      },
+      "name": "Current Events",
+      "client": "Mystery Girl",
+      "description": "Mystery. Oh my. I saw this person drowning in the wate. I ask him why. He replied - a yellow monster. That's intriguing, eh? Solve this mystery, hunter",
+      "reward": 1500,
+      "map": "Island",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "3",
+      "objective": "Hunt the Royal Ludroth",
+      "targets": [
+        "Royal_Ludroth"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "36"
+      },
+      "name": "Pirates on a Deserted Island",
+      "client": "Fisherman",
+      "description": "Oh dear! This freaky guys just steal the fish that I've caught. I needd to teach them a lesson. I hand it over to you hunter!",
+      "reward": 900,
+      "map": "Island",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "3",
+      "objective": "Slay 10 Ludroth",
+      "targets": [
+        "Ludroth"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "37"
+      },
+      "name": "Unique Mushrooms Make Future",
+      "client": "Villagers",
+      "description": "Mushrooms are in different taste in different region. On my dinner later, I want to make a special mushroom soup. But I need 20 Unique Mushrooms from the forest. Would you gather them for me?",
+      "reward": 900,
+      "map": "Island",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "3",
+      "objective": "Deliver 15 Unique Mushrooms"
+    },
+    {
+      "_id": {
+        "$oid": "38"
+      },
+      "name": "Bulldrome Onslaught",
+      "client": "Tundra's research Team",
+      "description": "Among the people living on a frozen ground. SUch a legend is flying around. This must be discovered at once! I ask you hunter to help us!",
+      "reward": 2400,
+      "map": "Tundra",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "3",
+      "objective": "Hunt 2 Bulldrome",
+      "targets": [
+        "Bulldrome"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "39"
+      },
+      "name": "The Snowbound Slider",
+      "client": "Diligent Observer",
+      "description": "I have a report from the Tundra region! A white rabbit just appeared! Please hunt it and take it down. I was covered with snow and I couldn't move. I was only here in my observatory",
+      "reward": 1500,
+      "map": "Tundra",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "3",
+      "objective": "Hunt the Lagombi",
+      "targets": [
+        "Lagombi"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "40"
+      },
+      "name": "Hypnotic Blue",
+      "client": "Mystery Girl",
+      "description": "A mystery! From the tundra zone area, A research team just suddenly slept without knowing, or they just becoming mentally weak? Well, what are you doing hunter solve and clarify this mystery!",
+      "reward": 900,
+      "map": "Tundra",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "3",
+      "objective": "Slay 10 Baggi",
+      "targets": [
+        "Baggi"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "41"
+      },
+      "name": "Designer Antlers",
+      "client": "Good Student",
+      "description": "To finish the interior decoration insede my house. I need to add this large decoration. But I need the materials. 5 anteka antlers if enough. It should be easy to gather it from an anteka.",
+      "reward": 900,
+      "map": "Tundra",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "3",
+      "objective": "Deliver 5 Anteka Antlers"
+    },
+    {
+      "_id": {
+        "$oid": "42"
+      },
+      "name": "Dancing at Misty Peaks!?!",
+      "client": "Village Chief",
+      "description": "I want to get the attention of hunters for while. Recently a Rathian appeared in the Misty Peaks, and the security of the village is bothering me. Pleae remove the threat.",
+      "reward": 3000,
+      "map": "Peacks",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "4",
+      "objective": "Hunt the Rathian",
+      "targets": [
+        "Rathian"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "43"
+      },
+      "name": "Harvest Tour: Volcano",
+      "client": "Village Chief",
+      "description": "Materials can be collected from the Volcano. As I I fully worked hard, I can give you the expenses to your trip. If you deliver the paw pass ticket to the supply box, the quest is clear!",
+      "reward": 12,
+      "map": "Volcano",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "4",
+      "objective": "Survive until Time Over or Deliver the Paw Pass Ticket"
+    },
+    {
+      "_id": {
+        "$oid": "44"
+      },
+      "name": "Rockslide",
+      "client": "Peddler",
+      "description": "Amazing! Do you think a mosnter can glow and roll lke  a rock? Surely, its a strange monster. Somebody should stop this crazy and lazy monster.",
+      "reward": 2400,
+      "map": "Plains",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "4",
+      "objective": "Hunt the Volvidon",
+      "targets": [
+        "Volvidon"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "45"
+      },
+      "name": "Sand Table Manners",
+      "client": "Skilled Craftsman",
+      "description": "A train of carts went to the desert for a delivery. When we got halfway, a roar hit us from behind. Each cart suddenly disappeared. I was the only survivor.",
+      "reward": 2700,
+      "map": "Plains",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "4",
+      "objective": "Hunt the Nibelsnarf",
+      "targets": [
+        "Nibelsnarf"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "46"
+      },
+      "name": "Queen's Challenge",
+      "client": "Princess Maid",
+      "description": "It is a serious matter, my princess is in danger. She perfomed to challenge the rathian, buts that's to impossible for her. Please hunt the monster before the princess arrives. Goodluck!",
+      "reward": 3000,
+      "map": "Plains",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "4",
+      "objective": "Hunt the Rathian",
+      "targets": [
+        "Rathian"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "47"
+      },
+      "name": "Qurupeco Bird Hunting!",
+      "client": "Young Hunter",
+      "description": "Oh, I still hearing that pounding! Its a strange very loud voice. After that, another monster suddenly appear. Please kill it!",
+      "reward": 1500,
+      "map": "Island",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "4",
+      "objective": "Hunt the Qurupeco",
+      "targets": [
+        "Qurupeco"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "48"
+      },
+      "name": "Deserted Island Dustup",
+      "client": "Wandering Person",
+      "description": "I'm reporting from an Island. Two Arzuros just appeared recently. Standing in the middle of the Deserted Island. Please come here quickly.",
+      "reward": 2400,
+      "map": "Island",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "4",
+      "objective": "Hunt 2 Arzuros",
+      "targets": [
+        "Arzuros"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "49"
+      },
+      "name": "Sleep Traps",
+      "client": "Guard Captain",
+      "description": "All the people on my village suddenly just faint. We don't know the reason, that's why we handed it to you hunter. Please solve this matter.",
+      "reward": 1500,
+      "map": "Tundra",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "4",
+      "objective": "Hunt the Great Baggi",
+      "targets": [
+        "Great_Baggi"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "50"
+      },
+      "name": "The Creeping Venom",
+      "client": "Proud Hunter",
+      "description": "When I saw it for the first time, it seemed nice. It alwais hide in the caves. But something happened. It just vanished.",
+      "reward": 2700,
+      "map": "Tundra",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "4",
+      "objective": "Hunt the Gigginox",
+      "targets": [
+        "Gigginox"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "51"
+      },
+      "name": "On Thin Ice",
+      "client": "Wandering Person",
+      "description": "Reporting live from Tundra. Two Lagombi just appeared recently at the top of the ice mountain. They are magnificent in theiir moves. Wow! I'm amazed.",
+      "reward": 3000,
+      "map": "Tundra",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "4",
+      "objective": "Hunt 2 Lagombi",
+      "targets": [
+        "Lagombi"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "52"
+      },
+      "name": "Advance! Tundra Expedition",
+      "client": "Research Team captain",
+      "description": "We are investigating someting about the fossils of an acient dragon. But this baggi's is ditubing us on out mission. Help us to get rid of them, so we can continue our work. Thank you!",
+      "reward": 1200,
+      "map": "Tundra",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "4",
+      "objective": "Slay 20 Baggi",
+      "targets": [
+        "Baggi"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "53"
+      },
+      "name": "Cold Stones",
+      "client": "Women Geologist",
+      "description": "Frozen and fascinating land! Geologist like me, want to explore this areas. But I can't do it on my own, as its too dangerous! Could you bring me 8 bloodstones! Thank you and nice to meet you!",
+      "reward": 1200,
+      "map": "Tundra",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "4",
+      "objective": "Deliver 8 Bloodstones"
+    },
+    {
+      "_id": {
+        "$oid": "54"
+      },
+      "name": "Walk 'N' Roll",
+      "client": "Village Storyteller",
+      "description": "Rounded body, four-legged, its all in red. It appears that it is the ferocious Volvidon from a volcanic region. Conquer this quest hunter!",
+      "reward": 2400,
+      "map": "Volcano",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "4",
+      "objective": "Hunt the Volvidon",
+      "targets": [
+        "Volvidon"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "55"
+      },
+      "name": "Field Study",
+      "client": "Medical Researcher",
+      "description": "Studying is my daily life. Right now, I'm working on an anidote. So hunting two Great Wroggi would help me to come up a good medicene output. The problem is I can't do it on my own.",
+      "reward": 3000,
+      "map": "Volcano",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "4",
+      "objective": "Hunt 2 Great Wroggi",
+      "targets": [
+        "Great_Wroggi"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "56"
+      },
+      "name": "Roll the Uroktor",
+      "client": "Government Researchers",
+      "description": "This Uroktor disturbed my excavation at the volcanic region. Its digginf underground and attack me on a random place, that's annoying. Please do something about it!",
+      "reward": 1200,
+      "map": "Volcano",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "4",
+      "objective": "Slay 8 Uroktor",
+      "targets": [
+        "Uroktor"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "57"
+      },
+      "name": "Poison Rain",
+      "client": "Botanist",
+      "description": "Many Wroggi appeard in the volcanic region. Their number is increasing, and spouting their venom is in danger. Reduce their numbers hunter! Thank you!",
+      "reward": 1200,
+      "map": "Volcano",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "4",
+      "objective": "Slay 20 Wroggi",
+      "targets": [
+        "Wroggi"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "58"
+      },
+      "name": "Hidden Coal",
+      "client": "Chef's residence",
+      "description": "I'm cooking with my special dishes, but I run out of coal. Please hurry and grab some in the volcano. Use a pickax, if you don't have it! Combine a bone with a stone!",
+      "reward": 1200,
+      "map": "Volcano",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "4",
+      "objective": "Deliver 15 Coal"
+    },
+    {
+      "_id": {
+        "$oid": "59"
+      },
+      "name": "Howl at the Moon",
+      "client": "Village Chief",
+      "description": "It seems that Zinogre's victims are increasing day by day, most them are childrens from our village. This kind of information should not be tolerated. Please hunter help the village!",
+      "reward": 3600,
+      "map": "Peacks",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "5",
+      "objective": "Hunt the Zinogre",
+      "targets": [
+        "Zinogre"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "60"
+      },
+      "name": "Hungry Eyes",
+      "client": "Wounded Man",
+      "description": "I spend my time looking the stars above. Suddenly 2 red stars appeared, and they are moving towards a certain direction. At first they are amazing but when I see its drifted tail. I passed out!",
+      "reward": 3300,
+      "map": "Peacks",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "5",
+      "objective": "Hunt the Nargacuga",
+      "targets": [
+        "Nargacuga"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "61"
+      },
+      "name": "Jumping At Shadows",
+      "client": "Young Man",
+      "description": "I saw a big shadow limping on a huge tree in the middle of the forest! I'm scared, because it may struck the village at anytime. Please protect the village!",
+      "reward": 3300,
+      "map": "Forest",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "5",
+      "objective": "Hunt the Nargacuga",
+      "targets": [
+        "Nargacuga"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "62"
+      },
+      "name": "Terrible Twosome",
+      "client": "Forest Observatory",
+      "description": "Two Royal Ludroth's appeared from the forest. You're lucky they're just the normal ones! Please be careful hunter!",
+      "reward": 4200,
+      "map": "Forest",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "5",
+      "objective": "Hunt 2 Royal Ludroth",
+      "targets": [
+        "Royal_Ludroth"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "63"
+      },
+      "name": "King of the Sky",
+      "client": "Ship Captain",
+      "description": "A huge shadow is flying around the Island. But I really saw what it looks like. Its the Rathalos, that said to be king of the sky. That's why I ask you hunter, we are all depending on you!",
+      "reward": 3600,
+      "map": "Island",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "5",
+      "objective": "Hunt the Rathalos",
+      "targets": [
+        "Rathalos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "64"
+      },
+      "name": "Stop the Intruder",
+      "client": "Rookie Soldier",
+      "description": "I got my special training on an isolated. But when I got there. My confidence just went down. I'm scared when saw him, Its really him! I can't manage to do it again, please do it for me!",
+      "reward": 3600,
+      "map": "Island",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "5",
+      "objective": "Hunt the Zinogre",
+      "targets": [
+        "Zinogre"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "65"
+      },
+      "name": "The Lost Expedition",
+      "client": "Wandering Person",
+      "description": "I heard rumors about a dragon's vision on its early age, On my journey, I successfully discovered this. It is a dragon indeed. His favorite placce is in cold region.",
+      "reward": 3300,
+      "map": "Tundra",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "5",
+      "objective": "Hunt the Barioth",
+      "targets": [
+        "Barioth"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "66"
+      },
+      "name": "A fight Agains Sleep",
+      "client": "Research Team captain",
+      "description": "We finaly found the location of the dragon. Its on the frozen ground! But something is blocking our way. We need some help here!",
+      "reward": 3600,
+      "map": "Tundra",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "5",
+      "objective": "Hunt 2 Great Baggi",
+      "targets": [
+        "Great_Baggi"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "67"
+      },
+      "name": "The  Volcano's Fury",
+      "client": "Wounded Hunter",
+      "description": "A moment ago, we depart on a quest but we failed! It is a mosnter from the volcanic region, please get rid of it for us. Be careful on its rocky attacks, its dangerous!",
+      "reward": 3600,
+      "map": "Volcano",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "5",
+      "objective": "Hunt the Uragaan",
+      "targets": [
+        "Uragaan"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "68"
+      },
+      "name": "In Need of a Hero",
+      "client": "Former Princess",
+      "description": "Brave Hunter, don't swallow your couragem face this monster, the king of the sky! If you manage to. You will receive and endless fame, and a fine reward as well!",
+      "reward": 3600,
+      "map": "Volcano",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "5",
+      "objective": "Hunt the Rathalos",
+      "targets": [
+        "Rathalos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "69"
+      },
+      "name": "Knuckle Balls of the Volcano",
+      "client": "Wandering Person",
+      "description": "I have a report from the volcanic region! When the magma got blow up through the sky, there is this huge rock. As soon as its reach the ground. It was splitted into two!",
+      "reward": 4800,
+      "map": "Volcano",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "5",
+      "objective": "Hunt 2 Volvidon",
+      "targets": [
+        "Volvidon"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "70"
+      },
+      "name": "Watch Your Step",
+      "client": "Unlucky Villager",
+      "description": "I went to volcano to collect my goods. Suddenlu a red monster just appeared from the ground! I got blow away when he spit something towards me. Revenged me hunter!",
+      "reward": 1500,
+      "map": "Volcano",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "5",
+      "objective": "Slay 15 Uroktor",
+      "targets": [
+        "Uroktor"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "71"
+      },
+      "name": "A Flood of Queens",
+      "client": "Fisherman",
+      "description": "In an isolated island, multiple rathian is residing there. It look like that island is now their territory! They causing havoc all over the place. Please If you can reduce number!",
+      "reward": 3600,
+      "map": "Island",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "5",
+      "objective": "Hunt 3 Rathian consecutively",
+      "targets": [
+        "Rathian"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "72"
+      },
+      "name": "Embraced by Silver",
+      "client": "Searching Team",
+      "description": "We are asigned to search our previous team. Luckily we managed to find them. They are covered in snow along with sharp fangs and bones. But we don't have a clue who did this. Please investigate the cause!",
+      "reward": 4200,
+      "map": "Tundra",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "5",
+      "objective": "Hunt the Main Monsters",
+      "targets": [
+        "Bulldrome",
+        "Great_Baggi",
+        "Lagombi"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "73"
+      },
+      "name": "Aggressive Pair",
+      "client": "Reckless Young Lady",
+      "description": "When I was walking in the sandy plains. Monsters suddenly amazed with my beuty, that's why they chase me. I ran until my stamina got run our and nowhere to hide. Please do something about it, would you?",
+      "reward": 4800,
+      "map": "Plains",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "5",
+      "objective": "Hunt the Main Monsters",
+      "targets": [
+        "Volvidon",
+        "Nibelsnarf"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "74"
+      },
+      "name": "I Fight Without honor!",
+      "client": "Mistress",
+      "description": "This main monsters are submerged inside the forest, and will remain as a threat to the village. So we immediately calling hunters to make it stop! Hey hunter would you be our hero?",
+      "reward": 3600,
+      "map": "Forest",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "5",
+      "objective": "Hunt the Main Monsters",
+      "targets": [
+        "Great_Wroggi",
+        "Royal_Ludroth"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "75"
+      },
+      "name": "Island Visitor",
+      "client": "Geological Employee",
+      "description": "I came over here in order to study an isolated Island. But I wasn't expecting this two monsters. If I investigate more properly! I shouldon't been injured! Its your turn to get rid of them!",
+      "reward": 4200,
+      "map": "Island",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "5",
+      "objective": "Hunt the Main Monsters",
+      "targets": [
+        "Arzuros",
+        "Rathian"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "76"
+      },
+      "name": "Hammer Time",
+      "client": "Village Chief",
+      "description": "A wyvern with a hammer-like tail is threatening the whole area. Make preparations and please face this monster at once!",
+      "reward": 3900,
+      "map": "Peacks",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "6",
+      "objective": "Hunt the Duramboros",
+      "targets": [
+        "Duramboros"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "77"
+      },
+      "name": "Horned Wyvern Hunt",
+      "client": "Watchtower Guard",
+      "description": "Two horned wyvern is appeared in the middle of the desert! Indeed! Your right, it was a Diablos. A black skinny guy. Be careful when it goes to berserk.",
+      "reward": 4200,
+      "map": "Plains",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "6",
+      "objective": "hunt the Diablos",
+      "targets": [
+        "Diablos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "78"
+      },
+      "name": "Tigrex Interception",
+      "client": "Village Elder",
+      "description": "Help me! I'm coming now to village but a Tigrex is chasing me. I'm still at the sandy plains. Please help me hunter! Take me out from here.",
+      "reward": 4200,
+      "map": "Plains",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "6",
+      "objective": "Hunt the Tigrex",
+      "targets": [
+        "Tigrex"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "79"
+      },
+      "name": "Duramboros Watershed",
+      "client": "Villagers",
+      "description": "A river on my village overflowed. The dike protecting it is now broken. Now, our village is buried in water. It seems that a Duramboros is a cause of this problem.",
+      "reward": 3900,
+      "map": "Forest",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "6",
+      "objective": "Hunt the Duramboros",
+      "targets": [
+        "Duramboros"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "80"
+      },
+      "name": "Mountain Storm Flooding",
+      "client": "Confuse Hunter",
+      "description": "I saw this two monster in the flooded forest. But no one beliebes me, they think I'm a crazy person, but I'm not. Please prve to them that its true!",
+      "reward": 6000,
+      "map": "Forest",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "6",
+      "objective": "Hunt the Duramboros and Royal Ludroth",
+      "targets": [
+        "Duramboros",
+        "Royal_Ludroth"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "81"
+      },
+      "name": "Dancing White Wind",
+      "client": "Imperial Guard",
+      "description": "Two ice devil is confirmed at the same time. So a team was dispatched in order to kill them. They came back alive in severe shock. We need a help from a hunter!",
+      "reward": 6600,
+      "map": "Tundra",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "6",
+      "objective": "Hunt 2 Barioth",
+      "targets": [
+        "Barioth"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "82"
+      },
+      "name": "Battle of the Tundra",
+      "client": "Princess Maid",
+      "description": "It is a serious matter, my princess is in danger. She performed to challenge this monsters, buts that's to impossible for her. Please hunt the monsters before the princess arrives. Goodluck!",
+      "reward": 6900,
+      "map": "Tundra",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "6",
+      "objective": "Hunt the Tigrex and Gigginox",
+      "targets": [
+        "Tigrex",
+        "Gigginox"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "83"
+      },
+      "name": "Leviathan in the Fire!",
+      "client": "Village Elder",
+      "description": "Our country is  partially destroyed for the past years. People are panicking because of the monster! We don't want it to be destroyed even more. Please save my people and the village.",
+      "reward": 3900,
+      "map": "Volcano",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "6",
+      "objective": "Hunt the Agnaktor",
+      "targets": [
+        "Agnaktor"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "84"
+      },
+      "name": "Rumbling Volcano",
+      "client": "Land of fire Princess",
+      "description": "God become angry, so does the earth is now trembling. The mountains are crying with fire! Please make it calm, eventhough its not possible! Make a way hunter.",
+      "reward": 7200,
+      "map": "Volcano",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "6",
+      "objective": "Hunt 2 Uragaan",
+      "targets": [
+        "Uragaan"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "85"
+      },
+      "name": "Heaven and Earth",
+      "client": "---",
+      "description": "Two wyvern appeared, it was a dangerous task. But its time to prove your skills hunter! Make it happen for me!",
+      "reward": 8400,
+      "map": "Island",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "6",
+      "objective": "Hunt the Rathalos and Rathian",
+      "targets": [
+        "Rathalos",
+        "Rathian"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "86"
+      },
+      "name": "Fast Lighting Defense",
+      "client": "Young Warrior",
+      "description": "It will also serve as a testing ground. However this monster are tough, so don't understimate them. Depart now and make a scene!",
+      "reward": 6900,
+      "map": "Peacks",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "6",
+      "objective": "Hunt the Main Monsters",
+      "targets": [
+        "Nargacuga",
+        "Zinogre"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "87"
+      },
+      "name": "Sandy Plains Aid Request",
+      "client": "Pedlar Leader",
+      "description": "After my business on a village. I meet two dragons, I run as fast as I can, now I'm here hiding behind a rock. It's a cold night! Please save me and kill those monster.",
+      "reward": 6300,
+      "map": "Plains",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "6",
+      "objective": "Hunt the Main Monsters",
+      "targets": [
+        "Barroth",
+        "Diablos"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "88"
+      },
+      "name": "The Twin Flame",
+      "client": "Hunter with a Curly Hair",
+      "description": "Their was a rampage both from the sky and the ground. Rathalos is responsible above, and Aganktor for the ground. Please do something about it.",
+      "reward": 7500,
+      "map": "Volcano",
+      "isKey": false,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "6",
+      "objective": "Hunt the Main Monsters",
+      "targets": [
+        "Rathalos",
+        "Agnaktor"
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "89"
+      },
+      "name": "The Desert Feast!",
+      "client": "Guild Master",
+      "description": "Come, quickly! Hunters, the Guild will be mobilized to erase this very large monster from the face of the desert. Use any strategies to defend the ship. Be cooperative! The ultimate hunt begins!",
+      "reward": 9000,
+      "map": "Desert",
+      "isKey": true,
+      "questType": "Village",
+      "game": "Monster Hunter Portable 3rd",
+      "difficulty": "6",
+      "objective": "Slay the Jhen Mohran",
+      "targets": [
+        "Jhen_Mohran"
+      ]
+    }
   ]
 }
