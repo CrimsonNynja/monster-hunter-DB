@@ -119,7 +119,7 @@
     },
     {
       "_id": {
-        "$oid": ""
+        "$oid": "5e1562978a80af35ce52d74c"
       },
       "name": "Ajarakan",
       "type": "Fanged Beast",
@@ -704,7 +704,7 @@
     },
     {
       "_id": {
-        "$oid": ""
+        "$oid": "5e1569978a80af353e92d74c"
       },
       "name": "Arkveld",
       "type": "Flying Wyvern",
@@ -968,7 +968,7 @@
     },
     {
       "_id": {
-        "$oid": ""
+        "$oid": "5f1569978a80af35ce52d74c"
       },
       "name": "Balahara",
       "type": "Leviathan",
@@ -1225,7 +1225,7 @@
     },
     {
       "_id": {
-        "$oid": "5e25a0247cc58343965ed7e9"
+        "$oid": "5e25a0247cc58343965ed7e3"
       },
       "name": "Versa Pietru",
       "type": "Elder Dragon",
@@ -1243,7 +1243,7 @@
     },
     {
       "_id": {
-        "$oid": ""
+        "$oid": "5e1a69978a80af35ce52d74c"
       },
       "name": "Baunos",
       "type": "Wingdrake",
@@ -1913,7 +1913,7 @@
     },
     {
       "_id": {
-        "$oid": ""
+        "$oid": "5e15699c8a80af35ce52d74c"
       },
       "name": "Bulaqchi",
       "type": "Neopteron",
@@ -2114,7 +2114,7 @@
     },
     {
       "_id": {
-        "$oid": ""
+        "$oid": "5e156e978a80af35ce52d74c"
       },
       "name": "Ceratonoth",
       "type": "Herbivore",
@@ -2198,7 +2198,7 @@
     },
     {
       "_id": {
-        "$oid": ""
+        "$oid": "531569978a80af35ce52d74c"
       },
       "name": "Chatacabra",
       "type": "Amphibian",
@@ -2217,7 +2217,7 @@
     },
     {
       "_id": {
-        "$oid": ""
+        "$oid": "5e1569978a80af35ce5ed74c"
       },
       "name": "Comaqchi",
       "type": "Neopteron",
@@ -2592,7 +2592,7 @@
     },
     {
       "_id": {
-        "$oid": ""
+        "$oid": "5e1569978a80aa35ce52d74c"
       },
       "name": "Daltyhdon",
       "type": "Herbivore",
@@ -2891,7 +2891,7 @@
     },
     {
       "_id": {
-        "$oid": ""
+        "$oid": "5e1569978a8aaf35ce52d74c"
       },
       "name": "Doshaguma",
       "type": "Fanged Beast",
@@ -3506,7 +3506,7 @@
     },
     {
       "_id": {
-        "$oid": ""
+        "$oid": "5e1569998a80af35ce52d74c"
       },
       "name": "Gajios",
       "type": "Leviathan",
@@ -3652,7 +3652,7 @@
     },
     {
       "_id": {
-        "$oid": ""
+        "$oid": "ae1569978a80af35ce52d74c"
       },
       "name": "Gelidron",
       "type": "Amphibian",
@@ -4571,7 +4571,7 @@
     },
     {
       "_id": {
-        "$oid": ""
+        "$oid": "5e1569978a80af35ce52d744"
       },
       "name": "Guardian Arkveld",
       "type": "Construct",
@@ -4595,7 +4595,7 @@
     },
     {
       "_id": {
-        "$oid": ""
+        "$oid": "5e1569978a80af35ce92d74c"
       },
       "name": "Guardian Doshaguma",
       "type": "Construct",
@@ -4616,7 +4616,7 @@
     },
     {
       "_id": {
-        "$oid": ""
+        "$oid": "5e156997ca80af35ce52d74c"
       },
       "name": "Guardian Ebony Odogaron",
       "type": "Construct",
@@ -4641,7 +4641,7 @@
     },
     {
       "_id": {
-        "$oid": ""
+        "$oid": "5e1569978a800f35ce52d74c"
       },
       "name": "Guardian Fulgur Anjanath",
       "type": "Construct",
@@ -4667,7 +4667,7 @@
     },
     {
       "_id": {
-        "$oid": ""
+        "$oid": "5ee56997ba80af35ce52d74c"
       },
       "name": "Guardian Rathalos",
       "type": "Construct",
@@ -4693,7 +4693,7 @@
     },
     {
       "_id": {
-        "$oid": ""
+        "$oid": "ee1569978a80af35ce52d74c"
       },
       "name": "Guardian Seikret",
       "type": "Construct",
@@ -4755,7 +4755,7 @@
     },
     {
       "_id": {
-        "$oid": ""
+        "$oid": "9e1569978a80af35ce52d74c"
       },
       "name": "Harpios",
       "type": "Wingdrake",
@@ -4861,7 +4861,7 @@
     },
     {
       "_id": {
-        "$oid": ""
+        "$oid": "5e15a9978a80af35ce52d74c"
       },
       "name": "Hirabami",
       "type": "Leviathan",
@@ -5223,7 +5223,7 @@
     },
     {
       "_id": {
-        "$oid": ""
+        "$oid": "4e1569978a80af35ce52d74c"
       },
       "name": "Jin Dahaad",
       "type": "Leviathan",
@@ -5545,7 +5545,7 @@
     },
     {
       "_id": {
-        "$oid": ""
+        "$oid": "6e1569978a80af35ce52d74c"
       },
       "name": "Kranodath",
       "type": "Bird Wyvern",
@@ -5785,7 +5785,7 @@
     },
     {
       "_id": {
-        "$oid": ""
+        "$oid": "ce1569978a80af35ce52d74c"
       },
       "name": "Lala Barina",
       "type": "Temnoceran",
@@ -6682,7 +6682,7 @@
     },
     {
       "_id": {
-        "$oid": ""
+        "$oid": "5e1569978a80a835ce52d74c"
       },
       "name": "Nerscylla Hatchling",
       "type": "Temnoceran",
@@ -6790,7 +6790,7 @@
     },
     {
       "_id": {
-        "$oid": ""
+        "$oid": "5ee560978a80af35ce52d74c"
       },
       "name": "Nu Udra",
       "type": "Cephalopod",
@@ -6973,7 +6973,7 @@
     },
     {
       "_id": {
-        "$oid": ""
+        "$oid": "511569978a80af35ce52d74c"
       },
       "name": "Piragill",
       "type": "Leviathan",
@@ -7116,7 +7116,7 @@
     },
     {
       "_id": {
-        "$oid": ""
+        "$oid": "5e1569978a80af33ce52d74c"
       },
       "name": "Porkeplume",
       "type": "Bird Wyvern",
@@ -7304,7 +7304,7 @@
     },
     {
       "_id": {
-        "$oid": ""
+        "$oid": "5e1569c78a80af35ce52d74c"
       },
       "name": "Quematrice",
       "type": "Brute Wyvern",
@@ -7405,7 +7405,7 @@
     },
     {
       "_id": {
-        "$oid": ""
+        "$oid": "5ee569978a80af35ce52d74c"
       },
       "name": "Rafma",
       "type": "Herbivore",
@@ -7797,7 +7797,7 @@
     },
     {
       "_id": {
-        "$oid": ""
+        "$oid": "5e156997ea80af35ce52d74c"
       },
       "name": "Rey Dau",
       "type": "Flying Wyvern",
@@ -7989,7 +7989,7 @@
     },
     {
       "_id": {
-        "$oid": ""
+        "$oid": "5e1549978a80af35ce52d74c"
       },
       "name": "Rompopolo",
       "type": "Brute Wyvern",
@@ -9047,7 +9047,7 @@
     },
     {
       "_id": {
-        "$oid": ""
+        "$oid": "5e1569978a80af356e52d74c"
       },
       "name": "Talioth",
       "type": "Bird Wyvern",
@@ -9543,7 +9543,7 @@
     },
     {
       "_id": {
-        "$oid": ""
+        "$oid": "5e156997ba80af35ce52d74c"
       },
       "name": "Uth Duna",
       "type": "Leviathan",
@@ -10047,7 +10047,7 @@
     },
     {
       "_id": {
-        "$oid": ""
+        "$oid": "be1569978a80af35ce52d74c"
       },
       "name": "Xu Wu",
       "type": "Cephalopod",
@@ -10325,7 +10325,7 @@
     },
     {
       "_id": {
-        "$oid": ""
+        "$oid": "5e1569978a80afd5ce52d74c"
       },
       "name": "Zoh Shia",
       "type": "Construct",
