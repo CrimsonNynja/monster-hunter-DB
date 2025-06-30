@@ -23,6 +23,11 @@
           "image": "MH3U-Abyssal_Lagiacrus_Icon.png",
           "info": "A rare species of Lagiacrus known only from an ancient scroll: From the abyss' darkest cave Comes the master of the wave Consumer of the world entire Devil of the sea most dire Fear it as you fear the grave.",
           "danger": "6"
+        },
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWilds-Lagiacrus_Icon.png",
+          "info": ""
         }
       ]
     },
@@ -8483,6 +8488,11 @@
           "image": "MHRS-Seregios_Icon.png",
           "info": "Large Flying Wyverns with sharp, blade-like scales covering their body. Seregios are well-known as extremely territorial and belligerent creatures, wielding their mobility and powerful hind leg attacks in intense combat against other large monsters. Reports have confirmed that Seregios have the ability to launch the scales from their body, inflicting their victims with the Bleeding status.",
           "danger": "7"
+        },
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWilds-Seregios_Icon.png",
+          "info": ""
         },
         {
           "game": "Monster Hunter Stories",
