@@ -23,11 +23,6 @@
           "image": "MH3U-Abyssal_Lagiacrus_Icon.png",
           "info": "A rare species of Lagiacrus known only from an ancient scroll: From the abyss' darkest cave Comes the master of the wave Consumer of the world entire Devil of the sea most dire Fear it as you fear the grave.",
           "danger": "6"
-        },
-        {
-          "game": "Monster Hunter Wilds",
-          "image": "MHWilds-Lagiacrus_Icon.png",
-          "info": "Leviathans that exist atop the vast aquatic food chain. Lagiacrus generate energy via their hides to store in their spinal organs, and are capable of discharging a current strong enough to boil the seawater around them. They have been sighted fighting other monsters in the Scarlet Forest, presumably drawn in from other regions in search of prey and more fertile environs."
         }
       ]
     },
@@ -5728,6 +5723,11 @@
           "game": "Monster Hunter Stories 2",
           "image": "MHST2-Lagiacrus_Icon.png",
           "info": "Leviathans atop the aquatic food chain, due in no small part to their ability to deliver electrical shocks."
+        },
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWilds-Lagiacrus_Icon.png",
+          "info": "Leviathans that exist atop the vast aquatic food chain. Lagiacrus generate energy via their hides to store in their spinal organs, and are capable of discharging a current strong enough to boil the seawater around them. They have been sighted fighting other monsters in the Scarlet Forest, presumably drawn in from other regions in search of prey and more fertile environs."
         }
       ]
     },
