@@ -5715,6 +5715,11 @@
           "danger": "5"
         },
         {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWilds-Lagiacrus_Icon.png",
+          "info": "Leviathans that exist atop the vast aquatic food chain. Lagiacrus generate energy via their hides to store in their spinal organs, and are capable of discharging a current strong enough to boil the seawater around them. They have been sighted fighting other monsters in the Scarlet Forest, presumably drawn in from other regions in search of prey and more fertile environs."
+        },
+        {
           "game": "Monster Hunter Stories",
           "image": "MHST-Lagiacrus_Icon.png",
           "info": "Leviathans atop the aquatic food chain, due in no small part to their ability to deliver electrical shocks."
@@ -5723,11 +5728,6 @@
           "game": "Monster Hunter Stories 2",
           "image": "MHST2-Lagiacrus_Icon.png",
           "info": "Leviathans atop the aquatic food chain, due in no small part to their ability to deliver electrical shocks."
-        },
-        {
-          "game": "Monster Hunter Wilds",
-          "image": "MHWilds-Lagiacrus_Icon.png",
-          "info": "Leviathans that exist atop the vast aquatic food chain. Lagiacrus generate energy via their hides to store in their spinal organs, and are capable of discharging a current strong enough to boil the seawater around them. They have been sighted fighting other monsters in the Scarlet Forest, presumably drawn in from other regions in search of prey and more fertile environs."
         }
       ]
     },
