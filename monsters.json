@@ -165,7 +165,7 @@
       "games": [
         {
           "game": "Monster Hunter Freedom Unite",
-          "image": "MHFU-Question_Mark_Icon.png",
+          "image": "MHFU-Akantor_Icon.png",
           "info": "A wyvern truly wrapped in mystery. Known to some as the black god and to others as the tyrant of fire, this large and brutal creature is known to the Guild simply as Akantor..."
         },
         {
@@ -848,7 +848,7 @@
       "games": [
         {
           "game": "Monster Hunter Freedom Unite",
-          "image": "MHFU-Lao-Shan_Lung_Icon.png"
+          "image": "MHFU-Ashen_Lao-Shan_Lung_Icon.png"
         }
       ]
     },
@@ -942,7 +942,7 @@
       "games": [
         {
           "game": "Monster Hunter Freedom Unite",
-          "image": "MHFU-Rathalos_Icon.png"
+          "image": "MHFU-Azure_Rathalos_Icon.png"
         },
         {
           "game": "Monster Hunter 3 Ultimate",
@@ -1466,7 +1466,7 @@
       "games": [
         {
           "game":"Monster Hunter Freedom Unite",
-          "image": "MHFU-Diablos_Icon.png"
+          "image": "MHFU-Black_Diablos_Icon.png"
         },
         {
           "game": "Monster Hunter 3 Ultimate",
@@ -1517,7 +1517,7 @@
       "games": [
         {
           "game": "Monster Hunter Freedom Unite",
-          "image": "MHFU-Gravios_Icon.png"
+          "image": "MHFU-Black_Gravios_Icon.png"
         },
         {
           "game": "Monster Hunter 4 Ultimate",
@@ -1618,8 +1618,7 @@
       "games": [
         {
           "game": "Monster Hunter Freedom Unite",
-          "image": "MHFU-Blangonga_Icon.png",
-          "info": "Leader of a Blango pack, it is twice as large and recognized by its giant fangs and whiskers. It sends its pack to attack any trespassers. Its jumping power allows it great mobility in its home range of the snowy mountains."
+          "image": "MHFU-Copper_Blangonga_Icon.png"
         },
         {
           "game": "Monster Hunter Generations Ultimate",
@@ -1704,7 +1703,7 @@
       "games": [
         {
           "game": "Monster Hunter Freedom Unite",
-          "image": "MHFU-Yian_Kut-Ku_Icon.png"
+          "image": "MHFU-Blue_Yian_Kut-Ku_Icon.png"
         },
         {
           "game": "Monster Hunter 4 Ultimate",
@@ -1969,7 +1968,7 @@
       "games": [
         {
           "game": "Monster Hunter Freedom Unite",
-          "image": "MHFU-Bullfango_Icon.png",
+          "image": "MHFU-Bulldrome_Icon.png",
           "info": "The powerful leader of the wild boars known for its enormous tusks. More aggressive than a Bullfango, it is known to rush into a fight, and is extremely proficient at locating a foe."
         },
         {
@@ -2099,7 +2098,7 @@
       "games": [
         {
           "game": "Monster Hunter Freedom Unite",
-          "image": "MHFU-Shogun_Ceanataur_Icon.png",
+          "image": "MHFU-Ceanataur_Icon.png",
           "info": "An adolescent Carapaceon with an organic shell firmly placed on its back. Once grown, this shell will be replaced by a giant monster's skull. Mainly living in volcanic zones, it is very aggressive, and not to be underestimated."
         },
         {
@@ -2136,7 +2135,7 @@
       "games": [
         {
           "game": "Monster Hunter Freedom Unite",
-          "image": "MHFU-Cephalos_Icon.png",
+          "image": "MHFU-Cephadrome_Icon.png",
           "info": "The alpha monster form of the Cephalos. Larger and armored with black scales, they fit the appearance of a leader perfectly. Their fins hold a paralyzing toxin."
         },
         {
@@ -2457,7 +2456,7 @@
       "games": [
         {
           "game": "Monster Hunter Freedom Unite",
-          "image": "MHFU-Blangonga_Icon.png"
+          "image": "MHFU-Copper_Blangonga_Icon.png"
         }
       ]
     },
@@ -3269,7 +3268,7 @@
       "games": [
         {
           "game": "Monster Hunter Freedom Unite",
-          "image": "MHFU-Congalala_Icon.png"
+          "image": "MHFU-Emerald_Congalala_Icon.png"
         },
         {
           "game": "Monster Hunter 4 Ultimate",
@@ -3580,7 +3579,7 @@
       "games": [
         {
           "game": "Monster Hunter Freedom Unite",
-          "image": "MHFU-Rajang_Icon.png"
+          "image": "MHFU-Furious_Rajang_Icon.png"
         },
         {
           "game": "Monster Hunter 4 Ultimate",
@@ -4209,7 +4208,7 @@
       "games": [
         {
           "game": "Monster Hunter Freedom Unite",
-          "image": "MHFU-Rathian_Icon.png"
+          "image": "MHFU-Gold_Rathian_Icon.png"
         },
         {
           "game": "Monster Hunter 3 Ultimate",
@@ -4717,7 +4716,7 @@
       "games": [
         {
           "game": "Monster Hunter Freedom Unite",
-          "image": "MHFU-Plesioth_Icon.png"
+          "image": "MHFU-Green_Plesioth_Icon.png"
         },
         {
           "game": "Monster Hunter 3 Ultimate",
@@ -5043,7 +5042,7 @@
       "games": [
         {
           "game": "Monster Hunter Freedom Unite",
-          "image": "MHFU-Daimyo_Hermitaur_Icon.png",
+          "image": "MHFU-Hermitaur_Icon.png",
           "info": "A small Carapaceon with an incredibly hard shell. Known to live in great numbers in the desert, or lurking underground, one must be careful when treading in its domain. Its brains are said to be a true delicacy."
         },
         {
@@ -5733,7 +5732,7 @@
       "games": [
         {
           "game": "Monster Hunter Freedom Unite",
-          "image": "MHFU-Shakalaka_Icon.png",
+          "image": "MHFU-King_Shakalaka_Icon.png",
           "info": "A crown-like object sits upon this leader of the Shakalaka's brow. Many a skilled hunter have been frustrated by the minions it attracts to its side. But be wary, for it's one powerful foe. When infuriated, it will unleash an unimaginably strong attack."
         }
       ]
@@ -6365,6 +6364,11 @@
         "Ice"
       ],
       "games": [
+        {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Lunastra_Icon.png",
+          "info": "A brutal female elder dragon with breath of flame and expert control over fire. It is said that this control comes from the crown-like horns on its head, but this has not been confirmed."
+        },
         {
           "game": "Monster Hunter World",
           "image": "MHW-Lunastra_Icon.png",
@@ -7303,7 +7307,7 @@
       "games": [
         {
           "game": "Monster Hunter Freedom Unite",
-          "image": "MHFU-Rathian_Icon.png"
+          "image": "MHFU-Pink_Rathian_Icon.png"
         },
         {
           "game": "Monster Hunter 3 Ultimate",
@@ -7415,7 +7419,7 @@
       "games": [
         {
           "game": "Monster Hunter Freedom Unite",
-          "image": "MHFU-Daimyo_Hermitaur_Icon.png"
+          "image": "MHFU-Plum_Daimyo_Hermitaur_Icon.png"
         },
         {
           "game": "Monster Hunter 4 Ultimate",
@@ -7586,7 +7590,7 @@
       "games": [
         {
           "game": "Monster Hunter Freedom Unite",
-          "image": "MHFU-Gypceros_Icon.png"
+          "image": "MHFU-Purple_Gypceros_Icon.png"
         },
         {
           "game": "Monster Hunter 4 Ultimate",
@@ -8108,7 +8112,7 @@
       "games": [
         {
           "game": "Monster Hunter Freedom Unite",
-          "image": "MHFU-Khezu_Icon.png"
+          "image": "MHFU-Red_Khezu_Icon.png"
         },
         {
           "game": "Monster Hunter 4 Ultimate",
@@ -8567,7 +8571,7 @@
       "games": [
         {
           "game": "Monster Hunter Freedom Unite",
-          "image": "MHFU-Kushala_Daora_Icon.png"
+          "image": "MHFU-Rusted_Kushala_Daora_Icon.png"
         },
         {
           "game": "Monster Hunter 4 Ultimate",
@@ -9189,7 +9193,7 @@
       "games": [
         {
           "game": "Monster Hunter Freedom Unite",
-          "image": "MHFU-Rathalos_Icon.png"
+          "image": "MHFU-Silver_Rathalos_Icon.png"
         },
         {
           "game": "Monster Hunter 3 Ultimate",
@@ -9580,7 +9584,7 @@
       "_id": {
         "$oid": "5e157ade8a80af35ce52d769"
       },
-      "name": "Terra Sogun Ceanataur",
+      "name": "Terra Shogun Ceanataur",
       "type": "Carapaceon",
       "isLarge": true,
       "elements": [
@@ -9592,7 +9596,7 @@
       "games": [
         {
           "game": "Monster Hunter Freedom Unite",
-          "image": "MHFU-Shogun_Ceanataur_Icon.png"
+          "image": "MHFU-Terra_Shogun_Ceanataur_Icon.png"
         }
       ]
     },
@@ -9912,7 +9916,7 @@
       "games": [
         {
           "game": "Monster Hunter Freedom Unite",
-          "image": "MHFU-Question_Mark_Icon.png"
+          "image": "MHFU-Ukanlos_Icon.png"
         },
         {
           "game": "Monster Hunter 4 Ultimate",
@@ -10319,7 +10323,7 @@
       "games": [
         {
           "game": "Monster Hunter Freedom Unite",
-          "image": "MHFU-Vespoid_Icon.png",
+          "image": "MHFU-Vespoid_Queen_Icon.png",
           "info": "A massive thorax and brilliant, gigantic wings mark the Vespoid Queen. It commands its subjects through unique flight patterns, and will stab any intruders with a poisonous stinger that also causes paralysis. It also spits acidic bodily fluid at its prey."
         }
       ]
@@ -10450,7 +10454,7 @@
       "games": [
         {
           "game": "Monster Hunter Freedom Unite",
-          "image": "MHFU-Monoblos_Icon.png"
+          "image": "MHFU-White_Monoblos_Icon.png"
         },
         {
           "game": "Monster Hunter 4 Ultimate",
