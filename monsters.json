@@ -164,6 +164,11 @@
       ],
       "games": [
         {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Question_Mark_Icon.png",
+          "info": "A wyvern truly wrapped in mystery. Known to some as the black god and to others as the tyrant of fire, this large and brutal creature is known to the Guild simply as Akantor..."
+        },
+        {
           "game": "Monster Hunter 4 Ultimate",
           "image": "MH4U-Akantor_Icon.png",
           "info": "A wyvern shrouded in mystery and known by many names -- \"the black god\" to some, \"the tyrant of fire\" to others, but usually called \"Akantor\" by the Guild. Its giant spines and tusks make for a fearsome sight in the volcanic areas it frequents.",
@@ -442,6 +447,11 @@
       ],
       "games": [
         {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Anteka_Icon.png",
+          "info": "Herbivorous monster living in the snowy mountains. Normally docile, but when provoked it will attack with its giant antlwers. Its high quality pelt has many uses and its antlers are highly valued by the Guild."
+        },
+        {
           "game": "Monster Hunter 3 Ultimate",
           "image": "MH3U-Anteka_Icon.png",
           "info": "Herbivores that live in cold climates. Generally docile, though they have been known to attack when threatened. Their high-quality pelts have many uses, and their antlers are highly prized by the guild. Simply stun the creatures to easily harvest one.",
@@ -472,6 +482,11 @@
         "Thunder"
       ],
       "games": [
+        {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Apceros_Icon.png",
+          "info": "Hunted for their meat, which is buried under a thick, armored hide. Aggressive compared to the Aptonoth, hunting them can be a challenge. Apceros eggs are a valuable Guild commodity."
+        },
         {
           "game": "Monster Hunter 4 Ultimate",
           "image": "MH4U-Apceros_Icon.png",
@@ -668,6 +683,11 @@
       ],
       "games": [
         {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Aptonoth_Icon.png",
+          "info": "Hunted as a food source, these creatures are preyed upon by both hunter and monster alike. Usually timid, in packs they will defend themselves with surprising strength."
+        },
+        {
           "game": "Monster Hunter 3 Ultimate",
           "image": "MH3U-Aptonoth_Icon.png",
           "info": "Relatively docile herbivores with characteristic crest plates. They form herds and raise young communally, and have been used as pack animals for generations; their meat is tasty and nutritious. Very cautious around large monsters.",
@@ -814,6 +834,26 @@
     },
     {
       "_id": {
+        "$oid": "5e15bafc8a89af35ce52d79f"
+      },
+      "name": "Ashen Lao-Shan Lung",
+      "type": "Elder Dragon",
+      "isLarge": true,
+      "elements": [
+        "Dragon"
+      ],
+      "weakness": [
+        "Dragon"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Lao-Shan_Lung_Icon.png"
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e142a928a80af35ce52d6ef"
       },
       "name": "Astalos",
@@ -900,6 +940,10 @@
         "Ice"
       ],
       "games": [
+        {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Rathalos_Icon.png"
+        },
         {
           "game": "Monster Hunter 3 Ultimate",
           "image": "MH3U-Azure_Rathalos_Icon.png",
@@ -1194,6 +1238,11 @@
       ],
       "games": [
         {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Basarios_Icon.png",
+          "info": "A large wyvern found in volcanic zones. They are the juvenile form of the Gravios. They have a steel-like carapace that requires powerful items to crack. Emits poison gas."
+        },
+        {
           "game": "Monster Hunter 4 Ultimate",
           "image": "MH4U-Basarios_Icon.png",
           "info": "These juvenile Gravios are famous for their rock-hard carapaces. They often borrow underground, mimicking rocks and savaging oblivious miners. They are known to emit poison gases and are especially weak against bombs.",
@@ -1416,6 +1465,10 @@
       ],
       "games": [
         {
+          "game":"Monster Hunter Freedom Unite",
+          "image": "MHFU-Diablos_Icon.png"
+        },
+        {
           "game": "Monster Hunter 3 Ultimate",
           "image": "MH3U-Black_Diablos_Icon.png",
           "info": "These black-shelled Diablos are treated as a subspecies, but are actually just normal female Diablos in heat. The color change is a warning to other creatures, as they tend to become extremely aggressive during mating season.",
@@ -1462,6 +1515,10 @@
         "Water"
       ],
       "games": [
+        {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Gravios_Icon.png"
+        },
         {
           "game": "Monster Hunter 4 Ultimate",
           "image": "MH4U-Black_Gravios_Icon.png",
@@ -1521,6 +1578,11 @@
       ],
       "games": [
         {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Blango_Icon.png",
+          "info": "A Pelagus covered entirely in white fur. Known to move in packs and led by a Blangonga. The Blangonga exerts tight control over the group, and any call to gather will be met immediately by the rank and file Blangos."
+        },
+        {
           "game": "Monster Hunter Generations Ultimate",
           "image": "MHGen-Blango_Icon.png",
           "info": "A Pelagus covered in entirely in white fur. Known to move in packs and led by a Blangonga. The Blangonga exerts tight control over the group, and any call to gather will be met immediately by the rank and file Blangos.",
@@ -1540,6 +1602,9 @@
       "name": "Blangonga",
       "type": "Fanged Beast",
       "isLarge": true,
+      "subSpecies": [
+        "Copper Blangonga"
+      ],
       "elements": [
         "Ice"
       ],
@@ -1551,6 +1616,11 @@
         "Fire"
       ],
       "games": [
+        {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Blangonga_Icon.png",
+          "info": "Leader of a Blango pack, it is twice as large and recognized by its giant fangs and whiskers. It sends its pack to attack any trespassers. Its jumping power allows it great mobility in its home range of the snowy mountains."
+        },
         {
           "game": "Monster Hunter Generations Ultimate",
           "image": "MHGen-Blangonga_Icon.png",
@@ -1632,6 +1702,10 @@
         "Thunder"
       ],
       "games": [
+        {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Yian_Kut-Ku_Icon.png"
+        },
         {
           "game": "Monster Hunter 4 Ultimate",
           "image": "MH4U-Blue_Yian_Kut-Ku_Icon.png",
@@ -1894,6 +1968,11 @@
       ],
       "games": [
         {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Bullfango_Icon.png",
+          "info": "The powerful leader of the wild boars known for its enormous tusks. More aggressive than a Bullfango, it is known to rush into a fight, and is extremely proficient at locating a foe."
+        },
+        {
           "game": "Monster Hunter Generations Ultimate",
           "image": "MHGen-Bulldrome_Icon.png",
           "info": "Bulldrome are the imposing leaders of Bullfango packs, notable for their impressive tusks and large bodies. More aggressive than a Bullfango, it is known to ram into its foes, and is extremely proficient at tracking them.",
@@ -1938,6 +2017,11 @@
         "Thunder"
       ],
       "games": [
+        {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Bullfango_Icon.png",
+          "info": "A large wild boar. Foul tempered, they will charge hunters on sight. They are aggressive and powerful, so beware! They are often hunted for their meat, which many hunters find delicious."
+        },
         {
           "game": "Monster Hunter 3 Ultimate",
           "image": "MH3U-Bullfango_Icon.png",
@@ -2014,6 +2098,11 @@
       ],
       "games": [
         {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Shogun_Ceanataur_Icon.png",
+          "info": "An adolescent Carapaceon with an organic shell firmly placed on its back. Once grown, this shell will be replaced by a giant monster's skull. Mainly living in volcanic zones, it is very aggressive, and not to be underestimated."
+        },
+        {
           "game": "Monster Hunter Generations Ultimate",
           "image": "MHGen-Ceanataur_Icon.png",
           "info": "An adolescent Carapaceon with an organic shell firmly placed on its back. Once grown, this shell will be replaced by a giant monster's skull. Mainly living in volcanic zones, it is very aggressive, and not to be underestimated.",
@@ -2045,6 +2134,11 @@
         "Thunder"
       ],
       "games": [
+        {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Cephalos_Icon.png",
+          "info": "The alpha monster form of the Cephalos. Larger and armored with black scales, they fit the appearance of a leader perfectly. Their fins hold a paralyzing toxin."
+        },
         {
           "game": "Monster Hunter 4 Ultimate",
           "image": "MH4U-Cephadrome_Icon.png",
@@ -2088,6 +2182,11 @@
         "Thunder"
       ],
       "games": [
+        {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Cephalos_Icon.png",
+          "info": "Wyverns found only in the desert. They resemble a Plesioth, but live and \"swim\" in sand rather than water. They seldom appear above land, but when their hearing is disturbed..."
+        },
         {
           "game": "Monster Hunter 4 Ultimate",
           "image": "MH4U-Cephalos_Icon.png",
@@ -2149,6 +2248,11 @@
         "Dragon"
       ],
       "games": [
+        {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Chameleos_Icon.png",
+          "info": "Eyewitness sightings of this elder dragon are extremely rare due to its ability to literally vanish; however, details of this are unclear. It is thought that shocking it may make it reappear, but this is unproven."
+        },
         {
           "game": "Monster Hunter 4 Ultimate",
           "image": "MH4U-Chameleos_Icon.png",
@@ -2245,6 +2349,11 @@
       ],
       "games": [
         {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Conga_Icon.png",
+          "info": "Fanged, ape-like Pelagus with pink fur. Prefers to live in small groups as opposed to large packs, and particularly enjoys mushroom snacks. If stumbled upon, it will be hostile, so beware of areas like the swamp or jungle."
+        },
+        {
           "game": "Monster Hunter 4 Ultimate",
           "image": "MH4U-Conga_Icon.png",
           "info": "Ape-like fanged beasts with pink fur. Conga prefer to live in smalls groups as oppposed to large packs and primarily inhabit warm, humid environments.",
@@ -2299,6 +2408,11 @@
       ],
       "games": [
         {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Congalala_Icon.png",
+          "info": "A large Pelagus sporting pink fur often spotted in the jungle and swamp zones. Fond of mushrooms, its diet affects its breath, which may be poisonous or flaming. One can predict these traits via the food in its local habitat."
+        },
+        {
           "game": "Monster Hunter 4 Ultimate",
           "image": "MH4U-Congalala_Icon.png",
           "info": "A large fanged beast with pink fur, often found in warm, damp regions. Fond of mushrooms, Congalalas possess either poisonous or flaming breath, depending on the food available in their local habitat.",
@@ -2324,6 +2438,26 @@
           "game": "Monster Hunter Stories 2",
           "image": "MHST2-Congalala_Icon.png",
           "info": "Pink-furred Fanged Beasts. They let rip with almighty farts, the stench of which overwhelms opponents."
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e15c0058a80af33ce52d7aa"
+      },
+      "name": "Copper Blangonga",
+      "type": "Fanged Beast",
+      "isLarge": true,
+      "ailments": [
+        "Stun"
+      ],
+      "weakness": [
+        "Ice"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Blangonga_Icon.png"
         }
       ]
     },
@@ -2389,6 +2523,11 @@
         "Ice"
       ],
       "games": [
+        {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Question_Mark_Icon.png",
+          "info": "A legendary black dragon said to have prowled these lands from the days of old. Many skilled hunters have sought to challenge it, but none ever return. A monster shrouded in mystery..."
+        },
         {
           "game": "Monster Hunter 4 Ultimate",
           "image": "MH4U-Unknown_Icon.png",
@@ -2535,6 +2674,11 @@
         "Thunder"
       ],
       "games": [
+        {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Daimyo_Hermitaur_Icon.png",
+          "info": "A large Carapaceon with a giant monster's skull on its back. Fond of the sand, it is mainly seen in the desert or jungle zones. Living underground, it surfaces when hungering for a snack."
+        },
         {
           "game": "Monster Hunter 4 Ultimate",
           "image": "MH4U-Daimyo_Hermitaur_Icon.png",
@@ -2801,6 +2945,11 @@
         "Ice"
       ],
       "games": [
+        {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Diablos_Icon.png",
+          "info": "Two-horned wyverns found in desert zones. They are capable of burrowing into sand to attack prey from below. Incredibly violent and proud, they are known to unleash terrible wrath when accosted."
+        },
         {
           "game": "Monster Hunter 3 Ultimate",
           "image": "MH3U-Diablos_Icon.png",
@@ -3119,6 +3268,10 @@
       ],
       "games": [
         {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Congalala_Icon.png"
+        },
+        {
           "game": "Monster Hunter 4 Ultimate",
           "image": "MH4U-Emerald_Congalala_Icon.png",
           "info": "A Congalala variant with green fur and a more prominent crest. Even more ravenous than ordinary Congalalas, they can store a greater amount of gas in their body, which means that they can produce a wider-reaching flatulence when threatened or provoked.",
@@ -3198,7 +3351,8 @@
       "isLarge": true,
       "subSpecies": [
         "Crimson Fatalis",
-        "White Fatalis"
+        "White Fatalis",
+        "Old Fatalis"
       ],
       "elements": [
         "Fire",
@@ -3213,6 +3367,11 @@
         "Fire"
       ],
       "games": [
+        {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Question_Mark_Icon.png",
+          "info": "A legendary black dragon said to have prowled these lands from the days of old. Many skilled hunters have sought to challenge it, but none ever return. A monster shrouded in mystery..."
+        },
         {
           "game": "Monster Hunter 4 Ultimate",
           "image": "MH4U-Unknown_Icon.png",
@@ -3256,6 +3415,11 @@
         "Ice"
       ],
       "games": [
+        {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Felyne_Icon.png",
+          "info": "Cat-like humanoids called Lynians that are noted for their white fur. Felynes are quiet until angered, in which case they may attack. Capable of speech, they are sometimes found in the employ of human masters."
+        },
         {
           "game": "Monster Hunter 3 Ultimate",
           "image": "MH3U-Felyne_Icon.png",
@@ -3414,6 +3578,10 @@
         "Ice"
       ],
       "games": [
+        {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Rajang_Icon.png"
+        },
         {
           "game": "Monster Hunter 4 Ultimate",
           "image": "MH4U-Furious_Rajang_Icon.png"
@@ -3681,6 +3849,11 @@
       ],
       "games": [
         {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Gendrome_Icon.png",
+          "info": "The alpha monster that leads a Genprey pack. They are larger and have a more prominent crest. Found in the desert, they can paralyze prey using their toxic fangs and claws."
+        },
+        {
           "game": "Monster Hunter 4 Ultimate",
           "image": "MH4U-Gendrome_Icon.png",
           "info": "Alpha monsters that lead Genprey packs. Larger than their brothers and with a more prominent crest, Gendrome use the venom in their highly evolved fangs and claws to paralyze their prey.",
@@ -3720,6 +3893,11 @@
         "Ice"
       ],
       "games": [
+        {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Genprey_Icon.png",
+          "info": "An orange and green-striped species of small carnivores found mainly in desert zones. Traveling in packs, their large fangs and claws contain a neurotoxin that is used to paralyze prey."
+        },
         {
           "game": "Monster Hunter 4 Ultimate",
           "image": "MH4U-Genprey_Icon.png",
@@ -3763,6 +3941,11 @@
       ],
       "games": [
         {
+          "game":"Monster Hunter Freedom Unite",
+          "image": "MHFU-Giadrome_Icon.png",
+          "info": "The alpha leader of a pack of Giaprey, the Giadrome sports a beautiful crest. Larger than a Giaprey, any hunter silly enough to encroach on its turf will be frozen in a hail of ice."
+        },
+        {
           "game": "Monster Hunter Generations Ultimate",
           "image": "MHGU-Giadrome_Icon.png",
           "info": "Alpha monsters that lead Giaprey packs. They sport splendid crests and are much bigger than Giaprey they lead. They spit ice with deadly accuracy, and woe betide the Hunter who gets caught in it.",
@@ -3788,6 +3971,11 @@
         "Fire"
       ],
       "games": [
+        {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Giaprey_Icon.png",
+          "info": "A species of small bird-like carnivores known to inhabit the snowy mountains. Their white skin is beautiful, but their temperament is not. They are known to spit ice at hunters, and attack in deadly packs."
+        },
         {
           "game": "Monster Hunter Generations Ultimate",
           "image": "MHGen-Giaprey_Icon.png",
@@ -4020,6 +4208,10 @@
       ],
       "games": [
         {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Rathian_Icon.png"
+        },
+        {
           "game": "Monster Hunter 3 Ultimate",
           "image": "MH3U-Gold_Rathian_Icon.png",
           "info": "A rare variant of Rathian with a beautiful golden body reminiscent of the moon. Little is known about their behavior or physiology--including the source of their rich golden sheen.",
@@ -4191,6 +4383,11 @@
         "Water"
       ],
       "games": [
+        {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Gravios_Icon.png",
+          "info": "A large wyvern found in volcanic zones. They possess a fiery breath attack and the ability to emit a sleeping gas. They also have extremely hard scales that deflect most weapon attacks."
+        },
         {
           "game": "Monster Hunter 4 Ultimate",
           "image": "MH4U-Gravios_Icon.png",
@@ -4416,6 +4613,11 @@
       ],
       "games": [
         {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Great_Thunderbug_Icon.png",
+          "info": "An abnormally large Thunderbug raised inside the body of an elder dragon and known to inhabit the same areas as its former host, its electrical attack is deadly. This bug has various uses as material for crafting weapons and items."
+        },
+        {
           "game": "Monster Hunter Generations Ultimate",
           "image": "MHGU-Great_Thunderbug_Icon.png",
           "info": "Thunderbugs can be used to make a variety of weapons and items, but these ones have grown to a monstrous size inside an elder dragon. They are imbued with formidable electric powers. They congregate at night and in caves where the sunlight doesn't reach.",
@@ -4513,6 +4715,10 @@
         "Fire"
       ],
       "games": [
+        {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Plesioth_Icon.png"
+        },
         {
           "game": "Monster Hunter 3 Ultimate",
           "image": "MH3U-Green_Plesioth_Icon.png",
@@ -4725,6 +4931,11 @@
       ],
       "games": [
         {
+          "game":"Monster Hunter Freedom Unite",
+          "image": "MHFU-Gypceros_Icon.png",
+          "info": "A wyvern that can generate disorienting flashes of light when its prominent head crest is struck. Its rubbery hide resists damage and can ward off Shock Traps, while its spit carries a deadly venom. However, they are quite timid."
+        },
+        {
           "game": "Monster Hunter 4 Ultimate",
           "image": "MH4U-Gypceros_Icon.png",
           "info": "Wyverns that can generate disorienting flashes of light by striking their prominent crests. Their rubbery hide resists blunt impacts and makes Shock Traps less effective. Beware: The poisonous saliva they spit can flow down slopes.",
@@ -4831,6 +5042,11 @@
       ],
       "games": [
         {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Daimyo_Hermitaur_Icon.png",
+          "info": "A small Carapaceon with an incredibly hard shell. Known to live in great numbers in the desert, or lurking underground, one must be careful when treading in its domain. Its brains are said to be a true delicacy."
+        },
+        {
           "game": "Monster Hunter 4 Ultimate",
           "image": "MH4U-Hermitaur_Icon.png",
           "info": "These small, hard-shelled Carapaceon creatures are common in the desert, where they frequently lie in wait under the sands, lashing out when prey happen past them. Their brains are prized as a delicacy.",
@@ -4897,6 +5113,11 @@
       ],
       "games": [
         {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Hornetaur_Icon.png",
+          "info": "A Vespoid-like monster with a thicker shell. Easily damaged, there are rarely any usable materials left to harvest from them once killed. But if you could sap their Health gradually..."
+        },
+        {
           "game": "Monster Hunter 3 Ultimate",
           "image": "MHGen-Hornetaur_Icon.png",
           "info": "A Vespoid-like monster, but with a thicker shell. Easily damaged, there are rarely any usable materials left to harvest from them once killed. But if you could sap their Health gradually...",
@@ -4917,6 +5138,27 @@
     },
     {
       "_id": {
+        "$oid": "5e143bfd8f80af35ce52d703"
+      },
+      "name": "Hypnocatrice",
+      "type": "Bird Wyvern",
+      "isLarge": true,
+      "ailments": [
+        "Sleep"
+      ],
+      "weakness": [
+        "Fire"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Hypnocatrice_Icon.png",
+          "info": "A rust-colored bird wyvern with beautiful tail feathers found mainly in forests. A highly pacifistic wyvern by nature, it breathes sleeping gas on its enemies and prey alike. Its strong, developed legs pack a serious punch, so be careful!"
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e143bfd8a80af35ce52d703"
       },
       "name": "Iodrome",
@@ -4930,6 +5172,11 @@
         "Water"
       ],
       "games": [
+        {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Iodrome_Icon.png",
+          "info": "The alpha monster that leads an Ioprey pack. They are larger and have a more prominent crest. Found in subtropical zones, they spit a poison that can sap the life force of prey."
+        },
         {
           "game": "Monster Hunter 4 Ultimate",
           "image": "MH4U-Iodrome_Icon.png",
@@ -4968,6 +5215,11 @@
         "Water"
       ],
       "games": [
+        {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Ioprey_Icon.png",
+          "info": "A vivid red species of small carnivores often found in subtropical zones. Sacs in their throat contain a powerful poison that slowly drains the Health of their prey."
+        },
         {
           "game": "Monster Hunter 4 Ultimate",
           "image": "MH4U-Ioprey_Icon.png",
@@ -5337,6 +5589,11 @@
       ],
       "games": [
         {
+          "game":"Monster Hunter Freedom Unite",
+          "image": "MHFU-Kelbi_Icon.png",
+          "info": "Herbivorous, deer-like monsters. Valued for their horns, they tend to run away at the first hint of danger. They are also hunted for their meat, which is chewy but flavorful."
+        },
+        {
           "game": "Monster Hunter 3 Ultimate",
           "image": "MH3U-Kelbi_Icon.png",
           "info": "Small herbivores known for their gentle demeanor, as well as the medicinal properties of their horns. Those wishing to harvest a horn should stun the Kelbi with strike attacks, then sever the appendage while the animal is still alive.",
@@ -5423,6 +5680,11 @@
       ],
       "games": [
         {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Khezu_Icon.png",
+          "info": "Loathsome wyverns that live inside caves. Near blind, they detect their prey by smell. They are capable of generating electric shocks, which they use to paralyze their prey."
+        },
+        {
           "game": "Monster Hunter 4 Ultimate",
           "image": "MH4U-Khezu_Icon.png",
           "info": "Loathsome wyverns that dwell in caves and other dark places. All but blind, Khezu hunt by smell, using electric shocks to paralyze their prey before pouncing from high walls and ceilings.",
@@ -5454,6 +5716,30 @@
     },
     {
       "_id": {
+        "$oid": "5df0a37b9dabf81e7717cea8"
+      },
+      "name": "King Shakalaka",
+      "type": "Lynian",
+      "isLarge": true,
+      "elements": [
+        "Fire"
+      ],
+      "ailments": [
+        "Sleep"
+      ],
+      "weakness": [
+        "Ice"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Shakalaka_Icon.png",
+          "info": "A crown-like object sits upon this leader of the Shakalaka's brow. Many a skilled hunter have been frustrated by the minions it attracts to its side. But be wary, for it's one powerful foe. When infuriated, it will unleash an unimaginably strong attack."
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5dfda37b9dabf81e7717cea8"
       },
       "name": "Kirin",
@@ -5474,6 +5760,11 @@
         "Water"
       ],
       "games": [
+        {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Kirin_Icon.png",
+          "info": "The Kirin is said to glow a faint blue, but so few have seen it that details are scarce. It is apparently capable of calling forth lightning at will. Kirin material is very valuable."
+        },
         {
           "game": "Monster Hunter 4 Ultimate",
           "image": "MH4U-Kirin_Icon.png",
@@ -5646,6 +5937,11 @@
       ],
       "games": [
         {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Kushala_Daora_Icon.png",
+          "info": "A metal plated dragon known as the tempest of wind. It is said if Kushala Daora is poisoned, its wind abilities decrease. Eyewitnesses report violent storms alongside the dragon, and its wide range means towns may be attacked."
+        },
+        {
           "game": "Monster Hunter 4 Ultimate",
           "image": "MH4U-Kushala_Daora_Icon.png",
           "info": "It's difficult to even get close to one of these metallic dragons, but some claim better odds if the creature is weakened with poison, or has another hunter on its back, limiting the amount of wind pressure it can muster.",
@@ -5816,7 +6112,15 @@
       "name": "Lao-Shan Lung",
       "type": "Elder Dragon",
       "isLarge": true,
+      "subSpecies": [
+        "Ashen Lao-Shan Lung"
+      ],
       "games": [
+        {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Lao-Shan_Lung_Icon.png",
+          "info": "A giant dragon few have seen and lived to tell the tale about. When on the rampage it wreaks havoc on all in its path. The Guild has built a fortress to repel the beast, but will it hold?"
+        },
         {
           "game": "Monster Hunter Generations Ultimate",
           "image": "MHGU-Lao-Shan_Lung_Icon.png",
@@ -5869,6 +6173,11 @@
         "Water"
       ],
       "games": [
+        {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Lavasioth_Icon.png",
+          "info": "A piscine wyvern that resides in magma. Its scales are covered by layers of cooled magma, which makes it one hard nut to crack. It swims around in lava, spewing the molten rock it takes in at its prey... Researchers love to study its peculiar way of life."
+        },
         {
           "game": "Monster Hunter Generations Ultimate",
           "image": "MHGen-Lavasioth_Icon.png",
@@ -6234,6 +6543,11 @@
       ],
       "games": [
         {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Melynx_Icon.png",
+          "info": "Cat-like humanoids called Lynians with black fur. Their sticky-fingers never miss a chance to steal things and take them back to their den, forcing victims to seek out their lost items. Distracted by the sight of Felvine."
+        },
+        {
           "game": "Monster Hunter 3 Ultimate",
           "image": "MH3U-Melynx_Icon.png",
           "info": "Bipedal creatures resembling cats, known for their dark hair. more curious then Felynes and possessed by kleptomania, Melynxes take what they steal back to their dens. Felvine intoxicates them, causing them to sometimes drop items.",
@@ -6376,6 +6690,11 @@
       ],
       "games": [
         {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Monoblos_Icon.png",
+          "info": "A large-horned wyvern found in desert zones. Their giant horn makes their attacks very dangerous. While they have no breath attack, their ear-splitting roar is the bane of hunters."
+        },
+        {
           "game": "Monster Hunter 4 Ultimate",
           "image": "MH4U-Monoblos_Icon.png",
           "info": "A monocerous desert-dwelling wyvern able to burrow swiftly through the sand. It puts its horn to lethal use with a charging thrust, and while it possesses no breath attack, its roar is loud enough to split human eardrums.",
@@ -6429,6 +6748,11 @@
         "Ice"
       ],
       "games": [
+        {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Mosswine_Icon.png",
+          "info": "Wild pigs covered in moss and fungus. Sometimes you will even find mushrooms growing on them. Their meat is known as a delicacy. Though normally docile, they will charge you if angered!"
+        },
         {
           "game": "Monster Hunter Generations Ultimate",
           "image": "MHGen-Mosswine_Icon.png",
@@ -6553,6 +6877,10 @@
         "Fire"
       ],
       "games": [
+        {
+          "game":"Monster Hunter Freedom Unite",
+          "image": "MHFU-Nargacuga_Icon.png"
+        },
         {
           "game": "Monster Hunter 3 Ultimate",
           "image": "MH3U-Nargacuga_Icon.png",
@@ -6849,6 +7177,27 @@
     },
     {
       "_id": {
+        "$oid": "5dfc91d81dabf81e7717ce63"
+      },
+      "name": "Old Fatalis",
+      "type": "Elder Dragon",
+      "isLarge": true,
+      "elements": [
+        "Thunder",
+        "Dragon"
+      ],
+      "weakness": [
+        "Dragon"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Question_Mark_Icon.png"
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5dfc91d89dabf81e7717ce63"
       },
       "name": "Oltura",
@@ -6953,6 +7302,10 @@
       ],
       "games": [
         {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Rathian_Icon.png"
+        },
+        {
           "game": "Monster Hunter 3 Ultimate",
           "image": "MH3U-Pink_Rathian_Icon.png",
           "info": "A subspecies of Rathian with vibrant pink scales. Pink Rathian wield their toxic tails more skillfully than normal Rathian, using a wide variety of attacks to weaken their prey before eventually moving in for the kill.",
@@ -7019,6 +7372,11 @@
       ],
       "games": [
         {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Plesioth_Icon.png",
+          "info": "An enormous, flightless, aquatic wyvern with wings that have evolved into fins for swimming. Although superficially fish-like, they can move on land as well. They love frogs."
+        },
+        {
           "game": "Monster Hunter 3 Ultimate",
           "image": "MH3U-Plesioth_Icon.png",
           "info": "Giant piscine wyverns with swift and varied underwater movements, as well as deadly breath and charging attacks. Plesioth are agitated by loud noises, so approach warily. Their favorite food is frogs.",
@@ -7056,6 +7414,10 @@
       ],
       "games": [
         {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Daimyo_Hermitaur_Icon.png"
+        },
+        {
           "game": "Monster Hunter 4 Ultimate",
           "image": "MH4U-Plum_Daimyo_Hermitaur_Icon.png",
           "info": "A large Carapaceon characterized by its distinct coloring and the massive monster skull it carries on its back. Unlike more common varieties, it leaps high into the air and onto foes, making it especially deadly.",
@@ -7084,6 +7446,11 @@
         "Fire"
       ],
       "games": [
+        {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Popo_Icon.png",
+          "info": "A herbivorous monster known for its giant, bent fangs. Living in herds, it is particularly bold when defending its offspring. Popo meat is quite nutritious, and its tongue is widely admired as a delicacy."
+        },
         {
           "game": "Monster Hunter 3 Ultimate",
           "image": "MH3U-Popo_Icon.png",
@@ -7217,6 +7584,10 @@
         "Fire"
       ],
       "games": [
+        {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Gypceros_Icon.png"
+        },
         {
           "game": "Monster Hunter 4 Ultimate",
           "image": "MH4U-Purple_Gypceros_Icon.png",
@@ -7476,6 +7847,11 @@
       ],
       "games": [
         {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Rajang_Icon.png",
+          "info": "Ultra-aggressive creature that is rarely sighted and seldom survived. Survivors report it exhibits a strange attack. The Rajang is said to be a loner, and this isolated life has made it difficult to pin down its territorial leanings."
+        },
+        {
           "game": "Monster Hunter 4 Ultimate",
           "image": "MH4U-Rajang_Icon.png",
           "info": "An ultra-aggressive creature that is rarely sighted and seldom survived. Survivors report it exhibits a strange attack. The Rajang is said to be a loner, and this isolated life has made it difficult to pin down its territorial leanings.",
@@ -7586,6 +7962,11 @@
       ],
       "games": [
         {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Rathalos_Icon.png",
+          "info": "Male wyvern that keeps a nest and patrols its patch of territory from the air in search of prey. Its claws are filled with a poison that weakens its quarry."
+        },
+        {
           "game": "Monster Hunter 3 Ultimate",
           "image": "MH3U-Rathalos_Icon.png",
           "info": "Terrible wyverns called the 'Kings of the Skies'. Together with Rathian, they stake wide territories centered around their nests. Rathalos descend on invaders from the sky, attacking with poison claws and breath of fire.",
@@ -7657,6 +8038,11 @@
       ],
       "games": [
         {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Rathian_Icon.png",
+          "info": "Female version of the Rathalos wyvern. Unlike its male counterpart, it usually patrols its territory from the ground. Its tail spikes are filled with poison."
+        },
+        {
           "game": "Monster Hunter 3 Ultimate",
           "image": "MH3U-Rathian_Icon.png",
           "info": "Fire-breathing female wyverns, also known as the \"Queens of the Land\". With powerful legs and poison-secreting tails, they hunt mainly on the ground. Sometimes seen preying as a couple, Rathian cooperate well with Rathalos.",
@@ -7721,6 +8107,10 @@
       ],
       "games": [
         {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Khezu_Icon.png"
+        },
+        {
           "game": "Monster Hunter 4 Ultimate",
           "image": "MH4U-Red_Khezu_Icon.png",
           "info": "A ghastly Khezu variant with a crimson hue and a much more aggressive temperament. Their electrical organs are further developed as well, giving them a wider variety of attacks to disable and ensnare prey.",
@@ -7776,6 +8166,11 @@
         "Water"
       ],
       "games": [
+        {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "FrontierGen-Remobra_Icon.png",
+          "info": "Small wyverns with outstanding flying abilities, they loiter in the skies waiting to prey upon weakened animals. Known to attack alongside Elder Dragons, they are known as an omen to disaster."
+        },
         {
           "game": "Monster Hunter 4 Ultimate",
           "image": "MH4U-Remobra_Icon.png",
@@ -8171,6 +8566,10 @@
       ],
       "games": [
         {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Kushala_Daora_Icon.png"
+        },
+        {
           "game": "Monster Hunter 4 Ultimate",
           "image": "MH4U-Rusted_Kushala_Daora_Icon.png"
         }
@@ -8315,6 +8714,10 @@
         "Water"
       ],
       "games": [
+        {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Yian_Garuga_Icon"
+        },
         {
           "game": "Monster Hunter 4 Ultimate",
           "image": "MH4U-Yian_Garuga_Icon.png",
@@ -8584,6 +8987,11 @@
       ],
       "games": [
         {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Shakalaka_Icon.png",
+          "info": "Small, four-limbed monsters known for always wearing a mask. They specialize in camouflage, and once they turn their special skill on, they're virtually impossible to find. It's said that a settlement has been found deep in the forest."
+        },
+        {
           "game": "Monster Hunter Stories",
           "image": "MHST-Shakalaka_Icon.png",
           "info": "Lynians never seen without their masks. Specializing in camouflage, even spotting one is no easy task."
@@ -8640,13 +9048,32 @@
     },
     {
       "_id": {
+        "$oid": "5e1588888a80af35ce52d785"
+      },
+      "name": "Shen Gaoren",
+      "type": "Carapaceon",
+      "isLarge": true,
+      "weakness": [
+        "Dragon"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Shen_Gaoren_Icon.png",
+          "info": "A giant Carapaceon with an equally giant monster's skull on its back. Prone to roaming and fiercely territorial, any intruders will be met with opposition, so nearby forts or towns must be warned of its presence."
+        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e157dec8a80af35ce52d76f"
       },
       "name": "Shogun Ceanataur",
       "type": "Carapaceon",
       "isLarge": true,
       "subSpecies": [
-        "Rustrazor Ceanataur"
+        "Rustrazor Ceanataur",
+        "Terra Shogun"
       ],
       "elements": [
         "Water"
@@ -8660,6 +9087,11 @@
         "Fire"
       ],
       "games": [
+        {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Shogun_Ceanataur_Icon.png",
+          "info": "A large Carapaceon with a giant monster's skull on its back. Its long, sharp pincers allow it to pierce volcanic bedrock and travel along ceilings. Sometimes, a precious and valuable pearl can be found inside its shell."
+        },
         {
           "game": "Monster Hunter Generations Ultimate",
           "image": "MHGen-Shogun_Ceanataur_Icon.png",
@@ -8755,6 +9187,10 @@
         "Thunder"
       ],
       "games": [
+        {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Rathalos_Icon.png"
+        },
         {
           "game": "Monster Hunter 3 Ultimate",
           "image": "MH3U-Silver_Rathalos_Icon.png",
@@ -9101,6 +9537,11 @@
       ],
       "games": [
         {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Teostra_Icon.png",
+          "info": "A brutal male elder dragon with breath of flame and expert control over fire. Its vile temperament means anyone who approaches is subject to fire and brimstone. Known to attack towns, the Guild keeps tabs on its movements."
+        },
+        {
           "game": "Monster Hunter 4 Ultimate",
           "image": "MH4U-Teostra_Icon.png",
           "info": "Brutal elder dragons clothed in flame that spit blazing fire. Teostra are of such a fierce and deadly nature that the Guild keeps track of their movements whenever possible.",
@@ -9132,6 +9573,26 @@
           "game": "Monster Hunter Stories 2",
           "image": "MHST2-Teostra_Icon.png",
           "info": "Wreathed in flame, they wield blistering breath attacks. Easily angered, any who stand against them face their unyielding molten judgement. The Guild monitors their movements and moods due to the threat they pose."
+        }
+      ]
+    },
+     {
+      "_id": {
+        "$oid": "5e157ade8a80af35ce52d769"
+      },
+      "name": "Terra Sogun Ceanataur",
+      "type": "Carapaceon",
+      "isLarge": true,
+      "elements": [
+        "Water"
+      ],
+      "weakness": [
+        "Thunder"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Shogun_Ceanataur_Icon.png"
         }
       ]
     },
@@ -9331,6 +9792,11 @@
       ],
       "games": [
         {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Tigrex_Icon.png",
+          "info": "A flying wyvern that maintains its primitive origins. Prone to violence, it possesses incredible ferocity thanks to its four limbs, claws and jaw. Inhabits a wide area, it has even been spotted hunting Popo in the mountains."
+        },
+        {
           "game": "Monster Hunter 4 Ultimate",
           "image": "MH4U-Tigrex_Icon.png",
           "info": "Flying wyverns whose primitive origins are obvious. Prone to violence, they display incredible ferocity with their claws, jaws, and developed limbs. They inhabit a wide area, and have been spotted as far off as the Frozen Seaway.",
@@ -9444,6 +9910,10 @@
         "Thunder"
       ],
       "games": [
+        {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Question_Mark_Icon.png"
+        },
         {
           "game": "Monster Hunter 4 Ultimate",
           "image": "MH4U-Ukanlos_Icon.png",
@@ -9687,6 +10157,11 @@
       ],
       "games": [
         {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Velocidrome_Icon.png",
+          "info": "The alpha monster that leads a Velociprey pack. They are larger and have a more prominent crest. Highly territorial, but will retreat to a safe place when injured to recover."
+        },
+        {
           "game": "Monster Hunter 4 Ultimate",
           "image": "MH4U-Velocidrome_Icon.png",
           "info": "Alpha monsters that lead Velociprey packs. Larger than their brothers and with a more prominent crest, Velocidrome use their strong hind legs to leap at prey, pinning them with sharp claws before calling for others.",
@@ -9722,6 +10197,11 @@
         "Ice"
       ],
       "games": [
+        {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Velociprey_Icon.png",
+          "info": "Aggressive, carnivorous monsters that often travel in packs. Even a master hunter should take care not to become surrounded! Wide ranging, they are found in many different areas, such as the jungle or the forest and hills."
+        },
         {
           "game": "Monster Hunter 4 Ultimate",
           "image": "MH4U-Velociprey_Icon.png",
@@ -9785,6 +10265,11 @@
       ],
       "games": [
         {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Vespoid_Icon.png",
+          "info": "An enormous, wasp-like insectoid with a poisonous stinger that paralyzes prey. Easily damaged, there are rarely any usable materials left to harvest from them once killed."
+        },
+        {
           "game": "Monster Hunter Generations Ultimate",
           "image": "MHGen-Vespoid_Icon.png",
           "info": "An enormous, wasp-like insectoid with a poisonous stinger that paralyzes prey. Easily damaged, there are rarely any usable parts left to harvest from them once they are killed. But if you could sap their Health gradually...",
@@ -9814,6 +10299,28 @@
           "game": "Monster Hunter Stories 2",
           "image": "MHST2-Vespoid_Icon.png",
           "info": "Giant Wasp-like Neopterons with paralyzing stingers, which they use on any who stray too close."
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5e143d198ad0af35ce52d705"
+      },
+      "name": "Vespoid Queen",
+      "type": "Neopteron",
+      "isLarge": true,
+      "ailments": [
+        "Paralysis",
+        "Defence Down"
+      ],
+      "weakness": [
+        "Fire"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Vespoid_Icon.png",
+          "info": "A massive thorax and brilliant, gigantic wings mark the Vespoid Queen. It commands its subjects through unique flight patterns, and will stab any intruders with a poisonous stinger that also causes paralysis. It also spits acidic bodily fluid at its prey."
         }
       ]
     },
@@ -9941,6 +10448,10 @@
         "Thunder"
       ],
       "games": [
+        {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Monoblos_Icon.png"
+        },
         {
           "game": "Monster Hunter 4 Ultimate",
           "image": "MH4U-White_Monoblos_Icon.png",
@@ -10080,6 +10591,28 @@
     },
     {
       "_id": {
+        "$oid": "5e1559948280af35ce52d72f"
+      },
+      "name": "Yama Tsukami",
+      "type": "Elder Dragon",
+      "isLarge": true,
+      "elements": [
+        "Fire",
+        "Dragon"
+      ],
+      "weakness": [
+        "Dragon",
+        "Ice"
+      ],
+      "games": [
+        {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Yama_Tsukami_Icon.png",
+          "info": "An Elder Dragon that floats through the sky. A bite of earth, a drink of forest, it’s a veritable god of the sky made of the richest soil. Ancient trees grow thick on its back like on a mountain. It’s rumored to live near a forlorn, remote tower."        }
+      ]
+    },
+    {
+      "_id": {
         "$oid": "5e1559948a80af35ce52d72f"
       },
       "name": "Yian Garuga",
@@ -10100,6 +10633,11 @@
         "Water"
       ],
       "games": [
+        {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Yian_Garuga_Icon",
+          "info": "A breed of Yian Kut-Ku with a hard black shell and a long mane. Known for its trap avoiding slyness and poison loaded tail, it is a particularly evil wyvern, so beware!"
+        },
         {
           "game": "Monster Hunter 4 Ultimate",
           "image": "MH4U-Yian_Garuga_Icon.png",
@@ -10150,6 +10688,11 @@
         "Ice"
       ],
       "games": [
+        {
+          "game": "Monster Hunter Freedom Unite",
+          "image": "MHFU-Yian_Kut-Ku_Icon.png",
+          "info": "A bird wyvern with a huge beak and large ears that splay open when it is angered. With its sensitive hearing it dislikes loud noises. It is smaller but faster than other wyverns."
+        },
         {
           "game": "Monster Hunter 4 Ultimate",
           "image": "MH4U-Yian_Kut-Ku_Icon.png",
