@@ -2,6 +2,7 @@
 
 This repo contains a database of:
  - Monsters
+   - MHFU
    - MH3U
    - MH4U
    - MHGU
@@ -10,6 +11,7 @@ This repo contains a database of:
    - MH Wilds
    - MHST
    - MHST2
+   - MHWilds
  - Endemic Life
    - MHW (with Iceborne)
    - MH Rise (only base game at the moment)
