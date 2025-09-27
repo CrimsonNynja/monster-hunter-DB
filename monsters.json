@@ -1465,7 +1465,7 @@
       ],
       "games": [
         {
-          "game":"Monster Hunter Freedom Unite",
+          "game": "Monster Hunter Freedom Unite",
           "image": "MHFU-Black_Diablos_Icon.png"
         },
         {
@@ -3940,7 +3940,7 @@
       ],
       "games": [
         {
-          "game":"Monster Hunter Freedom Unite",
+          "game": "Monster Hunter Freedom Unite",
           "image": "MHFU-Giadrome_Icon.png",
           "info": "The alpha leader of a pack of Giaprey, the Giadrome sports a beautiful crest. Larger than a Giaprey, any hunter silly enough to encroach on its turf will be frozen in a hail of ice."
         },
@@ -4930,7 +4930,7 @@
       ],
       "games": [
         {
-          "game":"Monster Hunter Freedom Unite",
+          "game": "Monster Hunter Freedom Unite",
           "image": "MHFU-Gypceros_Icon.png",
           "info": "A wyvern that can generate disorienting flashes of light when its prominent head crest is struck. Its rubbery hide resists damage and can ward off Shock Traps, while its spit carries a deadly venom. However, they are quite timid."
         },
@@ -5588,7 +5588,7 @@
       ],
       "games": [
         {
-          "game":"Monster Hunter Freedom Unite",
+          "game": "Monster Hunter Freedom Unite",
           "image": "MHFU-Kelbi_Icon.png",
           "info": "Herbivorous, deer-like monsters. Valued for their horns, they tend to run away at the first hint of danger. They are also hunted for their meat, which is chewy but flavorful."
         },
@@ -6882,7 +6882,7 @@
       ],
       "games": [
         {
-          "game":"Monster Hunter Freedom Unite",
+          "game": "Monster Hunter Freedom Unite",
           "image": "MHFU-Nargacuga_Icon.png"
         },
         {
@@ -7219,6 +7219,24 @@
           "game": "Monster Hunter Stories 2",
           "image": "MHST2-Oltura_Icon.png",
           "info": "From the pit in the Forbidden Grounds of Hakolo Island emerged the cradle of destruction—Oltura. When the reborn wings of this constantly evolving foe all become illuminated, a terrible power will be unleashed..."
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": ""
+      },
+      "name": "Omega Planetes",
+      "type": "",
+      "isLarge": true,
+      "elements": [],
+      "ailments": [],
+      "weakness": [],
+      "games": [
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHSWilds-Omega_Planetes_Icon.png",
+          "info": ""
         }
       ]
     },
@@ -9580,7 +9598,7 @@
         }
       ]
     },
-     {
+    {
       "_id": {
         "$oid": "5e157ade8a80af35ce52d769"
       },
@@ -10612,7 +10630,8 @@
         {
           "game": "Monster Hunter Freedom Unite",
           "image": "MHFU-Yama_Tsukami_Icon.png",
-          "info": "An Elder Dragon that floats through the sky. A bite of earth, a drink of forest, it’s a veritable god of the sky made of the richest soil. Ancient trees grow thick on its back like on a mountain. It’s rumored to live near a forlorn, remote tower."        }
+          "info": "An Elder Dragon that floats through the sky. A bite of earth, a drink of forest, it’s a veritable god of the sky made of the richest soil. Ancient trees grow thick on its back like on a mountain. It’s rumored to live near a forlorn, remote tower."
+        }
       ]
     },
     {
