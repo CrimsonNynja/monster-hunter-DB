@@ -7229,14 +7229,22 @@
       "name": "Omega Planetes",
       "type": "",
       "isLarge": true,
-      "elements": [],
-      "ailments": [],
-      "weakness": [],
+      "elements": [
+        "Fire",
+        "Ice"
+      ],
+      "ailments": [
+        "Fireblight",
+        "Iceblight"
+      ],
+      "weakness": [
+        "Thunder"
+      ],
       "games": [
         {
           "game": "Monster Hunter Wilds",
           "image": "MHSWilds-Omega_Planetes_Icon.png",
-          "info": ""
+          "info": "An Omega frame that has crossed the inter-dimensional rift and descended on the Forbidden Lands in its search for more powerful lifeforms and planets to invade. Named Omega Planetes to distinguish it from other Omega frames, it plans to study this world's lifeforms, primarily the monsters of the Forbidden Lands, in order to evolve and subjugate everything in its path."
         }
       ]
     },
