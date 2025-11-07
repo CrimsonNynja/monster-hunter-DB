@@ -4183,6 +4183,11 @@
           "image": "MH4U-Unknown_Icon.png",
           "info": "Coated in a thick, sticky fluid, this massive elder dragon appears unhindered by the Dragonator lodged in its back. Eyewitness reports suggest that, despite its massive size, this mysterious behemoth is indeed capable of flight.",
           "danger": "6"
+        },
+        {
+          "game": "Monster Hunter Wilds",
+          "image": "MHWilds-Gogmazios_Icon.png",
+          "info": ""
         }
       ]
     },
